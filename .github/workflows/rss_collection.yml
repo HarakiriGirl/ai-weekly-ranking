@@ -1,0 +1,114 @@
+# GitHub Actions ワークフロー: RSS自動収集システム
+# ファイルパス: .github/workflows/rss_collection.yml
+
+name: RSS Weekly Collection
+
+on:
+  # 毎日午前9時（日本時間）に実行
+  schedule:
+    - cron: '0 0 * * *'  # UTC 0:00 = JST 9:00
+  
+  # 日曜日午後6時（日本時間）に週間サマリー作成
+  schedule:
+    - cron: '0 9 * * 0'  # UTC 9:00 = JST 18:00 (Sunday)
+  
+  # 手動実行も可能
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '実行モード (daily/weekly)'
+        required: true
+        default: 'daily'
+        type: choice
+        options:
+        - daily
+        - weekly
+
+# 権限設定
+permissions:
+  contents: write  # ファイルをリポジトリにコミットするため
+
+jobs:
+  # 日次RSS収集ジョブ
+  daily-collection:
+    if: github.event.schedule == '0 0 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily')
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 リポジトリをチェックアウト
+      uses: actions/checkout@v4
+    
+    - name: 🐍 Python環境セットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 依存関係インストール
+      run: |
+        pip install feedparser
+    
+    - name: 📡 RSS収集実行
+      run: |
+        python rss_collector.py daily
+    
+    - name: 💾 結果をコミット
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        if git diff --staged --quiet; then
+          echo "変更なし、コミットスキップ"
+        else
+          git commit -m "📊 Daily RSS collection: $(date +'%Y-%m-%d')"
+          git push
+        fi
+
+  # 週間サマリー作成ジョブ
+  weekly-summary:
+    if: github.event.schedule == '0 9 * * 0' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weekly')
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 リポジトリをチェックアウト
+      uses: actions/checkout@v4
+    
+    - name: 🐍 Python環境セットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 依存関係インストール
+      run: |
+        pip install feedparser
+    
+    - name: 📊 週間サマリー作成
+      run: |
+        python rss_collector.py weekly
+    
+    - name: 💾 結果をコミット
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        if git diff --staged --quiet; then
+          echo "変更なし、コミットスキップ"
+        else
+          git commit -m "📈 Weekly summary: $(date +'%Y-%m-%d')"
+          git push
+        fi
+
+  # 通知ジョブ（オプション）
+  notification:
+    needs: [daily-collection, weekly-summary]
+    if: always()
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📬 実行結果通知
+      run: |
+        if [ "${{ needs.daily-collection.result }}" == "success" ] || [ "${{ needs.weekly-summary.result }}" == "success" ]; then
+          echo "✅ RSS収集が正常に完了しました"
+        else
+          echo "❌ RSS収集でエラーが発生しました"
+          exit 1
+        fi
