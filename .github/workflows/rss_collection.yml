@@ -6,8 +6,8 @@ name: RSS Weekly Collection
 on:
   # 毎日午前9時（日本時間）に実行
   schedule:
-    - cron: '0 0 * * *'  # ← 5つの*
-    - cron: '0 9 * * 0'  # ← スペース入り
+    - cron: '0 0 * * *'  # UTC 0:00 → JST 9:00（デイリー）
+    - cron: '0 3 * * 6'  # UTC 3:00 → JST 12:00（土曜ウィークリー）
   
   # 手動実行も可能
   workflow_dispatch:
@@ -62,7 +62,7 @@ jobs:
 
   # 週間サマリー作成ジョブ
   weekly-summary:
-    if: github.event.schedule == '0 9 * * 0' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weekly')
+    if: github.event.schedule == '0 3 * * 6' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weekly')
     runs-on: ubuntu-latest
     
     steps:
