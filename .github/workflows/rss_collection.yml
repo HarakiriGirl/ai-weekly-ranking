@@ -6,11 +6,8 @@ name: RSS Weekly Collection
 on:
   # 毎日午前9時（日本時間）に実行
   schedule:
-    - cron: '0 0 * * *'  # UTC 0:00 = JST 9:00
-  
-  # 日曜日午後6時（日本時間）に週間サマリー作成
-  schedule:
-    - cron: '0 9 * * 0'  # UTC 9:00 = JST 18:00 (Sunday)
+    - cron: '0 0 * * *'  # ← 5つの*
+    - cron: '0 9 * * 0'  # ← スペース入り
   
   # 手動実行も可能
   workflow_dispatch:
