@@ -12,7 +12,7 @@ import time
 import hashlib
 
 def get_rss_feeds():
-    """21サイトのRSS URL一覧"""
+    """19サイトのRSS URL一覧"""
     return {
         # 超大手
         "TechCrunch": "https://techcrunch.com/feed/",
@@ -36,6 +36,7 @@ def get_rss_feeds():
         "ASCII.jp": "https://ascii.jp/rss.xml",
 
         "ReadWrite": "https://readwrite.com/feed/",
+        "The Next Web": "https://thenextweb.com/feed",
         
         # 専門・中小
         "Gigazine": "https://gigazine.net/news/rss_2.0/",
