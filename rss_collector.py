@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GitHub Actions対応RSS収集システム
-毎日自動実行で21サイトからRSS収集し、JSONファイルに保存
+毎日自動実行で19サイトからRSS収集し、JSONファイルに保存
 """
 
 import feedparser
