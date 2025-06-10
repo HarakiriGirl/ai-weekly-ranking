@@ -228,6 +228,8 @@ def create_weekly_summary():
         "site_summary": {}
     }
     
+    daily_files_list = []  # ログ用に保持
+    
     print(f"🗓️  7日間データ統合: {weekly_data['week_start']} ～ {weekly_data['week_end']}")
     
     for i in range(7):
@@ -236,16 +238,11 @@ def create_weekly_summary():
         
         if os.path.exists(filename):
             print(f"📁 読み込み: {filename}")
+            daily_files_list.append(filename)  # ログ用リストに追加
             
             try:
                 with open(filename, 'r', encoding='utf-8') as f:
                     daily_data = json.load(f)
-                
-                weekly_data["daily_files"].append({
-                    "date": date.strftime('%Y-%m-%d'),
-                    "filename": filename,
-                    "articles_count": daily_data.get("summary", {}).get("total_articles", 0)
-                })
                 
                 # 全記事を統合
                 for site_name, site_data in daily_data.get("sites", {}).items():
@@ -354,7 +351,7 @@ def create_weekly_summary():
         json.dump(weekly_data, f, ensure_ascii=False, indent=2)
     
     print(f"📊 週間サマリー保存: {week_filename}")
-    print(f"📈 最終統計: {len(weekly_data['daily_files'])}日分、{weekly_data['total_articles']}件")
+    print(f"📈 最終統計: {len(daily_files_list)}日分、{weekly_data['total_articles']}件")
     print(f"🎯 保持率: {filter_ratio:.1f}%")
     print(f"🗂️  サイト別グループ: {len(sites_grouped)}サイト")
     
