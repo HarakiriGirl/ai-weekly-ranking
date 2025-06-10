@@ -7,6 +7,7 @@ GitHub Actions対応RSS収集システム
 import feedparser
 import json
 import os
+import re
 from datetime import datetime, timedelta
 import time
 import hashlib
@@ -57,7 +58,6 @@ def get_rss_feeds():
 
 def clean_text(text):
     """HTMLタグや余分な空白を除去"""
-    import re
     if not text:
         return ""
     
@@ -66,6 +66,42 @@ def clean_text(text):
     # 余分な空白除去
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
+
+def parse_published_date(published_str):
+    """published文字列を日付オブジェクトに変換"""
+    if not published_str:
+        return None
+    
+    # タイムゾーン付きISO形式の特別処理（The Verge等）
+    if 'T' in published_str and ('+' in published_str or '-' in published_str[-6:]):
+        try:
+            # 2025-06-09T11:24:23-04:00 形式
+            # タイムゾーン部分を除去
+            clean_str = re.sub(r'[+-]\d{2}:\d{2}$', '', published_str)
+            return datetime.strptime(clean_str, '%Y-%m-%dT%H:%M:%S')
+        except:
+            pass
+    
+    # 標準的な日付形式を試行
+    formats = [
+        '%a, %d %b %Y %H:%M:%S %z',     # Mon, 09 Jun 2025 09:35:00 +0000
+        '%a, %d %b %Y %H:%M:%S',        # Mon, 09 Jun 2025 09:35:00
+        '%Y-%m-%dT%H:%M:%S%z',          # 2025-06-09T09:35:00+00:00
+        '%Y-%m-%dT%H:%M:%S',            # 2025-06-09T09:35:00
+        '%Y-%m-%d %H:%M:%S',            # 2025-06-09 09:35:00
+        '%Y-%m-%d',                     # 2025-06-09
+    ]
+    
+    for fmt in formats:
+        try:
+            # タイムゾーン情報があれば除去して処理
+            clean_str = published_str.replace(' +0000', '').replace(' +0900', '').replace(' GMT', '').replace('Z', '')
+            return datetime.strptime(clean_str, fmt.replace('%z', ''))
+        except:
+            continue
+    
+    # 全形式で失敗した場合はNone
+    return None
 
 def collect_daily_rss():
     """当日のRSS記事を収集"""
@@ -192,6 +228,8 @@ def create_weekly_summary():
         "site_summary": {}
     }
     
+    print(f"🗓️  7日間データ統合: {weekly_data['week_start']} ～ {weekly_data['week_end']}")
+    
     for i in range(7):
         date = datetime.now() - timedelta(days=i)
         filename = f"{data_dir}/rss_{date.strftime('%Y%m%d')}.json"
@@ -220,6 +258,42 @@ def create_weekly_summary():
             except Exception as e:
                 print(f"❌ ファイル読み込みエラー: {filename} - {str(e)}")
     
+    print(f"📊 統合前記事数: {len(weekly_data['all_articles'])}件")
+    
+    # 📅 日付フィルタリング（7日以内の記事のみ保持）
+    seven_days_ago = datetime.now() - timedelta(days=7)
+    filtered_articles = []
+    
+    date_parse_success = 0
+    date_parse_failed = 0
+    filtered_out = 0
+    
+    print(f"📅 日付フィルタリング実行（基準: {seven_days_ago.strftime('%Y-%m-%d %H:%M')}）")
+    
+    for article in weekly_data["all_articles"]:
+        published = article.get('published', '')
+        parsed_date = parse_published_date(published)
+        
+        if parsed_date is None:
+            # 日付不明の記事は7日以内として扱う（保持）
+            filtered_articles.append(article)
+            date_parse_failed += 1
+        elif parsed_date >= seven_days_ago:
+            # 7日以内の記事は保持
+            filtered_articles.append(article)
+            date_parse_success += 1
+        else:
+            # 7日より古い記事は除外
+            filtered_out += 1
+    
+    weekly_data["all_articles"] = filtered_articles
+    
+    print(f"📈 日付フィルタリング結果:")
+    print(f"  日付解析成功: {date_parse_success}件")
+    print(f"  日付不明（保持）: {date_parse_failed}件")
+    print(f"  7日より古い（除外）: {filtered_out}件")
+    print(f"  フィルタリング後: {len(filtered_articles)}件")
+    
     # 重複記事除去
     unique_articles = {}
     for article in weekly_data["all_articles"]:
@@ -229,6 +303,8 @@ def create_weekly_summary():
     
     weekly_data["all_articles"] = list(unique_articles.values())
     weekly_data["total_unique_articles"] = len(unique_articles)
+    
+    print(f"🔄 重複除去後: {len(unique_articles)}件")
     
     # サイト別統計
     site_stats = {}
@@ -240,13 +316,24 @@ def create_weekly_summary():
     
     weekly_data["site_summary"] = site_stats
     
+    # フィルタリング統計を追加
+    weekly_data["filtering_stats"] = {
+        "before_filtering": len(weekly_data["all_articles"]) + filtered_out,
+        "after_filtering": len(weekly_data["all_articles"]),
+        "date_parse_success": date_parse_success,
+        "date_parse_failed": date_parse_failed,
+        "filtered_out": filtered_out,
+        "filter_ratio": len(weekly_data["all_articles"]) / (len(weekly_data["all_articles"]) + filtered_out) * 100 if len(weekly_data["all_articles"]) + filtered_out > 0 else 0
+    }
+    
     # 週間サマリー保存
     week_filename = f"{data_dir}/weekly_summary_{datetime.now().strftime('%Y%m%d')}.json"
     with open(week_filename, 'w', encoding='utf-8') as f:
         json.dump(weekly_data, f, ensure_ascii=False, indent=2)
     
     print(f"📊 週間サマリー保存: {week_filename}")
-    print(f"📈 統計: {len(weekly_data['daily_files'])}日分、{weekly_data['total_unique_articles']}件（重複除去後）")
+    print(f"📈 最終統計: {len(weekly_data['daily_files'])}日分、{weekly_data['total_unique_articles']}件")
+    print(f"🎯 保持率: {weekly_data['filtering_stats']['filter_ratio']:.1f}%")
     
     return week_filename
 
