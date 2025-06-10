@@ -1,6 +1,6 @@
 {
   "collection_date": "2025-06-10",
-  "total_sites": 19,
+  "total_sites": 22,
   "sites": {
     "TechCrunch": {
       "url": "https://techcrunch.com/feed/",
@@ -154,6 +154,13 @@
       "articles_count": 10,
       "articles": [
         {
+          "title": "A day of LA anti-ICE protests in photos",
+          "summary": "On Monday after a weekend of demonstrations, hundreds of people flocked to Downtown Los Angeles for another round — to support loved ones who’ve been detained during recent immigration protests or&#160;ICE raids, and to face off with National Guard troops deployed by President Donald Trump. Helicopters circled over an event led by unions to protest [&#8230;]",
+          "link": "https://www.theverge.com/policy/683824/los-angeles-ice-union-protest-photos",
+          "published": "2025-06-09T22:03:07-04:00",
+          "id": "31c48147"
+        },
+        {
           "title": "WWDC 2025: all the news from Apple&#8217;s annual developer conference",
           "summary": "The stakes are higher than usual at this year’s WWDC. Major Apple Intelligence features the company teased at last year’s conference are stalled out, the company got a stern talking-to from a federal judge a couple of months ago over its App Store policies, and then there’s everything going on with tariffs. It’s not an [&#8230;]",
           "link": "https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26",
@@ -215,13 +222,6 @@
           "link": "https://www.theverge.com/news/683635/retroid-pocket-dual-screen-add-on-nintendo-ds-touchscreen",
           "published": "2025-06-09T16:48:53-04:00",
           "id": "f15cd993"
-        },
-        {
-          "title": "Predator: Killer of Killers is a short and sweet joyride through the franchise&#8217;s secret past",
-          "summary": "With Prey, director Dan Trachtenberg revitalized the Predator franchise and showed us all how wildly thrilling its central conceit could still be with just a little bit of reworking. Prey took the classic Predator story and made it feel new by focusing on the past and framing its alien characters' excursions to Earth as part [&#8230;]",
-          "link": "https://www.theverge.com/movie-reviews/682832/predator-killer-of-killers-review-hulu",
-          "published": "2025-06-09T16:30:43-04:00",
-          "id": "6aa1ba3f"
         }
       ],
       "status": "success"
@@ -231,8 +231,15 @@
       "articles_count": 50,
       "articles": [
         {
+          "title": "‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update",
+          "summary": "Software designers, even those impressed by Apple’s refreshed look at WWDC 2025, are concerned about the readability of the company’s new see-through aesthetic.",
+          "link": "https://www.wired.com/story/designers-react-to-apple-liquid-glass/",
+          "published": "Tue, 10 Jun 2025 02:11:49 +0000",
+          "id": "76f0462e"
+        },
+        {
           "title": "Apple Is Pushing AI Into More of Its Products—but Still Lacks a State-of-the-Art Model",
-          "summary": "Apple took a measured approach to AI at WWDC. A new research paper suggests the company is skeptical about some recent AI advances, too.",
+          "summary": "Apple took a measured approach to AI at WWDC. A new research paper suggests the company is skeptical about some recent AI advances too.",
           "link": "https://www.wired.com/story/apple-wwdc-ai-announcements/",
           "published": "Tue, 10 Jun 2025 00:22:26 +0000",
           "id": "0d312e31"
@@ -572,13 +579,6 @@
           "link": "https://www.wired.com/story/apple-wwdc-2025-how-to-watch-what-to-expect/",
           "published": "Fri, 06 Jun 2025 11:00:00 +0000",
           "id": "90800946"
-        },
-        {
-          "title": "Samsung Galaxy A26 and Galaxy A36 Review: Fine but Dull Budget Phones",
-          "summary": "If you’re on a budget, these are solid Android phones. But they’re comically dull next to options from Motorola and Nothing.",
-          "link": "https://www.wired.com/review/samsung-galaxy-a26-and-galaxy-a36/",
-          "published": "Fri, 06 Jun 2025 10:33:00 +0000",
-          "id": "9cce239a"
         }
       ],
       "status": "success"
@@ -587,6 +587,13 @@
       "url": "https://www.engadget.com/rss.xml",
       "articles_count": 50,
       "articles": [
+        {
+          "title": "Engadget Podcast: Breaking down the highlights of WWDC 2025",
+          "summary": "In this special episode, recorded live in Cupertino, Cherlynn and Deputy Editor Nathan Ingraham are joined by the Washington Post's Chris Velazco and Wired's Julian Chokkattu to discuss Apple's announcements at WWDC 2025. Though the announcements were all over the place and felt difficult to judge until they roll out to devices, our guests and hosts agree that they felt more meaningful than past WWDCs. Subscribe! iTunes Spotify Pocket Casts Stitcher Google Podcasts Credits&nbsp; Hosts: Cherlynn ",
+          "link": "https://www.engadget.com/mobile/smartphones/engadget-podcast-breaking-down-the-highlights-of-wwdc-2025-023505128.html?src=rss",
+          "published": "Tue, 10 Jun 2025 02:35:05 +0000",
+          "id": "27715a99"
+        },
         {
           "title": "macOS Tahoe is the end of the line for Intel Macs",
           "summary": "Apple announced a lot of new features in today's WWDC stream, but news from one follow-up meeting heralds the end of an era. MacOS 26, also known as macOS Tahoe, will be the last version of the operating system to work on Macs powered by Intel Processors. Tahoe-supporting Intel Macs will get full access to all the new features, and they'll still get security updates for the next three years. By 2028, though they'll be out of the Apple ecosystem. The first Apple Silicon processor launched in 2020",
@@ -617,7 +624,7 @@
         },
         {
           "title": "Every WWDC should end with a song composed of app reviews",
-          "summary": "Partway through WWDC 2025, I started tracking every time I heard the word &quot;delightful.&quot; I might have missed a few, but there were at least eight times when some exec was insisting to me that an element of the upcoming iOS 26, macOS Tahoe and Apple’s other platforms merited the adjective. And maybe some people truly do feel unfettered joy about UI design, but that's the sort of attitude in these events that makes me roll my eyes. Apple always tries very hard to inject levity and persona",
+          "summary": "Partway through WWDC 2025, I started tracking every time I heard the word \"delightful.\" I might have missed a few, but there were at least eight times when some exec was insisting to me that an element of the upcoming iOS 26, macOS Tahoe and Apple’s other platforms merited the adjective. And maybe some people truly do feel unfettered joy about UI design, but that's the sort of attitude in these events that makes me roll my eyes. Apple always tries very hard to inject levity and personality into ",
           "link": "https://www.engadget.com/big-tech/every-wwdc-should-end-with-a-song-composed-of-app-reviews-202052217.html?src=rss",
           "published": "Mon, 09 Jun 2025 20:20:53 +0000",
           "id": "c201ca04"
@@ -929,13 +936,6 @@
           "link": "https://www.engadget.com/gaming/xbox/final-fantasy-16-suddenly-arrives-on-xbox-series-xs-185542283.html?src=rss",
           "published": "Sun, 08 Jun 2025 18:55:42 +0000",
           "id": "2c30a7d8"
-        },
-        {
-          "title": "Here's our first look at Call of Duty: Black Ops 7",
-          "summary": "Surely I wasn't the only one caught off guard that this trailer featuring Milo Ventimiglia, a cybernetic butterfly and a tentacly upside-down hell world turned out to be the announcement of Call of Duty: Black Ops 7, right? Nevertheless, that just happened at the conclusion of the Xbox Games Showcase, and Call of Duty: Black Ops 7 is officially on the way. Today's teaser comes ahead of an official reveal that's slated for this summer. The game is set in the year 2035, when \"the world is on the b",
-          "link": "https://www.engadget.com/gaming/xbox/heres-our-first-look-at-call-of-duty-black-ops-7-184709483.html?src=rss",
-          "published": "Sun, 08 Jun 2025 18:47:09 +0000",
-          "id": "458d6dcb"
         }
       ],
       "status": "success"
@@ -944,6 +944,48 @@
       "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "articles_count": 50,
       "articles": [
+        {
+          "title": "Luupが訪日中国人向け施策を強化 WeChatから一部サービス利用可能に",
+          "summary": "電動キックボードなどのシェアリングサービスを手掛けるLuupが、中国で普及しているコミュニケーションサービス「WeChat」から、電動アシスト自転車を借りられるようにしたと発表した。訪日中国人の利用を見込むという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2506/10/news099.html",
+          "published": "Tue, 10 Jun 2025 13:36:00 +0900",
+          "id": "01fd183e"
+        },
+        {
+          "title": "実写映画「ゼルダの伝説」、公開を40日ほど延期へ 宮本氏「制作上の都合」",
+          "summary": "任天堂は公式Xアカウントで9日、実写映画「ゼルダの伝説」の全世界公開日を2027年5月7日に変更すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2506/10/news097.html",
+          "published": "Tue, 10 Jun 2025 13:20:00 +0900",
+          "id": "c7aae6ff"
+        },
+        {
+          "title": "AppleはiPhoneにWindows Vistaを導入した！？ SNSで話題になった理由",
+          "summary": "米Appleが9日に発表した新OS群。その「Liquid Glass」と呼ばれる新UIが、かつてのWindows Vistaを思わせるとSNSなどで話題になっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2506/10/news088.html",
+          "published": "Tue, 10 Jun 2025 11:53:00 +0900",
+          "id": "4817bcd9"
+        },
+        {
+          "title": "Amazon、ペンシルベニア州に200億ドル規模の追加投資へ クラウドとAIのインフラを強化",
+          "summary": "Amazonは、ペンシルベニア州のクラウドおよびAIインフラ強化のため、新たに200億ドル以上を投資すると発表した。この計画はAWSのデータセンター拡張に充てられ、1250人以上の雇用創出が見込まれる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2506/10/news085.html",
+          "published": "Tue, 10 Jun 2025 11:14:00 +0900",
+          "id": "f07fcfb8"
+        },
+        {
+          "title": "大阪府警、「逮捕状」載せた偽サイトに注意喚起 「警察がサイトで逮捕状を提示することはない」",
+          "summary": "大阪府警は、同府警のWebサイトを模倣した偽サイトを確認したとし、同サイトに掲載された「逮捕状」「守秘義務命令書」と称する画像を公開して注意を呼び掛けた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2506/10/news080.html",
+          "published": "Tue, 10 Jun 2025 10:26:00 +0900",
+          "id": "c0a0f485"
+        },
+        {
+          "title": "WWDCで発表された「Apple Intelligence」の新機能（Siri改善にはさらに時間が必要）",
+          "summary": "AppleはWWDC 2025でApple Intelligenceの新機能を発表した。期待されたSiriのパーソナライズ強化は延期されたが、「メッセージ」でのライブ翻訳、画面情報を認識するVisual Intelligence、Apple Watchのワークアウト支援機能などが披露された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2506/10/news079.html",
+          "published": "Tue, 10 Jun 2025 10:22:00 +0900",
+          "id": "ccd71f12"
+        },
         {
           "title": "「Switch 2は、ウルトラハイスピードHDMIで接続して」 Switch用は能力不足 ACアダプタも同様",
           "summary": "",
@@ -1251,48 +1293,6 @@
           "link": "https://www.itmedia.co.jp/news/articles/2506/05/news067.html",
           "published": "Thu, 05 Jun 2025 11:00:00 +0900",
           "id": "dda60fa8"
-        },
-        {
-          "title": "生成AIで一発お手軽に……ではなかったアニメ「ツインズひなひま」 “職人技”が光る制作の舞台裏を聞く",
-          "summary": "3月に放送されたTVアニメ「ツインズひなひま」は、AIを全面活用した異色の制作手法で話題となった。しかし実態は「AI一発生成」ではなく、モーションキャプチャから3DCGを経てStable Diffusionで変換、手作業レタッチまで含む大規模工程だった。AIが必ずしも省力化につながらない現状と効率化の可能性など、アニメ制作におけるAI活用の実像に迫る。",
-          "link": "https://www.itmedia.co.jp/news/articles/2506/05/news048.html",
-          "published": "Thu, 05 Jun 2025 11:00:00 +0900",
-          "id": "ba8510be"
-        },
-        {
-          "title": "目のピント合わせを代行するメガネ型デバイス「ViXion01S」市販開始 従来機と何が違うのか？",
-          "summary": "目のピント合わせを支援する“オートフォーカスアイウェア”こと「ViXion01S」の一般販売が始まった。従来機とどう違うのか。",
-          "link": "https://www.itmedia.co.jp/news/articles/2506/05/news064.html",
-          "published": "Thu, 05 Jun 2025 10:35:00 +0900",
-          "id": "991b1c22"
-        },
-        {
-          "title": "Reddit、「Claude」を手掛けるAnthropicを提訴 データの無断使用で",
-          "summary": "RedditがAI企業Anthropicをデータ無断使用で提訴した。「Claude」のAI学習でユーザーの同意なく個人データを利用したと主張し、「ホワイトナイトを自称するが実態は違う」と批判した。GoogleとOpenAIとはデータ使用で契約済みだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2506/05/news063.html",
-          "published": "Thu, 05 Jun 2025 10:17:00 +0900",
-          "id": "8d7464e0"
-        },
-        {
-          "title": "Meta、ARメガネ「Aria Gen 2」の詳細を紹介 視線・オブジェクト追跡を強化",
-          "summary": "Metaは、AR研究用メガネ「Aria Gen 2」の詳細を発表した。軽量化に加え、視野拡大、オブジェクト追跡改善、心拍数推定PPGセンサー、強化された視線追跡機能を搭載する。今年後半に研究者を募集する予定だ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2506/05/news062.html",
-          "published": "Thu, 05 Jun 2025 09:29:00 +0900",
-          "id": "8897da2f"
-        },
-        {
-          "title": "“中年太りからダイエット”は死亡リスクが19％低下 2万人以上の30～50歳代を調査 海外チームが発表",
-          "summary": "フィンランドのヘルシンキ大学などに所属する研究者らは、中年期に体重を減らし、健康的な体重を維持することが、その後の人生における慢性疾患の発症リスクと死亡率にどう影響するかを調査した研究報告を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2506/05/news030.html",
-          "published": "Thu, 05 Jun 2025 08:00:00 +0900",
-          "id": "a43136e4"
-        },
-        {
-          "title": "「Switch 2」発売当日、早速転売相次ぐ メルカリやラクマでマリカ同梱版が8～10万円",
-          "summary": "任天堂の新型ゲーム機「Nintendo Switch 2」の発売日である6月5日、フリマサービス「メルカリ」や「ラクマ」で早速商品の出品ページが出現した。希望小売価格5万3980円の商品が8～10万円ほどの価格設定がされている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2506/05/news054.html",
-          "published": "Thu, 05 Jun 2025 01:35:00 +0900",
-          "id": "f90da2cd"
         }
       ],
       "status": "success"
@@ -1448,6 +1448,13 @@
       "url": "https://www.cnet.com/rss/news/",
       "articles_count": 25,
       "articles": [
+        {
+          "title": "Today's NYT Mini Crossword Answers for Tuesday, June 10",
+          "summary": "Here are the answers for The New York Times Mini Crossword for June 10.",
+          "link": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-10/#ftag=CAD590a51e",
+          "published": "Tue, 10 Jun 2025 02:10:00 +0000",
+          "id": "bb555104"
+        },
         {
           "title": "Samsung Says Its Next Galaxy Z Foldables Will Be Its 'Thinnest, Lightest'",
           "summary": "The company shares yet another teaser for its upcoming devices.",
@@ -1615,13 +1622,6 @@
           "link": "https://www.cnet.com/tech/services-and-software/apple-musics-automix-feature-is-making-me-rethink-my-spotify-subscription/#ftag=CAD590a51e",
           "published": "Mon, 09 Jun 2025 19:07:00 +0000",
           "id": "59cdbcd4"
-        },
-        {
-          "title": "'Jaws' Turns 50: All the Movies Will Stream in One Place. So, I'm Starting Shark Week Early",
-          "summary": "You're gonna need a bigger screen.",
-          "link": "https://www.cnet.com/tech/services-and-software/jaws-turns-50-all-the-movies-will-stream-in-one-place-so-im-starting-shark-week-early/#ftag=CAD590a51e",
-          "published": "Mon, 09 Jun 2025 19:00:00 +0000",
-          "id": "ff6721f5"
         }
       ],
       "status": "success"
@@ -1630,6 +1630,13 @@
       "url": "https://xtech.nikkei.com/rss/xtech-it.rdf",
       "articles_count": 20,
       "articles": [
+        {
+          "title": "アップルの「WWDC」開幕 AI活用の幅を広げたiOS 26、気になるSiriの出遅れ",
+          "summary": "米Appleの開発者イベント「WWDC 2025」では、iOSの新バージョン「iOS 26」が発表された。また、Siriのアップデートの遅れを明確に認めた。「AIエージェント時代」に向けた出遅れが気になるところだ。",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03231/061000001/",
+          "published": "",
+          "id": "2e42993f"
+        },
         {
           "title": "選定と工夫で被害軽減 第三者サービス利用も",
           "summary": "第三者によるセキュリティー診断にチェックシートの管理の支援――。委託先の選定や管理を支援するサービスが充実してきた。委託先がデータを安全に管理できるように、発注元がシステムを用意する対策も効果的だ。",
@@ -1750,13 +1757,6 @@
           "id": "c0a99ff4"
         },
         {
-          "title": "スマートロックの「Akerun」、解錠できないなどの障害 約半日後に完全復旧",
-          "summary": "今回は、フォトシンスとハーティン、リョーサンのシステムトラブルを取り上げる。",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/041800318/",
-          "published": "",
-          "id": "0679da0b"
-        },
-        {
           "title": "大容量バッテリー「Anker Power Bank 25000mAh」、海外出張で助かった理由",
           "summary": "今回は「Anker Power Bank （25000mAh，Built-In＆巻取り式USB-Cケーブル）」をレビューする。",
           "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00087/00391/",
@@ -1764,11 +1764,11 @@
           "id": "2805c7b7"
         },
         {
-          "title": "量子コンピューターでも「水平分業」、阪大の藤井教授が最新の成果を解説",
-          "summary": "大阪大学大学院基礎工学研究科教授の藤井啓祐氏は2025年6月6日、グランフロント大阪（大阪市）で開催した「日経クロステックNEXT 関西 2025（主催：日経BP）」の基調講演に登壇。「量子コンピューター最前線：純国産量子コンピューターから世界の最先端トレンドまで」と題して、量子コンピューターの最新動向などについて話した。",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03184/060900038/",
+          "title": "スマートロックの「Akerun」、解錠できないなどの障害 約半日後に完全復旧",
+          "summary": "今回は、フォトシンスとハーティン、リョーサンのシステムトラブルを取り上げる。",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/041800318/",
           "published": "",
-          "id": "3ecd41a1"
+          "id": "0679da0b"
         }
       ],
       "status": "success"
@@ -1924,6 +1924,13 @@
       "url": "https://venturebeat.com/feed/",
       "articles_count": 28,
       "articles": [
+        {
+          "title": "SAG-AFTRA actors union reaches agreement with game companies to stop strike",
+          "summary": "The game companies and the SAG-AFTRA actors union have reached an agreement that is expected to end a long strike.",
+          "link": "https://venturebeat.com/games/sag-aftra-actors-union-reaches-agreement-with-game-companies-to-stop-strike/",
+          "published": "Tue, 10 Jun 2025 04:18:00 +0000",
+          "id": "d3265253"
+        },
         {
           "title": "Netmarble’s new RPG is The Seven Deadly Sins: Origins",
           "summary": "Netmarble revealed its latest RPG adaptation of a popular IP, The Seven Deadly: Origins, for PC, consoles and mobile.",
@@ -2112,13 +2119,6 @@
           "link": "https://venturebeat.com/games/implicit-conversions-ports-xseeds-milanos-odd-job-collection-to-ps4/",
           "published": "Sat, 07 Jun 2025 17:00:00 +0000",
           "id": "3a853d6e"
-        },
-        {
-          "title": "RGG’s Project Century is an action game called Stranger Than Heaven",
-          "summary": "Stranger Than Heaven is Ryu Ga Gotoku's Project Century revealed, a noir-style action-adventure game set in 1940's Japan.",
-          "link": "https://venturebeat.com/games/rggs-project-century-is-an-action-game-called-stranger-than-heaven/",
-          "published": "Fri, 06 Jun 2025 23:59:46 +0000",
-          "id": "09ea1fad"
         }
       ],
       "status": "success"
@@ -2127,6 +2127,118 @@
       "url": "https://mashable.com/feeds/rss/all",
       "articles_count": 100,
       "articles": [
+        {
+          "title": "Upgrade to Windows 11 Pro for $15",
+          "summary": "You can score Microsoft's latest and most advanced operating system, Windows 11 Pro, for only $14.97 (reg. $199).",
+          "link": "https://mashable.com/uk/deals/june-10-microsoft-windows-11-pro",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "ea394519"
+        },
+        {
+          "title": "How to watch 2025 24 Hours of Le Mans online for free",
+          "summary": "How to watch Le Mans for free. Live stream 2025 24 Hours of Le Mans for free from anywhere in the world.",
+          "link": "https://mashable.com/article/le-mans-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "f24c8235"
+        },
+        {
+          "title": "How to watch Wimbledon 2025 online for free",
+          "summary": "How to watch Wimbledon for free. Live stream Wimbledon 2025 for free from anywhere in the world.",
+          "link": "https://mashable.com/article/wimbledon-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "b17aecae"
+        },
+        {
+          "title": "How to watch the 2025 Queens Club Championships online for free",
+          "summary": "How to watch Queen's Tennis for free. Live stream the 2025 Queen's Club Championships for free.",
+          "link": "https://mashable.com/article/queens-club-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "643d6109"
+        },
+        {
+          "title": "How to unblock Pornhub for free",
+          "summary": "How to unblock porn for free. Unblock and watch Pornhub for free from anywhere in the world.",
+          "link": "https://mashable.com/article/june-10-unblock-pornhub-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "1f7ed984"
+        },
+        {
+          "title": "How to watch Peru vs. Ecuador online for free",
+          "summary": "How to watch World Cup qualifiers for free. Live stream Peru vs. Ecuador in World Cup qualifiers for free.",
+          "link": "https://mashable.com/article/peru-ecuador-world-cup-qualifiers-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "f9b20e4f"
+        },
+        {
+          "title": "How to watch Uruguay vs. Venezuela online for free",
+          "summary": "How to watch World Cup qualifiers for free. Live stream Uruguay vs. Venezuela in World Cup qualifiers for free.",
+          "link": "https://mashable.com/article/uruguay-venezuela-world-cup-qualifiers-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "1f4456c1"
+        },
+        {
+          "title": "How to watch Argentina vs. Colombia in World Cup qualifiers online for free",
+          "summary": "How to watch World Cup qualifiers for free. Live stream Argentina vs. Colombia in World Cup qualifiers for free.",
+          "link": "https://mashable.com/article/argentina-colombia-world-cup-qualifiers-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "fd28c737"
+        },
+        {
+          "title": "How to watch Brazil vs. Paraguay online for free",
+          "summary": "How to watch World Cup qualifiers for free. Live stream Brazil vs. Paraguay in World Cup qualifiers for free.",
+          "link": "https://mashable.com/article/brazil-paraguay-world-cup-qualifiers-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "ca458fe5"
+        },
+        {
+          "title": "How to watch England vs. Senegal online for free",
+          "summary": "Live stream England vs. Senegal in this 2025 International Friendly for free from anywhere in the world.",
+          "link": "https://mashable.com/article/england-senegal-world-cup-qualifiers-2025-live-stream-for-free",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "98b961a5"
+        },
+        {
+          "title": "The best electric kettles for every kitchen",
+          "summary": "Anyone for a brew? We've lined up the best electric kettles from top brands.",
+          "link": "https://mashable.com/uk/roundup/best-electric-kettles-uk",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "4ace7000"
+        },
+        {
+          "title": "6 essentials for travelling in style",
+          "summary": "Here are some essentials to help you travel in style, keeping you looking and feeling good no matter where you go.",
+          "link": "https://mashable.com/article/travel-style-essentials-luggage-accessories",
+          "published": "Tue, 10 Jun 2025 02:00:21 +0000",
+          "id": "07337cde"
+        },
+        {
+          "title": "NYT Connections hints today: Clues, answers for June 10, 2025",
+          "summary": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+          "link": "https://mashable.com/article/nyt-connections-hint-answer-today-june-10-2025",
+          "published": "Tue, 10 Jun 2025 02:00:00 +0000",
+          "id": "25b8ec45"
+        },
+        {
+          "title": "NYT Strands hints, answers for June 10",
+          "summary": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+          "link": "https://mashable.com/article/strands-nyt-hint-june-10-2025-clone",
+          "published": "Tue, 10 Jun 2025 02:00:00 +0000",
+          "id": "e5eebe8f"
+        },
+        {
+          "title": "Wordle today: Answer, hints for June 10, 2025",
+          "summary": "Here's the answer for \"Wordle\" #1452 on June 10 as well as a few hints, tips, and clues to help you solve it yourself.",
+          "link": "https://mashable.com/article/wordle-today-answer-june-10-2025",
+          "published": "Tue, 10 Jun 2025 02:00:00 +0000",
+          "id": "ba1fa2e9"
+        },
+        {
+          "title": "Hurdle hints and answers for June 10, 2025",
+          "summary": "Hints and answers to today's Hurdle all in one place.",
+          "link": "https://mashable.com/article/hurdle-hints-answers-june-10-2025",
+          "published": "Tue, 10 Jun 2025 02:00:00 +0000",
+          "id": "12792f90"
+        },
         {
           "title": "Apple had an impossible task at WWDC. Heres why.",
           "summary": "Apple can't have it both ways on AI, or OS redesigns. CEO Tim Cook cannot do right by his customers while appeasing shareholders.",
@@ -2714,118 +2826,6 @@
           "link": "https://mashable.com/deals/jun-8-bitmar-streaming-content-finder",
           "published": "Sun, 08 Jun 2025 11:00:00 +0000",
           "id": "435a8d07"
-        },
-        {
-          "title": "Enjoy effortless scanning on the go for life with this $42 app",
-          "summary": "Make scanning as easy as a few taps with this lifetime subscription to SwiftScan VIP, now just $41.99 (reg. $199.99) with code TAKE30 through July 20.",
-          "link": "https://mashable.com/deals/jun-8-swiftscan-vip-lifetime-subscription",
-          "published": "Sun, 08 Jun 2025 11:00:00 +0000",
-          "id": "806fda01"
-        },
-        {
-          "title": "Get these must-have Microsoft Office apps for less than $4 each",
-          "summary": "Give your PC an upgrade with this Microsoft Office Professional Plus 2019 for Windows license, now for only $29.99 (reg. $229).",
-          "link": "https://mashable.com/deals/jun-8-microsoft-office-professional-plus-2019",
-          "published": "Sun, 08 Jun 2025 11:00:00 +0000",
-          "id": "302d1db0"
-        },
-        {
-          "title": "Save over $350 on this lifetime Microsoft Office and Windows 11 bundle",
-          "summary": "Upgrade your PC with The Ultimate Microsoft Office Professional 2021 and Windows 11 Pro Bundle, now just $54.97 through July 20.",
-          "link": "https://mashable.com/deals/jun-8-the-ultimate-microsoft-office-professional-2021",
-          "published": "Sun, 08 Jun 2025 11:00:00 +0000",
-          "id": "2867d804"
-        },
-        {
-          "title": "How to watch the 2025 French Open online for free",
-          "summary": "How to watch Roland-Garros for free. Live stream the 2025 French Open for free from anywhere in the world.",
-          "link": "https://mashable.com/article/french-open-2025-live-stream-for-free",
-          "published": "Sun, 08 Jun 2025 10:00:00 +0000",
-          "id": "b0d617d1"
-        },
-        {
-          "title": "The 5 best self-emptying robot vacuums for hands-off cleaning in 2025",
-          "summary": "I tested 15+ botvacs from Roborock, Shark, and more at home to find the best robot vacuum that empties itself.",
-          "link": "https://mashable.com/roundup/best-self-emptying-robot-vacuums",
-          "published": "Sun, 08 Jun 2025 09:30:00 +0000",
-          "id": "22c2e20a"
-        },
-        {
-          "title": "Ive tested 20+ robot vacuums. These are the only ones Id tell you to buy in 2025.",
-          "summary": "I continuously test new robot vacuums from Shark, Roborock, and more to find the best for all floor types and budgets. These are the best of 2025, so far.",
-          "link": "https://mashable.com/roundup/best-robot-vacuums",
-          "published": "Sun, 08 Jun 2025 09:10:00 +0000",
-          "id": "b925c798"
-        },
-        {
-          "title": "Is the Home Depots viral 12-foot skeleton a victim of President Trumps tariffs?",
-          "summary": "The Home Depot 12-foot skeleton has been mysteriously MIA so far this year. Is it the latest victim of President Trump's tariffs?",
-          "link": "https://mashable.com/article/home-depot-halfway-to-halloween-12-foot-skeleton-tariffs",
-          "published": "Sun, 08 Jun 2025 09:05:00 +0000",
-          "id": "03f45725"
-        },
-        {
-          "title": "The 6 ChatGPT settings you need to change to get the most out of the AI chatbot",
-          "summary": "If you want to get the most out of OpenAI's ChatGPT, we recommend changing these six settings ASAP.",
-          "link": "https://mashable.com/article/chatgpt-settings-to-change",
-          "published": "Sun, 08 Jun 2025 09:04:00 +0000",
-          "id": "b93f73f9"
-        },
-        {
-          "title": "College professors dont know how to catch students cheating with AI",
-          "summary": "Professors across universities report a surge in AI-assisted cheating, and they have no idea how to make it stop.",
-          "link": "https://mashable.com/article/professors-catch-students-using-ai-cheat",
-          "published": "Sun, 08 Jun 2025 09:00:00 +0000",
-          "id": "75fb2884"
-        },
-        {
-          "title": "How to watch Oklahoma City Thunder vs. Indiana Pacers (Game 2) online for free",
-          "summary": "How to watch the NBA for free. Live stream Oklahoma City Thunder vs. Indiana Pacers (Game 2) in the 2025 NBA Finals for free.",
-          "link": "https://mashable.com/article/thunder-pacers-game-2-nba-finals-2025-live-stream-for-free",
-          "published": "Sun, 08 Jun 2025 09:00:00 +0000",
-          "id": "f7ad869d"
-        },
-        {
-          "title": "The 12 best fiction books of 2025 (so far), according to BookTok",
-          "summary": "BookTok continues to shape the publishing world, with 2025's reads spanning fantasy, romance, thrillers, and viral prequels.",
-          "link": "https://mashable.com/article/best-booktok-fiction-books-of-2025",
-          "published": "Sun, 08 Jun 2025 09:00:00 +0000",
-          "id": "53eb6149"
-        },
-        {
-          "title": "How to watch Alcaraz vs. Sinner online for free",
-          "summary": "How to watch French Open final for free. Live stream Alcaraz vs. Sinner in the 2025 French Open final online for free",
-          "link": "https://mashable.com/article/alcaraz-sinner-french-open-final-2025-live-stream-for-free",
-          "published": "Sun, 08 Jun 2025 07:50:29 +0000",
-          "id": "772859ea"
-        },
-        {
-          "title": "This £19 app turns your iPhone into a scanner, and you can use it forever",
-          "summary": "Scan documents from anywhere with this lifetime subscription to iScanner, now £18.78.",
-          "link": "https://mashable.com/uk/deals/june-8-iscanner-app-clone",
-          "published": "Sun, 08 Jun 2025 06:00:00 +0000",
-          "id": "612292f4"
-        },
-        {
-          "title": "How to watch the 2025 MotoGP Grand Prix of Aragon online for free",
-          "summary": "How to watch MotoGP for free. Live stream the 2025 Grand Prix of Aragon for free from anywhere in the world.",
-          "link": "https://mashable.com/article/aragon-motogp-2025-live-stream-for-free",
-          "published": "Sun, 08 Jun 2025 04:00:00 +0000",
-          "id": "be67a5c6"
-        },
-        {
-          "title": "How to watch the 2025 MotoGP World Championship online for free",
-          "summary": "Live stream the 2025 MotoGP World Championship for free from anywhere in the world.",
-          "link": "https://mashable.com/article/motogp-2025-live-stream-for-free",
-          "published": "Sun, 08 Jun 2025 04:00:00 +0000",
-          "id": "a7ec89e0"
-        },
-        {
-          "title": "How to watch the UEFA Nations League online for free",
-          "summary": "Live stream the UEFA Nations League for free from anywhere in the world.",
-          "link": "https://mashable.com/article/uefa-nations-league-live-stream-for-free",
-          "published": "Sun, 08 Jun 2025 04:00:00 +0000",
-          "id": "3c12fd76"
         }
       ],
       "status": "success"
@@ -2834,6 +2834,41 @@
       "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
       "articles_count": 20,
       "articles": [
+        {
+          "title": "キングジム、ミニチュア文房具「キングミニ」第3弾 3穴バインダー",
+          "summary": "キングジムは、ミニチュアサイズの文房具「キングミニ」の第3弾として、「ミニカラーベース」「ミニリングファイル(3穴バインダー)」を7月18日に発売する。価格はそれぞれ500円、600円(税別)。",
+          "link": "https://www.watch.impress.co.jp/docs/news/2021376.html",
+          "published": "",
+          "id": "9fabc297"
+        },
+        {
+          "title": "「イケア広島」秋オープン イオンモール広島府中内",
+          "summary": "「IKEA広島」がイオンモール広島府中内に、秋にオープンする。",
+          "link": "https://www.watch.impress.co.jp/docs/news/2021402.html",
+          "published": "",
+          "id": "fd204640"
+        },
+        {
+          "title": "Apple WatchでAIが動く メモにも対応する「watchOS 26」",
+          "summary": "アップルは9日(米国時間)、開発者会議「WWDC 2026」において、Apple Watch向けの最新OS「watchOS 26」を発表した。Apple Intelligenceを活用した新機能「Workout Buddy」などを搭載し、Apple Watch Series 6以降、Apple Watch SE(第2世代)、Apple Watch Ultraモデル向けに、2025年秋に提供予定。",
+          "link": "https://www.watch.impress.co.jp/docs/news/2021336.html",
+          "published": "",
+          "id": "f998ee67"
+        },
+        {
+          "title": "新宿ピカデリーに「AKRacing」スペシャルシート 全106席",
+          "summary": "シネコンの「新宿ピカデリー」は、ゲーミングチェアブランド「AKRacing(エーケーレーシング)」とコラボしたスペシャルシート「AKRacing BOXシート」を6月18日から導入する。全10スクリーンに、計106シートを設置。料金は3,000円。",
+          "link": "https://www.watch.impress.co.jp/docs/news/2021347.html",
+          "published": "",
+          "id": "79ad8431"
+        },
+        {
+          "title": "イオン、カカオを使っていない「チョコか?」 カカオ不足で代替",
+          "summary": "イオンは、カカオを使わずに作った、ひまわりの種由来のチョコレート代替品を使用した菓子「トップバリュ チョコか?」を6月10日から数量限定で発売する。価格は429円。イオン、イオンスタイル、マックスバリュなど全国約2,200店舗で取り扱う。",
+          "link": "https://www.watch.impress.co.jp/docs/news/2021324.html",
+          "published": "",
+          "id": "eb5274ca"
+        },
         {
           "title": "アマゾン、19800円からのWi-Fi 7メッシュルータ",
           "summary": "Amazonは、Wi-Fiルータブランドの「eero(イーロ)」から、Wi-Fi 7に対応する新製品2機種を6月25日に発売する。価格はエントリーモデルの「eero 7」が19,800円、上位モデルの「eero Pro 7」が44,800円。また、6月10日から既存モデルの価格も変更し、値下げする。",
@@ -2926,11 +2961,11 @@
           "id": "45581058"
         },
         {
-          "title": "赤坂七丁目で54階タワー再開発 高低差バリアフリーや住宅・生活利便施設",
+          "title": "赤坂七丁目で46階タワー再開発 高低差バリアフリーや住宅・生活利便施設",
           "summary": "日鉄興和不動産と野村不動産は、赤坂七丁目の約1.2haにおいて、大型再開発「赤坂七丁目2番地区第一種市街地再開発事業」に6月1日から着工した。2028年度の竣工を予定している。",
           "link": "https://www.watch.impress.co.jp/docs/news/2021024.html",
           "published": "",
-          "id": "e212a452"
+          "id": "0f7ae700"
         },
         {
           "title": "福岡・久留米駅前に36階建タワマン 商業施設と一体開発",
@@ -2938,41 +2973,6 @@
           "link": "https://www.watch.impress.co.jp/docs/news/2021011.html",
           "published": "",
           "id": "aaeeaa55"
-        },
-        {
-          "title": "象印、水分補給を促すコースター型スマートデバイス「ミズログ」",
-          "summary": "象印マホービンは、スマートデバイス「mizlog(ミズログ)」の商品化に向け、6月9日よりクラウドファンディングを開始した。クラウドファンディングはKibidangoとGREEN FUNDING(12日から)にて行なう。目標金額1,120万円(1,000台)を達成した場合にのみ商品化するAll or Nothing形式で、リターン配送は2026年4月頃を予定。通常販売価格は14,800円。Kibidangoでは限定300個まで28％OFFの10,650円。",
-          "link": "https://www.watch.impress.co.jp/docs/news/2021007.html",
-          "published": "",
-          "id": "fb65c19c"
-        },
-        {
-          "title": "MS、Windows搭載の携帯ゲーム機「ROG Xbox Ally」",
-          "summary": "マイクロソフトは、ASUSとのコラボレーションによる携帯ゲーム機「ROG Xbox Ally」と「ROG Xbox Ally X」を発表した。XboxとWindows 11を搭載、2025年末に発売される。予約時期や価格などは今後明らかにされる。",
-          "link": "https://www.watch.impress.co.jp/docs/news/2020979.html",
-          "published": "",
-          "id": "9b8cd15b"
-        },
-        {
-          "title": "ミズノ、軽い力で寝返りできるマットレス",
-          "summary": "ミズノは、「MIZUNO SLEEP」シリーズの第5弾として、ウレタン布団との比較で30%以上軽い力で寝返りができるマットレス「リフルマットレス900」を、Makuakeおよびビックカメラ内の「生毛(うもう)工房」全店で、6月19日11時に予約受注を開始する。発送予定は9月上旬。価格は88,000円。",
-          "link": "https://www.watch.impress.co.jp/docs/news/2020956.html",
-          "published": "",
-          "id": "29d3aa48"
-        },
-        {
-          "title": "6.5型ディスプレイの店舗決済用Android端末 SBPS",
-          "summary": "SBペイメントサービス(SBPS)は、店舗向け決済DXプラットフォームに対応したオールインワン決済端末「PAX A920MAX」を提供を開始する。前機種「PAX A920」と比較し、ディスプレイサイズを1.5型拡大した6.5型としながら、約60g軽量化し、重量404gを実現。店舗での決済をより快適に行なえるようにした。",
-          "link": "https://www.watch.impress.co.jp/docs/news/2020959.html",
-          "published": "",
-          "id": "815fb505"
-        },
-        {
-          "title": "コクヨ、スマホを立てかけられるペンケース「カバコ」",
-          "summary": "コクヨは、開口部が大きく開く「ツールペンケース＜カバコ＞」から、スマホを立てかけられるハーフポケットタイプを6月11日に発売する。価格は1,760円。",
-          "link": "https://www.watch.impress.co.jp/docs/news/2019792.html",
-          "published": "",
-          "id": "f9ed2a5b"
         }
       ],
       "status": "success"
@@ -2982,354 +2982,354 @@
       "articles_count": 50,
       "articles": [
         {
-          "title": "【2025年6月】新発売! セブンイレブンの注目新商品スイーツ5選",
-          "summary": "本記事ではセブンイレブンから発売される新商品のスイーツのなかから、注目の5品をご紹介。今週は、旬のマンゴーの味わいを堪能できるアイスバーや、あんバター",
-          "link": "https://news.mynavi.jp/article/20250610-3349125/",
+          "title": "ソニー、車載LiDAR向け積層型dToF方式のSPAD距離センサ「IMX479」を商品化",
+          "summary": "ソニーセミコンダクタソリューションズは6月10日、高解像度および高速性を同時に両立する車載LiDAR向け積層型直接Time of Flight(dToF)方式のSPAD距離センサ「IMX479」を商品化することを発表した。",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3350205/",
           "published": "",
-          "id": "4e2f63c1"
+          "id": "b0cb3e4d"
         },
         {
-          "title": "未就学児の親が新たにさせたい習い事TOP3、「水泳」「英会話」あと1つは?",
-          "summary": "「はいチーズ!」を提供する千は、「習い事に関するアンケート」の結果を2025年6月6日に発表した。調査は、2024年12月21日～27日の期間、はいチーズ! 会員(未就学児を持つ保護者)1,436人を対象にインターネットにて実施したもの。",
-          "link": "https://news.mynavi.jp/article/20250610-3349126/",
+          "title": "読売巨人軍終身名誉監督の長嶋茂雄さんが死去",
+          "summary": "デスク「読売巨人軍終身名誉監督の長嶋茂雄さんが亡くなったね」記者「はい。89歳でした。ミスタープロ野球として知られ、国民的スターだった長嶋さんの訃報は驚きました。長嶋さんは2001年度（平成13年度）には弊社主催の『財界賞特別賞』を受賞し、・・・",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3350201/",
           "published": "",
-          "id": "c80703f1"
+          "id": "cc15f65b"
         },
         {
-          "title": "謎解き!コレができれば漢字王!? 第921回 【レベル3】何の漢字が入るでしょう? 意外とムズい穴埋め問題",
-          "summary": "知ってるはずの熟語ばかりなのに、意外と分からない……!! そんな穴埋めクイズを出題します。熟語はいずれも中学校までに習うものばかり。ぜひ、学生時代の知識をフル活用して、答えを導きだしてくださいね!",
-          "link": "https://news.mynavi.jp/article/kanji_anaume-921/",
+          "title": "スタバ「ティー & カフェ」の夏限定第2弾は濃厚抹茶！ 新作の“抹茶×ピスタチオラテ”や“抹茶×炭酸ドリンク”の味わいは？",
+          "summary": "ティーに特化した「スターバックス ティー & カフェ」では、サマーシーズン第2弾が6月11日よりスタートします。今回登場するのは、ひんやり濃厚な抹茶が楽しめる新作の『抹茶 ピスタチオムース ティー ラテ』と『抹茶 グリーン ティー スパークリング』。新感覚の抹茶ビバレッジを、ひと足先に試飲会で味わってきました。",
+          "link": "https://news.mynavi.jp/article/20250610-3346503/",
           "published": "",
-          "id": "fd48b3c6"
+          "id": "181c2595"
         },
         {
-          "title": "謎解き!コレができれば漢字王!? 第922回 【レベル4】何の漢字が入るでしょう? スキマ時間に解いてみて!",
-          "summary": "知ってるはずの熟語ばかりなのに、意外と分からない……!! そんな穴埋めクイズを出題します。熟語はいずれも中学校までに習うものばかり。ぜひ、学生時代の知識をフル活用して、答えを導きだしてくださいね!",
-          "link": "https://news.mynavi.jp/article/kanji_anaume-922/",
+          "title": "アンカー公式ストアで200製品以上が対象の大型セール、高機能ロボット掃除機が50％オフ",
+          "summary": "アンカー・ジャパンは、公式オンラインストアやAnker Japanアプリ、直営店「Anker Store」にて、200以上の製品を特別価格で販売する大型セール「Anker Power Week」を実施する。セール期間は2025年6月16日12時から6月22日23時59分まで。",
+          "link": "https://news.mynavi.jp/article/20250610-3350177/",
           "published": "",
-          "id": "df5e7070"
+          "id": "31b2102b"
         },
         {
-          "title": "【2025年6月】今週発売! セブンイレブンの新商品まとめ5選",
-          "summary": "本記事では、セブンイレブンで購入できるお弁当や麺類などの新作情報をご紹介。 今週は、豚めしを贅沢に使用したおむすびや、ガーリック風味の大盛トマトパスタなど、さまざまな商品が発売されています。",
-          "link": "https://news.mynavi.jp/article/20250610-3349098/",
+          "title": "アモリム監督が“再会”を希望…マンUがFWギェケレシュ獲得に向け代理人と交渉中か",
+          "summary": "マンチェスター・ユナイテッドがスポルティングに所属するスウェーデン代表FWヴィクトル・ギェケレシュへの関心を継続しているようだ。9日、イギリスメディア『スカイスポーツ』が伝えている。 2024－2",
+          "link": "https://news.mynavi.jp/article/20250610-3350189/",
           "published": "",
-          "id": "84b58685"
+          "id": "502ef502"
         },
         {
-          "title": "藤本美貴、女子高生の悩みに「かわいい!」 コメント欄にも感動の声「泣いちゃいました」「いい子すぎる」",
-          "summary": "タレントの藤本美貴が3日、公式YouTubeチャンネル『ハロー!ミキティ／藤本美貴』を更新。つらいと感じたときの対処法を明かした。",
-          "link": "https://news.mynavi.jp/article/20250610-3349994/",
+          "title": "『メタルギア』リメイクや『サイレントヒルf』を紹介。KONAMI公式が動画番組を6月12日22時から配信",
+          "summary": "コナミデジタルエンタテインメントは、公式情報番組「KONAMI PRESS START」を6月12日22時から世界同時配信する。",
+          "link": "https://news.mynavi.jp/article/20250610-3350174/",
           "published": "",
-          "id": "fcc13669"
+          "id": "72e7b574"
         },
         {
-          "title": "獲得交渉は大詰め？…デ・ブライネ獲得を目指すナポリ、近日中にメディカルチェック実施か",
-          "summary": "ナポリはマンチェスター・シティを退団するベルギー代表MFケヴィン・デ・ブライネの獲得に向けて交渉を続けているようだ。9日、イタリアメディア『ジャンルカ・ディ・マルツィオ』が伝えている。 現在33歳",
-          "link": "https://news.mynavi.jp/article/20250610-3350001/",
+          "title": "LINEグループ退会の挨拶例文集! 職場やママ友などシーン別にまとめて紹介",
+          "summary": "LINEグループを退会するときの挨拶は言葉選びが大切。本記事では、LINEグループ退会の挨拶例文集を、異動や退職などの職場、ママ友、友達など、さまざまなシーン別に紹介します。また、退会時のマナーについてもまとめました。",
+          "link": "https://news.mynavi.jp/article/20250610-3340512/",
           "published": "",
-          "id": "97a4844c"
+          "id": "1d4c7a41"
         },
         {
-          "title": "製造時間の短縮と廃棄物の削減に貢献ｰ食品加工用のAIロボティクス・ソリューションを開発したロビット社の事例",
-          "summary": "",
-          "link": "https://news.mynavi.jp/techplus/kikaku/20250610-3339571/",
+          "title": "T・エルナンデスの退団に備え？…ミランがアーセナルで序列低下のジンチェンコに関心か",
+          "summary": "ミランがアーセナルに所属するウクライナ代表DFオレクサンドル・ジンチェンコに関心を寄せているようだ。9日、『スカイスポーツ』や『ジャンルカ・ディ・マルツィオ』など複数のイタリアメディアが伝えている。",
+          "link": "https://news.mynavi.jp/article/20250610-3350190/",
           "published": "",
-          "id": "438cf583"
+          "id": "c98bf9ec"
         },
         {
-          "title": "堀場製作所がリアルタイムの赤外線ガス分析を実現。安全性／サステナビリティ／生産性の向上が可能に",
-          "summary": "自動車排ガス、水素・天然ガスの品質管理、半導体製造などで求められるた微量な有害成分や不純物の検出をリアルタイムで可能にした堀場製作所の赤外線ガス分析技術「IRLAM&trade;」の開発について、協業であるアナログ・デバイセズのサポート内容と共に紹介します。",
-          "link": "https://news.mynavi.jp/techplus/kikaku/20250610-3343697/",
+          "title": "「はま寿司 みなみまぐろ大とろとデカねた祭り」開催! みなみまぐろ大とろや大粒蒸しほたてが110円",
+          "summary": "100円寿司チェーンの「はま寿司」は6月10日より、「はま寿司 みなみまぐろ大とろとデカねた祭り」を全国の店舗で開催している。",
+          "link": "https://news.mynavi.jp/article/20250610-3350078/",
           "published": "",
-          "id": "3a40b70e"
+          "id": "7d21899c"
         },
         {
-          "title": "NECネッツエスアイ・サービスが発注業務のペーパーレス化とリアルタイム処理化を実現した事例に迫る",
-          "summary": "NECネッツエスアイ・サービスは、通信インフラをはじめとするICTシステムの構築やサービス提供を行うNECネッツエスアイの子会社として、親会社が受注した案件の現場対応を担っている。そんな同社は発注業務のデジタル化を進めたというが、どのような成果が得られたのだろうか。",
-          "link": "https://news.mynavi.jp/techplus/kikaku/20250610-3346584/",
+          "title": "東奔西走キャッシュレス 第83回 被害5000億円の“証券口座乗っ取り”にどう対応するか - 新たな犯罪モデルで被害急増？",
+          "summary": "オンラインの証券口座に不正ログインして不正に株の売買を行う、証券口座の乗っ取り事件の拡大が止まっていません。2025年に入って、5月末までに不正アクセス件数は1万件を超え、被害総額は5,000億円を突破しました。このまま被害の拡大が続くのか、それとも対策が進んで解消に向かうのでしょうか。",
+          "link": "https://news.mynavi.jp/article/cashless_payment-83/",
           "published": "",
-          "id": "f1c72bb1"
+          "id": "b0526c3a"
         },
         {
-          "title": "年収+100万円を実現するメソッドを詰め込んだ『副業の教科書』発売",
-          "summary": "明日香出版社は6月12日から順次、Another worksの代表取締役・大林尚朝氏による書籍『年収UP・起業・自己実現できる！副業の教科書』を、書店、ネット書店を中心に販売する。",
-          "link": "https://news.mynavi.jp/article/20250610-3349908/",
+          "title": "未発売アイテムも展示！ ASUS最新ゲーミング製品体験イベント「ROG DAY」、6月20日・21日開催",
+          "summary": "ASUS JAPANは、最新ゲーミング製品の展示および体験イベント「ROG DAY」を、東京都・上野エリアにあるeスポーツ施設「esports Style UENO」で開催する。開催日は2025年6月20日、6月21日の2日間。",
+          "link": "https://news.mynavi.jp/article/20250610-3350141/",
           "published": "",
-          "id": "b9ae6981"
+          "id": "79ed5b14"
         },
         {
-          "title": "金麦の\"絶対もらえる\"が3年ぶりに復活！今回は12種類の「花やか皿」",
-          "summary": "サントリーは6月1日から、「金麦花やか皿」キャンペーンを開始した。",
-          "link": "https://news.mynavi.jp/article/20250610-3349909/",
+          "title": "【漫画】料理をしない母は毒親ですか? 第6回 突然舞い込んだ仕事の誘い",
+          "summary": "父と離婚後、彼氏のためにだけ手料理を作る母の元で、子ども時代を過ごしたあみ。自分も母親になった現在は、暗い記憶が繰り返しよみがえりながらも、娘のために一生懸命料理を作っている――『料理をしない母は毒親ですか?』(KADOKAWA)より、一部を試し読みでご紹介します。",
+          "link": "https://news.mynavi.jp/article/ryouri_dokuoya-6/",
           "published": "",
-          "id": "59436e82"
+          "id": "d43bf8a5"
         },
         {
-          "title": "Windowsのタスクバーの時計はなぜ秒を表示しないのか？",
-          "summary": "Windows Latestは6月6日(現地時間)、Windowsのタスクバーの時計で秒表示が標準サポートされていなかった理由を伝えた。Windows 11ではレジストリの設定を変更することで秒表示が可能だったものの、最近までは設定アプリで簡単に有効化することができなかった。",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3349253/",
+          "title": "JDIらが生産強化、セラミック活用の半導体パッケージングは何が新しいのか",
+          "summary": "JDIと台湾・方略電子(パネルセミ)が共同開発する、セラミック活用の半導体パッケージ技術は何が新しいのか? 展示会での取材レポートをお届けする。",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3350111/",
           "published": "",
-          "id": "2537e21f"
+          "id": "e147809e"
         },
         {
-          "title": "C・ロナウドがアル・ナスル残留を示唆「何も変わらない」…クラブ側は契約延長に自信？",
-          "summary": "ポルトガル代表FWクリスティアーノ・ロナウドがアル・ナスルへの残留を示唆した。9日、イギリスメディア『BBC』が伝えている。 マンチェスター・ユナイテッドやレアル・マドリード、ユヴェントスなどを経",
-          "link": "https://news.mynavi.jp/article/20250610-3350002/",
+          "title": "ネットマーブルの『タッチモンスター』を受け継ぐアクションRPG『モンギル』、最新トレーラー公開",
+          "summary": "ネットマーブルは、アクションRPG『モンギル：STAR DIVE』の最新トレーラーを公開した。プラットフォームは、iOS、Android、PC。基本プレイ無料で2025年内下期にサービス開始予定だ。",
+          "link": "https://news.mynavi.jp/article/20250610-3350134/",
           "published": "",
-          "id": "a95dfc59"
+          "id": "2dd49e6c"
         },
         {
-          "title": "航空機の技術とメカニズムの裏側 第489回 海外で見てきた現地現物(6)T-6テキサン改造機を見て考えたこと",
-          "summary": "T-6テキサンといっても、航空自衛隊が次期練習機として採用を決めたテクストロンの機体ではなくて、第二次世界大戦中に活躍したノースアメリカンT-6テキサンの方だ。たまたま4月の渡米では、素の状態のテキサンにも遭遇したのだが、写真を撮った数が多いのは別の機体。",
-          "link": "https://news.mynavi.jp/techplus/article/aero_tech-489/",
+          "title": "moomoo証券が「新NISAの振り返りアンケート」を発表、1年間で投資家らの手ごたえは?",
+          "summary": "国内で150万以上の個人投資家に支持されているmoomoo証券は、日本取引所グループ(JPX)と共に、新NISAが始まって1年目を振り返るアンケート調査を実施。6月6日に、アンケートから得られた成果や、投資初心者に向けたアドバイスを発表した。",
+          "link": "https://news.mynavi.jp/premium/article/20250610-3350023/",
           "published": "",
-          "id": "72bcf566"
+          "id": "8a4235d5"
         },
         {
-          "title": "すき家、タレが染みしみの「豚生姜焼き丼」を発売 - マヨやおんたまのトッピングも",
-          "summary": "牛丼チェーン店「すき家」は6 月 10 日より、「豚生姜焼き丼」を販売している。",
-          "link": "https://news.mynavi.jp/article/20250610-3348669/",
+          "title": "“変革の命運”を握るのか！？ アルグアシル氏、今週中にセビージャからの就任オファーに返答へ",
+          "summary": "セビージャは、招へいを目指すイマノル・アルグアシル氏の結論を待っているようだ。10日付で、スペイン紙『アス』が報じている。 堕ちた名門は、変革を今度こそ成功させられるだろうか。フレン・ロペテギ氏が",
+          "link": "https://news.mynavi.jp/article/20250610-3350142/",
           "published": "",
-          "id": "14659b63"
+          "id": "d45c0e5d"
         },
         {
-          "title": "トリドールHD・粟田氏が語る、丸亀製麺を支える経営哲学と根底にある感動体験",
-          "summary": "5月19日～22日に開催された「TECH+ Business Transformation Summit 2025 May. 課題ごとに描く『変革』のミライ」にトリドールホールディングスの代表取締役社長 兼 CEOである粟田貴也氏が登壇。経済キャスターの瀧口友里奈氏との対談形式で、体験価値を提供する意味やCX（顧客体験）やEX（従業員体験）の考え方など、同社の成長の背景について語った。",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3337847/",
+          "title": "【試乗】ヤマハ発動機が開発中の汎用小型電動プラットフォーム「ディアパソン C580」に乗ってみた! - 「働き続けたい方の小さな相棒」とは?",
+          "summary": "ヤマハ発動機が開発中の汎用小型電動プラットフォーム「ディアパソン」。その試作1号機のメディア向け試乗会が6月5日、東京・江戸川区カヌースラロームセンターで行われた。",
+          "link": "https://news.mynavi.jp/article/20250610-3349647/",
           "published": "",
-          "id": "8f74c33b"
+          "id": "d7185ba2"
         },
         {
-          "title": "奥谷孝司氏が指南、デジタル時代の顧客体験はどのように設計すべきか",
-          "summary": "5月19日～22日に開催された「TECH+ Business Transformation Summit 2025 May. 課題ごとに描く『変革』のミライ」に顧客時間社 共同CEO 代表取締役の奥谷孝司氏（オイシックス・ラ・大地 Chief Omni-Channel Officer、Super Normal 代表取締役）が登壇。顧客価値、顧客戦略、顧客提案、顧客理解の4つの視点から、顧客体験を向上させるために考えるべきことについて解説した。",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3344742/",
+          "title": "リヴァプールやマンUと争奪戦も？…トッテナムが今季躍動したボーンマスFWへ関心強める",
+          "summary": "トッテナムがボーンマスに所属するガーナ代表FWアントワーヌ・セメニョへの関心を強めているようだ。9日、イギリスメディア『スカイスポーツ』が伝えている。 ヨーロッパリーグ（EL）を制覇し16年ぶりに",
+          "link": "https://news.mynavi.jp/article/20250610-3350143/",
           "published": "",
-          "id": "2d35cd17"
+          "id": "f59878e6"
         },
         {
-          "title": "「自分がこの日本代表を勝たせられるように」吉田湊海がU-17W杯へ決意表明「サッカー人生の中でのチャンス」",
-          "summary": "6月1日からスペイン遠征を行なっているU-17日本代表は8日、U−17スウェーデン代表と対戦した。4月に鹿島アントラーズにおける最年少記録16歳9か月14日でトップチームデビューを飾った吉田湊海（鹿",
-          "link": "https://news.mynavi.jp/article/20250610-3349958/",
+          "title": "タロット占い×数秘術2025年6月の運勢★生年月日のバースデイ・ナンバーから導くあなたの運気は？",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする「タロット占い×数秘術」2025年6月の運勢。 TOKYO FM＋では、2025年の運勢、今日の運勢、今週の運勢、今月の運勢、血液型占い、心理テストなどを配信中！ この記事では、生年月日から導き出される「バースデイ・ナンバー」から、あなたの運勢を見ていきます。 （監修：東京・池袋占い館セレーネ所属の占い師・石川白藍（いしかわ・はくらん） さん）",
+          "link": "https://news.mynavi.jp/article/20250604-3344806/",
           "published": "",
-          "id": "d58a53ca"
+          "id": "d4d89ae7"
         },
         {
-          "title": "Google Chromeの拡張機能に情報流出のリスク、暗号化せずにURL送信",
-          "summary": "Symantecは6月5日(米国時間)、Chromeの拡張機能が機密情報を送信していると伝えた。今回問題を指摘された拡張機能はSEMRush Rank、PI Rank、MSN New Tab／Homepage、DualSafe Password Manager、Browsec VPNの6つだ。",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3349297/",
+          "title": "収集したモンスターに変身できるオープンワールドRPG『Aniimo』、2026年リリース予定",
+          "summary": "シンガポール発のゲームパブリッシャーKingsglory Singapore Private Limitedは、オープンワールドモンスター収集RPG『Aniimo（アニモ）』を発表した。PC・モバイル・コンソールに対応したクロスプラットフォーム作品として、2026年のリリースを予定する。",
+          "link": "https://news.mynavi.jp/article/20250610-3350119/",
           "published": "",
-          "id": "f156cb62"
+          "id": "ef25f59a"
         },
         {
-          "title": "新指揮官の招へいに前進？…トッテナム、ブレントフォード率いるフランク氏と個人合意か",
-          "summary": "トッテナムが新監督招へいに向けて動きを強めているようだ。9日、『BBC』や『ガーディアン』など複数のイギリスメディアが伝えている。 2024－25シーズンはヨーロッパリーグ（EL）を制覇したものの",
-          "link": "https://news.mynavi.jp/article/20250610-3349959/",
+          "title": "心理テスト◆あなたが望む「ラッキーな出来事」わかる!? 深層心理をチェック",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする「心理テスト」。今回は、「ハチミツ」に関する心理テストで、心の奥にある本当の自分を探ってみましょう。 （監修者：東京・池袋占い館セレーネ所属の占い師 草彅健太（くさなぎ・けんた）さん）",
+          "link": "https://news.mynavi.jp/article/20250531-3341465/",
           "published": "",
-          "id": "8f857ddc"
+          "id": "1480caa9"
         },
         {
-          "title": "“飛び級”U-17日本代表選出の北原慎「プレーの面は全然問題はない」 同世代ヤマルは「憧れるという見方はしていないです」",
-          "summary": "6月1日からスペイン遠征を行なっているU-17日本代表は8日、U−17スウェーデン代表と対戦した。前半16分にDFラインでのパスミスから失点したU-17日本代表は、決定機も多く作ったがそのまま0-1",
-          "link": "https://news.mynavi.jp/article/20250610-3349960/",
+          "title": "ウインドウサイズの変更に対応した「iPadOS 26」、操作性がMacにグッと近づいた！",
+          "summary": "iPad用の次期OS「iPadOS 26」が発表されました。アプリのサイズを自由に変えて複数のアプリを配置できるウインドウシステムを採用したほか、上部にiPadOS初のメニューバーを搭載するなど、操作性がMacにグッと近づきました。",
+          "link": "https://news.mynavi.jp/article/20250610-3350103/",
           "published": "",
-          "id": "2288854e"
+          "id": "c0d07ad1"
         },
         {
-          "title": "『あんぱん』第53回 居眠りしてしまった嵩の試験は? 高知ではのぶのもとに…",
-          "summary": "女優の今田美桜が主演を務める連続テレビ小説『あんぱん』(NHK総合 毎週月～土曜8:00～ほか ※土曜は1週間の振り返り)の第53回が11日に放送される。",
-          "link": "https://news.mynavi.jp/article/20250610-3349916/",
+          "title": "画家の山口晃氏とコラボレーションした特別な「クレドール」",
+          "summary": "セイコーウオッチの「クレドール」ブランドから、画家の山口晃氏との特別なコラボレーションモデルが発表された。",
+          "link": "https://news.mynavi.jp/premium/article/20250610-3350112/",
           "published": "",
-          "id": "9ff7c48c"
+          "id": "b1616cf8"
         },
         {
-          "title": "笑って許して! ビジネスマナーの失敗エピソード 第83回 【漫画】お客様への訪問時、スーツなのに足元が……",
-          "summary": "",
-          "link": "https://news.mynavi.jp/article/businessmanner-83/",
+          "title": "中国、小惑星サンプルリターン探査機「天問二号」打上げ 将来は彗星探査も",
+          "summary": "中国が独自の小惑星サンプルリターン探査機「天問二号」を5月29日に打ち上げた。将来は彗星探査も計画している、同ミッションの全容を解説する。",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3350075/",
           "published": "",
-          "id": "044727f8"
+          "id": "b9a459e4"
         },
         {
-          "title": "Uber Eats×『バチェラー』S6がPrime Videoで特別展開! 坂東工が“愛とグルメ”の使者に!?",
-          "summary": "Uber Eats Japanは6月5日から、Prime Video で配信開始された人気恋愛リアリティ番組『バチェラー・ジャパン』シーズン6との特別広告「バチェラー観るなら、Uber Eats で、いーんじゃない？」を発表した。",
-          "link": "https://news.mynavi.jp/article/20250610-3349897/",
+          "title": "TSMC熊本第2工場の着工遅れの背景に見える自動車市場の低迷と米国関税政策の混乱 台湾メディア報道",
+          "summary": "TSMC熊本大2工場の着工延期の理由について、自動車市場の低迷と米国のトランプ大統領による関税政策による先行き不透明感によるものだと台湾メディアのDIGITIMESが報じている。",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3350096/",
           "published": "",
-          "id": "345e325d"
+          "id": "fdd176cd"
         },
         {
-          "title": "現在、生活保護を受けていますが、年金を受給すると収入になるのですか？",
-          "summary": "老後のお金や生活費が足りるのか不安ですよね。老後生活の収入の柱になるのが「老齢年金」ですが、年金制度にまつわることは、難しい用語が多くて、ますます不安になってしまう人もいるのではないでしょうか。そんな…",
-          "link": "https://news.mynavi.jp/article/20250610-3349921/",
+          "title": "PTCが3D CADの最新版「Creo 12」を発表 - 複合材の設計能力に大きな自信",
+          "summary": "PTCは、3D CADソリューションの最新版「Creo 12」を発表。現在の市場から寄せられるさまざまなニーズに対応するCreo 12の新機能について説明した。",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3350090/",
           "published": "",
-          "id": "70a8e4c6"
+          "id": "05d5157f"
         },
         {
-          "title": "婚活してみたら 第71回 【漫画】20代の頃はあんなに心配されていたのに……",
-          "summary": "婚活サイトやアプリ、婚活パーティー、結婚相談所など、婚活方法はさまざま。しかし、いざ婚活を始めてみると、なかなかうまくいかないことや初対面で気まずい思いをしたなど、経験があるのでは?",
-          "link": "https://news.mynavi.jp/article/konkatsu-71/",
+          "title": "守護神の“バックアッパー”確保へ！…アーセナル、GKケパ獲得へチェルシーとの交渉進展か",
+          "summary": "アーセナルがチェルシーに所属するスペイン代表GKケパ・アリサバラガの獲得へ前進しているようだ。9日、『スカイスポーツ』や『イブニング・スタンダード』など複数のイギリスメディアが伝えている。 アーセ",
+          "link": "https://news.mynavi.jp/article/20250610-3350097/",
           "published": "",
-          "id": "197c4c3f"
+          "id": "9611beb9"
         },
         {
-          "title": "クルマのクイズ 第21回 「ミニカ」の祖先? 三菱自動車の誕生前から存在した軽商用バンとは",
-          "summary": "三菱自動車工業が誕生する9年前、「三菱」の名を冠する軽の商用バンが世に出ました。のちに登場する「ミニカ」「eKワゴン」にとっては祖先にあたるクルマなのですが、さて、なんという名前でしょうか?",
-          "link": "https://news.mynavi.jp/premium/article/kurumaquiz-premium-21/",
+          "title": "静岡県の「憧れのナンバープレート」ランキング！ 2位「浜松」、1位は？",
+          "summary": "All About ニュース編集部は5月18～20日、全国の10～60代の男女203人を対象に「憧れるナンバープレート（北陸・中部・東海地方）」に関するアンケート調査を実施。その結果の中から、今回は「…",
+          "link": "https://news.mynavi.jp/article/20250610-3350085/",
           "published": "",
-          "id": "72cc53d3"
+          "id": "fe748470"
         },
         {
-          "title": "『聖戦士ダンバイン』リアルロボットレボリューションに「ビルバイン」が完全新規造形で登場",
-          "summary": "バンダイスピリッツは、『聖戦士ダンバイン』より「Ｒ３ 1/35 ビルバイン」(6,050円)を発売する。バンダイナムコグループ公式通販サイト「プレミアムバンダイ」にて現在予約を受け付けており、2025年8月発送予定。",
-          "link": "https://news.mynavi.jp/article/20250610-3349682/",
+          "title": "桐谷さんが心待ちにする「7月の優待銘柄」",
+          "summary": "個人投資家の桐谷広人さんが、YouTubeチャンネル『All Aboutマネー』に出演し、お気に入りの優待銘柄について語ってくれました。今回は、桐谷さんが保有する優待株の中から、7月に権利確定を迎える…",
+          "link": "https://news.mynavi.jp/article/20250610-3350079/",
           "published": "",
-          "id": "0f3445e4"
+          "id": "bcd100d9"
         },
         {
-          "title": "没落しても高級食材食べますわよ！『没落麗子のシンデレラグルメ』、コミックDAYSで連載配信",
-          "summary": "『没落麗子のシンデレラグルメ』(まえだたかひろ/あおいりか)が、コミックDAYSにて2025年6月9日より連載配信スタート。第1話は常に無料公開で、隔週月曜日正午に新たな無料話が更新される。",
-          "link": "https://news.mynavi.jp/article/20250610-3349795/",
+          "title": "QualcommがAlphawave Semiを買収、買収額は約24億ドル",
+          "summary": "Qualcommは6月9日(米国時間)、Alphawave Semiとの間に同社の発行済みおよび発行予定の普通株式資本の全額を約24億ドルで買収することに関して合意したことを発表した。",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3350077/",
           "published": "",
-          "id": "3cc1d190"
+          "id": "f608e5ba"
         },
         {
-          "title": "テラーノベルの人気作品がコミカライズ！『キミの瞳に魅せられて』、コミックシーモアにて独占先行配信",
-          "summary": "テラーノベルは、累計DL数760万突破の小説プラットフォーム「テラーノベル」発の人気小説『さあ、ふたりの未来を語ろう』を、『キミの瞳に魅せられて～愛を知らないモテ上司が、地味で孤独な部下を溺愛～』としてコミカライズ。2025年6月9日より「コミックシーモア」にて独占先行配信を開始した。",
-          "link": "https://news.mynavi.jp/article/20250610-3349805/",
+          "title": "ウブロの2025年夏はカラフルな「ビッグ・バン ウニコ サマー 2025」",
+          "summary": "ウブロのアイコニックなコレクション「ビッグ・バン ウニコ」から、2025年のサマーエディションとなる「ビッグ・バン ウニコ サマー 2025」が登場した。",
+          "link": "https://news.mynavi.jp/premium/article/20250610-3350064/",
           "published": "",
-          "id": "18ab2e5c"
+          "id": "4eaaefce"
         },
         {
-          "title": "仕事は「段取りとスケジュール」が9割! 第4回 情報収集後は「パクる力」が試される? 仕事は「段取りとスケジュール」で9割決まる!",
-          "summary": "いつも仕事に追われていて、気がつけば納期ギリギリ……。皆さんはこんな経験、ありませんか? 手帳を活用して予定を管理しようと思っても、優先順位の付け方に悩んで結局挫折……。これもあるあるではないでしょうか。",
-          "link": "https://news.mynavi.jp/premium/article/dandori-4/",
+          "title": "「このアルピーヌA310は、ただの趣味じゃなくて家族の思い出の中心なんだよ」",
+          "summary": "「次こそはフランス車が欲しかった。ちゃんとした&ldquo;物語&rdquo;を持った車を」そう語るのは、1983年式のAlpine A310 Pack GTを所有するGallais St&eacute;phane（ギャレ・ステファン）氏。・・・",
+          "link": "https://news.mynavi.jp/article/20250610-3350106/",
           "published": "",
-          "id": "848dad0e"
+          "id": "e7b05179"
         },
         {
-          "title": "Intel Mac、ついに終幕 - macOS Tahoe 26が最後の対応バージョンに",
-          "summary": "2020年からApple Siliconの特性を基盤として、Macの進化を加速させてきたApple。この秋に登場する「macOS Tahoe 26」は、アップグレード対象にIntel搭載Macを含む最後のバージョンになる。",
-          "link": "https://news.mynavi.jp/article/20250610-3349896/",
+          "title": "【漫画】猫と竜 第9回 竜に育てられた猫。その夢は…まさかの人間!?",
+          "summary": "深い深い森の奥。一匹の竜が、魔法を操る猫たちと暮らしていた。猫を守り育てる竜を、猫たちは「羽のおじちゃん」と、人間は畏怖を込め「猫竜」と呼んだ。これは、猫と竜と人間の、温かく不思議な物語。『猫と竜』(佐々木泉・アマラ・大熊まい/マンガボックス)より、一部を抜粋してご紹介します。",
+          "link": "https://news.mynavi.jp/article/catanddragon-9/",
           "published": "",
-          "id": "d83aec2a"
+          "id": "0a41587c"
         },
         {
-          "title": "ギェケレシュとスポルティングに亀裂？ 会長による“紳士協定”超えの移籍金要求に激怒か",
-          "summary": "スポルティングに所属するスウェーデン代表FWヴィクトル・ギェケレシュが、クラブ首脳陣に不満を募らせているようだ。9日、ポルトガル紙『レコルド』が伝えている。 現在27歳のギェケレシュは、母国スウェ",
-          "link": "https://news.mynavi.jp/article/20250610-3349918/",
+          "title": "削除してしまったWindowsのinerpubフォルダはすぐに復元を",
+          "summary": "Windows Latestは6月9日(現地時間)、誤って「inetpub」フォルダを削除してしまったWindowsユーザーは、直ちに復元を実施する必要があると警告した。このフォルダは2025年4月8日以降の更新プログラムが自動的に作成するもので、誤って削除してしまうとセキュリティ上のリスクを負う危険性がある。",
+          "link": "https://news.mynavi.jp/techplus/article/20250610-3349482/",
           "published": "",
-          "id": "193796fd"
+          "id": "b0204e06"
         },
         {
-          "title": "那須千本松牧場、約120本のカラフル傘で梅雨を彩る期間限定イベントを開催",
-          "summary": "ホウライが運営する那須千本松牧場は、6月11日の「傘の日」にちなみ、梅雨の季節を明るく楽しめる期間限定イベント「千本松アンブレラウォーク」を2025年6月9日(月)から7月18日(金)まで開催する。",
-          "link": "https://news.mynavi.jp/article/20250610-3349755/",
+          "title": "写植機誕生物語 〈石井茂吉と森澤信夫〉 第68回 【茂吉】『書窓』の誕生",
+          "summary": "1935年 (昭和10) 4月、東京・中野区で酒販店「伊勢元」を営んでいた志茂太郎は、恩地孝四郎を編集者に迎え、みずから主宰するアオイ書房から愛書誌『書窓』を創刊した。いわば〈愛書家の同好クラブ、社交サロン〉ともいえる雑誌で、会員に限り直接頒布の月刊誌として700部限定でスタートした。",
+          "link": "https://news.mynavi.jp/article/syasyokuki-68/",
           "published": "",
-          "id": "2ee54150"
+          "id": "5e780bdd"
         },
         {
-          "title": "那須ハイランドパーク、栃木・千葉・宮城県民優待割を実施",
-          "summary": "藤和那須リゾートが運営する“那須ハイランドパーク”では、2025年6月1日(日)～6月30日(月)までの期間、栃木県・千葉県・宮城県民を対象に、ファンタジーパスセット(入園＆乗り放題)をお得に購入できる「県民優待割」をWEB販売限定で実施している。",
-          "link": "https://news.mynavi.jp/article/20250610-3349774/",
+          "title": "新入社員必見! 電話応対の極意 第6回 「セルフコーチング」で電話スキルを伸ばす! スキルアップのコツとは?",
+          "summary": "「電話応対は苦手……」そう感じている新社会人や就活生は多いのではないでしょうか? 近年、SNSやチャットツールが普及し、電話を使う機会が減っているため、苦手意識を感じるのは当然かもしれません。しかし、ビジネスシーンにおいて電話はまだまだ重要なコミュニケーションツールです。",
+          "link": "https://news.mynavi.jp/article/telephone-6/",
           "published": "",
-          "id": "ee47e8ad"
+          "id": "d6a93895"
         },
         {
-          "title": "なぜセキュアブラウザが注目を集めているのか、そのメリットとは何か",
-          "summary": "ここ数年、エンドポイントセキュリティ製品として、セキュアブラウザが注目を集めている。その理由はなぜか。また、セキュアブラウザを利用すると、どのようなメリットがあるのか。セキュアブラウザ製品「Prisma Access Browser」を提供するパロアルトネットワークス 日本・アジア太平洋地域（JAPAC）担当社長 サイモン・グリーン氏に聞いた。",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3349523/",
+          "title": "長澤まさみ主演の映画『ドールハウス』の新たなメイキング写真が公開",
+          "summary": "女優の長澤まさみが主演を務める映画『ドールハウス』(6月13日公開)の新たなメイキング写真が公開となった。各界著名人の絶賛コメントも「ゾクゾク」到着している。",
+          "link": "https://news.mynavi.jp/article/20250610-3349430/",
           "published": "",
-          "id": "c587db4d"
+          "id": "d39db087"
         },
         {
-          "title": "マンC、ウルブスからDFアイト・ヌーリを獲得！ 今季5ゴール7アシストの“攻撃的SB”と5年契約",
-          "summary": "プレミアリーグのマンチェスター・シティは9日、ウルヴァーハンプトン（ウルブス）からアルジェリア代表DFラヤン・アイト・ヌーリを獲得したことを発表した。 現在24歳のアイト・ヌーリは、出身国であるフ",
-          "link": "https://news.mynavi.jp/article/20250610-3349919/",
+          "title": "『BABA抜き最弱王決定戦』大橋和也、玉森裕太、山田涼介、藤井流星ら参戦",
+          "summary": "フジテレビ系バラエティ特番『BABA抜き最弱王決定戦 2025夏』が、21日(21:00～)に放送される。",
+          "link": "https://news.mynavi.jp/article/20250610-3349606/",
           "published": "",
-          "id": "a2880455"
+          "id": "e6afd459"
         },
         {
-          "title": "ジープ初のマイルドハイブリッドをレネゲードに搭載！",
-          "summary": "ステランティスジャパン2025年は6月5日、ジープ初のマイルドハイブリッドモデル、「レネゲード eハイブリッド」を７月５日より全国のジープ正規ディーラーにて発売すると発表した。価格は544万円。なお、ガソリン仕様とプラグインハイブリッド仕様・・・",
-          "link": "https://news.mynavi.jp/article/20250610-3349923/",
+          "title": "哀川翔＆勝俣州和、「前略、道の上より」36年ぶり披露「全力でしたよ」",
+          "summary": "日本テレビ系バラエティ特番『万博会場でタイムスリップ! 日本人が1番踊りたい神曲ベスト30 ～時代を作った大ヒットダンス曲～』(13日21:00～)では、哀川翔と勝俣州和が「前略、道の上より」を36年ぶり披露する。",
+          "link": "https://news.mynavi.jp/article/20250610-3349619/",
           "published": "",
-          "id": "535ec8a5"
+          "id": "0eb02f4d"
         },
         {
-          "title": "酒井美紀、大学院で得た“俯瞰的視点”「台本の読み方が変わった」 不二家の社外取締役にも生きている",
-          "summary": "1995年に女優デビューし、今年30周年の節目を迎えた酒井美紀。現在、東京・TBS赤坂ACTシアターでロングラン上演中の舞台『ハリー・ポッターと呪いの子』ではハーマイオニー・グレンジャー役を演じている。2021年に不二家の社外取締役に就任、2023年には東洋英和女学院大学大学院の国際協力研究科修士課程を修了するなど、幅広く活動している酒井にインタビューし、演技の仕事にも生きているという大学院での学びについて話を聞いた。",
-          "link": "https://news.mynavi.jp/article/20250610-miki_sakai/",
+          "title": "『さんま御殿』番組出演でさんまに会いたい人を一般募集",
+          "summary": "日本テレビ系バラエティ番組『躍る!さんま御殿!!』(毎週火曜20:00～)では、番組に出演したい人を一般募集している。",
+          "link": "https://news.mynavi.jp/article/20250610-3349637/",
           "published": "",
-          "id": "e3ccb0c2"
+          "id": "986e3c79"
         },
         {
-          "title": "U-17日本代表、スウェーデンに敗戦…廣山望監督「負けるだけの理由がある試合」瀬口大翔は右WBコンバートに自信",
-          "summary": "スペイン遠征を行なっているU-17日本代表はU-17スウェーデン代表と8日に対戦し、0-1で敗戦した。チームとして前後半共にシュートチャンス、決定機を多く作りながらも決めきることができず、アタッキン",
-          "link": "https://news.mynavi.jp/article/20250610-3349878/",
+          "title": "パッキャオ、46歳で現役復帰! WBC世界ウェルター級タイトルマッチを生中継",
+          "summary": "WOWOWは、7月20日に『生中継！エキサイトマッチSP「パッキャオvsバリオス」「フンドラvsチュー」』(9:00～WOWOWライブ／WOWOWオンデマンド)を放送＆配信する。",
+          "link": "https://news.mynavi.jp/article/20250610-3350038/",
           "published": "",
-          "id": "e1788a83"
+          "id": "e6c22f51"
         },
         {
-          "title": "マイクロソフトの社員は「Copilot」をどう使ってる? 生成AIの底力を発揮させる方法",
-          "summary": "日進月歩で進化しているAI技術。世界中が驚愕した生成AI「ChatGPT」が登場してからはや2年以上が経過するが、当時よりもより優れた技術や体験が実現されている。生成AIサービス「Copilot(コパイロット)」を提供する日本マイクロソフトの社員は社内でCopilotをどのように活用しているのだろうか。担当者に話を聞いた。",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3331820/",
+          "title": "今週の12星座占い「射手座（いて座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「射手座（いて座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349102/",
           "published": "",
-          "id": "f7f04401"
+          "id": "dd57e4f4"
         },
         {
-          "title": "相続手続きを専門家に依頼した場合、かかった費用の平均額は?",
-          "summary": "鎌倉新書が運営する相続情報サイト「いい相続」は、「第3回 相続手続きに関する実態調査(2025年)」の調査結果を6月5日に発表した。調査は2025年3月27日〜4月22日の期間、「いい相続」経由で専門家(行政書士または税理士)との無料面談を行った、または「相続費用見積ガイド」経由で専門家に相続手続きを依頼した281名を対象に行われた。",
-          "link": "https://news.mynavi.jp/premium/article/20250610-3347212/",
+          "title": "今週の12星座占い「山羊座（やぎ座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「山羊座（やぎ座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349121/",
           "published": "",
-          "id": "d508bcbe"
+          "id": "20a237b6"
         },
         {
-          "title": "なにわ男子・大橋和也、ファンサービスに”デコチュー”「したい気持ちはあります!」",
-          "summary": "なにわ男子の大橋和也が9日、東京・品川の青陵中学校・高等学校で行われた6月20日公開の映画『君がトクベツ』の公開直前イベントに畑芽育とともに登場した。",
-          "link": "https://news.mynavi.jp/article/20250610-3349690/",
+          "title": "今週の12星座占い「魚座（うお座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「魚座（うお座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349169/",
           "published": "",
-          "id": "a8ea328a"
+          "id": "b56d2e24"
         },
         {
-          "title": "日本生命保険社長・朝日智司「保険事業に加えて、地域の課題を解決しながら成長していく事業モデルを」",
-          "summary": "様々なリスクを想定し対応策を講じる ─ 米トランプ大統領の発言、動向で世界経済、政治が大きく揺れる今ですが、現状と今後をどう見ていますか。 朝日 これまでも、マーケットの見通しのようなものは持っていましたが、今、かなりグローバルにボラティリ・・・",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3349888/",
+          "title": "今週の12星座占い「蠍座（さそり座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「蠍座（さそり座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349081/",
           "published": "",
-          "id": "57cb1873"
+          "id": "e952f90b"
         },
         {
-          "title": "椎名林檎の楽曲「白日のもと」が映画『近畿地方のある場所について』の主題歌に",
-          "summary": "8月8日より公開される菅野美穂と赤楚衛二ダブル主演の映画『近畿地方のある場所について』の主題歌に椎名林檎の書き下ろし楽曲「白日のもと」に決定し、予告映像とポスターも公開された。",
-          "link": "https://news.mynavi.jp/article/20250610-3349669/",
+          "title": "今週の12星座占い「水瓶座（みずがめ座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「水瓶座（みずがめ座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349150/",
           "published": "",
-          "id": "69bf4687"
+          "id": "57ae4561"
         },
         {
-          "title": "日米関税交渉の戦略と地政学的意義、米国企業の半導体購入提案とその背景",
-          "summary": "日本がトランプ政権との関税交渉において、米国企業の半導体の購入を提案している。この動きは、日米間の貿易不均衡を是正し、トランプ政権による関税引き上げの圧力を軽減する戦略の一環であるが、その背景には複雑な地政学的要因と経済的利害が絡む。",
-          "link": "https://news.mynavi.jp/techplus/article/20250610-3349548/",
+          "title": "今週の12星座占い「天秤座（てんびん座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「天秤座（てんびん座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349067/",
           "published": "",
-          "id": "b2aba936"
+          "id": "93e79501"
         },
         {
-          "title": "米ポッドキャストのホスト、元サッカーコーチによるセクハラを告発",
-          "summary": "メディアパーソナリティであり、『Call Her Daddy』のポッドキャストホストとして知られるアレックス・クーパーは、自身のドキュメンタリー『Call Her Alex』の中で、2013年から在籍したボストン大学女子サッカーチームでの3・・・",
-          "link": "https://news.mynavi.jp/article/20250610-3349885/",
+          "title": "今週の12星座占い「蟹座（かに座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「蟹座（かに座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349011/",
           "published": "",
-          "id": "eaab0eb7"
+          "id": "f2fc2d08"
         },
         {
-          "title": "スライ・ストーン死去（享年82歳） ファンク、ロック、ソウルを融合させたファミリー・ストーンの創設者",
-          "summary": "1960年代後半から70年代初頭にかけて、ロック、ポップ、ファンク、ソウルのジャンルの垣根を打ち破った最も影響力ある音楽家のひとり、スライ・ストーンが現地時間9日（月）に死去した。享年82歳。家族によると、死因は「COPD（慢性閉塞性肺疾患・・・",
-          "link": "https://news.mynavi.jp/article/20250610-3349886/",
+          "title": "今週の12星座占い「獅子座（しし座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「獅子座（しし座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3349025/",
           "published": "",
-          "id": "0742e77e"
+          "id": "1d76bf49"
         },
         {
-          "title": "【ポケモン】宮城県に「ラプラス公園」誕生! 仙台市と利府町に遊具寄贈",
-          "summary": "ポケモンはこのほど、みやぎ応援ポケモンの「ラプラス」をモチーフとした公園遊具を宮城県内2ヶ所に寄贈。遊具は宮城県と仙台市により設置され、2025年10月と2026年春に「ラプラス公園」として開園する。",
-          "link": "https://news.mynavi.jp/article/20250610-3348663/",
+          "title": "今週の12星座占い「牡羊座（おひつじ座）」全体運・開運アドバイス【2025年6月9日（月）～6月15日（日）今週の運勢】",
+          "summary": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする12星座週間占い「今週の運勢」。2025年6月9日（月）～6月15日（日）「牡羊座（おひつじ座）」のあなたの運勢を東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。開運アドバイスも！",
+          "link": "https://news.mynavi.jp/article/20250609-3348961/",
           "published": "",
-          "id": "14079b22"
+          "id": "7ffa45c8"
         }
       ],
       "status": "success"
@@ -3416,214 +3416,214 @@
       "articles_count": 30,
       "articles": [
         {
-          "title": "2025年夏、東京・大阪・福岡で上演！荒川良々×赤堀雅秋タッグが贈る『震度３』、チケットは7月18日発売！",
-          "summary": "赤堀雅秋最新作『震度3』が8月から東京、大阪、福岡で上演決定。荒川良々、丸山隆平、上白石萌歌など異色のキャストが揃い、日常の小さな混乱と不安を描く本作に注目。",
-          "link": "https://ascii.jp/elem/000/004/279/4279986/?rss",
-          "published": "Tue, 10 Jun 2025 10:30:00 +0900",
-          "id": "97c8267c"
+          "title": "カレー物価、429円 過去10年で最高値",
+          "summary": "帝国データバンクは6月10日、家庭でカレーライスを作る際に必要な原材料や光熱費などのコストを全国平均で算出した「カレーライス物価」最新版を発表。2025年4月時点では1食429円に達した。",
+          "link": "https://ascii.jp/elem/000/004/280/4280690/?rss",
+          "published": "Tue, 10 Jun 2025 15:10:00 +0900",
+          "id": "51f15ab5"
         },
         {
-          "title": "クレープの上にドンッと「プリン」がのった！不二家に昭和レトロなボリューミーケーキ",
-          "summary": "不二家洋菓子店は6月13日より、「昭和100年記念 思い出のファッションケーキ」企画第2弾として、「1970's クレープのパニエ」を販売。食べたい！",
-          "link": "https://ascii.jp/elem/000/004/280/4280492/?rss",
-          "published": "Tue, 10 Jun 2025 10:00:00 +0900",
-          "id": "34c9fe81"
+          "title": "コナミ「メタルギア」「サイレントヒル」新情報、公式番組で明らかに 6月12日22時から",
+          "summary": "コナミデジタルエンタテインメントは公式情報番組「KONAMI PRESS START」を、2025年6月12日22時から世界同時配信すると発表した。",
+          "link": "https://ascii.jp/elem/000/004/280/4280666/?rss",
+          "published": "Tue, 10 Jun 2025 15:00:00 +0900",
+          "id": "62371d49"
         },
         {
-          "title": "リラックマとNEO森ガールが融合！SPINNSから新コラボアイテム発売",
-          "summary": "リラックマとNEO森ガールスタイルが組み合わさった新アイテムがSPINNSから登場。",
-          "link": "https://ascii.jp/elem/000/004/280/4280524/?rss",
-          "published": "Tue, 10 Jun 2025 09:45:00 +0900",
-          "id": "47182582"
+          "title": "「櫻井翔×万博」の最強シナジー！『Casa BRUTUS』万博特集号が創刊以来初の三刷",
+          "summary": "万博で、まさにいま注目されているトピックを紹介する日刊大阪・関西万博。6月9日（月）は、万博会場の建築物を特集した雑誌『Casa BRUTUS』が創刊以来初の3刷重版を発表して話題を呼んだ。",
+          "link": "https://ascii.jp/elem/000/004/280/4280562/?rss",
+          "published": "Tue, 10 Jun 2025 15:00:00 +0900",
+          "id": "c8a0dd36"
         },
         {
-          "title": "ホリエモン実行委員長「別府温泉ぶっかけフェス2025」が8月23日開催！ 1000トンの温泉を浴びる音楽の祭典",
-          "summary": "温泉水約1,000トンを使用した音楽フェス「BOB2025」が大分県別府市で開かれる。",
-          "link": "https://ascii.jp/elem/000/004/280/4280523/?rss",
-          "published": "Tue, 10 Jun 2025 09:30:00 +0900",
-          "id": "a2ab75bc"
+          "title": "【カルディ】オンラインストアが通常7000円→今だけ5000円以上で送料無料！",
+          "summary": "カルディコーヒーファームはオンラインストア限定で5000円以上の購入で送料無料になる初夏のキャンペーンを6月9日から開催中。",
+          "link": "https://ascii.jp/elem/000/004/280/4280561/?rss",
+          "published": "Tue, 10 Jun 2025 15:00:00 +0900",
+          "id": "c808fe0c"
         },
         {
-          "title": "AIが返信文を考えてくれる「LINE AIサジェスト」の使い方教えます",
-          "summary": "AIを日々活用している方も多いだろう。LINEでAIを使える「LINE AIサジェスト」の使い方を画面付きで解説。",
-          "link": "https://ascii.jp/elem/000/004/279/4279312/?rss",
-          "published": "Tue, 10 Jun 2025 09:30:00 +0900",
-          "id": "573daf40"
+          "title": "アップルがiPhoneやMacに導入する「Liquid Glass」デザインって何？ どんなメリットがあるの？",
+          "summary": "アップルはLiquid Glassについて「それぞれの独自の特性を保ちながらも、シームレスな体験を実現します」とうたっています。この“シームレス”という点がポイントだと思うのです。",
+          "link": "https://ascii.jp/elem/000/004/280/4280560/?rss",
+          "published": "Tue, 10 Jun 2025 15:00:00 +0900",
+          "id": "8d93292d"
         },
         {
-          "title": "そごう横浜店屋上に新しいバーベキュースポットが登場！開放的空間で楽しむ本格BBQ体験",
-          "summary": "そごう横浜店で新しいバーベキュースポットがオープン。",
-          "link": "https://ascii.jp/elem/000/004/280/4280522/?rss",
-          "published": "Tue, 10 Jun 2025 09:15:00 +0900",
-          "id": "2b1adaa2"
+          "title": "アップル、Intel Macの時代に幕 2025年で新OS提供終了",
+          "summary": "アップルは6月9日（現地時間）、2025年秋にリリース予定の「macOS Tahoe 26」を最後に、インテル製CPUを搭載したMac（Intel Mac）への新OS提供を終了することを明らかにした。",
+          "link": "https://ascii.jp/elem/000/004/280/4280660/?rss",
+          "published": "Tue, 10 Jun 2025 14:55:00 +0900",
+          "id": "72d15915"
         },
         {
-          "title": "ポケピースPOP UP STOREが6月より神奈川・大阪でスタート！特別ノベルティも登場",
-          "summary": "ヴィレッジヴァンガードコーポレーションは、「ポケピース」POP UP STOREを全国4ヶ所で順次開催。",
-          "link": "https://ascii.jp/elem/000/004/280/4280521/?rss",
-          "published": "Tue, 10 Jun 2025 09:00:00 +0900",
-          "id": "627446a7"
+          "title": "中古PCパーツが最大30,000円OFF！人気グラボ「GeForce RTX 3060 Ti」も対象のお得なクーポン配布中",
+          "summary": "ソフマップ・ドットコムは、中古PCパーツを含む各種商品が最大30,000円引きとなるクーポンを配布中。",
+          "link": "https://ascii.jp/elem/000/004/280/4280659/?rss",
+          "published": "Tue, 10 Jun 2025 14:45:00 +0900",
+          "id": "6d5b3da5"
         },
         {
-          "title": "1万円台で買える手軽なWi-Fi 7ルーター、Amazon子会社のeeroが2機種を発売",
-          "summary": "eeroはメッシュを強みに10年の歴史を持つブランド。日本では昨年9月から参入。",
-          "link": "https://ascii.jp/elem/000/004/280/4280519/?rss",
-          "published": "Tue, 10 Jun 2025 09:00:00 +0900",
-          "id": "70485577"
+          "title": "音楽制作・動画編集に最適な中古Macがソフマップ「リコレ！」に集結！M3 Pro搭載モデルも",
+          "summary": "ソフマップが中古専門サイト「リコレ！」にて、音楽制作や動画編集に最適な中古Macを販売開始。",
+          "link": "https://ascii.jp/elem/000/004/280/4280658/?rss",
+          "published": "Tue, 10 Jun 2025 14:45:00 +0900",
+          "id": "9a58894f"
         },
         {
-          "title": "見える化したから実現できた 業務と組織を整えるFUNDINNOのチームワークマネジメント",
-          "summary": "未上場企業に投資できる株式投資型クラウドファンディングを提供するFUNDINNO（ファンディーノ）。2015年の創業以来、ベンチャー支援のために成長を続けてきた同社で活用されてきたのが、ヌーラボの「Backlog」だ。開発プロジェクトのみならず、広告審査のような全社員共通の業務で、Backlogはどのように使われているのか？ 経営戦略本部 事業開発部の小関洋人氏に聞いた。",
-          "link": "https://ascii.jp/elem/000/004/278/4278352/?rss",
-          "published": "Tue, 10 Jun 2025 09:00:00 +0900",
-          "id": "b4739e60"
+          "title": "カップヌードル「シビ辛麻婆ビッグ」 辛さレベル4、花椒の痺れる辛さ",
+          "summary": "日清食品は「カップヌードル 花椒香るシビ辛麻婆 ビッグ」（292円）を6月23日に全国で発売する。シビ辛好き集まれ～！",
+          "link": "https://ascii.jp/elem/000/004/280/4280534/?rss",
+          "published": "Tue, 10 Jun 2025 14:40:00 +0900",
+          "id": "86862e6a"
         },
         {
-          "title": "ランサム脅迫者との身代金交渉のコツは？ “交渉代行人”Coveware CEOが語る",
-          "summary": "ランサムウェア攻撃攻撃を受けた企業から依頼を受け、犯罪者グループ（脅威アクター）との交渉を行ってきたCoveware（コーブウェア）。同社の共同創業者でCEOを務めるビル・シーゲル氏に、同社創業の経緯から、犯罪者との交渉の実態、無駄な身代金や時間を費やさずに事態を収束させるポイント、日本市場への展開などを聞いた。",
-          "link": "https://ascii.jp/elem/000/004/280/4280512/?rss",
-          "published": "Tue, 10 Jun 2025 08:00:00 +0900",
-          "id": "af0e0b8c"
+          "title": "6月14日限定！長岡花火×ながおか香りのばら園、一夜限りの幻想的コラボを体感せよ",
+          "summary": "国営越後丘陵公園で6月14日に「長岡花火ローズファンタジー」が開催される。",
+          "link": "https://ascii.jp/elem/000/004/280/4280629/?rss",
+          "published": "Tue, 10 Jun 2025 14:30:00 +0900",
+          "id": "079dfeec"
         },
         {
-          "title": "【本日】ファミマ「チョコミントフェア」14品を発売！ チョコミントサンドにアイスなどズラリ",
-          "summary": "ファミリーマートは6月10日から、「チョコミントフェア」を実施。フラッペ、デザート、アイス、菓子など、チョコミント尽くしの14商品をラインアップします。",
-          "link": "https://ascii.jp/elem/000/004/280/4280489/?rss",
-          "published": "Tue, 10 Jun 2025 08:00:00 +0900",
-          "id": "c67bf697"
+          "title": "任天堂「ゼルダの伝説」実写映画、公開延期 ファンは歓迎",
+          "summary": "任天堂は「ゼルダの伝説」の実写映画について、公開日を2027年5月7日に変更すると発表した。",
+          "link": "https://ascii.jp/elem/000/004/280/4280657/?rss",
+          "published": "Tue, 10 Jun 2025 14:15:00 +0900",
+          "id": "2b27e067"
         },
         {
-          "title": "【本日】松屋の「創業ビーフカレー」が期間限定で復活。4種のトッピングメニューも！",
-          "summary": "牛めしや定食、カレーなどを販売する「松屋」は、6月10日10時より、期間限定商品「創業ビーフカレー」（780円）を販売します。",
-          "link": "https://ascii.jp/elem/000/004/280/4280491/?rss",
-          "published": "Tue, 10 Jun 2025 07:00:00 +0900",
-          "id": "69e89076"
+          "title": "TVアニメ『WIND BREAKER』Dress up ver.ソフマップフェア開催！オンライン通販での先行予約も開始",
+          "summary": "ソフマップは全国9店舗および通販サイトにて、TVアニメ『WIND BREAKER』Dress up ver. 先行販売を開催する。",
+          "link": "https://ascii.jp/elem/000/004/280/4280631/?rss",
+          "published": "Tue, 10 Jun 2025 14:15:00 +0900",
+          "id": "0c89c467"
         },
         {
-          "title": "スマホにマイナカード、大丈夫？ 競争と安全のバランス、さらに難しく",
-          "summary": "iPhoneで、マイナンバーカードが使えるようになる。ただ、懸念材料になるのが「スマホ新法」だ。",
-          "link": "https://ascii.jp/limit/group/ida/elem/000/004/280/4280310/?rss",
-          "published": "Tue, 10 Jun 2025 07:00:00 +0900",
-          "id": "e860d157"
+          "title": "人気実況者ウォーターチャレンジのコラボPCがドスパラから登場！ファン必見の限定シールやマウスパッドを見逃すな",
+          "summary": "ウォーターチャレンジとドスパラがコラボしたゲームPCが販売開始。",
+          "link": "https://ascii.jp/elem/000/004/280/4280630/?rss",
+          "published": "Tue, 10 Jun 2025 14:15:00 +0900",
+          "id": "12988bcb"
         },
         {
-          "title": "【最大2.5％還元】住信SBIネット銀の新カードが超お得！現最強カードとの違いはここだ",
-          "summary": "最大2.5%還元にリニューアルする「プラチナデビットカード」、そして7月に誕生する最大2%還元の「デビットカードPoint＋」。爆裂お得な2枚のカードと、現最強カードである「V NEOBANKデビットカード」を比較する。",
-          "link": "https://ascii.jp/elem/000/004/280/4280271/?rss",
-          "published": "Tue, 10 Jun 2025 07:00:00 +0900",
-          "id": "2131013c"
+          "title": "三井住友カード、家賃もリボ払い対象に 7月9日から",
+          "summary": "三井住友カードは7月9日から、家賃や管理費、更新料といった毎月発生する固定支出について、クレジットカード利用後の分割払いやリボ払いを利用できるようにする。",
+          "link": "https://ascii.jp/elem/000/004/280/4280653/?rss",
+          "published": "Tue, 10 Jun 2025 14:00:00 +0900",
+          "id": "1e0e45f3"
         },
         {
-          "title": "福原遥さんがマウスコンピューター新CMに登場！「安心」をテーマに個人・法人へ魅力をアピール",
-          "summary": "女優・福原遥さんを新アンバサダーに迎え、「安心パソコン、マウス。」の新CMが6月10日にスタート。",
-          "link": "https://ascii.jp/elem/000/004/280/4280268/?rss",
-          "published": "Tue, 10 Jun 2025 07:00:00 +0900",
-          "id": "88234694"
+          "title": "天神で4年半ぶりの復活！「割烹よし田」の上品な鯛茶を味わう贅沢体験をお見逃しなく",
+          "summary": "1963年創業の「割烹よし田」が2025年6月10日に天神本店をグランドオープン。",
+          "link": "https://ascii.jp/elem/000/004/280/4280618/?rss",
+          "published": "Tue, 10 Jun 2025 14:00:00 +0900",
+          "id": "d8c5fe40"
         },
         {
-          "title": "企業固有の情報をもとに多言語生成AIチャットボットをノーコードで構築 「Kotozna TPG」提供開始",
-          "summary": "Kotozna株式会社は、企業固有の情報を活用して生成AIチャットボットを構築できるノーコード型サービス「Kotozna Tailored Prompts Generator（Kotozna TPG）」の提供を6月3日から開始した。企業が保有するさまざまな形式の情報やデータを蓄積し組み合わせることで、目的に応じてカスタマイズした多言語生成AIチャットボットをノーコードで構築できるという。",
-          "link": "https://ascii.jp/elem/000/004/280/4280248/?rss",
-          "published": "Tue, 10 Jun 2025 07:00:00 +0900",
-          "id": "e16faa6e"
+          "title": "「養蜂家」の名を冠する中国系サイバースパイが暗躍中！ ESETが追跡してみた",
+          "summary": "ESET社は、中国政府との関連が指摘される新たなサイバースパイグループCeranaKeeperによる、タイの政府機関を標的とした複数の攻撃キャンペーンを発見しました。",
+          "link": "https://ascii.jp/elem/000/004/280/4280462/?rss",
+          "published": "Tue, 10 Jun 2025 14:00:00 +0900",
+          "id": "4a8e17f3"
         },
         {
-          "title": "ティアフォー、パートナーの自動運転開発をサポートするスターターキット「DTVキット」を提供開始",
-          "summary": "株式会社ティアフォーは、パートナー企業が自動運転技術や車両の開発に取り組みやすくするためのスターターキットとして、「DTVキット」の提供開始を5月29日に発表した。同キットは、ティアフォーが開発を主導する自動運転用オープンソースソフトウェア「Autoware」により動作が検証されており、無人配送車両を開発するスタートアップ企業であるWhale Dynamicとの協業で開発した車両「Drivable Test Vehicle（DTV）」を使用しているという。",
-          "link": "https://ascii.jp/elem/000/004/280/4280245/?rss",
-          "published": "Tue, 10 Jun 2025 07:00:00 +0900",
-          "id": "c2ed800f"
+          "title": "エレコム・DXアンテナ製品ユーザーは要確認。6月18日、SkyLink DDNSメンテナンスで一部アクセス不能に",
+          "summary": "エレコムは6月18日にSkyLink DDNSサービスを一時休止。",
+          "link": "https://ascii.jp/elem/000/004/280/4280624/?rss",
+          "published": "Tue, 10 Jun 2025 13:45:00 +0900",
+          "id": "1f01514b"
         },
         {
-          "title": "「いい薬を、安くつくる」ために。iSiPが挑む「デジタルネイティブ創薬」の現在地",
-          "summary": "新薬開発には十数年以上・数百億円がかかるが、薬価制度の影響でリスクが取れず、革新的な創薬が生まれにくい。iSiP株式会社は“デジタルネイティブ創薬”を掲げ、従来型AI創薬の限界を見直し、高難度ターゲットへの実装を目指す。",
-          "link": "https://ascii.jp/elem/000/004/279/4279940/?rss",
-          "published": "Tue, 10 Jun 2025 07:00:00 +0900",
-          "id": "cbd89ceb"
+          "title": "アップル、不評だった「写真」アプリを一部元に戻す",
+          "summary": "アップルは6月9日（現地時間）、iOSの次期大型アップデートとなる「iOS 26」を発表。標準搭載される「写真」アプリの仕様を変更することを明らかにした。",
+          "link": "https://ascii.jp/elem/000/004/280/4280625/?rss",
+          "published": "Tue, 10 Jun 2025 13:30:00 +0900",
+          "id": "474b7c83"
         },
         {
-          "title": "「絶望感」で死亡リスク上昇、医師は「希望」を処方できるか？",
-          "summary": "画像クレジット:Stephanie Arnett/MIT Technology Review | Envato",
-          "link": "https://ascii.jp/elem/000/004/280/4280520/?rss",
-          "published": "Tue, 10 Jun 2025 06:57:04 +0900",
-          "id": "70f0a947"
+          "title": "エレコムから高耐久LANケーブルが新登場！10ギガ/40ギガ対応で快適なネットワーク環境へ",
+          "summary": "エレコムから新発売の高耐久LANケーブルは、高速かつ安定したネットワーク環境を実現するための強力なパートナーだ。",
+          "link": "https://ascii.jp/elem/000/004/280/4280623/?rss",
+          "published": "Tue, 10 Jun 2025 13:30:00 +0900",
+          "id": "a9f94a40"
         },
         {
-          "title": "「iPadOS 26」で、iPadについに本格的なマルチウインドウ機能＆かなりMacライクに！",
-          "summary": "WWDC25の各OSの紹介でトリを飾ったのが「iPadOS 26」。実本格的なマルチウィンドウ機能を搭載するなど、極めて大きな進化をともなう内容だった。",
-          "link": "https://ascii.jp/elem/000/004/280/4280518/?rss",
-          "published": "Tue, 10 Jun 2025 06:50:00 +0900",
-          "id": "0b625f16"
+          "title": "まるでシャープペンの描き心地。エレコムの約1mm極細アクティブタッチペンでiPadのメモやスケッチが快適に",
+          "summary": "エレコムが約1mmの極細ペン先を持つアクティブタッチペンとApple Pencil用交換ペン先を新発売。",
+          "link": "https://ascii.jp/elem/000/004/280/4280597/?rss",
+          "published": "Tue, 10 Jun 2025 13:15:00 +0900",
+          "id": "1dd54969"
         },
         {
-          "title": "今秋登場のiOS 26はiPhone 11以降の対応 XS／XRはついにバージョンアップ対象外に！",
-          "summary": "半透明な新デザインを採用したiOSの新バージョン「iOS 26」。となると、対応モデルが気になるが、答えはiPhone 11以降。XS／XRが今回バージョンアップ対象から外された形だ。",
-          "link": "https://ascii.jp/elem/000/004/280/4280517/?rss",
-          "published": "Tue, 10 Jun 2025 06:00:00 +0900",
-          "id": "8fd05f91"
+          "title": "ルイス・ロビン敬：テクノロジーと「仲間感」で目指す循環型社会",
+          "summary": "Social Innovation Japan代表理事のルイス・ロビン敬は、プラスチックごみ削減をテーマに始めた「mymizu」プラットフォームを世界に広げ、人々が環境問題に取り組むマインドセットを変えようとしている。",
+          "link": "https://ascii.jp/elem/000/004/280/4280628/?rss",
+          "published": "Tue, 10 Jun 2025 13:10:32 +0900",
+          "id": "06c025eb"
         },
         {
-          "title": "アップル「iOS 26」は透明デザインにリアルタイム翻訳も！（なお、日本語は通話非対応……）",
-          "summary": "アップルは、今秋に正式版をリリース予定の「iOS 26」を発表。iPhone 11以降で利用できる。デザイン面では半透明ベースの「Liquid Glass」に刷新し、外観的にも大きな変化を遂げた。",
-          "link": "https://ascii.jp/elem/000/004/280/4280516/?rss",
-          "published": "Tue, 10 Jun 2025 05:40:00 +0900",
-          "id": "0e8c2497"
+          "title": "最大12Wの高速充電！エレコムの新型ワイヤレス充電器「W-QS11BK」は3枚コイル搭載で安定性も抜群",
+          "summary": "エレコムが新たに発表したワイヤレス充電器「W-QS11BK」は、3枚のコイル搭載で縦横自由に充電可能。",
+          "link": "https://ascii.jp/elem/000/004/280/4280596/?rss",
+          "published": "Tue, 10 Jun 2025 13:00:00 +0900",
+          "id": "0a087ada"
         },
         {
-          "title": "最大79,000円オフ！パソコンショップSEVENの特価セールが6月10日開催。RTX 4060 Ti搭載の手頃なモデルも",
-          "summary": "株式会社セブンアールジャパンが6月10日に実施する『2025/6/10 24時間限定セール』で、最新のゲーミングPCとデスクトップPCが最大79,000円オフで提供される。",
-          "link": "https://ascii.jp/elem/000/004/280/4280471/?rss",
-          "published": "Tue, 10 Jun 2025 00:00:00 +0900",
-          "id": "b08c9e73"
+          "title": "編集部の3人に1人はつかっている「iPad（A16）」はやっぱりすごかった！",
+          "summary": "2025年に登場した最新の「iPad（A16）」。iPadファミリーの中でもっとも手に取りやすい価格設定でありながら、128GBの大容量ストレージ、iPhone 15にも搭載されているA16 Bionicチップを採用するなど、性能面でも妥協のないモデルに仕上がっています。",
+          "link": "https://ascii.jp/elem/000/004/268/4268904/?rss",
+          "published": "Tue, 10 Jun 2025 13:00:00 +0900",
+          "id": "375703c5"
         },
         {
-          "title": "週刊アスキー No.1547(2025年6月10日発行)",
-          "summary": "特集1はWindows 11活用。毎日使うOSだから快適性を求めよう。特集2は人気の白色ケース。自作PCもスタイリッシュに決める時代だ。",
-          "link": "https://ascii.jp/elem/000/004/280/4280272/?rss",
-          "published": "Tue, 10 Jun 2025 00:00:00 +0900",
-          "id": "77db85b9"
+          "title": "ケーブル不要でiPhoneを充電！エレコムのQi2対応・5,000mAhモバイルバッテリーが新発売",
+          "summary": "エレコムが新たに発売したQi2対応ワイヤレスモバイルバッテリーは、マグネットでスマートフォンに吸着し、ケーブル不要で最大15Wのワイヤレス充電を実現。",
+          "link": "https://ascii.jp/elem/000/004/280/4280593/?rss",
+          "published": "Tue, 10 Jun 2025 12:45:00 +0900",
+          "id": "8cd40e3b"
         },
         {
-          "title": "1杯分を約2分で抽出! 小型エスプレッソメーカー「ミニバリ」",
-          "summary": "圧力をかけた本格的なエスプレッソをご自宅で楽しめる小型エスプレッソメーカー「ミニバリ」を発売中。",
-          "link": "https://ascii.jp/elem/000/004/280/4280318/?rss",
-          "published": "Mon, 09 Jun 2025 21:00:00 +0900",
-          "id": "194cb1d6"
+          "title": "暗い場所でも数字がくっきり！エレコムの新体重計「エクリア」、乗るだけ測定で面倒な手間いらず",
+          "summary": "エレコム、表示が見やすい黒色背景の液晶画面を採用した「エクリア 体重計」4製品を新発売。",
+          "link": "https://ascii.jp/elem/000/004/280/4280592/?rss",
+          "published": "Tue, 10 Jun 2025 12:45:00 +0900",
+          "id": "94cfe42b"
         },
         {
-          "title": "遊びやすさ◎「龍の国 ルーンファクトリー」非常に好評な4つの理由 「めっちゃ楽しい」「ちゃんとルンファクしてる」",
-          "summary": "マーベラスが6月5日に発売したシリーズ最新作「龍の国 ルーンファクトリー（龍ファク）」。ユーザーからの評価も非常に高い傑作となっている。実際にプレイしてどこが面白かったのか、レポートしていきたい。",
-          "link": "https://ascii.jp/elem/000/004/280/4280493/?rss",
-          "published": "Mon, 09 Jun 2025 20:30:00 +0900",
-          "id": "1ec29645"
+          "title": "アップル「iPhone SE 2」延命 「iOS 26」サポート対象に",
+          "summary": "アップルは6月9日（現地時間）、2025年秋にリリース予定の「iOS 26」を発表。あわせて、同バージョンの対応機種を明らかにした。",
+          "link": "https://ascii.jp/elem/000/004/280/4280594/?rss",
+          "published": "Tue, 10 Jun 2025 12:30:00 +0900",
+          "id": "54879074"
         },
         {
-          "title": "アップル「iPhone XS」ついに「iOS 26」サポート対象外か",
-          "summary": "アップルが来週発表予定のiOS 26では、iPhone XS、iPhone XS Max、iPhone XRがサポート対象から外れる可能性が高そうだ。米メディアAppleInsiderが6月4日に報じた。",
-          "link": "https://ascii.jp/elem/000/004/280/4280265/?rss",
-          "published": "Mon, 09 Jun 2025 20:00:00 +0900",
-          "id": "30313c3b"
+          "title": "お米、5kgで実質3000円台 JR各社、お得価格で販売",
+          "summary": "JR北海道、JR東日本、JR西日本、JR九州の4社は6月9日、「生活応援価格」キャンペーンを発表した。令和6年産や政府備蓄米などを割安価格で販売する。",
+          "link": "https://ascii.jp/elem/000/004/280/4280591/?rss",
+          "published": "Tue, 10 Jun 2025 12:15:00 +0900",
+          "id": "c0187718"
         },
         {
-          "title": "アップル「iOS 26」メッセージ、メモ超進化か 自動翻訳に投票機能、マークダウン記法で書き出しも可能に",
-          "summary": "アップルは来週発表予定のiOS 26で、メッセージアプリやメモアプリなどの標準アプリに複数の新機能を追加する予定だという。米メディア9to5Macが6月3日に独占情報として報じた。",
-          "link": "https://ascii.jp/elem/000/004/280/4280264/?rss",
-          "published": "Mon, 09 Jun 2025 20:00:00 +0900",
-          "id": "47e0dae7"
+          "title": "任天堂「Switch 2、付属のHDMIケーブル使って」 初代機の付属品では性能不足",
+          "summary": "任天堂はNintendo Switch 2をテレビにつなぐ際、付属の「ウルトラハイスピードHDMIケーブル」を使用するよう注意喚起した。Nintendo Switchの「ハイスピードHDMIケーブル」では性能が不足しているという。",
+          "link": "https://ascii.jp/elem/000/004/280/4280590/?rss",
+          "published": "Tue, 10 Jun 2025 12:10:00 +0900",
+          "id": "03fe3797"
         },
         {
-          "title": "アップル「iOS 26」Macのプレビューアプリ移植か",
-          "summary": "アップルは次期iOS 26とiPadOS 26に、Macのプレビューアプリを移植する予定だという。米メディアBloombergのMark Gurman記者が6月6日のWWDC 2025の展望を報じた記事で伝えた。",
-          "link": "https://ascii.jp/elem/000/004/280/4280262/?rss",
-          "published": "Mon, 09 Jun 2025 20:00:00 +0900",
-          "id": "e3d937e4"
+          "title": "朝起きたらiPadがMacになってたんだけど。iPadOS 26はマルチタスク化を加速させる“史上最大”のアップデート",
+          "summary": "WWDC25で発表された「iPadOS 26」はかなりMacっぽいUIになっています。",
+          "link": "https://ascii.jp/elem/000/004/280/4280533/?rss",
+          "published": "Tue, 10 Jun 2025 12:00:00 +0900",
+          "id": "135f3563"
         },
         {
-          "title": "LE SSERAFIMのさいたま公演会場に『Rhythm Hive』のプレイゾーンを設置！新曲「DIFFERENT」が遊べる",
-          "summary": "HYBE IMは、2025年6月12日、14日、15日に開催予定のLE SSERAFIMのさいたま公演会場「さいたまスーパーアリーナ」にて、モバイルリズムゲーム『Rhythm Hive』のプレイゾーンを設置すると5月9日に発表。",
-          "link": "https://ascii.jp/elem/000/004/280/4280504/?rss",
-          "published": "Mon, 09 Jun 2025 19:30:00 +0900",
-          "id": "705c25bc"
+          "title": "グランツーリスモの山内Pに聞くシャオミとのコラボは「驚き」と「情熱」が紡ぐ新たなパートナーシップ",
+          "summary": "6月7日、ロンドンで開催された「グランツーリスモ ワールドシリーズ 2025」の開幕戦にて、GTシリーズプロデューサーの山内一典氏と、Xiaomi EVのチーフテストドライバーZhoucan Ren氏にお話を聞きました。",
+          "link": "https://ascii.jp/elem/000/004/280/4280509/?rss",
+          "published": "Tue, 10 Jun 2025 12:00:00 +0900",
+          "id": "2ec1cada"
         }
       ],
       "status": "success"
@@ -3638,13 +3638,6 @@
       "url": "https://thenextweb.com/feed",
       "articles_count": 10,
       "articles": [
-        {
-          "title": "Starmer tells UK to ‘push past’ AI job fears as tech leaders raise alarm",
-          "summary": "British Prime Minister Keir Starmer has said it is time to “push past” concerns that AI poses a threat to human jobs — contradicting the concerns of some of tech’s biggest players. Speaking at London Tech Week today, Starmer called for industry to embed AI throughout the UK economy, from healthcare to education. By taking on administrative tasks, Starmer argues that artificial intelligence tools can free up people to focus on the “human work.” For this reason, he said, “AI will make us more huma",
-          "link": "https://thenextweb.com/news/starmer-ai-job-fears-london-tech-week",
-          "published": "Mon, 09 Jun 2025 13:23:48 +0000",
-          "id": "907ee090"
-        },
         {
           "title": "Why tech companies are snubbing the London Stock Exchange",
           "summary": "British fintech Wise said this week it would shift its primary listing from London to New York, joining a growing list of firms snubbing the London Stock Exchange. UK chip designer Arm opted for a New York IPO in 2023, while food delivery giant Just Eat Takeaway quit the LSE for Amsterdam in November. Sweden’s Klarna has confirmed plans to go public in New York, following in the footsteps of fellow Stockholm-based tech darling Spotify, which listed on the NYSE in 2018. The draw? Bigger valuation",
@@ -3707,6 +3700,13 @@
           "link": "https://thenextweb.com/news/tnw-backstage-flower-delivery-bloom-wild-ceo",
           "published": "Wed, 04 Jun 2025 06:00:33 +0000",
           "id": "fa320e4f"
+        },
+        {
+          "title": "Startups need ‘clear pathway’ into UK’s new defence plan, experts warn",
+          "summary": "Britain’s new military tech strategy will fail unless startups are given clear pathways to adoption, experts have warned. Their concerns follow the government’s announcement that defence spending will increase to its highest level since the Cold War. Prime Minister Keir Starmer set out the aims in the new Strategic Defence Review (SDR), which includes plans to boost investment in technologies such as AI, drones, robots, laser weapons, and submarines. The review outlines ambitious goals for milit",
+          "link": "https://thenextweb.com/news/startups-uk-strategic-defence-plan-experts-warn",
+          "published": "Tue, 03 Jun 2025 13:54:42 +0000",
+          "id": "3d3aaa3e"
         }
       ],
       "status": "success"
@@ -3715,6 +3715,62 @@
       "url": "https://gigazine.net/news/rss_2.0/",
       "articles_count": 30,
       "articles": [
+        {
+          "title": "YouTubeがモデレーターに政治・社会・文化的な問題を含む潜在的な危害よりも「表現の自由」を優先するように指示",
+          "summary": "利用規約に違反する動画に警告を与え、削除する措置を行っているYouTubeで、2024年末頃から規制が緩くなっていることが明らかになりました。「表現の自由」が「動画がもたらす危害のリスク」を上回る可能性がある場合、動画は削除されず残される可能性があるとのことです。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-youtube-moderation-rule/",
+          "published": "Tue, 10 Jun 2025 13:00:00 +0900",
+          "id": "c0629fa6"
+        },
+        {
+          "title": "中国全土で大学入試期間中にAIサービスが一斉停止",
+          "summary": "イギリスのシンクタンクが2025年2月に実施した調査ではイギリスの学部生の10人中9人以上が何らかの形でAIを使用していることが報告されたり、AIを駆使してカンニングなどの不正行為がまん延していると懸念されていたりと、AIの発達に伴う教育環境の問題が注目されています。そんな中、中国では全国規模の大学入試期間中に学生がAIで不正を働く可能性を防ぐため、複数のチャットAIのサービスを一斉に停止したことが報じられています。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-ai-shut-down/",
+          "published": "Tue, 10 Jun 2025 12:30:00 +0900",
+          "id": "722699c7"
+        },
+        {
+          "title": "歯をきれいにするついでにストレスを測定できるデンタルフロスが開発される",
+          "summary": "デンタルフロスは細い糸を用いて歯と歯の間を清掃する道具であり、歯磨きの仕上げにデンタルフロスを使っているという人もいるはず。新たにアメリカのタフツ大学の研究チームが、「歯をきれいにするついでにストレスを測定できるデンタルフロス」を開発しました。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-smart-dental-floss-detect-stress-saliva/",
+          "published": "Tue, 10 Jun 2025 12:00:00 +0900",
+          "id": "904846fa"
+        },
+        {
+          "title": "Apple公式のmacOS上でLinuxコンテナを実行するためのオープンソースSwiftパッケージ「Containerization」",
+          "summary": "Appleは年次開発者会議のWWDC25で、デベロッパー向けの新テクノロジーやアップデートを発表しました。この中で発表された、Mac上でLinuxコンテナを実行するためのSwiftパッケージが「Containerization」です。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-apple-linux-swift-containerization/",
+          "published": "Tue, 10 Jun 2025 11:57:00 +0900",
+          "id": "daadba56"
+        },
+        {
+          "title": "Waymoがロサンゼルスの一部でロボタクシー運行を停止、トランプ政権の移民政策に対する抗議デモの影響ですでに5台が被害",
+          "summary": "トランプ政権が推し進める移民政策への抗議デモ(反ICEデモ)の影響で、ロボタクシー事業を展開しているWaymoがロサンゼルスの一部でサービス提供を一時停止する方針を明らかにしました。ロサンゼルスでは、Waymoのロボタクシーが放火される事態が発生しています。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-waymo-la-anti-ice/",
+          "published": "Tue, 10 Jun 2025 11:46:00 +0900",
+          "id": "0078629b"
+        },
+        {
+          "title": "Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される",
+          "summary": "Googleアカウントには電話番号を紐付けることが可能で、2段階認証プロセスに使用したり、ログインパスワードを忘れてしまったときの復旧に用いたりといった用途に活用できます。サイバーセキュリティ研究者が「Googleにどの電話番号が割り当てられているか」を発見できる脆弱(ぜいじゃく)性を指摘し、それを受けてGoogleは問題を修正したことを報告しています。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-google-phones/",
+          "published": "Tue, 10 Jun 2025 11:25:00 +0900",
+          "id": "1a518d5c"
+        },
+        {
+          "title": "ChatGPTがチェス対決で「Atari 2600」に負ける",
+          "summary": "1977年に発売されたゲーム機「Atari 2600」のエミュレーターとChatGPTをチェスで戦わせたところ、ChatGPTが負けてしまったことがわかりました。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-chatgpt-atari-6000-chess/",
+          "published": "Tue, 10 Jun 2025 11:21:00 +0900",
+          "id": "50a64831"
+        },
+        {
+          "title": "AppleがXcodeにAIでのコーディング補助機能を追加＆Apple Intelligenceの基盤モデルフレームワークが利用可能に",
+          "summary": "日本時間の2025年6月10日から年次開発者会議のWWDC25を開催しているAppleが、デベロッパーがAppleプラットフォーム向けにより優れたアプリを開発できるように、新しいテクノロジーとデベロッパー向けツールの機能強化を発表しました。続きを読む...",
+          "link": "https://gigazine.net/news/20250610-xcode-26-chatgpt/",
+          "published": "Tue, 10 Jun 2025 10:42:00 +0900",
+          "id": "ac834bf2"
+        },
         {
           "title": "「iPadOS 26」でついにウィンドウ表示が可能に、複数のアプリをウィンドウ化して自由に配置できるように",
           "summary": "2025年6月10日2時からAppleが開催している年次開発者会議「WWDC25」の基調講演で、「iPadOS 26」が発表されました。Apple製OSの統一デザインである「Liquid Glass」に一新されると同時に、これまでフルスクリーン表示されていたアプリ画面をウィンドウ化し、複数を1つの画面に同時表示できるようになりました。続きを読む...",
@@ -3868,62 +3924,6 @@
           "link": "https://gigazine.net/news/20250609-wwdc-2025-matome/",
           "published": "Mon, 09 Jun 2025 12:19:00 +0900",
           "id": "12d89432"
-        },
-        {
-          "title": "パブリックドメインおよびオープンライセンスのコンテンツのみで構成された約8TBの巨大データセット「Common Pile v0.1」をAI研究機関・EleutherAIがリリース",
-          "summary": "非営利のAI研究組織であるEleutherAIがトロント大学やHugging Faceなどと共同で、パブリックドメインおよびオープンライセンスのコンテンツのみで構成されるデータセット「Common Pile v0.1」を公開しました。このCommon Pile v0.1でトレーニングされたAIモデル「Comma v0.1-1T」「Comma v0.1-2T」は、「著作権で保護された無許可のデータを使用して開発されたモデルと同等の性能を発揮した」とのことです。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-eleutherai-common-pile-v-0-1/",
-          "published": "Mon, 09 Jun 2025 12:05:00 +0900",
-          "id": "3a0c5596"
-        },
-        {
-          "title": "科学的に正しい分子設計が可能な化学特化AI推論モデル「ether0」登場、既存の言語モデルに強化学習を施して人間や既存AIを上回る性能を発揮",
-          "summary": "科学技術向けのAIエージェントを開発する非営利団体のFutureHouseが、化学タスクに特化したAI推論モデル「ether0」を発表しました。ether0は「Mistral-Small-24B-Instruct-2501(Mistral Small 3)」をベースに強化学習を施したモデルで、分子に関する質問に高精度な応答を返すことができます。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-ether0-scientific-reasoning-ai-model-chemistry/",
-          "published": "Mon, 09 Jun 2025 12:00:00 +0900",
-          "id": "530b3d4a"
-        },
-        {
-          "title": "中国が「台湾がアメリカの支援を受けて5つのサイバー攻撃グループを運営している」と非難",
-          "summary": "中国の国家コンピュータウイルス緊急対応センターが、「台湾がアメリカの支援を受け、数年にわたるサイバー攻撃で中国を標的にしたが、それは木を揺らそうとするアリに例えられるほど弱かった」とする報告書を発表しました。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-taiwan-cyberattack-china-report/",
-          "published": "Mon, 09 Jun 2025 11:54:00 +0900",
-          "id": "0d2141cc"
-        },
-        {
-          "title": "MetaがAI企業「Scale AI」に1.4兆円規模の投資を行う方向で協議、Metaの社外AI投資では最大規模",
-          "summary": "MetaとAI企業のScale AIが、投資についての協議を行っていると経済紙のブルームバーグが報じました。Metaの投資額は100億ドル(約1兆4400億円)規模で、Metaが外部のAI企業に投資する事例としては最大規模となる見込みです。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-meta-scale-ai/",
-          "published": "Mon, 09 Jun 2025 11:35:00 +0900",
-          "id": "431f5c44"
-        },
-        {
-          "title": "Microsoftが「ASUS ROG Xbox Ally」で携帯型ゲーミングPCに参入、AMDの次世代モバイル向けSoC「Ryzen Z2」シリーズを搭載",
-          "summary": "MicrosoftとASUSが、Windows搭載の携帯型ゲーミングPC「ROG Xbox Ally」を発表しました。初代ASUS ROG Allyに対するフィードバックを基に、Xbox Oneコントローラーと融合した本体が特徴で、AMDの携帯型ゲーミングPC向けチップ「Ryzen AI Z2」を搭載しています。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-rog-xbox-ally-microsoft-asus/",
-          "published": "Mon, 09 Jun 2025 10:49:00 +0900",
-          "id": "55fabc1e"
-        },
-        {
-          "title": "ポケモンの開発元ゲームフリークによるアクションRPG「Beast of Reincarnation」は2026年に発売予定",
-          "summary": "ポケットモンスターシリーズの開発を手掛けるゲームフリークが、新作アクションRPGの「Beast of Reincarnation」を発表しました。Beast of Reincarnationは2023年5月に「Project Bloom」として制作が発表されたもので、Microsoftの有料ゲームサブスクリプションサービスであるXbox Game PassおよびXbox Series X/S、PlayStation 5で2026年に発売予定です。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-beast-of-reincarnation/",
-          "published": "Mon, 09 Jun 2025 10:44:00 +0900",
-          "id": "9c68b824"
-        },
-        {
-          "title": "1時間以内にフル充電できる90Wの急速充電器が付属する「Xiaomi 15」のバッテリー充電性能＆バッテリー持続時間を徹底検証してみたよレビュー",
-          "summary": "Xiaomi製スマートフォン「Xiaomi 15」には90W出力の充電アダプタが付属しており、大容量の出力でバッテリーを急速充電することができます。いったいどれほどのスピードでバッテリーを充電できるのか実際に確かめてみました。また、バッテリー持続時間の検証も実施したほか、ベンチマークアプリで全体的な性能も測定してみました。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-xiaomi-15-battery-charge/",
-          "published": "Mon, 09 Jun 2025 08:30:00 +0900",
-          "id": "82786d9b"
-        },
-        {
-          "title": "Xの「暗号化DM」や「XChat」があまりよくない理由とは？",
-          "summary": "X(旧Twitter)には暗号化DM機能があるほか、強化版のDMとして新たにXChatが追加される見込みです。XChatについては、イーロン・マスク氏が「ビットコイン風の暗号化機能を実装」とアピールしたことがツッコミの対象となっていますが、そもそもXの暗号化はあまりよくないと、開発者のマシュー・ガレット氏が指摘しています。続きを読む...",
-          "link": "https://gigazine.net/news/20250609-x-encrypted-direct-message/",
-          "published": "Mon, 09 Jun 2025 08:00:00 +0900",
-          "id": "23d4e4fd"
         }
       ],
       "status": "success"
@@ -4039,11 +4039,452 @@
         }
       ],
       "status": "success"
+    },
+    "TechEU": {
+      "url": "https://tech.eu/feed/",
+      "articles_count": 20,
+      "articles": [
+        {
+          "title": "Lithuanian AI startup Sintra secures $17M Seed: empowering SMEs with AI helpers",
+          "summary": "Lithuanian AI startup Sintra today announced $17 million Seed funding to double down on its mission of empowering small businesses with simple-to-use AI helpers. Founded just over a year ago, Sintra ...",
+          "link": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/",
+          "published": "Tue, 10 Jun 2025 04:00:00 +0000",
+          "id": "85f32a55"
+        },
+        {
+          "title": "Oxford university quantum computing spinout snapped up in $1.1BN deal",
+          "summary": "One of the UK’s leading quantum computing startups is to be acquired by a US peer in a $1.075bn deal.Quantum computing can solve problems too difficult for normal computers and makes it possible to ca...",
+          "link": "https://tech.eu/2025/06/09/oxford-university-quantum-computing-spinout-snapped-up-in-11bn-deal/",
+          "published": "Mon, 09 Jun 2025 21:11:00 +0000",
+          "id": "9bd239a1"
+        },
+        {
+          "title": "UK AI ecosystem “perfect for takeoff” but lacks infrastructure, says Nvidia CEO",
+          "summary": "The CEO of the most valuable publicly traded company in the world today (Monday) said the UK AI ecosystem was ready for “takeoff” but was missing its own AI infrastructure.Nvidia CEO Jensen Huang, one...",
+          "link": "https://tech.eu/2025/06/09/uk-ai-ecosystem-perfect-for-take-off-but-lacks-infrastructure-says-nvidia-ceo/",
+          "published": "Mon, 09 Jun 2025 13:23:00 +0000",
+          "id": "1ee49211"
+        },
+        {
+          "title": "Women TechEU faces scrutiny over gender bias and bureaucracy",
+          "summary": "Women TechEU — not to be confused with our publication Tech.eu — is a European Union–funded initiative designed to support early-stage deeptech startups led by women across Europe.It offers early-sta...",
+          "link": "https://tech.eu/2025/06/09/women-techeu-faces-scrutiny-over-gender-bias-and-bureaucracy/",
+          "published": "Mon, 09 Jun 2025 11:16:53 +0000",
+          "id": "b93b02e4"
+        },
+        {
+          "title": "Multiverse powers national AI drive with 15,000 new apprenticeships",
+          "summary": "Today, the upskilling platform for tech and AI adoption Multiverse announces a commitment to train 15,000 new AI apprentices over the next two years. Multiverse has partnered with over 1,500 companies...",
+          "link": "https://tech.eu/2025/06/09/multiverse-powers-national-ai-drive-with-15-000-new-apprenticeships/",
+          "published": "Mon, 09 Jun 2025 10:10:00 +0000",
+          "id": "27bdd7d5"
+        },
+        {
+          "title": "MOSTLY AI launches $100K challenge to advance synthetic data innovation",
+          "summary": "Austrian synthetic data startup MOSTLY AI has launched a $100,000 prize challenge to create the best synthetic data set from a real data set. The challenge is open to everyone and anyone. Applicants w...",
+          "link": "https://tech.eu/2025/06/09/mostly-ai-launches-100k-challenge-to-advance-synthetic-data-innovation/",
+          "published": "Mon, 09 Jun 2025 09:00:00 +0000",
+          "id": "385c5278"
+        },
+        {
+          "title": "Altura raises €8M for AI-powered bid management platform",
+          "summary": "Bid management platform Altura has raised €8 million in Series A funding as it becomes the first to launch autonomous AI agents to help businesses win more public and private sector tenders, particula...",
+          "link": "https://tech.eu/2025/06/09/altura-raises-eur8m-for-ai-powered-bid-management-platform/",
+          "published": "Mon, 09 Jun 2025 08:57:15 +0000",
+          "id": "0dec3166"
+        },
+        {
+          "title": "European tech weekly recap: More than 85 tech funding deals worth over €2.1B in the first week of June",
+          "summary": "Last week, we tracked more than 85 tech funding deals worth over €2.1 billion, and over 10 exits, M&amp;A transactions, rumours, and related news stories across Europe.Haberin devamını okumak için tıklayı...",
+          "link": "https://tech.eu/2025/06/09/european-tech-weekly-recap-over-eur21b-invested-into-the-tech-ecosystem-in-the-last-week-of-may/",
+          "published": "Mon, 09 Jun 2025 08:30:00 +0000",
+          "id": "556ecf77"
+        },
+        {
+          "title": "UK legaltech Definely secures $30M to boost global reach and AI development",
+          "summary": "UK legaltech company Definely has raised $30 million in Series B funding to accelerate its global expansion and AI product roadmap. This additional funding brings the total amount raised by Definely s...",
+          "link": "https://tech.eu/2025/06/09/uk-legaltech-definely-secures-30m-to-boost-global-reach-and-ai-development/",
+          "published": "Mon, 09 Jun 2025 07:00:00 +0000",
+          "id": "25273b58"
+        },
+        {
+          "title": "VC spring revival: European tech investment jumps 66 per cent month-on-month",
+          "summary": "According to the Tech.eu database, in May, European tech companies collectively secured €5.5 billion across 341 deals, a 66.7 per cent increase compared to April’s €3.3 billion across 311 deals. Haber...",
+          "link": "https://tech.eu/2025/06/09/vc-spring-revival-european-tech-investment-jumps-66-per-cent-month-on-month/",
+          "published": "Mon, 09 Jun 2025 06:42:18 +0000",
+          "id": "24630a7d"
+        },
+        {
+          "title": "European Tech.eu Pulse: key trends and investment in May",
+          "summary": "At Tech.eu we keep track of the investment landscape with data driven insights. Our Tech.eu Insiders enjoy unlimited, exclusive access to all our content, including market-intelligence analysis, repor...",
+          "link": "https://tech.eu/2025/06/09/european-tech-eu-pulse-key-trends-and-investment-in-may/",
+          "published": "Mon, 09 Jun 2025 06:40:58 +0000",
+          "id": "bc319fc9"
+        },
+        {
+          "title": "The Recursive triples revenue and announces new leadership structure",
+          "summary": "Today, tech media The Recursive announces a new leadership structure to guide its next chapter. Teodor Antonio Georgiev has been appointed Chief Executive Officer, joined by Etien Yovchev and Dilyana ...",
+          "link": "https://tech.eu/2025/06/09/the-recursive-triples-revenue-and-announces-new-leadership-structure/",
+          "published": "Mon, 09 Jun 2025 06:00:00 +0000",
+          "id": "d9f28f90"
+        },
+        {
+          "title": "The state of humanoid robots, Valla increases access to employment law for millions, and Bono on social impact investing",
+          "summary": "This week we tracked more than 85 tech funding deals worth over €2.1 billion, and over 10 exits, M&amp;A transactions, rumours, and related news stories across Europe. If email is more your thing, you...",
+          "link": "https://tech.eu/2025/06/06/valla-increases-access-to-employment-law-for-millions-and-bono-on-social-impact-investing/",
+          "published": "Fri, 06 Jun 2025 14:24:44 +0000",
+          "id": "aadb08d0"
+        },
+        {
+          "title": "SeedLegals acquires The Pitch to boost UK startup fundraising ecosystem",
+          "summary": "London-based legaltech SeedLegals has acquired The Pitch, the country’s largest pitching competition for early-stage entrepreneurs. The acquisition aims to expand SeedLegals’ support for startups by i...",
+          "link": "https://tech.eu/2025/06/06/seedlegals-acquires-the-pitch-to-boost-uk-startup-fundraising-ecosystem/",
+          "published": "Fri, 06 Jun 2025 11:53:38 +0000",
+          "id": "03028d9b"
+        },
+        {
+          "title": "London’s Latent Technology secures $8M to supercharge gaming with generative physics",
+          "summary": "London-based Latent Technology, a gaming company specialising in AI-driven physical animation, has raised $8 million in seed funding. The round was co-led by AlbionVC and Spark Capital, with additiona...",
+          "link": "https://tech.eu/2025/06/06/londons-latent-technology-secures-8m-to-transform-game-animation-with-generative-physic/",
+          "published": "Fri, 06 Jun 2025 11:53:25 +0000",
+          "id": "c71d639f"
+        },
+        {
+          "title": "London-based TG0 partners with NHS to distribute smart prosthetic liner",
+          "summary": "British healthtech TG0 has developed a smart prosthetic liner that uses ultra-soft, wireless sensor materials to monitor pressure and comfort, with the intention of reducing device abandonment rates.T...",
+          "link": "https://tech.eu/2025/06/06/londons-tg0-develops-mart-prosthetic-liner-aiming-to-cut-nhs-costs-and-reduce-device-abandonment/",
+          "published": "Fri, 06 Jun 2025 11:53:03 +0000",
+          "id": "25a3f600"
+        },
+        {
+          "title": "Europe launches €55M GENESIS project to address semiconductors' environmental impact",
+          "summary": "Europe has launched a new €55 million initiative aimed at improving the environmental footprint of its semiconductor sector. The three-year GENESIS project (Generate a Sustainable Industry for Semicon...",
+          "link": "https://tech.eu/2025/06/06/europe-launches-eur55m-genesis-project-to-green-the-semiconductor-industry/",
+          "published": "Fri, 06 Jun 2025 11:52:45 +0000",
+          "id": "af7ead05"
+        },
+        {
+          "title": "Newsrooms.ai acquires Austrian tech media platform Trending Topics",
+          "summary": "AI startup newsrooms.ai is acquiring Trending Topics, the leading Austrian tech media platform founded by Jakob Steinschaden and Bastian Kellhofer.Newsrooms.ai was originally incubated within the medi...",
+          "link": "https://tech.eu/2025/06/06/newsroomsai-acquires-austrian-tech-media-platform-trending-topics/",
+          "published": "Fri, 06 Jun 2025 07:42:49 +0000",
+          "id": "62e2af0f"
+        },
+        {
+          "title": "Dual-use deeptech: Voltrac raises €2M to reinvent the tractor for civilian and military use",
+          "summary": "European deeptech startup Voltrac has officially launched its autonomous, electric tractor platform designed for agriculture and frontline logistics. Founded by aerospace engineer Francisco Infante Ag...",
+          "link": "https://tech.eu/2025/06/06/dual-use-deeptech-voltrac-raises-eur2m-to-reinvent-the-tractor-for-civilian-and-military-use/",
+          "published": "Fri, 06 Jun 2025 07:33:15 +0000",
+          "id": "a85fed18"
+        },
+        {
+          "title": "Bono and TPG’s Jim Coulter bring impact to SuperReturn: “It’s not just investing in good—it’s good investing”",
+          "summary": "Today I attended SuperReturn International, the world's largest private equity and private capital conference, held annually in Berlin. Attendees included over 1,800+ Limited Partners (LPs) managing o...",
+          "link": "https://tech.eu/2025/06/05/bono-and-tpgs-jim-coulter-bring-impact-to-superreturn-its/",
+          "published": "Thu, 05 Jun 2025 16:37:00 +0000",
+          "id": "ec669335"
+        }
+      ],
+      "status": "success"
+    },
+    "TechRadar": {
+      "url": "https://www.techradar.com/rss",
+      "articles_count": 20,
+      "articles": [
+        {
+          "title": "OpenAI's high-minded approach to AI-human relationships ignores reality",
+          "summary": "OpenAI’s blog on a thoughtful approach to human-AI relationships is a good start, but it overlooks the real emotional entanglements already happening.",
+          "link": "https://www.techradar.com/computing/artificial-intelligence/openais-high-minded-approach-to-ai-human-relationships-ignores-reality",
+          "published": "Tue, 10 Jun 2025 02:00:00 +0000",
+          "id": "1b1d03e5"
+        },
+        {
+          "title": "WWDC 2025 as it happened: all the iOS 26, MacOS Tahoe, and iPadOS news, with live video from Apple Park",
+          "summary": "Apple's big WWDC 2025 show is kicking off today –here are all of the last-minute rumors, from iOS 26 to macOS 26 and more.",
+          "link": "https://www.techradar.com/news/live/wwdc-2025",
+          "published": "Mon, 09 Jun 2025 06:46:07 +0000",
+          "id": "525c9e5c"
+        },
+        {
+          "title": "Gemini's new Scheduled Actions feature puts catching up with ChatGPT on its dayplanner",
+          "summary": "Google Gemini can schedule tasks from the app as it seeks to compete with ChatGPT.",
+          "link": "https://www.techradar.com/computing/artificial-intelligence/geminis-new-scheduled-actions-feature-puts-catching-up-with-chatgpt-on-its-dayplanner",
+          "published": "Tue, 10 Jun 2025 00:00:00 +0000",
+          "id": "29fdd8f2"
+        },
+        {
+          "title": "NYT Wordle today — answer and my hints for game #1452, Tuesday, June 10",
+          "summary": "Looking for Wordle hints? I can help. Plus get the answers to Wordle today and yesterday.",
+          "link": "https://www.techradar.com/news/wordle-today",
+          "published": "Tue, 14 Feb 2023 09:58:17 +0000",
+          "id": "dee509cd"
+        },
+        {
+          "title": "I’m finally getting my most-wanted Apple Music upgrade, but I can’t believe AirPods still didn’t get this obvious update",
+          "summary": "Finally, a good use for AI – but where's wireless Hi-Res Audio?",
+          "link": "https://www.techradar.com/audio/im-finally-getting-my-most-wanted-apple-music-upgrade-but-i-cant-believe-airpods-still-didnt-get-this-obvious-update",
+          "published": "Mon, 09 Jun 2025 22:00:00 +0000",
+          "id": "837e0bc7"
+        },
+        {
+          "title": "Workout Buddy? Forget it: watchOS 26's most exciting addition was only hinted at",
+          "summary": "watchOS 26's new Hints feature is the intelligent smart assistant I've been waiting for",
+          "link": "https://www.techradar.com/health-fitness/smartwatches/workout-buddy-forget-it-watchos-26s-most-exciting-addition-was-only-hinted-at",
+          "published": "Mon, 09 Jun 2025 22:00:00 +0000",
+          "id": "50333cbd"
+        },
+        {
+          "title": "15 things we learned at the Apple WWDC 2025 keynote",
+          "summary": "Apple's WWDC 2025 was packed with big software announcements. Here are the key details you need in your brain.",
+          "link": "https://www.techradar.com/computing/artificial-intelligence/15-things-we-learned-at-the-apple-wwdc-2025-keynote",
+          "published": "Mon, 09 Jun 2025 21:46:35 +0000",
+          "id": "678bf239"
+        },
+        {
+          "title": "The new tvOS 26 feature I’m most excited for is also the most obvious upgrade Apple could make to match Samsung and LG",
+          "summary": "Display Profiles gets an update in tvOS 26, and it's one enhancement that will help Apple keep up with the smart TV competition.",
+          "link": "https://www.techradar.com/televisions/the-new-tvos-26-feature-im-most-excited-for-is-also-the-most-obvious-upgrade-apple-could-make-to-match-samsung-and-lg",
+          "published": "Mon, 09 Jun 2025 21:38:29 +0000",
+          "id": "43dd0bd9"
+        },
+        {
+          "title": "Fake Cloudflare CAPTCHA page laden with malware uncovered in the wild - here's how to stay secure and safe",
+          "summary": "ClickFix scam mimics Cloudflare CAPTCHA pages to trick users into running malware.",
+          "link": "https://www.techradar.com/pro/security/fake-cloudflare-captcha-page-laden-with-malware-uncovered-in-the-wild-heres-how-to-stay-secure-and-safe",
+          "published": "Mon, 09 Jun 2025 21:31:00 +0000",
+          "id": "542343b6"
+        },
+        {
+          "title": "AI Siri’s absence from WWDC shows it’s still Apple’s biggest failure in 14 years",
+          "summary": "First it was Alexa and Google Assistant, then ChatGPT and Gemini – Siri's been lagging behind for 14 years.",
+          "link": "https://www.techradar.com/phones/iphone/siris-ai-absence-from-wwdc-shows-its-still-apples-biggest-failure-in-14-years",
+          "published": "Mon, 09 Jun 2025 21:25:38 +0000",
+          "id": "4569d23a"
+        },
+        {
+          "title": "Apple Intelligence was firmly in the background at WWDC 2025 as iPad finally had its chance to shine",
+          "summary": "Hardly a mention of Siri, either",
+          "link": "https://www.techradar.com/computing/artificial-intelligence/apple-intelligence-was-firmly-in-the-background-at-wwdc-2025-as-ipad-finally-had-its-chance-to-shine",
+          "published": "Mon, 09 Jun 2025 21:00:00 +0000",
+          "id": "dd0ffcb8"
+        },
+        {
+          "title": "Apple announces Vision Pro overhaul with visionOS 26 – here are the 6 biggest updates headed to Apple’s VR headset",
+          "summary": "Apple just announced visionOS 26, here are the 6 biggest new features you need to know about.",
+          "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/apple-announces-vision-pro-overhaul-with-visionos-26-here-are-the-6-biggest-updates-headed-to-apples-vr-headset",
+          "published": "Mon, 09 Jun 2025 21:00:00 +0000",
+          "id": "7ee0d540"
+        },
+        {
+          "title": "iOS 26 is giving the iPhone's Camera app an upgrade I've been waiting years for",
+          "summary": "iOS 26 has just given the iPhone's Camera app a welcome spring clean, including a much more stripped-down menu for Photos and Videos modes.",
+          "link": "https://www.techradar.com/phones/iphone/ios-26-is-giving-the-iphones-camera-app-an-upgrade-ive-been-waiting-years-for",
+          "published": "Mon, 09 Jun 2025 20:52:04 +0000",
+          "id": "1836310f"
+        },
+        {
+          "title": "macOS Tahoe 26 is official: here’s everything we know about the release date, compatibility and all the new features",
+          "summary": "Apple has revealed macOS Tahoe at WWDC 25 and we've got the lowdown on all the major new features.",
+          "link": "https://www.techradar.com/computing/mac-os/macos-tahoe",
+          "published": "Mon, 02 Jun 2025 16:51:18 +0000",
+          "id": "477d6ddb"
+        },
+        {
+          "title": "WWDC’s best announcement was something Windows did 15 years ago—here's why it's awesome",
+          "summary": "Apple’s Liquid Glass interface recalls Windows 7’s Aero theme, and I’m so glad to see it.",
+          "link": "https://www.techradar.com/computing/wwdcs-best-announcement-was-something-windows-did-15-years-ago-heres-why-its-awesome",
+          "published": "Mon, 09 Jun 2025 20:30:22 +0000",
+          "id": "59321a62"
+        },
+        {
+          "title": "Troubling stats from data recovery specialists show smaller external HDDs are 4x more likely to fail than big ones",
+          "summary": "Data claims smaller external drives fail much more often, mainly due to usage habits, low-quality hardware, and outdated file systems like FAT32.",
+          "link": "https://www.techradar.com/pro/troubling-stats-from-data-recovery-specialists-show-that-smaller-external-hdds-are-4x-more-likely-to-fail-than-big-ones",
+          "published": "Mon, 09 Jun 2025 20:27:00 +0000",
+          "id": "c2dbbfe1"
+        },
+        {
+          "title": "Good news, Apple TV fans: the big tvOS free upgrade at WWDC today works on models going back 10 years – though not all features will be available",
+          "summary": "Your Apple TV isn't going to be obsolete any time soon: tvOS 26 will come to 2015 models",
+          "link": "https://www.techradar.com/televisions/streaming-devices/good-news-apple-tv-fans-the-big-tvos-free-upgrade-at-wwdc-today-is-claimed-to-work-on-all-models-going-back-10-years",
+          "published": "Mon, 09 Jun 2025 11:41:19 +0000",
+          "id": "9ace30ae"
+        },
+        {
+          "title": "'Our biggest iPadOS release ever' – iPadOS 26 has landed, here are the 10 biggest upgrades",
+          "summary": "WWDC 2025 has given us plenty to talk about when it comes to iPadOS, from a new look to powerful new multitasking tools – here are the features we can’t wait to try.",
+          "link": "https://www.techradar.com/tablets/ipad/our-biggest-ipados-release-ever-ipados-26-has-landed-here-are-the-10-biggest-upgrades",
+          "published": "Mon, 09 Jun 2025 19:29:35 +0000",
+          "id": "9f1cda65"
+        },
+        {
+          "title": "iPad just won WWDC 2025 – here’s why the iPadOS upgrades just made me cry tears of joy",
+          "summary": "After 15 years, the iPad is no longer a supporting cast member – it's finally the star of the show.",
+          "link": "https://www.techradar.com/tablets/ipad/ipad-just-won-wwdc-2025-heres-why-the-ipados-upgrades-just-made-me-cry-tears-of-joy",
+          "published": "Mon, 09 Jun 2025 19:15:03 +0000",
+          "id": "88a122cc"
+        },
+        {
+          "title": "macOS Tahoe 26 announced at WWDC 2025 with a new look and new numbering scheme: these are the best features for your new Mac or MacBook",
+          "summary": "macOS Tahoe 26 is official and coming later this year. Here are the features we're looking forward to.",
+          "link": "https://www.techradar.com/computing/mac-os/macos-tahoe-26-announced-at-wwdc-2025-with-a-new-look-and-new-numbering-scheme-these-are-the-best-features-for-your-new-mac-or-macbook",
+          "published": "Mon, 09 Jun 2025 17:57:06 +0000",
+          "id": "c1055624"
+        }
+      ],
+      "status": "success"
+    },
+    "Tech Advisor": {
+      "url": "https://www.techadvisor.com/feed/",
+      "articles_count": 20,
+      "articles": [
+        {
+          "title": "iPhone 17 series: Everything we know so far",
+          "summary": "iPhone 17 series: In summary Four iPhone 17 models are expected, including the new Air Estimated launch date of 9 September Leaks have already shown dummy models The rumour mill never rests when it comes to Apple’s iPhones. The iPhone 16 series has been out for over eight months, and interest in the iPhone 17 is ramping up. As Apple is notoriously secretive, we don’t expect to get any official news but rumours are delivering more and more concrete information, thanks to specs leaks and images of",
+          "link": "https://www.techadvisor.com/article/2462524/apple-iphone-17-release-date-price-specs.html",
+          "published": "Mon, 09 Jun 2025 16:41:54 +0000",
+          "id": "2a663061"
+        },
+        {
+          "title": "iOS 26 (iOS 19): Release Date, iPhone Compatibility & New Features",
+          "summary": "iOS 26 (iOS 19): In summary Will be previewed during WWDC’s keynote on 9 June Expected to be named iOS 26, not iOS 19, as part of Apple’s naming rationalisation Big design overhaul anticipated Apple continues to push the boundaries of its operating systems, and with iOS 26 (previously thought to be called iOS 19) due to be announced soon, expectations are rising. While official details remain under wraps until its unveiling, there’s much speculation and several leaks hinting at what’s to come. B",
+          "link": "https://www.techadvisor.com/article/2549982/ios-26-release-date-iphone-compatibility-new-features.html",
+          "published": "Mon, 09 Jun 2025 16:04:26 +0000",
+          "id": "53e59731"
+        },
+        {
+          "title": "OnePlus Pad 3 beats the Samsung Galaxy Tab S10 Ultra at half the price",
+          "summary": "OnePlus has officially launched the OnePlus Pad 3 tablet, and it’s shaping up to be a serious flagship tablet contender. Confusing naming scheme aside, the OnePlus Pad 3 is quite clearly a top notch tablet package at a very keen price, and a potentially worthy follow-up to the OnePlus Pad 2. It starts with the company’s thinnest ever body – just 5.97mm thick, in fact. OnePlus also claims that by using a different type of aluminium, it remains tough whilst keeping relatively light (675g). It ship",
+          "link": "https://www.techadvisor.com/article/2801692/oneplus-pad-3-beats-samsung-galaxy-tab-s10-ultra-on-performance.html",
+          "published": "Mon, 09 Jun 2025 15:33:58 +0000",
+          "id": "c85ba0fd"
+        },
+        {
+          "title": "Google Pixel 10 launch date is ‘confirmed’",
+          "summary": "Google will reportedly launch its Pixel 10 smartphone range on 20 August, a little later than initially expected. Android Headlines initially reported that Google would be announcing its new flagship smartphone series on 13 August, but that date appears to have slipped back a week. It’s now reporting that the launch of the Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, and Pixel 10 Pro Fold has been “confirmed” to take place on 20 August. Pre-orders will start on the same day, with availability set fo",
+          "link": "https://www.techadvisor.com/article/2801789/google-pixel-10-release-date-tipped-for-20-august.html",
+          "published": "Mon, 09 Jun 2025 14:48:55 +0000",
+          "id": "7bb5d6b0"
+        },
+        {
+          "title": "How to download the Android 16 beta on your phone",
+          "summary": "Although we’re still waiting for the official release of Android 16, developers (and curious tech fans) do have a means of downloading and installing beta version on compatible phones and tablets. We’ll probably have to wait for the Pixel 10 phones for it to arrive in full, but the exciting news is that many devices support Android 16 and the current QPR (Quarterly Platform Release) version includes the overhauled Material 3 Expressive user interface design. Provided you’re comfortable with runn",
+          "link": "https://www.techadvisor.com/article/2337212/how-to-download-android-16-beta.html",
+          "published": "Mon, 09 Jun 2025 14:37:32 +0000",
+          "id": "b06c2255"
+        },
+        {
+          "title": "Craig Federighi’s 9 funniest moments from Apple’s WWDC events",
+          "summary": "Mac and Apple software fans are in for a treat, as the next WWDC keynote has been confirmed to take place today, 9 June 2025 at 6pm BST/1pm ET/10am PT. As is customary with this event, viewers can expect multiple appearances from a very familiar face: senior vice president of Software Engineering, Craig Federighi, AKA Hair Force One. Like all Apple spokespeople, Craig is happy to share his expertise on all the upcoming releases. However, this man does his segments with a little pizzazz. This sta",
+          "link": "https://www.techadvisor.com/article/2361374/the-funniest-craig-federighi-moments-from-the-wwdc-apple-events.html",
+          "published": "Mon, 09 Jun 2025 10:48:51 +0000",
+          "id": "d0ae7f6e"
+        },
+        {
+          "title": "Race Across the World will return later this year… with a twist",
+          "summary": "Race Across the World has dominated the headlines over the past two months, but the final episode is sadly fast approaching. The series invites a group of pairs to make their way across a continent (or large country) with a limited budget, no phones and no prior knowledge of what part of the globe they’ll be starting from. While you may be sad to see the show conclude its epic journey across China, Nepal and India, it’s not all bad news. The BBC confirmed in its annual TV plan that the celebrity",
+          "link": "https://www.techadvisor.com/article/2423135/celebrity-race-across-the-world-2025-location-release-date-pairings.html",
+          "published": "Mon, 09 Jun 2025 10:34:13 +0000",
+          "id": "3cef434b"
+        },
+        {
+          "title": "This is how easy it is to get scammed into buying a stolen phone",
+          "summary": "Summary If an iPhone won’t connect to the cellular network, troubleshooting options include restarting the phone and resetting the network settings. Blacklisting happens when a phone is reported stolen and the network connection is blocked by the carrier. When buying a new phone from an unofficial distributor, take extra precautions: check previous feedback and reviews. Consider whether the saving is really worth the reduced peace of mind. Read on below for detailed instructions of how to fix an",
+          "link": "https://www.techadvisor.com/article/2805180/how-to-fix-iphone-no-service-check-if-phone-is-stolen.html",
+          "published": "Sun, 08 Jun 2025 09:00:00 +0000",
+          "id": "3b07e130"
+        },
+        {
+          "title": "These genius £11 USB-C cables saved me from tangle hell",
+          "summary": "As a tech journalist and lifelong nerd, I tend to travel with a lot of gadgets. All of these devices need charging, and ideally, I’d like to charge them all at once. Thankfully, pretty much everything I own can be charged over USB-C, but that still means carrying a bunch of cables. Inevitably, these cables get tangled together, and I end up with a rat’s nest of intertwined cords to sort out. At least, that used to be the case, until I invested in these retractable 100W USB-C cables that I found ",
+          "link": "https://www.techadvisor.com/article/2804842/these-genius-11-usb-c-cables-saved-me-from-tangle-hell.html",
+          "published": "Sat, 07 Jun 2025 08:00:00 +0000",
+          "id": "95561f42"
+        },
+        {
+          "title": "PSA: Always turn off your phone’s Bluetooth when you’re not using it",
+          "summary": "Modern smartphones have many different features to help connect with other devices. These include not only Wi-Fi and mobile data, but also Bluetooth and GPS. However, constant connectivity also comes at a price. Bluetooth, in particular, can easily be misused and also drains the battery of your device. Nevertheless, many people leave the feature switched on all the time, even when it’s not being used, just in case they want to quickly listen to a podcast or a voice message via earbuds while trav",
+          "link": "https://www.techadvisor.com/article/2806817/always-turn-off-your-phones-bluetooth-when-youre-not-using-it.html",
+          "published": "Fri, 06 Jun 2025 16:19:18 +0000",
+          "id": "22e5ee96"
+        },
+        {
+          "title": "Android 16: Everything we know so far",
+          "summary": "Android 16: In summary Google’s next major version of its operating system for Android phones and tablets Set to be released in June, but full rollout will take several months Significant changes revealed, including new Material 3 Expressive user interface design Google releases a major new version of Android every year, and it’s no different in 2025 with Android 16. While Android 16 isn’t expected to be available for a while, Google revealed all at a dedicated event ahead of Google I/O 2025. No",
+          "link": "https://www.techadvisor.com/article/2479431/android-16-release-date-new-features-compatible-devices.html",
+          "published": "Fri, 06 Jun 2025 15:28:51 +0000",
+          "id": "d2dd800f"
+        },
+        {
+          "title": "Samsung Galaxy Tab S11: Everything we know so far",
+          "summary": "Galaxy Tab S11: In summary Samsung’s upcoming flagship series of tablets Likely to launch later in 2025 Should consist of two models – potentially regular instead of Plus Samsung has been at the forefront of Android tablets for almost a decade and a half. For a while, it was the only realistic alternative to the iPad, but there’s more competition than ever in 2025. The latest Galaxy Tab S10+ and Tab S10 Ultra are impressive devices, but there’s still room for improvement. So, what will Samsung b",
+          "link": "https://www.techadvisor.com/article/2558279/samsung-galaxy-tab-s11-release-date-price-specs.html",
+          "published": "Fri, 06 Jun 2025 14:51:01 +0000",
+          "id": "f880a54e"
+        },
+        {
+          "title": "When is Ballerina available to stream, rent and buy?",
+          "summary": "The latest movie from the John Wick universe has just hit cinemas – Ballerina, directed by Len Wiseman, is ready to spread mayhem in cinemas worldwide. The film is led by none other than Ana de Armas, whose breakthrough role was in Knives Out, and who went on to make a memorable appearance as agent Paloma in the James Bond film, No Time to Die. In Ballerina, de Armas stars as Eve Macarro, who, as a child, joined the infamous Ruska Roma school of assassins. After years of training, she sets off t",
+          "link": "https://www.techadvisor.com/article/2806538/when-is-ballerina-available-to-stream-rent-and-buy.html",
+          "published": "Fri, 06 Jun 2025 14:46:08 +0000",
+          "id": "affa1eab"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 7: Everything we know so far",
+          "summary": "Galaxy Z Fold 7: In summary Samsung’s upcoming book-style folding phone Expected to launch in July ‘Ultra’ branding teased by the company Ever since the original Galaxy Z Fold launched, Samsung has been at the forefront of the book-style foldable market. However, the company’s latest attempt – Galaxy Z Fold 6 – was a little underwhelming, offering few meaningful upgrades compared to its predecessor. Will that change on the upcoming Galaxy Z Fold 7? Rumours suggest we’re in for big changes, inclu",
+          "link": "https://www.techadvisor.com/article/2502512/samsung-galaxy-z-fold-7-release-date-price-specs.html",
+          "published": "Fri, 06 Jun 2025 14:25:44 +0000",
+          "id": "027af499"
+        },
+        {
+          "title": "Google Pixel 10: Everything we know so far",
+          "summary": "Pixel 10: In summary Google’s upcoming flagship series of smartphones, rumoured to launch on 20 August Should consist of four models, including a book-style foldable A fairly big shake up of colourways, including ‘Limoncello’ Will likely arrive with Android 16 pre-installed, introducing a new user interface design called Material 3 Expressive The Pixel 10 series is still a way off, but there’s already a lot of buzz surrounding what will make these next-gen phones stand out from their predecessor",
+          "link": "https://www.techadvisor.com/article/2468924/google-pixel-10-release-date-price-specs.html",
+          "published": "Fri, 06 Jun 2025 12:39:14 +0000",
+          "id": "e6342fe5"
+        },
+        {
+          "title": "Day 3 with my Nintendo Switch 2 review unit: Mouse controls change the game",
+          "summary": "If you have a Switch 2 ready to pick up or are considering getting this console, I’ve got some good news. My press copy arrived fresh in the post a day before it went on general sale, and I have to say, I’m impressed. At £395.99/$449.99 for just the console, and £429.99/$499.99 for the Mario Kart World bundle, this will be an investment for most buyers. However, the new Mario Kart alone is proof of how much of a step up this is from the original Switch. Combined with my hands-on time in Paris, I",
+          "link": "https://www.techadvisor.com/article/2803542/nintendo-switch-2-early-review-diary-first-days.html",
+          "published": "Fri, 06 Jun 2025 12:09:59 +0000",
+          "id": "b46c2888"
+        },
+        {
+          "title": "Best phones: Our experts pick the top 10 Android & iPhone models",
+          "summary": "A smartphone is all but a necessity in today’s digital world, and getting the phone that’s right for you is critical. Competition between phone makers is fiercer than ever, especially at the premium end of the market. Ultimately, that’s great news for consumers – but with so many mobile phones available, each differentiated by their software, feature set, and price point, there can also be a sense of uncertainty in choosing your perfect handset. Tech Advisor’s team of editors live and breathes p",
+          "link": "https://www.techadvisor.com/article/724318/best-phone.html",
+          "published": "Fri, 06 Jun 2025 11:02:29 +0000",
+          "id": "105799cd"
+        },
+        {
+          "title": "This smart pool cleaner might be the best gadget you buy this summer",
+          "summary": "Automating your smart home is a no-brainer: it saves you time and makes life easier. Of all the smart home upgrades you can make, the biggest time savings surely come from a robot pool cleaner. Dreame’s Z1 Pro tackles the most gruelling of all summer chores without complaint. This robot cleaner is a beast of a device that delivers hands-free pool maintenance. With 8,000GPH suction power and dual active scrubbing brushes, it will pick up leaves that have fallen into your pool, bugs that have met ",
+          "link": "https://www.techadvisor.com/article/2800127/this-smart-pool-cleaner-might-be-the-best-gadget-you-buy-this-summer.html",
+          "published": "Thu, 05 Jun 2025 19:14:45 +0000",
+          "id": "d74a998b"
+        },
+        {
+          "title": "Predator: Killer of Killers review: “Lacks almost everything I enjoy about the franchise”",
+          "summary": "At a glanceExpert's Rating Our Verdict While Predator: Killer of Killers has some decent action scenes and some promise in its epilogue, it’s painfully predictable and left me nostalgic for the ridiculous yet passionate Schwarzenegger-led 80s flick. Best Pricing Today After the success of Prey, the seventh film in the Predator universe, Dan Trachtenberg took the reins of the franchise centred around the alien hunter. In the latest instalment of the film series, the director takes viewers on an a",
+          "link": "https://www.techadvisor.com/article/2804730/predator-killer-of-killers-review-lacks-almost-everything-i-enjoy-about-the-franchise.html",
+          "published": "Thu, 05 Jun 2025 16:55:19 +0000",
+          "id": "5117debc"
+        },
+        {
+          "title": "Tech Advisor July 2025 digital magazine: Best mid-range smartphones, Android 16 revealed & much more",
+          "summary": "When it comes to operating systems, you don’t get much bigger than Android. Whether it’s on your phone or tablet, Google’s mobile software is installed on billions of devices. The next major version, Android 16, is set to be released in the next few weeks, and we can’t wait to try out its new features. With an innovative Material 3 Expressive design, redesigned system apps and the introduction of Live Updates, Google’s latest OS is set to be its best ever. Want to find out more? Inside this issu",
+          "link": "https://www.techadvisor.com/article/2804514/tech-advisor-july-2025-digital-magazine.html",
+          "published": "Thu, 05 Jun 2025 15:40:15 +0000",
+          "id": "793c114d"
+        }
+      ],
+      "status": "success"
     }
   },
   "summary": {
-    "successful_sites": 19,
+    "successful_sites": 22,
     "failed_sites": 0,
-    "total_articles": 558
+    "total_articles": 618
   }
 }
