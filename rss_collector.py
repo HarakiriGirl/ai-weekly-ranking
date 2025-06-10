@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GitHub Actions対応RSS収集システム
-毎日自動実行で19サイトからRSS収集し、JSONファイルに保存
+毎日自動実行で22サイトからRSS収集し、JSONファイルに保存
 """
 
 import feedparser
@@ -12,7 +12,7 @@ import time
 import hashlib
 
 def get_rss_feeds():
-    """19サイトのRSS URL一覧"""
+    """22サイトのRSS URL一覧"""
     return {
         # 超大手
         "TechCrunch": "https://techcrunch.com/feed/",
@@ -34,13 +34,17 @@ def get_rss_feeds():
         # 中堅
         "MIT Technology Review": "https://www.technologyreview.com/feed/",
         "ASCII.jp": "https://ascii.jp/rss.xml",
-
-        "ReadWrite": "https://readwrite.com/feed/",
+        "ReadWrite": "https://readwrite.com/feed/",# エラー頻発なら削除
         "The Next Web": "https://thenextweb.com/feed",
         
         # 専門・中小
         "Gigazine": "https://gigazine.net/news/rss_2.0/",
         "Publickey": "https://www.publickey1.jp/atom.xml",
+
+        # アジア・EU
+        "TechEU": "https://tech.eu/feed/",
+        "TechRadar": "https://www.techradar.com/rss",
+        "Tech Advisor": "https://www.techadvisor.com/feed/",
         
         # 追加サイト（必要に応じてコメントアウト解除）
         # "PC Watch": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
