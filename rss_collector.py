@@ -145,9 +145,9 @@ def collect_daily_rss():
                         "published": entry.get('published', ''),
                     }
                     
-                    # 記事ID生成（重複チェック用）
+                    # 記事ID生成（重複チェック用）- サイト名を含める
                     article_id = hashlib.md5(
-                        (article['title'] + article['link']).encode('utf-8')
+                        (site_name + article['title'] + article['link']).encode('utf-8')
                     ).hexdigest()[:8]
                     
                     article['id'] = article_id
@@ -306,7 +306,36 @@ def create_weekly_summary():
     
     print(f"🔄 重複除去後: {len(unique_articles)}件")
     
-    # サイト別統計
+    # サイト別グループ化（スリム化された出力形式）
+    sites_grouped = {}
+    for article in weekly_data["all_articles"]:
+        site = article["site"]
+        if site not in sites_grouped:
+            sites_grouped[site] = []
+        
+        # 日付を簡潔な形式に変換
+        published_date = ""
+        if article.get("published"):
+            parsed = parse_published_date(article["published"])
+            if parsed:
+                published_date = parsed.strftime("%Y-%m-%d")
+            else:
+                # 日付解析失敗時は元の文字列の日付部分を抽出
+                try:
+                    if len(article["published"]) >= 10:
+                        published_date = article["published"][:10]
+                except:
+                    published_date = ""
+        
+        # スリム化された記事データ
+        slim_article = {
+            "title": article["title"],
+            "summary": article["summary"],
+            "published": published_date
+        }
+        sites_grouped[site].append(slim_article)
+    
+    # サイト別統計（従来版も保持）
     site_stats = {}
     for article in weekly_data["all_articles"]:
         site = article["site"]
@@ -326,6 +355,9 @@ def create_weekly_summary():
         "filter_ratio": len(weekly_data["all_articles"]) / (len(weekly_data["all_articles"]) + filtered_out) * 100 if len(weekly_data["all_articles"]) + filtered_out > 0 else 0
     }
     
+    # スリム化された出力を追加
+    weekly_data["sites"] = sites_grouped
+    
     # 週間サマリー保存
     week_filename = f"{data_dir}/weekly_summary_{datetime.now().strftime('%Y%m%d')}.json"
     with open(week_filename, 'w', encoding='utf-8') as f:
@@ -334,6 +366,7 @@ def create_weekly_summary():
     print(f"📊 週間サマリー保存: {week_filename}")
     print(f"📈 最終統計: {len(weekly_data['daily_files'])}日分、{weekly_data['total_unique_articles']}件")
     print(f"🎯 保持率: {weekly_data['filtering_stats']['filter_ratio']:.1f}%")
+    print(f"🗂️  サイト別グループ: {len(sites_grouped)}サイト")
     
     return week_filename
 
