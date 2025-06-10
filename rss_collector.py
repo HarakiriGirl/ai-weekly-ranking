@@ -335,28 +335,18 @@ def create_weekly_summary():
         }
         sites_grouped[site].append(slim_article)
     
-    # サイト別統計（従来版も保持）
-    site_stats = {}
-    for article in weekly_data["all_articles"]:
-        site = article["site"]
-        if site not in site_stats:
-            site_stats[site] = 0
-        site_stats[site] += 1
-    
-    weekly_data["site_summary"] = site_stats
-    
     # フィルタリング統計を追加
-    weekly_data["filtering_stats"] = {
-        "before_filtering": len(weekly_data["all_articles"]) + filtered_out,
-        "after_filtering": len(weekly_data["all_articles"]),
-        "date_parse_success": date_parse_success,
-        "date_parse_failed": date_parse_failed,
-        "filtered_out": filtered_out,
-        "filter_ratio": len(weekly_data["all_articles"]) / (len(weekly_data["all_articles"]) + filtered_out) * 100 if len(weekly_data["all_articles"]) + filtered_out > 0 else 0
+    filter_ratio = len(weekly_data["all_articles"]) / (len(weekly_data["all_articles"]) + filtered_out) * 100 if len(weekly_data["all_articles"]) + filtered_out > 0 else 0
+    
+    # o3専用のスリム化された出力のみ作成
+    final_output = {
+        "week_start": weekly_data["week_start"],
+        "week_end": weekly_data["week_end"],
+        "total_articles": len(weekly_data["all_articles"]),
+        "sites": sites_grouped
     }
     
-    # スリム化された出力を追加
-    weekly_data["sites"] = sites_grouped
+    weekly_data = final_output
     
     # 週間サマリー保存
     week_filename = f"{data_dir}/weekly_summary_{datetime.now().strftime('%Y%m%d')}.json"
@@ -364,8 +354,8 @@ def create_weekly_summary():
         json.dump(weekly_data, f, ensure_ascii=False, indent=2)
     
     print(f"📊 週間サマリー保存: {week_filename}")
-    print(f"📈 最終統計: {len(weekly_data['daily_files'])}日分、{weekly_data['total_unique_articles']}件")
-    print(f"🎯 保持率: {weekly_data['filtering_stats']['filter_ratio']:.1f}%")
+    print(f"📈 最終統計: {len(weekly_data['daily_files'])}日分、{weekly_data['total_articles']}件")
+    print(f"🎯 保持率: {filter_ratio:.1f}%")
     print(f"🗂️  サイト別グループ: {len(sites_grouped)}サイト")
     
     return week_filename
