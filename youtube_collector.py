@@ -98,54 +98,6 @@ def get_test_channels():
         ("la_inteligencia_artificial", "Inteligencia Artificial")
     ]
 
-def extract_ai_tools(data):
-    """動画データからAIツール名を抽出してランキング作成"""
-    # よく出てくるAIツール名
-    ai_tools = [
-        'ChatGPT', 'Claude', 'Gemini', 'OpenAI', 'Anthropic',
-        'NotebookLM', 'Cursor', 'Suno', 'Heygen', 'Midjourney',
-        'DALL-E', 'Stable Diffusion', 'Perplexity', 'Google',
-        'Microsoft', 'NVIDIA', 'Copilot', 'Udio', 'Flux',
-        'RunwayML', 'Luma', 'Pika', 'Meta', 'LLaMA'
-    ]
-    
-    tool_counts = {}
-    tool_videos = {}  # どの動画で言及されたかの記録
-    
-    for channel_name, channel_data in data['channels'].items():
-        for video in channel_data['videos']:
-            title = video['title'].lower()
-            tags = [tag.lower() for tag in video.get('tags', [])]
-            
-            # タイトルからツール名抽出
-            for tool in ai_tools:
-                if tool.lower() in title:
-                    tool_counts[tool] = tool_counts.get(tool, 0) + 1
-                    if tool not in tool_videos:
-                        tool_videos[tool] = []
-                    tool_videos[tool].append({
-                        'channel': channel_name,
-                        'title': video['title'],
-                        'url': video['url']
-                    })
-            
-            # タグからツール名抽出
-            for tag in tags:
-                for tool in ai_tools:
-                    if tool.lower() in tag and tool not in [t.lower() for t in title.split()]:
-                        # タイトルで既にカウント済みでなければ追加
-                        tool_counts[tool] = tool_counts.get(tool, 0) + 1
-                        if tool not in tool_videos:
-                            tool_videos[tool] = []
-                        tool_videos[tool].append({
-                            'channel': channel_name,
-                            'title': video['title'],
-                            'url': video['url'],
-                            'from': 'tag'
-                        })
-    
-    return tool_counts, tool_videos
-
 def main():
     """メイン実行関数"""
     # APIキーを環境変数から取得
@@ -189,18 +141,6 @@ def main():
         
         print(f"完了: {display_name}\n")
     
-    # AIツール出現頻度分析
-    print("=== AIツール分析開始 ===")
-    tool_counts, tool_videos = extract_ai_tools(result)
-    
-    # ランキング作成
-    ranking = sorted(tool_counts.items(), key=lambda x: x[1], reverse=True)
-    
-    result["ai_tools_ranking"] = {
-        "ranking": ranking,
-        "details": tool_videos
-    }
-    
     # 結果をJSONファイルに保存
     data_dir = "data"
     os.makedirs(data_dir, exist_ok=True)
@@ -216,11 +156,6 @@ def main():
     total_videos = sum(len(ch['videos']) for ch in result['channels'].values())
     print(f"総動画数: {total_videos}本")
     print(f"チャンネル数: {len(result['channels'])}個")
-    
-    if ranking:
-        print(f"\n=== AIツールランキング TOP5 ===")
-        for i, (tool, count) in enumerate(ranking[:5], 1):
-            print(f"{i}. {tool}: {count}回")
 
 if __name__ == "__main__":
     main()
