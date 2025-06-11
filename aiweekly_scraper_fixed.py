@@ -184,8 +184,9 @@ def save_aiweekly_data(data):
     data_dir = "data"
     os.makedirs(data_dir, exist_ok=True)
     
-    # ファイル名生成
-    today = datetime.now().strftime('%Y%m%d')
+    # ファイル名生成（JST基準）
+    jst_time = datetime.utcnow() + timedelta(hours=9)
+    today = jst_time.strftime('%Y%m%d')
     filename = f"{data_dir}/aiweekly_{today}.json"
     
     # JSON保存
