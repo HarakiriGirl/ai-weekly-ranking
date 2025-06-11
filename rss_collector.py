@@ -204,8 +204,9 @@ def save_daily_data(data):
     data_dir = "data"
     os.makedirs(data_dir, exist_ok=True)
     
-    # ファイル名生成
-    today = datetime.now().strftime('%Y%m%d')
+    # ファイル名生成（JST基準）
+    jst_time = datetime.utcnow() + timedelta(hours=9)
+    today = jst_time.strftime('%Y%m%d')
     filename = f"{data_dir}/rss_{today}.json"
     
     # JSON保存
@@ -345,8 +346,9 @@ def create_weekly_summary():
     
     weekly_data = final_output
     
-    # 週間サマリー保存
-    week_filename = f"{data_dir}/weekly_summary_{datetime.now().strftime('%Y%m%d')}.json"
+    # 週間サマリー保存（JST基準）
+    jst_time = datetime.utcnow() + timedelta(hours=9)
+    week_filename = f"{data_dir}/weekly_summary_{jst_time.strftime('%Y%m%d')}.json"
     with open(week_filename, 'w', encoding='utf-8') as f:
         json.dump(weekly_data, f, ensure_ascii=False, indent=2)
     
