@@ -1,4 +1,4 @@
-# GitHub Actions ワークフロー: RSS自動収集システム + AI-Weekly
+# GitHub Actions ワークフロー: RSS自動収集システム + AI-Weekly + YouTube
 # ファイルパス: .github/workflows/rss_collection.yml
 
 name: RSS Weekly Collection
@@ -7,13 +7,13 @@ on:
   # 毎日午前9時（日本時間）に実行
   schedule:
     - cron: '0 21 * * *'  # UTC 0:00 → JST 6:00（デイリー）
-    - cron: '0 3 * * 6'  # UTC 3:00 → JST 12:00（土曜ウィークリー + AI-Weekly）
+    - cron: '0 3 * * 6'  # UTC 3:00 → JST 12:00（土曜ウィークリー + AI-Weekly + YouTube）
   
   # 手動実行も可能
   workflow_dispatch:
     inputs:
       mode:
-        description: '実行モード (daily/weekly/aiweekly)'
+        description: '実行モード (daily/weekly/aiweekly/youtube)'
         required: true
         default: 'daily'
         type: choice
@@ -21,6 +21,7 @@ on:
         - daily
         - weekly
         - aiweekly
+        - youtube
 
 # 権限設定
 permissions:
@@ -95,7 +96,7 @@ jobs:
           git push
         fi
 
-  # AI-Weekly収集ジョブ（新規追加）
+  # AI-Weekly収集ジョブ
   aiweekly-collection:
     if: github.event.schedule == '0 3 * * 6' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'aiweekly')
     runs-on: ubuntu-latest
@@ -129,48 +130,52 @@ jobs:
           git push
         fi
 
-# YouTube収集ジョブ（新規追加）
-name: RSS Weekly Collection
-
-on:
-  # 毎日午前9時（日本時間）に実行
-  schedule:
-    - cron: '0 21 * * *'  # UTC 0:00 → JST 6:00（デイリー）
-    - cron: '0 3 * * 6'  # UTC 3:00 → JST 12:00（土曜ウィークリー + AI-Weekly + YouTube）
-  
-  # 手動実行も可能
-  workflow_dispatch:
-    inputs:
-      mode:
-        description: '実行モード (daily/weekly/aiweekly/youtube)'
-        required: true
-        default: 'daily'
-        type: choice
-        options:
-        - daily
-        - weekly
-        - aiweekly
-        - youtube
-
-# 権限設定
-permissions:
-  contents: write  # ファイルをリポジトリにコミットするため
-
-jobs:
-  # 日次RSS収集ジョブ
-  daily-collection:
-    if: github.event.schedule == '0 21 * * *' || (github.event_name == 'workflow
+  # YouTube週間収集ジョブ（新規追加）
+  youtube-collection:
+    if: github.event.schedule == '0 3 * * 6' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'youtube')
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 リポジトリをチェックアウト
+      uses: actions/checkout@v4
+    
+    - name: 🐍 Python環境セットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 依存関係インストール
+      run: |
+        pip install requests
+    
+    - name: 📺 YouTube API収集実行
+      env:
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      run: |
+        python youtube_collector.py
+    
+    - name: 💾 結果をコミット
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        if git diff --staged --quiet; then
+          echo "変更なし、コミットスキップ"
+        else
+          git commit -m "📺 YouTube weekly collection: $(date +'%Y-%m-%d')"
+          git push
+        fi
 
   # 通知ジョブ（オプション）
   notification:
-    needs: [daily-collection, weekly-summary, aiweekly-collection]
+    needs: [daily-collection, weekly-summary, aiweekly-collection, youtube-collection]
     if: always()
     runs-on: ubuntu-latest
     
     steps:
     - name: 📬 実行結果通知
       run: |
-        if [ "${{ needs.daily-collection.result }}" == "success" ] || [ "${{ needs.weekly-summary.result }}" == "success" ] || [ "${{ needs.aiweekly-collection.result }}" == "success" ]; then
+        if [ "${{ needs.daily-collection.result }}" == "success" ] || [ "${{ needs.weekly-summary.result }}" == "success" ] || [ "${{ needs.aiweekly-collection.result }}" == "success" ] || [ "${{ needs.youtube-collection.result }}" == "success" ]; then
           echo "✅ 収集処理が正常に完了しました"
         else
           echo "❌ 収集処理でエラーが発生しました"
