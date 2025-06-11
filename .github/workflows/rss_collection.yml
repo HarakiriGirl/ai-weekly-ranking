@@ -129,6 +129,38 @@ jobs:
           git push
         fi
 
+# YouTube収集ジョブ（新規追加）
+name: RSS Weekly Collection
+
+on:
+  # 毎日午前9時（日本時間）に実行
+  schedule:
+    - cron: '0 21 * * *'  # UTC 0:00 → JST 6:00（デイリー）
+    - cron: '0 3 * * 6'  # UTC 3:00 → JST 12:00（土曜ウィークリー + AI-Weekly + YouTube）
+  
+  # 手動実行も可能
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '実行モード (daily/weekly/aiweekly/youtube)'
+        required: true
+        default: 'daily'
+        type: choice
+        options:
+        - daily
+        - weekly
+        - aiweekly
+        - youtube
+
+# 権限設定
+permissions:
+  contents: write  # ファイルをリポジトリにコミットするため
+
+jobs:
+  # 日次RSS収集ジョブ
+  daily-collection:
+    if: github.event.schedule == '0 21 * * *' || (github.event_name == 'workflow
+
   # 通知ジョブ（オプション）
   notification:
     needs: [daily-collection, weekly-summary, aiweekly-collection]
