@@ -1,9 +1,14 @@
 {
   "week_start": "2025-06-07",
   "week_end": "2025-06-13",
-  "total_articles": 2161,
+  "total_articles": 2205,
   "sites": {
     "TechCrunch": [
+      {
+        "title": "Scale AI confirms ‘significant’ investment from Meta, says CEO Alexanr Wang is leaving",
+        "summary": "Data-labeling firm Scale AI confirmed on Friday that it has received a \"significant\" investment from Meta that values the startup at $29 billion.",
+        "published": "2025-06-13"
+      },
       {
         "title": "After a string of successes, early-stage fund Felicis raises fresh $900M",
         "summary": "Lately, Felicis, like most VCs, has been all over AI. Its portfolio now includes, for example, Browser Use, Poolside, Runway, and Supabase.",
@@ -97,11 +102,6 @@
       {
         "title": "Drive brand impact with a Side Event at TechCrunch Disrupt 2025",
         "summary": "Hosting a Side Event at TechCrunch Disrupt 2025 provides unparalleled exposure for your brand. This is your chance to connect with a vast network of attendees, influencers, and potential collaborators.",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Automattic acquires relationship manager Clay to add an identity layer to online tools",
-        "summary": "WordPress.com owner Automattic has added another communication-focused startup to its lineup: relationship-management app Clay.",
         "published": "2025-06-12"
       },
       {
@@ -663,6 +663,16 @@
       }
     ],
     "Wired": [
+      {
+        "title": "15% Off Wayfair Promo Code | June 2025 Coupons",
+        "summary": "Save 10% with a Wayfair promo code, plus 15% off, 60% off patio furniture, and more coupons this June.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Top KitchenAid Promo Codes and Coupons",
+        "summary": "Get 10% off Father’s Day gifts, 15% off most regular-price items, free delivery, and other great savings today on WIRED.",
+        "published": "2025-06-13"
+      },
       {
         "title": "The Meta AI App Lets You ‘Discover’ People’s Bizarrely Personal Chats",
         "summary": "Launched in April, the Meta AI platform offers a “discover” feed that includes user queries containing medical, legal, and other seemingly sensitive information.",
@@ -1287,9 +1297,39 @@
         "title": "Whoop MG Review: A Screenless Tracker With Cardiac Measurements",
         "summary": "Years after its debut, the new Whoop band is still a uniquely designed tracker with distinctive health offerings.",
         "published": "2025-06-06"
+      },
+      {
+        "title": "5 Best Mushroom Gummies (2025), WIRED-Tested and Approved",
+        "summary": "These edibles made from functional fungi are not your childhood Flintstone vitamins.",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "'Ballerina' Deserves an Oscar Nod for Stunts—But It’ll Never Get One",
+        "summary": "The Academy of Motion Picture Arts and Sciences announced a new Oscar category for stunt performers earlier this year. But none of the performers in the latest John Wick movie will qualify.",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "The Best Mushroom Coffee, WIRED Tested and Reviewed (2025)",
+        "summary": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "Apple’s WWDC 2025: How to Watch and What to Expect",
+        "summary": "Apple will stream its Worldwide Developers Conference keynote live on Monday, June 9. You can expect to see redesigned software but likely not the new Siri.",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "Samsung Galaxy A26 and Galaxy A36 Review: Fine but Dull Budget Phones",
+        "summary": "If you’re on a budget, these are solid Android phones. But they’re comically dull next to options from Motorola and Nothing.",
+        "published": "2025-06-06"
       }
     ],
     "Engadget": [
+      {
+        "title": "Reddit adds analytics and drafts for comments",
+        "summary": "Reddit is making it easier to gauge the impact your comments are having. The company is introducing detailed analytics for comments that measure views and other engagement metrics. Reddit shared the change as part of a larger batch of updates around how it handles comments on its platform. Comment insights will provide details around upvotes (including the ratio of upvotes to downvotes), replies, views, shares and awards. Additionally, Redditors will now be able to share comments as a standalone",
+        "published": "2025-06-13"
+      },
       {
         "title": "Google Cloud outages: Spotify, Discord, Snapchat and more were down for hours",
         "summary": "Google Cloud experienced outages today that led to disruptions for many online services. Reports of issues for Google products and others began around 2 PM ET. The company was able to restore function to its own apps, but several other businesses have continued to experience problems for some users. In an update at 4:16PM ET, Google said, &quot;We have identified the root cause and applied appropriate mitigations. Our infrastructure has recovered in all regions except us-central1. Google Cloud p",
@@ -2118,6 +2158,41 @@
     ],
     "ITmedia": [
       {
+        "title": "政府、米の“転売”を規制へ 23日から 違反者は一年未満の拘禁か100万円以下の罰金",
+        "summary": "農林水産省は13日、“米穀”の転売が6月23日から規制されると明らかにした。違反者には1年以下の拘禁もしくは100万円以下の罰金が科せられる。",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "メルカリ、米を出品禁止へ 23日から 政府の閣議決定を受けて",
+        "summary": "メルカリは、米の出品を禁止すると発表した。13日に閣議決定された「国民生活安定緊急措置法施行令の一部を改正する政令」が施行される23日から当面の間、米穀全般の出品を禁止する。",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Amazonが政府備蓄米の販売を開始 5kgが税別1800円",
+        "summary": "Amazonは13日、農林水産省との随意契約により調達した政府備蓄米の販売を始めた。5kgで価格は1800円（税別）。",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "朝日新聞、「ファクトチェック編集部」発足 SNS上の言説も検証→無料記事を公開",
+        "summary": "朝日新聞社は、発言や投稿の事実関係を検証する「ファクトチェック編集部」を新設した。対象となるのは公人の発言の他、SNS上で拡散されている画像・動画など。検証した記事は「朝日新聞デジタル」で全文無料公開する。",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "「ふるさと納税はネット通販じゃない」 総務省、吉備中央町と須坂市を対象から除外",
+        "summary": "総務省は13日、岡山県吉備中央町と長野県須坂市について「ふるさと納税」対象団体の指定を取り消すと発表した。今後2年間は再指定を受けられない。",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "たまアリ、AIで落とし物対応を自動化 イベント後の“電話渋滞”解消へ",
+        "summary": "さいたまスーパーアリーナは、AIを活用した落とし物管理サービス「落とし物管理さくらさん」の運用を6月中旬に開始する。問い合わせはWebチャット経由で受け付け、AIが該当物品を特定。保管期限を過ぎた落とし物はブックオフが回収し、リユースやリサイクルにつなげる。",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Meta、Scale AIに大型出資し、アレクサンドル・ワンCEOを引き抜き",
+        "summary": "MetaがAIスタートアップのScale AIに約143億ドルとされる大型出資を行い、同社の企業価値は290億ドル超となった。Scale AIのアレクサンドル・ワンCEOはMetaに移籍し、新設のAI部門トップに就任。独禁法訴訟を背景に、買収ではなく出資の形を取ったとみられる。",
+        "published": "2025-06-13"
+      },
+      {
         "title": "“音を出すニット“、大阪・関西万博でZOZOが披露 「音が布から湧き上がる」",
         "summary": "ZOZOグループのZOZO NEXTは13日、テキスタイルに圧電性フィルムを埋め込んだ「ニットファブリックスピーカー」を大阪・関西万博に出展すると発表した。",
         "published": "2025-06-13"
@@ -2518,6 +2593,16 @@
         "published": "2025-06-06"
       },
       {
+        "title": "iPhoneにマイナンバーカード搭載、6月24日から",
+        "summary": "デジタル庁は6月6日、iPhoneでマイナンバーカードを利用できるようにすると発表した。クレジットカード情報などを保存できるアプリ「Appleウォレット」にマイナカード情報を追加できるようになる。",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "ispaceのレジリエンスランダーは月面に衝突か 「確認は困難」、ミッション2は終了に",
+        "summary": "宇宙ベンチャーのispaceは、月面着陸に挑戦した「RESILIENCE（レジリエンス）ランダー」との通信が回復できないため、ミッションを終了すると発表した。月面にハードランディングした可能性が高いという。",
+        "published": "2025-06-06"
+      },
+      {
         "title": "pixivFANBOX、成人向けクリエイターに課す手数料を10％→12.9％に 「R-18コンテンツの審査コスト増」を理由に",
         "summary": "ピクシブは、ファンコミュニティーサイト「pixivFANBOX」のクリエイターのサービス手数料を、現行の10％から12.9％に引き上げると発表した。「審査コストの増加に対応するため」としている。",
         "published": "2025-06-09"
@@ -2616,9 +2701,24 @@
         "title": "メルカリ、「品質が不明なものを高価と誤解させる」商品説明の禁止を明記へ ガイドライン改定",
         "summary": "メルカリが6月12日にガイドラインを更新し、素材や品質が不明にもかかわらず、高価なものと誤解させるような出品などを明確に禁止する。同社が5日に予告した。",
         "published": "2025-06-06"
+      },
+      {
+        "title": "iPhoneにマイナンバーカード搭載、6月24日から",
+        "summary": "デジタル庁は6月6日、iPhoneでマイナンバーカードを利用できるようにすると発表した。クレジットカード情報などを保存できるアプリ「Appleウォレット」にマイナカード情報を追加できるようになる。",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "ispaceのレジリエンスランダーは月面に衝突か 「確認は困難」、ミッション2は終了に",
+        "summary": "宇宙ベンチャーのispaceは、月面着陸に挑戦した「RESILIENCE（レジリエンス）ランダー」との通信が回復できないため、ミッションを終了すると発表した。月面にハードランディングした可能性が高いという。",
+        "published": "2025-06-06"
       }
     ],
     "ZDNet": [
+      {
+        "title": "Apple quietly makes running Linux containers easier on Macs",
+        "summary": "At WWDC, Apple announced it was taking a significant step to improve Linux container support on Macs.",
+        "published": "2025-06-13"
+      },
       {
         "title": "The best electric screwdrivers of 2025: Expert tested and reviewed",
         "summary": "I tested some of the best electric screwdrivers on the market to help you find the perfect one to streamline your DIY tasks.",
@@ -2712,11 +2812,6 @@
       {
         "title": "Finally, a portable laser projector with a battery-powered tripod (and it's on sale)",
         "summary": "Xgimi's latest Mogo 4 series of projectors features a compact, durable design and a thoughtful tripod accessory.",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "The best Samsung phones of 2025: Expert tested and reviewed",
-        "summary": "Now that we've reviewed the full Galaxy S25 lineup, including the Edge, here's how it compares to the best Samsung phones you can buy today.",
         "published": "2025-06-12"
       },
       {
@@ -3027,6 +3122,11 @@
     ],
     "CNET Japan": [
       {
+        "title": "Today's NYT Mini Crossword Answers for Friday, June 13",
+        "summary": "Here are the answers for The New York Times Mini Crossword for June 13.",
+        "published": "2025-06-13"
+      },
+      {
         "title": "Towa and the Guardians of the Sacred Tree: Anime Hades With a Hunky Fish-man",
         "summary": "We go hands-on with Towa, a roguelike hack-and-slash published by Bandai Namco, that has its own cool twists on the genre.",
         "published": "2025-06-13"
@@ -3144,11 +3244,6 @@
       {
         "title": "Prime Video: The 34 Absolute Best TV Shows to Watch",
         "summary": "Here are some highly rated titles to check out, plus the new releases for June.",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Change These 7 Nintendo Switch 2 Settings Before You Play Another Game",
-        "summary": "If you want to save your battery and make your games look even better, you should check out these settings.",
         "published": "2025-06-12"
       },
       {
@@ -3614,8 +3709,23 @@
     ],
     "日経XTECH": [
       {
+        "title": "ソフトバンクと博報堂テクノロジーズが共創ハッカソンを実施、AIで福島の魅力を発信",
+        "summary": "ソフトバンクと博報堂テクノロジーズは2025年6月12日、生成AI（人工知能）と地域データを活用した共創型ハッカソンの最終発表会を開催した。生成AIを活用した福島の魅力を可視化・発信する共創型プロトタイプ開発を通じて観光振興の可能性を探った。",
+        "published": ""
+      },
+      {
         "title": "一般社員層の2位は「一発で素人だとばれるPythonコード、『a=1』のどこがまずいのか」",
         "summary": "日経クロステックで2025年5月、一般社員層の会員が読んだ記事をランキング形式で紹介します。2位に「一発で素人だとばれるPythonコード、『a=1』のどこがまずいのか」が入りました。",
+        "published": ""
+      },
+      {
+        "title": "キオクシア、生成AIでのSSD需要に勝機 独自ソフトで活用促進",
+        "summary": "キオクシアは、生成AI（人工知能）のRAG（検索拡張生成）にSSD事業の勝機を見いだし、「KIOXIA AiSAQ」と呼ぶデータベース検索用ソフトウエアを独自開発した。AiSAQを利用することで、既存の手法に比べてより大規模なデータベースを使ったRAGが可能になる。これによって生成AIの出力精度が向上し、「生成AIの活用が業務で本格化する」（同社）。",
+        "published": ""
+      },
+      {
+        "title": "中国テンセント、自社開発AI「混元T1」とDeepSeekをAIアプリに採用 使い分け可能",
+        "summary": "中国ネットサービス大手の騰訊控股（テンセント）は、新たな深層思考AI（人工知能）モデル「混元T1（HunyuanT1）」を自社開発した。DeepSeekが提供するAI「DeepSeek」とともにテンセントのAIアシスタントアプリ「元宝（Yuanbao）」に導入した。",
         "published": ""
       },
       {
@@ -3629,6 +3739,11 @@
         "published": ""
       },
       {
+        "title": "コピペ好きには欠かせない「クリップボードの履歴」、文字列や画像を最大25個保存",
+        "summary": "文書やメールの作成時に同じ文字列を使い回したいことは多い。ただ、コピーしたデータを一時保存するクリップボードは最後にコピーしたデータしか保存されないので、古いコピーが消えたらやり直しになる。それが面倒なら「クリップボードの履歴」の出番だ。",
+        "published": ""
+      },
+      {
         "title": "ミニPCの性能をノートパソコンと比較、メインマシンとして十分使える",
         "summary": "コンパクトサイズが魅力のミニPCだが、その具体的な性能が気になる人もいるだろう。ベンチマークソフトを使い、標準的な機種「NUC 14 Pro AI」と、外付けGPUを搭載した「ZBOX Eシリーズ MAGNUS EN374070C（Windows 11搭載モデル）」をテストしてみた。",
         "published": ""
@@ -3639,18 +3754,8 @@
         "published": ""
       },
       {
-        "title": "中国テンセント、自社開発AI「混元T1」とDeepSeekをAIアプリに採用 使い分け可能",
-        "summary": "中国ネットサービス大手の騰訊控股（テンセント）は、新たな深層思考AI（人工知能）モデル「混元T1（HunyuanT1）」を自社開発した。DeepSeekが提供するAI「DeepSeek」とともにテンセントのAIアシスタントアプリ「元宝（Yuanbao）」に導入した。",
-        "published": ""
-      },
-      {
         "title": "教育機会平等化に不安要素 初CBTで露呈、帯域不足や自治体負担増の対策急務",
         "summary": "2025年4月14～17日に文部科学省が実施した全国学⼒・学習状況調査の中学校理科で45校が試験を完了できず、うち19校はネットワークや端末などICTのトラブルが原因だった。今回、中学校理科でICT機器を利用したオンラインによるCBT（Computer Based Testing）方式を初めて導入した。",
-        "published": ""
-      },
-      {
-        "title": "コピペ好きには欠かせない「クリップボードの履歴」、文字列や画像を最大25個保存",
-        "summary": "文書やメールの作成時に同じ文字列を使い回したいことは多い。ただ、コピーしたデータを一時保存するクリップボードは最後にコピーしたデータしか保存されないので、古いコピーが消えたらやり直しになる。それが面倒なら「クリップボードの履歴」の出番だ。",
         "published": ""
       },
       {
@@ -3671,11 +3776,6 @@
       {
         "title": "コーディング支援「Cursor」の開発企業が9億ドルを確保、25年5月の調達ランキング",
         "summary": "人気のAIコーディングアシスタント「Cursor」を開発する米Anysphere（エニスフィア）は、米Thrive Capital（スライブキャピタル）などから9億ドルの調達を終えた。",
-        "published": ""
-      },
-      {
-        "title": "キオクシア、生成AIでのSSD需要に勝機 独自ソフトで活用促進",
-        "summary": "キオクシアは、生成AI（人工知能）のRAG（検索拡張生成）にSSD事業の勝機を見いだし、「KIOXIA AiSAQ」と呼ぶデータベース検索用ソフトウエアを独自開発した。AiSAQを利用することで、既存の手法に比べてより大規模なデータベースを使ったRAGが可能になる。これによって生成AIの出力精度が向上し、「生成AIの活用が業務で本格化する」（同社）。",
         "published": ""
       },
       {
@@ -3706,11 +3806,6 @@
       {
         "title": "MUFGがデジタルバンクに再参入 アクセンチュア・グーグルと連携",
         "summary": "三菱UFJフィナンシャル・グループ（MUFG）がデジタルバンク事業に再参入する。2026年度後半に新銀行を開業させることを目指す。勘定系はアクセンチュアなどが開発したシステムを採用する。",
-        "published": ""
-      },
-      {
-        "title": "情報処理安全確保支援士を5万人に 2030年達成に向け経産省が新施策",
-        "summary": "経済産業省は情報処理安全確保支援士（登録セキスペ、以降支援士）を2030年までに現在の倍となる5万人に増やすと掲げた。同省が2025年5月14日に公表した「サイバーセキュリティ人材の育成促進に向けた検討会最終取りまとめ」に明記した。",
         "published": ""
       },
       {
@@ -4880,6 +4975,51 @@
     ],
     "Mashable": [
       {
+        "title": "Netflixs mysterious Brick trailer teases a couple unable to leave their apartment",
+        "summary": "Netflix has dropped its trailer for \"Brick\", a mystery/thriller from writer/director Philip Koch about a couple trapped in their apartment by a mysterious brick wall.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "NYT Mini crossword answers, hints for June 13, 2025",
+        "summary": "Answers to each clue for the June 13, 2025 edition of NYT's The Mini crossword puzzle.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "How to watch South Africa vs. Australia online for free",
+        "summary": "How to watch ICC World Test Championship final for free. Live stream South Africa vs. Australia in the 2025 World Test Championship final for free.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Webb telescope took a direct image of two exoplanets. See it now.",
+        "summary": "NASA's James Webb Space Telescope has taken direct images of a distant planetary system, revealing two exotic giant exoplanets.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "How to watch the 2025 U.S. Open (Golf) online for free",
+        "summary": "How to watch US Open (Golf) for free. Live stream the 2025 US Open for free.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "No more subscriptions — a lifetime of Microsoft Office 2019 for Mac",
+        "summary": "Get Microsoft Office Home & Business 2019 for Mac at just $39.99 — lifetime access to Word, Excel, PowerPoint, and more with no subscription fees.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "How to watch Indiana Pacers vs. Oklahoma City Thunder (Game 4) online for free",
+        "summary": "How to watch the NBA for free. Live stream Indiana Pacers vs. Oklahoma City Thunder (Game 4) in the 2025 NBA Finals for free.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "How to watch Love Island UK online for free",
+        "summary": "How to watch Love Island UK for free. Live stream Love Island UK in 2025 for free from anywhere in the world.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "The best ice cream makers for every kitchen",
+        "summary": "Nothing impresses like home-made ice cream.",
+        "published": "2025-06-13"
+      },
+      {
         "title": "NYT Connections hints today: Clues, answers for June 13, 2025",
         "summary": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
         "published": "2025-06-13"
@@ -5165,11 +5305,6 @@
         "published": "2025-06-12"
       },
       {
-        "title": "How to watch the 2025 U.S. Open (Golf) online for free",
-        "summary": "How to watch US Open (Golf) for free. Live stream the 2025 US Open for free.",
-        "published": "2025-06-12"
-      },
-      {
         "title": "Get the Garmin vívoactive 5 for its record-low price",
         "summary": "Save 33% on the Garmin vívoactive 5 at Amazon.",
         "published": "2025-06-12"
@@ -5202,11 +5337,6 @@
       {
         "title": "Review: In Deep Cover, Orlando Bloom is…hilarious?",
         "summary": "From \"Stath Lets Flats\" director Tom Kingsley comes \"Deep Cover,\" a new action comedy starring Bryce Dallas Howard, Orlando Bloom, and Nick Mohammed. Film review.",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "How to watch South Africa vs. Australia online for free",
-        "summary": "How to watch ICC World Test Championship final for free. Live stream South Africa vs. Australia in the 2025 World Test Championship final for free.",
         "published": "2025-06-12"
       },
       {
@@ -6552,6 +6682,31 @@
     ],
     "Impress Watch": [
       {
+        "title": "JR西、当日受付で新幹線荷物輸送「荷もっシュッ! Quick」",
+        "summary": "JR西日本とジェイアール西日本マルニックスは、新幹線荷物輸送において、法人を対象にした「当日受付・即日配送」ができる緊急輸送サービスの実証実験を7月1日に開始する。輸送区間は、山陽新幹線 新大阪・広島・博多の上下線相互駅間。便数は上下線各10便程度。",
+        "published": ""
+      },
+      {
+        "title": "ローソン店頭で「Pontaパス」入会 即クーポン",
+        "summary": "KDDIとローソンは、ローソン店舗における「Pontaパス」入会受付サービスを6月17日から開始する。対象は全国のローソン店舗、約14,000店(ローソンストア100を除く)。Pontaパスの利用料は月額548円。auユーザー以外も加入できる。",
+        "published": ""
+      },
+      {
+        "title": "ANA、国内線・国際線全クラスのWi-Fi拡充 動画視聴可能に",
+        "summary": "ANAは、国内線・国際線の機内Wi-Fiサービスを拡充し、全クラス無料で動画視聴可能な環境を提供する。",
+        "published": ""
+      },
+      {
+        "title": "関西電力、生命保険に参入",
+        "summary": "関西電力は、生命保険代理業を開始し、「かんでん保険」として新たに住友生命グループ・メディケア生命保険の生命保険商品(医療終身保険、がん終身保険、薬剤治療保険)の販売を開始する。",
+        "published": ""
+      },
+      {
+        "title": "OpenAI、カスタムGPTでo3･o4-miniなどモデル選択可能に",
+        "summary": "OpenAIのChatGPTは、カスタムGPT(GPTs)の作成時に利用可能なモデル選択機能を拡張した。GPT-4o、o3、o4-miniなど、ChatGPTの全モデルから選択できるようになり、タスクや業務のワークフローに応じた最適なAIモデルの活用が可能となる。",
+        "published": ""
+      },
+      {
         "title": "ローソン、ゴーストレストランを中四国・青森で展開",
         "summary": "ローソンは、デリバリー専用として開発した商品を店内厨房で調理して届ける宅配サービス「ゴーストレストラン」を、6月12日より中国・四国地区および青森県のローソン店舗に初導入する。店内調理サービス「まちかど厨房」を展開している店舗への導入で、中国・四国地区では広島県内の15店舗、青森県では青森市・八戸市内の3店舗に導入し、今後店舗数を拡大していく。",
         "published": ""
@@ -6624,26 +6779,6 @@
       {
         "title": "Meta、生成AIによる動画編集機能を公開",
         "summary": "Metaは、生成AIを活用した動画編集機能をMeta AIアプリ、Meta.AI Webサイト、Editsアプリで提供開始した。この機能は、ユーザーが短編動画の服装、場所、照明、スタイルなどをプリセットされたAIプロンプトを使って簡単に変換することが可能。米国を含む12カ国以上で利用できる。",
-        "published": ""
-      },
-      {
-        "title": "HP、「Google Beam」販売へ VR無しで対面のような3Dミーティング",
-        "summary": "HPは、AI搭載の3Dビデオコミュニケーションソリューション「HP Dimension with Google Beam」を発表した。VRヘッドセットやメガネ、ウェアラブル機器が無くても、対面しているような没入感でミーティングを行なえる。",
-        "published": ""
-      },
-      {
-        "title": "アメックス、ビジネスカードにキャッシュフロー管理機能",
-        "summary": "アメリカン・エキスプレスは、ビジネス・カードの新たな付帯サービスとして、「キャッシュフロー管理 by Moneytree」を提供開始した。",
-        "published": ""
-      },
-      {
-        "title": "会社を辞めて丸1年。ライター仕事はどうなった?【YouTubeはじめました】",
-        "summary": "会社を辞めてフリーライターになり、YouTubeをはじめるとどうなるのか。初回には“クリーンすぎる退職エントリ”とのコメントもいただいた本連載で、今回は2024年4月の独立から1年間を振り返ってみます。",
-        "published": ""
-      },
-      {
-        "title": "更新を忘れずに 2025年「マイナカード有効期限問題」に注意",
-        "summary": "6月24日に「iPhoneのマイナンバーカード」が開始されるなど、マイナンバーカードには日々便利な機能が強化されています。",
         "published": ""
       },
       {
@@ -6919,253 +7054,253 @@
     ],
     "マイナビニュース": [
       {
-        "title": "村田製作所、2012Mサイズで静電容量10μFの車載向け積層セラミックコンデンサを発表",
-        "summary": "村田製作所は6月12日、車載市場向けに2012Mサイズ(2.0mm×1.25mm)/定格電圧50Vdcにおいて静電容量10μFを実現した積層セラミックコンデンサ「GCM21BE71H106KE02」を開発したことを発表した。",
+        "title": "赤星憲広、頭部打球直撃の阪神・石井大智について語る 自身の経験談も",
+        "summary": "元プロ野球選手で野球解説者の赤星憲広氏が10日、YouTubeチャンネル『赤星憲広の入ってねぇーんだよ!』で公開された動画「【交流戦】赤星が予想! 阪神優勝できる!?」に出演。ライナー性の打球が頭部を直撃するアクシデントに見舞われた阪神・石井大智について語った。",
         "published": ""
       },
       {
-        "title": "日本エイサー、Core Ultra 9 275HXとRTX 5000シリーズ搭載の高性能ゲーミングノートPC",
-        "summary": "日本エイサーは6月12日、Intel Core Ultra 9 275HXを搭載したゲーミングノートPC 3機種を発表した。「Predator」ブランドの新製品群となる。既に予約開始しており、2機種を6月30日に、1機種を7月31日に発売する。",
+        "title": "『仮面ライダークウガ』クウガやグロンギの香水、喫茶ポレポレのディフューザーが登場 - 超クウガ展で発売",
+        "summary": "香水の輸入販売を手がけるフェアリーテイルは、『仮面ライダークウガ』より、香水、ディフューザー、マルチバームを発売する。",
         "published": ""
       },
       {
-        "title": "ビッグボーイ、ミルク氷を使用した「氷しろくま」「氷いちごミルク」発売 – ミニサイズも!",
-        "summary": "ハンバーグ&ステーキレストランの「ビッグボーイ」「ヴィクトリアステーション」は6月12日より、ミルク氷を使用した「ふんわりかき氷」を販売している。",
+        "title": "北海道電力、使用済み太陽光パネル資源循環推進コンソーシアムに参画",
+        "summary": "北海道電力は6月12日、使用済み太陽光パネルのリユース・リサイクル体制の構築を目指す「使用済太陽光パネル資源循環推進・北海道コンソーシアム」への参画を発表した。",
         "published": ""
       },
       {
-        "title": "女性40代50代ともに10年前から「ハリの低下」を実感も、6割が対策せず",
-        "summary": "プラチナムのアスタキサンチンPR事務局は5月吉日、「肌のハリと抗酸化ケアに関する意識調査」の結果を発表した。調査は5月3日～6日、肌のハリに関心のある40～59歳の女性400名を対象にインターネットで行われた。",
+        "title": "電通、個人投資家向けIRマーケティング支援「IR-BRANDING 360°」を提供開始",
+        "summary": "電通は6月12日、戦略的IR支援プログラム「IR for Growth」の一環として、個人投資家向けのIRマーケティングサービス「IR-BRANDING 360°」の提供を開始したと発表した。",
         "published": ""
       },
       {
-        "title": "「深夜帯のクオリティじゃない!」「理解が追いつかない」『MADDER』最終話に絶賛と混乱の反響",
-        "summary": "アイドルグループ・乃木坂46の五百城茉央が主演するドラマ『MADDER その事件、ワタシが犯人です』(カンテレ・フジテレビ)の最終話が、12日に放送。SNSでは、絶賛と混乱の声が上がった。",
+        "title": "大林組とアイシンがペロブスカイト太陽電池の新設置方法の実証実験を開始",
+        "summary": "大林組とアイシンは、大林組技術研究所にてペロブスカイト太陽電池の実用化に向け、ファスナー取り外し式工法など新たな設置方法に関する実証実験を開始したことを発表した。",
         "published": ""
       },
       {
-        "title": "【漫画】猫と竜 第12回 凱旋した勇者の中に見つけたのは?",
-        "summary": "深い深い森の奥。一匹の竜が、魔法を操る猫たちと暮らしていた。猫を守り育てる竜を、猫たちは「羽のおじちゃん」と、人間は畏怖を込め「猫竜」と呼んだ。これは、猫と竜と人間の、温かく不思議な物語。『猫と竜』(佐々木泉・アマラ・大熊まい/マンガボックス)より、一部を抜粋してご紹介します。",
+        "title": "【漫画】各位、私のことはお構いなく 第3回 「オバ見えどころか意地悪おばさん」同僚に反論したのは、\"クセ強高齢独女\"!?",
+        "summary": "『オバ見え』気にしなきゃダメですか? 女は結婚を目指さなくてはいけませんか? 自由気ままに生きるだけの『クセ強の高齢独女』初瀬に、なぜか救われていく――! DPNブックス「コミックなにとぞ」発の漫画『各位、私のことはお構いなく』(作画：文京子、原作：egumi)より、一部をご紹介します。",
         "published": ""
       },
       {
-        "title": "母親9割が「子どもの成長に“遊ぶこと”は重要」と回答するも、9割に困りごとあり",
-        "summary": "ボーネルンドは6月10日、「子どものあそび」に関する調査結果を発表した。調査は6月上旬、1～4歳の子どもを長子に持つ21歳～45歳の母親216名を対象に、インターネットで行われた。",
+        "title": "健康診断で引っかかったら…? 第3回 健診で「肝機能」数値を指摘されてしまった! どうする?",
+        "summary": "健康診断で気にしたい項目が、1. 血糖値、2. 血圧、3. 肝機能、4. 脂質、5. 尿酸値。もし健康診断で引っかかってしまった場合、どうすれば良いのだろうか?",
         "published": ""
       },
       {
-        "title": "投資未経験者が抱く“投資家イメージ”は「商社マン」「年収2000万超」「趣味ゴルフ」など- 実際は?",
-        "summary": "GA technologiesは6月11日、「投資家“イメージ”と“実態”調査」の結果を発表した。調査は5月21日～22日、学生を除く20〜60代の男女1,035名(投資経験者477名、投資未経験者558名)を対象にインターネットで行われた。",
+        "title": "LGBTQ+支援を大幅拡大 パーソルが挑むダイバーシティとウェルビーイングの実現－パーソルホールディングスCHRO 大場氏×アライコミュニティ「Rainbow PERSOL」メンバー三輪氏にインタビュー",
+        "summary": "パーソルホールディングスでは、性的マイノリティ当事者である社員を対象とした社内制度や支援を2025年4月より拡充。こうした動きの背景にあるのがパーソルグループ内にある、LGBTQ+支援活動を行う「アライ(Ally)」コミュニティの存在です。アライコミュニティ、そしてパーソルホールディングスが会社として推進するLGBTQ+支援活動とはどのようなものなのか。そして、それらはパーソルホールディングスが目指す“はたらくWell-being”にどのようにつながるのか。パーソルホールディングスCHRO・大場竜佳氏と、パーソルグループ内にあるアライコミュニティの一つである「Rainbow PERSOL」の一員として活動を行う三輪絢子氏による対談を通して、同社のLGBTQ+支援に対する想いを解き明かします。",
         "published": ""
       },
       {
-        "title": "NISA利用者の1割が「金融機関を変更」した経験あり - 変更先は?",
-        "summary": "NTTデータ・エービックは6月11日、「NISA意向調査」の結果を発表した。調査は3月19日～24日、全国18～69歳の男女9,400名を対象にインターネットで行われた。",
+        "title": "ゾックス＆フリント登場!『爆上戦隊ブンブンジャー formation lap 始末屋 オブ ギャラクシー』歴代追加戦士 解禁第3弾",
+        "summary": "東映は、東映特撮ファンクラブ(TTFC)オリジナル作品として2025年に配信予定の『爆上戦隊ブンブンジャー formation lap 始末屋 オブ ギャラクシー』にて、歴代追加戦士 解禁第3弾として『機界戦隊ゼンカイジャー』(2021年)より増子敦貴(GENIC)が演じる「ゾックス・ゴールドツイカー」、そして森日菜美が演じる「フリント・ゴールドツイカー」の登場を6月13日に発表した。",
         "published": ""
       },
       {
-        "title": "neoAI、生成AIオールインワンパッケージのIntel Gaudi 3への対応検証を実施",
-        "summary": "東京大学 松尾研究室発のAIスタートアップであるnaoAIは6月12日、同社が提供する生成AIオールインワンパッケージ「neoAI Chat」をIntelのGaudi 3 AIアクセラレーターベースで提供するための技術検証を、Intelと協力して実施したことを発表した。",
+        "title": "山本昌、中日の“ある誤算”を指摘「ドラゴンズにしてみたら…」",
+        "summary": "元プロ野球選手で野球解説者の山本昌氏が9日、YouTubeチャンネル『【東海テレビ公式】ドラHOTpress』で公開された動画「山本昌&山崎武司(※崎はたつさき) プロ野球 やまやま話『新外国人選手の活躍度チェック』」に出演。今季の中日の“ある誤算”を指摘した。",
         "published": ""
       },
       {
-        "title": "【貴重映像】キリンの休息シーンに「どうなってるの??」「こんな姿、初めてみた」と驚きの声 - 想像のはるか上をいく寝姿がSNSで話題",
-        "summary": "長〜い首が特徴的なキリンですが、動物園に行くと、歩いているか立っている姿ばかり見かけます。あんなに首が長いと肩が凝りそうとか思ってしまいますが、あの長い首、寝るときはどうしているのでしょうか?",
+        "title": "「すごーい」「一度はにおってみたいやつ〜」- 東京都調布市・神代植物公園「ショクダイオオコンニャク」の開花がXで話題に",
+        "summary": "高さ3メートルを超える巨大な姿と、開花時に強烈な腐臭を放つという「ショクダイオオコンニャク」。その開花期間は24時間〜48時間と非常に短く、長くても72時間程度。そんな貴重な花が6月上旬、東京・調布市にある「神代植物公園」で開花しました。",
         "published": ""
       },
       {
-        "title": "【家族の時間がもっと豊かに】TCLの高性能4Kテレビ「C8K」レビュー - 映像美・音響・デザインすべてがプレミアム！",
-        "summary": "家族で過ごす時間を、もっと快適で特別なものにしたい──そんな思いに応えてくれるのが、TCLのプレミアム量子ドット Mini LED 4Kテレビ「TCLC8K」です。TCLC8Kは、高画質性能や一流オーディオブランドが手がけたサウンドシステムを搭載しながら、デザイン性や各種機能にもこだわった、まさに“家族みんながうれしい”1台。",
+        "title": "【漫画】 夫と義家族に無視される私 第108回 「俺たち夫婦だったんだぞ!」助けてくれ、すがりつく元夫に…",
+        "summary": "私は夫と義家族に無視されている。幸せなふたり暮らしのはずが、義母のアポなし訪問、実家リフォームからの同居、家政婦のような扱いが始まり……。イラっとするネタや体験談をInstagramやブログに投稿しているとりまるさん・ねこぽちゃさん(torimarunekopocha)が、複数の体験談をベースにアレンジして描いた漫画「夫と義家族に無視される私」をご紹介します。",
         "published": ""
       },
       {
-        "title": "時代はマイクロインフルエンサー? SNSマーケティングプラットフォームの注目企業である株式会社トリドリ(toridori)のエンジニアリングマネージャーを直撃!",
-        "summary": "-近年大きな盛り上がりを見せているインフルエンサーマーケティング。そんなインフルエンサーマーケティングプラットフォームのリーディングカンパニーである株式会社トリドリでエンジニアリングマネージャーを務める長坂翔吾氏に、新機能の詳細とSNSマーケティングのトレンドなどについてお伺いしました。",
+        "title": "映画『フロントライン』のキャストが、モデルとなった英雄たちと再会",
+        "summary": "6月13日に公開となった、俳優の小栗旬、松坂桃李初共演の映画『フロントライン』のキャストが、モデルとなった医師、厚生労働省の職員らと再会を果たした。",
         "published": ""
       },
       {
-        "title": "やなせ兄弟を意識! 映画『アンパンマン』最新作の誕生秘話 「弟は僕の味方だった」2人の関係性も反映",
-        "summary": "テレビアニメ『それいけ！アンパンマン』(日本テレビ系)で「神回」と評される作品を連発し、映画最新作『それいけ！アンパンマン チャポンのヒーロー！』(6月27日公開)の脚本も手掛けた葛原秀治氏にインタビュー。アンパンマンが“お兄ちゃん”になるという物語が生まれた経緯や作品に込めた思いを聞いた。",
+        "title": "物損事故で自己負担は発生する？使える自動車保険について解説",
+        "summary": "物損事故とは、人にケガなどをさせるといった対人事故以外の事故を指します。他人の物を損傷させた場合、どのような費用がかかるのか、修理などに対して自動車保険は使えるのかといった点が気になる人も多いのではな ...",
         "published": ""
       },
       {
-        "title": "本宮泰風、自身初の“魚屋”店員役で『晩酌の流儀４』出演決定 兄役はアキラ100%",
-        "summary": "女優の栗山千明が主演を務める、テレビ東京 ドラマ25『晩酌の流儀４ 〜夏編〜』(6月27日スタート 毎週金曜 24:42〜25:13)のレギュラーキャストが13日に発表された。",
+        "title": "東急大井町線各駅停車用6020系7/2デビュー「5CARS」ステッカー掲出",
+        "summary": "東急電鉄13日、大井町線各駅停車用の車両として導入の準備を進めていた5両編成の6020系について、営業運転を7月2日から開始すると発表した。先頭車前面には5両編成を示す「5CARS」ステッカーを掲出。車両側面のドア横に青色ステッカーも貼り付ける。",
         "published": ""
       },
       {
-        "title": "Laughing Hick、2つの対照的なラブストーリーを描いた新曲リリース",
-        "summary": "誰しもが抱く素直な想いや心の葛藤をストレートな言葉で紡ぎ、日常のリアルを共有する山梨発の3ピースギターロックバンドLaughing Hickが、6月13日にデジタルシングル『マラカイトふたりの恋』をリリースした。 “危険な愛情&・・・",
+        "title": "GMOサイバーセキュリティ×ワープスペース、宇宙衛星システムで提携",
+        "summary": "GMOサイバーセキュリティ byイエラエは6月12日、ワープスペースと業務提携契約を締結したことを発表した。",
         "published": ""
       },
       {
-        "title": "【2025年夏のボーナス】平均支給額は前年比1.8万円増の45.7万円、増加した企業の割合は? - 帝国データバンク調査",
-        "summary": "帝国データバンクは6月13日、2025年夏季賞与についての調査結果を発表した。調査は2025年6月6日～6月10日、1,227社を対象にインターネットで行われた。",
+        "title": "サーキットから生まれた特別な2本がティソから登場",
+        "summary": "スイスの時計ブランドTISSOT（ティソ）は、長年オフィシャルタイムキーパーを務めてきた2輪ロードレース「FIM MotoGP 世界選手権シリーズ」の特別限定モデル「T-レース MotoGP リミテッドエディション 2025」を発表。2種類のモデルをティソ公式オンラインストア、およびティソ直営店にて販売する。",
         "published": ""
       },
       {
-        "title": "チューダー、日常からそっと離れた場所へ誘う37mm径の新作「ブラックベイ 54“ラグーンブルー”」",
-        "summary": "スイスの腕時計ブランド「TUDOR（チューダー）」から、代表的なコレクション「ブラックベイ」の新作となる、「ブラックベイ 54“ラグーンブルー”」が登場した。",
+        "title": "居場所をなくした“10番”ファティ、モナコ移籍に暗雲？…バルサが最初のオファー拒否か",
+        "summary": "バルセロナ所属のスペイン代表FWアンス・ファティに関心を寄せているモナコだが、獲得交渉は難航しているようだ。12日、スペイン紙『マルカ』が伝えている。 2024－25シーズンはラ・リーガ、コパ",
         "published": ""
       },
       {
-        "title": "「恭一の昔と今との間に何があったのか」『子宮恋愛』沢村玲の過去と今の演じ分けに称賛の声",
-        "summary": "読売テレビのドラマ『子宮恋愛』(毎週木曜24:59～ ※関西地区ほか)の第10話が、12日に放送。SNSでは、「やっと点と点がつながってきた」などのコメントが上がった。",
+        "title": "福島県の魅力を届ける生成AI活用ハッカソン、ソフトバンク×博報堂テクノロジーズ",
+        "summary": "ソフトバンクと博報堂テクノロジーズは6月12日、生成AIを活用して福島県の魅力を発信するハッカソンイベントをソフトバンク本社で開催した。本稿では、同イベントに出場したチームの成果物について紹介する。",
         "published": ""
       },
       {
-        "title": "スリック・リックが26年ぶりアルバム『Victory』リリース、リード曲にはNASが参加",
-        "summary": "ヒップホップ界の最も優れたストーリーテラーであり、カルチャーアイコンであるスリック・リックが、26年ぶりにニューアルバム『Victory』をリリースした。ニューアルバム『Victory』は、多方面で創造性を発揮するイドリス・エルバとの共同監・・・",
+        "title": "2025年の「手づくりレッツノート工房」開催 最新モデル「SC」を組み立て",
+        "summary": "パナソニック コネクトは6月13日、小・中・高校生向けのPC組み立てイベント「手づくりレッツノート工房」の開催を発表した。開催日は2025年8月2日9時30分～16時の予定。6月13日から参加者を募集している。",
         "published": ""
       },
       {
-        "title": "アジレント、シングル四重極LC/MSシステム「InfinityLab Pro iQシリーズ」を発表",
-        "summary": "アジレント・テクノロジーは、シングル四重極LC/MSの次世代シリーズとなる「Agilent InfinityLab Pro iQシリーズ」を発表した。",
+        "title": "UiPath、エージェンティックオートメーションを実現するプラットフォーム国内提供開始",
+        "summary": "UiPathは6月12日、エージェンティックオートメーションを実現するプラットフォーム「UiPath Platform for Agentic Automation」の国内提供開始を発表した。同製品は、AIエージェントとロボット、そして人を一つのインテリジェントシステムに統合するもの。",
         "published": ""
       },
       {
-        "title": "【聖地】長野県「国立天文台野辺山」の来場者が6.2倍に! -「いいな、私も映画見て聖地巡礼したい」「コナン恐るべし」の声",
-        "summary": "今、長野県にある「国立天文台野辺山」が人気スポットとなっているのをご存知でしょうか? 来場者数は前年比6.2倍にまで増えており、スタッフのみなさんも驚きを隠せないようです。",
+        "title": "ドスパラ、新品GALLERIA購入で最大10万円分のポイントを還元するキャンペーン",
+        "summary": "サードウェーブは、10万円以上のGALLERIAデスクトップPCを購入した人に、製品価格に応じて最大10万円分ドスパラポイントを還元する『決算先取り大還元祭』を2025年6月13日から開始した。",
         "published": ""
       },
       {
-        "title": "ミスド初のディズニーデザイン「ディズニー スマイルコレクション」7月上旬発売へ",
-        "summary": "ダスキンが運営するミスタードーナツは7月上旬より、ミッキーマウスとミニーマウスをかたどったディズニーデザインの期間限定商品をミスタードーナツ全店(一部ショップ除く)で発売する。",
+        "title": "すき家、お得な「父の日限定クーポン」配信! “うな丼”や“うな牛”が100円引きに",
+        "summary": "牛丼チェーン店「すき家」は6月15日に、すき家公式アプリにて「父の日限定クーポン」を配信する。",
         "published": ""
       },
       {
-        "title": "一般の人とは正反対!? お金持ちが「投資」で大切にしていること",
-        "summary": "お金持ちが「投資」で大切にしているのは、どんなことだと思いますか？ 多くのお金を動かすからこそ、一般人には見落としがちなあることを徹底しているといいます。ほとんどのお金持ちが投資するときに欠かさない“…",
+        "title": "マンU、FWエキティケ獲得レースに参戦…フランクフルトは約166億円要求",
+        "summary": "マンチェスター・ユナイテッドが、フランクフルトに所属するU－21フランス代表FWウーゴ・エキティケの獲得レースに参戦したようだ。12日、ドイツメディア『スカイスポーツ』が伝えている。 現在22歳の",
         "published": ""
       },
       {
-        "title": "ダイハツ「ミラ」は軽自動車のホットハッチ? 20代が愛車に選んだ理由",
-        "summary": "その昔、自動車メーカーが軽自動車に4気筒エンジンを積むなどして武装し、スポーティーな「ホットハッチ」モデルとしての魅力を競い合っていた時代があった。その時代のホットな軽を愛車に選んだ20代に会えたので、話を聞いてきた。",
+        "title": "東大、燃料電池の研究開発を加速する自動実験・自律探索システムを開発",
+        "summary": "東京大学は、燃料電池の生産開発に資する自動実験・自律探索システム「FC-ROPES(ロープス)」を開発したと発表した。",
         "published": ""
       },
       {
-        "title": "【夏もお得に!】メッシュトートバッグにタンブラーなど、ファミレスで買える夏の福袋3選",
-        "summary": "年末年始のお楽しみの一つ“福袋”。最近では夏にも福袋を販売している店舗もあり、注目を集めています。今回は、夏の福袋を販売するファミリーレストランをピックアップ。「ココス」、「ジョリーパスタ」、「ビッグボーイ」の福袋の中身を紹介します。",
+        "title": "父の日直前！完熟フレッシュ親子が“ちょうどいいギフト”を本気調査",
+        "summary": "LINEヤフーは、同社が提供するショート動画プラットフォーム「LINE VOOM」にて、オリジナル番組『もうすぐ父の日！今からでも間に合うちょうどいいギフト、親子で探してみた』を、2025年6月14日（土）17:30より配信する。番組は「LINEギフト」とのコラボレーション企画であり、父の日に向けた“リアルで役立つギフト選び”をテーマに展開される。",
         "published": ""
       },
       {
-        "title": "脳トレクイズ 第350回 1つだけ違う漢字はどーこだ!? 「占」に隠れた「古」を見つけて!",
-        "summary": "今回は、仲間外れの漢字を探す脳トレクイズを出題。たくさんの漢字の中に一つだけ異なる漢字が隠れています。みなさんは何秒で見つけられるでしょうか?",
+        "title": "Yahoo! JAPANアプリ、「雨雲レーダー」に天気のユーザー投稿を重ねて表示する新機能「みんなの投稿」モードを追加",
+        "summary": "LINEヤフーは、同社が提供する「Yahoo! JAPAN」アプリ（iOS版）において、リアルタイムの天気に関するユーザー投稿が地図上で確認できる新機能「みんなの投稿」モードの提供を開始した。今後はAndroid版にも順次対応する予定である。",
         "published": ""
       },
       {
-        "title": "クセ毛の本質とは? 蛍光イメージング技術で毛髪の内部構造の可視化に成功",
-        "summary": "タカラベルモントの化粧品研究開発部はこのほど、毛髪内部構造を可視化する同社独自のイメージング技術を進化させることで、クセ毛の本質に迫る新たな事実を解明した。同技術を用いた研究成果について、「第2回日本化粧品技術者会 学術大会」にて口頭発表を行った。",
+        "title": "今夏リヴァプール退団が濃厚…去就注目のヌニェス、サウジ勢に加えナポリが新天地候補に？",
+        "summary": "リヴァプールに所属するウルグアイ代表FWダルウィン・ヌニェスに対し、複数のクラブが関心を寄せているようだ。12日、イギリス紙『ミラー』が伝えている。 プレミアリーグ連覇を目指すリヴァプールは今夏の",
         "published": ""
       },
       {
-        "title": "【漫画】インフルエンサー気取りママ友を成敗した件 第19回 他人の家や料理を自分のSNSにアップしてフォロワー獲得…ヤバすぎるママ友のSNS戦略とは!?",
-        "summary": "自分の“映え”のため、ママ友宅を託児所扱いしたり、怪しい商品を売りつけたりとみんなを振り回した「インフルエンサー気取りママ・アイちゃん」。一度は悪事がすべてバレて大人しくなったアイちゃんでしたが、実は全然反省していなかった――!? 人気インスタグラマー・ねぼすけさん(＠nebosuke_azarashiii)の実体験に基づいた漫画『インフルエンサー気取りママ友を成敗した件』をご紹介します。",
+        "title": "39歳・本田圭佑が現役続行に意欲「体が持つ限りはプレーを続けたい」",
+        "summary": "元日本代表MF本田圭佑が13日、自身が取締役／CVO（最高ビジョナリー責任者）として参画する次世代スポーツブランド「mgh（エムジーエイチ）」のローンチ記者発表会に登壇。この日、39歳の誕生日を迎え",
         "published": ""
       },
       {
-        "title": "【厚生労働省】今国会後半で最大の焦点 年金関連法案が成立へ",
-        "summary": "今国会後半で最大の焦点だった年金制度改革関連法案が、与野党の修正合意により6月22日の会期末までに成立する見通しとなった。自民、公明両党が基礎年金の底上げ策を明記する立憲民主党の修正案を受け入れたためで、年金が「政争の具」となって改革が遅れ・・・",
+        "title": "『シャドバWB』第1弾カードパックの映像やゲーム内モードなどの新情報発表",
+        "summary": "Cygamesは、新作タイトル『Shadowverse: Worlds Beyond（シャドウバース ワールズビヨンド）』の最新情報を発表した。",
         "published": ""
       },
       {
-        "title": "原菜乃華＆大西利空、過去オーディション落選の『ちはやふる』出演に感慨「憧れの世界」「幸せな気持ち」",
-        "summary": "日本テレビ系ドラマ『ちはやふる-めぐり-』(7月9日スタート、毎週水曜22:00～)の制作発表会見が13日、都内のスタジオで行われ、當真あみ、上白石萌音、齋藤潤、山時聡真、嵐莉菜、坂元愛登、高村佳偉人、原菜乃華、藤原大祐、大西利空が登壇した。",
+        "title": "電通、LINEヤフーらと広告効果の可視化を目的とした「SynWA project」発足",
+        "summary": "電通は6月11日、電通デジタルおよびLINEヤフーとともに、顧客像の分析や広告効果の可視化を目的とした共同プロジェクトを発足し、各社が保有するデータを活用した新たな分析ソリューションの提供を開始したと発表した。",
         "published": ""
       },
       {
-        "title": "ブライトン、オリンピアコスから18歳FWを獲得！ 5年契約を締結",
-        "summary": "ブライトンは12日、オリンピアコスからU－21ギリシャ代表FWチャラランポス・コストゥラスが完全移籍で加入することを発表した。 発表によると、コストゥラスは7月1日にブライトンに加入することになり",
+        "title": "高級炊飯器が好調、大切なお米を美味しく食べる - タイガーから2025年のフラッグシップ炊飯器「土鍋ご泡火炊き」",
+        "summary": "タイガー魔法瓶から、2025年の新型となる高級炊飯器の最上位モデル「土鍋ご泡火炊き JRX-S100／S060」が6月21日に発売される。発表会では、新イメージキャラクターの俳優・松坂桃李さんが実食したごはんの味を語った。",
         "published": ""
       },
       {
-        "title": "本当にあった退職・離職話 第22回 【漫画】同僚に「今月いっぱいで退職」を伝えたら…これは辞めて正解だわ!!",
-        "summary": "退職・離職経験があるマイナビニュース会員にアンケートを実施し、退職・離職時のエピソードを聞いてみました。回答から得られたエピソードを抜粋し、漫画で紹介していきます。",
+        "title": "AI活用の投資家、37.8%が「10%以上の利益」を実現 - 「10%以上の損失」を経験した人の割合は?",
+        "summary": "Wealth Onは、「投資家の生成AI活用に関する意識調査」の結果を6月6日に発表した。調査は2025年3月〜4月の期間、米国株投資家851名を対象に行われた。",
         "published": ""
       },
       {
-        "title": "付属のUSB-Cケーブルは使っちゃダメなの? - いまさら聞けないiPhoneのなぜ",
-        "summary": "iPhone 15シリーズ以降、iPhoneの外部インターフェイスは「USB-C(USB Type-C)」に変更されました。付属のケーブルもUSB-Cケーブルに変更され、なんの疑問を持たずに使用しているユーザがほとんどではないでしょうか。",
+        "title": "【3名】「サンシャイン水族館オリジナル レインポンチョ（子ども用）」プレゼントキャンペーン",
+        "summary": "＜応募〆: 2025/6/27＞【3名】「サンシャイン水族館オリジナル レインポンチョ（子ども用）」プレゼントキャンペーン",
         "published": ""
       },
       {
-        "title": "パナソニックがデータセンタ向け冷却ポンプを開発 - 70周年での事業強化",
-        "summary": "パナソニック くらしアプライアンスは、同社のポンプ事業において、データセンタ向けの冷却ポンプ市場に参入し、次世代型冷却水循環ポンプを新たに開発したことを発表した。",
+        "title": "【6名】機能性表示食品として、新たに進化した日本発のリラクゼーションドリンクブランド「CHILL OUT ストレス&疲労感ケア」をプレゼント",
+        "summary": "＜応募〆: 2025/6/27＞【6名】機能性表示食品として、新たに進化した日本発のリラクゼーションドリンクブランド「CHILL OUT ストレス&疲労感ケア」をプレゼント",
         "published": ""
       },
       {
-        "title": "【漫画】離婚まで100日のプリン 第12回 「お前と一緒で仕事できないタイプ」今日も夫のモラハラが止まらねぇ…|離婚90日前",
-        "summary": "離婚の道は一日にして成らず!ジワジワと浮気夫を追いつめる100日の軌跡。「不倫するプリン!?（ダジャレか）」「ゆる絵なのに…えげつないし泣ける…」とInstagramで話題! 各ママ向けメディアでも紹介・拡散された衝撃作が待望の書籍化。『マンガでわかる 離婚まで100日のプリン 決別or再構築、どうしよう?』(著者・きなこす、コラム解説・伊東有理子/KADOKAWA)より一部をご紹介します。",
+        "title": "【3名】シヤチハタの人気ブランドの新商品 スティック型スタンプ「nototo 10」と「Artline 色鉛筆 ＆ 水彩色鉛筆」をセットでプレゼント",
+        "summary": "＜応募〆: 2025/6/27＞【3名】シヤチハタの人気ブランドの新商品 スティック型スタンプ「nototo 10」と「Artline 色鉛筆 ＆ 水彩色鉛筆」をセットでプレゼント",
         "published": ""
       },
       {
-        "title": "【漫画】Dr.アシュラ 第4回 「パパ死んじゃうの?」患者の受け入れ先が見つからない!? その時アシュラは…",
-        "summary": "現在、フジテレビ系毎週水曜よる10時よりTVドラマも放送中、こしのりょうが描く『Dr.アシュラ』(日本文芸社刊)より一部をご紹介します。",
+        "title": "【25名様】Vポイント100pt",
+        "summary": "＜応募〆:2025/6/27＞Vポイント100ptを抽選で25名様にプレゼントいたします。",
         "published": ""
       },
       {
-        "title": "限界社会人のトホホ話 第65回 【漫画】サブスク視聴も体力勝負…ウォッチリストが溜まる夜",
-        "summary": "社会人ってとにかく忙しい。うっかりやらかした失敗や、心が折れそうになった瞬間など、限界スレスレの出来事を、マイナビニュース会員にアンケート! ハードモードを生き抜く“限界社会人”のリアルな悲喜こもごもを、4コマ漫画でお届けします。",
+        "title": "横尾渉、藤ヶ谷太輔に並々ならぬ感謝「挫けそうな時、折れそうな時、必ず隣にいた」",
+        "summary": "アイドルグループKis-My-Ft2の藤ヶ谷太輔と横尾渉が旅を繰り広げるHuluのバラエティ番組『Kis-My-Ft2 藤ヶ谷太輔＆横尾渉 NAKED～素のまま沖縄2人旅～』(全5話、毎週金曜18:00配信)のダイジェスト版が、27日(24:40～)に日本テレビで放送される。",
         "published": ""
       },
       {
-        "title": "なか卯、夏の風物詩「すだちおろしうどん」「とり天すだちおろしうどん」を発売 - 二八そばも",
-        "summary": "丼ぶりと京風うどんの「なか卯」は6月13日より、夏の風物詩「すだちおろしうどん」を販売する。",
+        "title": "『わたしの「対話人生」』国際社会経済研究所理事長・藤沢久美「靴下にかけた人生」",
+        "summary": "「これまでお会いした社長の中で一番印象に残っている人誰ですか？」と聞かれることが多い。 しかし、一人に絞るのは難しい。社長はみなさん個性的で、かつ、多面性をお持ちで、どこから見るかで、その魅力も変わる。そして、いずれの社長も発せられる言葉に・・・",
         "published": ""
       },
       {
-        "title": "この家の主は僕 第73回 【漫画】「シャワーがきになる?」風呂場で抗議する兄猫に…",
-        "summary": "漫画家・ネーム作家の秀さんと暮らす三匹の保護猫、レオくん、シロウくん、スイちゃん。甘えん坊の兄猫・レオくんは「この家の主は僕!」と思っているようですが……。Twitterで猫漫画を投稿している秀さんが綴る、レオくん視点の日々をお届けします。",
+        "title": "バーニーズ ニューヨークでTENTIALのポップアップストア開催中",
+        "summary": "コンディショニングブランド「TENTIAL(テンシャル)」を展開するTENTIALとバーニーズ ジャパンは、全国のバーニーズ ニューヨーク5店舗にて、6月19日までの期間限定でテンシャルのPOP UP STOREをオープンしている。",
         "published": ""
       },
       {
-        "title": "#転職の向こう側 第2回 【漫画】「今日中ね」と定時後に仕事を振るブラック企業から転職できない理由",
-        "summary": "転職があるマイナビニュース会員にアンケートを実施し、転職にまつわる経験談を聞いてみました。回答から得られた悲喜こもごものエピソードを抜粋し、漫画で紹介していきます。",
+        "title": "渋谷・博多・大阪で大分県移住プロモーションイベントを開催",
+        "summary": "大分県は6月14日・21日・29日、Fun! Fan! OITA 大分県移住プロモーションイベントを開催する。",
         "published": ""
       },
       {
-        "title": "Aptos Labsが語る、「EXPO2025デジタルウォレット」を支えるブロックチェーンの未来",
-        "summary": "2025年4月に開幕した「大阪・関西万博」では、公式ウォレットサービスとして「EXPO2025デジタルウォレット」が導入された。そのブロックチェーンネットワークを提供している、米国のブロックチェーン技術企業であるAptos Labsでアジア地区のマーケティングを統括するトーマス・チョウ氏に話を聞いた。",
+        "title": "ミラン、DFジンチェンコ獲得に向けアーセナルと交渉中？ 障壁は年俸か",
+        "summary": "ミランが、アーセナルに所属するウクライナ代表DFオレクサンドル・ジンチェンコに関心を示しているようだ。12日、イタリアメディア『スカイスポーツ』が伝えている。 現在28歳のジンチェンコはシャフター",
         "published": ""
       },
       {
-        "title": "上白石萌音、令和版『ちはやふる』生徒役たちに嫉妬心「本当に悔しい」",
-        "summary": "日本テレビ系ドラマ『ちはやふる-めぐり-』(7月9日スタート、毎週水曜22:00～)の制作発表会見が13日、都内のスタジオで行われ、當真あみ、上白石萌音、齋藤潤、山時聡真、嵐莉菜、坂元愛登、高村佳偉人、原菜乃華、藤原大祐、大西利空が登壇した。",
+        "title": "【ちいかわ】パステルカラーの波打つ「うねうねケース」登場! - パステルとクリアの2WAY仕様",
+        "summary": "ちいかわグッズの最新スマホケースは、トレンドのうねうねケース。波打つフォルムとちいかわデザインの相性がバッチリで、とにかく可愛いんです!!",
         "published": ""
       },
       {
-        "title": "日本市場についに投入!ヤマハ発動機の次世代操船システム「HARMO」新モデル、実際に乗船してみた",
-        "summary": "ヤマハ発動機は6月、次世代操船システム「HARMO(ハルモ)」新モデルの国内販売を開始する。これに先立ち、同社はメディア向け説明会と乗船会を開催。マリン事業本部の責任者らが登壇し、新型ハルモの性能や展望について語った。",
+        "title": "【一番くじ】9月登場の「ディズニープリンセス」、ラストワン賞公開 -「うわっ!!!このライトは天才」「今の私は、ゴーテルの形相」と話題",
+        "summary": "9月12日、憧れの「ディズニープリンセス」が一番くじに登場! このほど、その「ラストワン賞」が公開されました。",
         "published": ""
       },
       {
-        "title": "サントリー「グリーン水素ビジョン」を発表 - グリーン水素の一気通貫供給モデルを推進へ",
-        "summary": "サントリーホールディングスは、2025年内に稼働予定の「やまなしモデルP2Gシステム」を起点に、脱炭素社会を目指す中長期戦略「サントリーグリーン水素ビジョン」を発表した。",
+        "title": "17LIVE、なめ猫と初コラボ 池袋駅掲出予定の巨大看板広告に出演できるチャンスも",
+        "summary": "ライブ配信アプリ｢17LIVE(イチナナ)」が12日より、「なめ猫」と初のコラボレーションとなるアプリ内イベント『襲来、「なめ猫」』を開催している。",
         "published": ""
       },
       {
-        "title": "堅牢なセキュリティの証「PCI DSS」準拠コストを最大60％削減! 今選ぶべきファイルサーバ暗号化サービスとは?",
-        "summary": "カード情報を扱う企業・組織はPCI DSSの要件に準拠したセキュリティ対策を施す必要があるが、対応するシステムの構築・運用にはコストや手間がかかるという課題も存在する。本記事ではこの課題の解決に寄与し、セキュリティの大幅強化につなげられるソリューションに迫る。",
+        "title": "移住志望者と地域をつなぐ「九州移住ドラフト会議」の第三期募集開始",
+        "summary": "九州地域間連携推進機構は6月1日から、\"人と地域との出会い\"をつくるイベント「九州移住ドラフト会議 2025-2026」に参加する地域の第三期募集を開始した。期間は7月31日まで。",
         "published": ""
       },
       {
-        "title": "30年国債の金利が一時3%まで上昇し話題に、個人投資家にはどんな影響がある?",
-        "summary": "日銀の利上げにより、日本も金利のある世界に戻りました。その中で、30年国債の金利上昇が話題になるなどしています。30年国債の金利の上昇は個人投資家などにどのような影響があるのでしょうか? 個人投資家は直接購入できない、30年国債の金利上昇の個人投資家に対する影響などを簡単に解説します。",
+        "title": "『メタルギアリメイク』、かくれんぼに近い駆け引きを楽しめるオンライン対戦モード「FOX HUNT」搭載決定",
+        "summary": "コナミデジタルエンタテインメントは、2025年8月28日に発売予定の『METAL GEAR SOLID Δ: SNAKE EATER』に、オンライン対戦モード「FOX HUNT」が搭載されることを発表した。",
         "published": ""
       },
       {
-        "title": "NHKの脚本開発チーム「WDRプロジェクト」第2期メンバー決定 唯一無二の「面白い!」を目指す",
-        "summary": "NHKで2022年に立ち上げた脚本開発チーム「WDRプロジェクト」の第2期のメンバーが13日、公式ホームページで発表された。",
+        "title": "中国SinoTrack製品に重大な脆弱性、不正な車両遠隔操作の恐れ",
+        "summary": "米国土安全保障省サイバーセキュリティ・インフラストラクチャセキュリティ庁(CISA)は6月10日(米国時間)、中国を拠点とするSinoTrackのWeb管理インタフェースに複数の脆弱性が存在すると伝えた。対象の脆弱性を悪用されると、遠隔から不正にコネクティッドカーの燃料ポンプの電源を切断される可能性がある。",
         "published": ""
       },
       {
-        "title": "藤本美貴、“庄司智春の好きなところを100個言う”動画に反響「公開ラブレター」「これぞ理想の夫婦」",
-        "summary": "タレントの藤本美貴が6日、公式YouTubeチャンネル『ハロー!ミキティ／藤本美貴』を更新。夫でお笑いコンビ・品川庄司の庄司智春の好きなところを赤裸々に語った。",
+        "title": "【漫画】料理をしない母は毒親ですか? 第9回 母は家を出て彼氏と暮らし始めた",
+        "summary": "父と離婚後、彼氏のためにだけ手料理を作る母の元で、子ども時代を過ごしたあみ。自分も母親になった現在は、暗い記憶が繰り返しよみがえりながらも、娘のために一生懸命料理を作っている――『料理をしない母は毒親ですか?』(KADOKAWA)より、一部を試し読みでご紹介します。",
         "published": ""
       },
       {
-        "title": "カードローン借入理由の4割以上は「生活費」、消費者金融を選ぶ理由は?",
-        "summary": "カードローンの窓口は6月5日、日本国内のカードローン利用経験者に向けて実施した「カードローンの利用状況に関する調査」の結果を発表した。調査は5月21日〜26日、20歳〜69歳の男女118人を対象に行われた。",
+        "title": "HP、年に一度のビッグセール「HP 26周年大祭り」開催決定。ホロライブ起用の企画番組も",
+        "summary": "日本HPは、6月20日から7月31日（木）12:59までの期間中、同社オンラインストア開設6周年を記念して「HP 26周年大祭り」を開催すると明らかにした。第1弾（6/20-7/4）と第2弾（7/4-7/31）の2部構成になっており、それぞれ対象製品が設定される。",
         "published": ""
       },
       {
@@ -8231,150 +8366,190 @@
         "published": "2025-06-09"
       },
       {
+        "title": "The Download: China’s AI agent boom, and GPS alternatives",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Manus has kick-started an AI agent boom in China Last year, China saw a boom in foundation models, the do-everything large language models that underpin the AI revolution. This year, the focus has&#8230;",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "Why doctors should look for ways to prescribe hope",
+        "summary": "This week, I’ve been thinking about the powerful connection between mind and body. Some new research suggests that people with heart conditions have better outcomes when they are more hopeful and optimistic. Hopelessness, on the other hand, is associated with a significantly higher risk of death. The findings build upon decades of fascinating research into&#8230;",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "Inside the race to find GPS alternatives",
+        "summary": "Later this month, an inconspicuous 150-kilogram satellite is set to launch into space aboard the SpaceX Transporter 14 mission. Once in orbit, it will test super-accurate next-generation satnav technology designed to make up for the shortcomings of the US Global Positioning System (GPS).&#160; The satellite is the first of a planned constellation called Pulsar, which&#8230;",
+        "published": "2025-06-06"
+      },
+      {
         "title": "The Download: an inspiring toy robot arm, and why AM radio matters",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a 1980s toy robot arm inspired modern robotics —Jon Keegan As a child of an electronic engineer, I spent a lot of time in our local Radio Shack as a kid. While&#8230;",
         "published": "2025-06-09"
+      },
+      {
+        "title": "The Download: China’s AI agent boom, and GPS alternatives",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Manus has kick-started an AI agent boom in China Last year, China saw a boom in foundation models, the do-everything large language models that underpin the AI revolution. This year, the focus has&#8230;",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "Why doctors should look for ways to prescribe hope",
+        "summary": "This week, I’ve been thinking about the powerful connection between mind and body. Some new research suggests that people with heart conditions have better outcomes when they are more hopeful and optimistic. Hopelessness, on the other hand, is associated with a significantly higher risk of death. The findings build upon decades of fascinating research into&#8230;",
+        "published": "2025-06-06"
+      },
+      {
+        "title": "Inside the race to find GPS alternatives",
+        "summary": "Later this month, an inconspicuous 150-kilogram satellite is set to launch into space aboard the SpaceX Transporter 14 mission. Once in orbit, it will test super-accurate next-generation satnav technology designed to make up for the shortcomings of the US Global Positioning System (GPS).&#160; The satellite is the first of a planned constellation called Pulsar, which&#8230;",
+        "published": "2025-06-06"
       }
     ],
     "ASCII.jp": [
       {
-        "title": "GIGABYTE「GAMING A16」発表！RTX 5070 Laptop GPU搭載AIノート",
-        "summary": "GIGABYTEが新たに第13世代Intel Core i7とNVIDIA GeForce RTX 5070 Laptop GPUを搭載した16.0型AIゲーミングノートPC「GAMING A16シリーズ」を6月21日に発売する。",
+        "title": "メタのAIアプリ、不倫の告白などきわどい会話が公開されているとの報告 ユーザーが誤って共有か",
+        "summary": "海外の投資家Justine Moore氏は6月12日、自身のXアカウントで、メタのAIアプリのユーザーが、誤ってAIとの会話内容を一般公開しているケースが少なくないと指摘。話題となっている。",
         "published": "2025-06-13"
       },
       {
-        "title": "東京メトロ有楽町駅の地下通路に突如現れる謎の「たぬき」スポットがあるワケ",
-        "summary": "丸の内エリアの古き良き昭和レトロなスポットを巡り、魅力を深掘りする本連載。25回目となる今回から、お店以外の場所にも足を運びます。まずは有楽町駅を利用する方なら気になっていたであろう、謎の「たぬきスポット」をご紹介。なぜこんなところにたぬきがいるのか…謎に迫ります。",
+        "title": "【無料ゲーム】ヘンテコ病棟シミュレーション「ツーポイントホスピタル」1週間限定で3888円→0円",
+        "summary": "Epic Games Storeで実施中の「毎週無料ゲーム」。現在はヘンテコ病棟シミュレーション「Two Point Hospital（ツーポイントホスピタル）」が無料配布中なので、紹介していこう。期間は2025年6月20日まで。",
         "published": "2025-06-13"
       },
       {
-        "title": "サクレレモン6000個無料配布！全国5都市で太っ腹サンプリングイベント開催",
-        "summary": "フタバ食品は全国5会場で「サクレレモン」の無料配布イベントを6月21日より開催する。「サクレレモン」が無料で食べられる！",
+        "title": "T.M.Revolution・西川貴教がガンダムパビリオンを再訪！「会いたかった」の声続々",
+        "summary": "万博で、まさにいま注目されているトピックを紹介する日刊大阪・関西万博。6月12日（木）は、西川貴教さんがGUNDAM NEXT FUTURE PAVILIONを再訪し、話題を集めた。",
         "published": "2025-06-13"
       },
       {
-        "title": "幻想的な夜の旅へ誘う「夜のあじさい号」、6月14日から17日間限定運行決定！",
-        "summary": "小田急箱根が、6月14日から17日間限定で「夜のあじさい号」を運行。",
+        "title": "ローカルAI、スマホでサクッと動かせる グーグル「AI Edge Gallery」",
+        "summary": "5月21日、グーグルが密かにリリースした「AI Edge Gallery」を使えばスマホローカルでグーグルのLLM「Gemma 3n」が動くという。さっそくためしてみた",
         "published": "2025-06-13"
       },
       {
-        "title": "「萩の月」をつくった菓匠三全の夏季限定「萩の調 釉 れもん」、思った以上にレモンです",
-        "summary": "菓匠三全 グランスタ東京店、エキュート品川店、羽田SMILE TOKYO前店では、夏季限定の「萩の調 釉 れもん」を発売中です。",
+        "title": "マリオ、キティ、文スト、刀剣男士……今や\"推し活\"の場に！ SNSで話題の美術館・博物館ランキングTOP30",
+        "summary": "梅雨入りを目前に控える今日この頃。そんな季節には美術館や博物館に足を運んではいかがだろうか。多くの美術館・博物館では多彩な企画展が企画され、来場者の目を楽しませている。X（旧Twitter）上で言及された「美術館・博物館ランキング」をもとに、そのトレンドを読み解いていこう。",
         "published": "2025-06-13"
       },
       {
-        "title": "3,280円で世界6ヵ国の名物料理が食べれるフルコースがお得すぎで素敵すぎ",
-        "summary": "新丸ビルにある「フランツクラブ」など、ワールドリカーインポーターズ株式会社が展開するレストラン各店では、2025年6月15日（日）～8月31日（日）まで全6ヵ国の名物料理を一品ずつ楽しめるフルコース「パスポートの要らない食巡り 世界弾丸ツアー」を開催します。",
+        "title": "キーボードを外したらコントローラーが！ 一体型ポータブルPC「OneXPlayer G1」がすごい",
+        "summary": "従来のノートPCとも、スマホやタブレットとも違う、ゲーミングに特化した設計と、片手で持てるコンパクトさが特徴で、いわば“携帯できるゲーミングマシン”。そんなジャンルの中、One-Netbookから登場したのが最新モデル「OneXPlayer G1」です。",
         "published": "2025-06-13"
       },
       {
-        "title": "クッキー＝甘いものという常識をぶち破る和テイストのスパイスクッキー、お酒との相性も抜群！",
-        "summary": "東京駅限定スイーツブランド「あまみカオリ研究所」では、スパイスクッキー缶の“八幡屋礒五郎コラボKAN-KAN”を6月13日（金）より販売開始します。",
+        "title": "ついに！ミスド初のディズニードーナツが7月上旬から。ミッキー、ミニーが登場予定",
+        "summary": "ミスタードーナツは7月上旬から、ディズニーデザインの期間限定商品「ディズニー スマイルコレクション」を販売。ミッキーマウスとミニーマウスのシルエットをモチーフにしたドーナツが登場します。",
         "published": "2025-06-13"
       },
       {
-        "title": "謎のご当地グルメに世界最高峰のチーズ！すべてがポテンシャルが高すぎてヤミツキになる那須塩原【那須塩原市の旅#3ーグルメ編】",
-        "summary": "意外な名物から興味を引く観光スポットまで、東日本にはまだ知られていない魅力がたくさん。つなぐ旅編集部が実際に東日本の市町村を訪れて、「ワクワクする」シーンを体験レポート。今回は栃木県那須塩原市グルメ編をお届けします。那須塩原市といえばチーズかな！と思っていたら、未知のご当地グルメ「スープ入り焼きそば」と遭遇しました。スープに焼きそばを入れるの！？",
+        "title": "FRONTIER爆得セール！最新Ryzen搭載PCが送料無料の特別価格",
+        "summary": "FRONTIERが公式Xフォロワー10万人突破を記念して開催する「爆得ドリーム！ボーナスセール」で、特別モデル「FRGPLMB650B/MHW2」を特価で提供。",
         "published": "2025-06-13"
       },
       {
-        "title": "巨大吊橋ツアーと1,200年の歴史を持つ温泉、落ち着いて部屋食できるお宿も最高！【那須塩原市の旅#2ー観光編】",
-        "summary": "意外な名物から興味を引く観光スポットまで、東日本にはまだ知られていない魅力がたくさん。つなぐ旅編集部が実際に東日本の市町村を訪れて、「ワクワクする」シーンを体験レポート。今回は栃木県那須塩原市観光編をお届けします。那須塩原市は吊橋の宝庫！ そして、私の大好きなアレができる温泉宿に宿泊しました。",
+        "title": "レゴで作ったデータセンターの精密さに驚き！ MCデジタル・リアルティでチェックしてきた",
+        "summary": "Interop Tokyo 2025の展示会場に出展したMCデジタル・リアルティは、データセンターをレゴで再現している。ただのおもちゃとあなどるなかれ。データセンターの各コンポーネントや構造を理解するのに役立つので、一見の価値がある。",
         "published": "2025-06-13"
       },
       {
-        "title": "写真1000枚でiPhoneがパンパン！ 那須塩原で動物とグルメに癒やされる旅が最高すぎた【那須塩原市の旅#1ー牧場編】",
-        "summary": "意外な名物から興味を引く観光スポットまで、東日本にはまだ知られていない魅力がたくさん。つなぐ旅編集部が実際に東日本の市町村を訪れて、「ワクワクする」シーンを体験レポート。今回は栃木県那須塩原市牧場編をお届けします。持て余していた私の動物触れ合い欲が大爆発！ 牧場グルメも最高だし、フォトスポットもたくさんだし、訪れる価値大アリです！",
+        "title": "ドスパラ「自作PC組立イベント」7月開催！初心者も安心サポート",
+        "summary": "ドスパラが2025年7月に自作パソコン組立イベントを全国で開催。",
         "published": "2025-06-13"
       },
       {
-        "title": "ご存じですか。ビデオテープの2025年問題",
-        "summary": "パソコン不要で簡単にビデオテープをデジタル化できる「思い出ビデオ変換レコーダー1 RS-AVREC1」を発売中。",
+        "title": "はじめての「SORACOM Discovery」参加ガイド",
+        "summary": "はじめての「SORACOM Discovery」参加ガイド",
         "published": "2025-06-13"
       },
       {
-        "title": "AIやIoTを用いて人々が生活習慣をコントロールできる仕組みを開発",
-        "summary": "AI や IoT を用いて人々が生活習慣をコントロールできる仕組みを開発",
+        "title": "松のや、サクふわ「サーモンフライ」再び！ 3つの“海鮮フライ”定食登場",
+        "summary": "松のやは6月18日15時から、「サーモンフライ」を発売。イカフライと海老フライを組み合わせた「海鮮盛合せ定食」など3つの定食が登場します。",
         "published": "2025-06-13"
       },
       {
-        "title": "アマゾン、備蓄米発売 5kg 1944円",
-        "summary": "アマゾンジャパン（Amazon.co.jp）は2025年6月13日10時より、政府備蓄米の販売を開始した。価格は5kgで1944円。初回分は予約販売で、6月16日以降の発送を予定している。",
+        "title": "メルカリ、とうとう米穀全般の出品禁止",
+        "summary": "メルカリは6月13日、閣議決定を受け、フリマアプリ「メルカリ」および「メルカリShops」において、2025年6月23日午前0時より当面の間、米穀全般の出品を禁止すると発表した。",
         "published": "2025-06-13"
       },
       {
-        "title": "「サイレントヒル」リメイク決定 あの恐怖が26年ぶりによみがえる",
-        "summary": "コナミデジタルエンタテインメントは公式情報番組「KONAMI PRESS START」にて、初代「SILENT HILL（サイレントヒル）」のリメイクを制作中だと発表した。",
+        "title": "【爆売れ】「ファンタジーライフi」100万本突破、神アプデ",
+        "summary": "レベルファイブは「ファンタジーライフｉ グルグルの竜と時をぬすむ少女」の全世界販売本数が100万本を突破したと発表。要望の多かった点のアップデートも配信している。",
         "published": "2025-06-13"
       },
       {
-        "title": "300円の朝食「玉子丼」を提供する松のや、「朝得親子丼」を一部店舗で",
-        "summary": "とんかつ専門店「松のや」は“朝メニュー”として実験的に、一部店舗で490円の「得朝親子丼」を発売すると公式Xで告知。",
+        "title": "Semtyait 高性能ブロワーで贈る父の日6月4日～15日限定｜特別キャンペーン開催中",
+        "summary": "Semtyait 高性能ブロワーで贈る父の日6月4日～15日限定｜特別キャンペーン開催中",
         "published": "2025-06-13"
       },
       {
-        "title": "ASUSと初音ミクがコラボ！TUF Gamingデバイス4製品",
-        "summary": "ASUS JAPANがTUF Gamingと初音ミクのコラボレーション製品4種を2025年6月20日より発売開始。",
+        "title": "コメ、転売規制へ 100万円以下の罰金も",
+        "summary": "政府は6月13日、米の転売に対する罰則規定を盛り込んだ「国民生活安定緊急措置法施行令の一部を改正する政令」を閣議決定した。6月23日の施行を予定している。",
         "published": "2025-06-13"
       },
       {
-        "title": "コンパクトでカッコいいけど大きなケースと比べると自作難易度は高め、でも実はゲーミングPCとしてBTOで買えるよ",
-        "summary": "机上にパソコンを置く場合、やはりコンパクトなサイズのほうが邪魔にならないのは当然だ。しかし、サイズの制約から性能に妥協したくないと考える人は多いのではないだろうか。そういった人にオススメできるのが、パソコンショップSEVENのゲーミングパソコン「ZEFT Z55IG」だ。",
+        "title": "驚愕の93%画面占有率！ASUS V400 AiOが実現する超薄型オールインワンPCのハイスペック体験",
+        "summary": "ASUS JAPANは、新しいオールインワンPC「ASUS V400 AiO」をリリース。",
         "published": "2025-06-13"
       },
       {
-        "title": "JAPANNEXT、320Hz／1msの24.5インチIPSゲーミングモニター「JN-IPS245G320F」シリーズを発表。価格は33,980円から",
-        "summary": "高速リフレッシュレートと高応答速度を実現するJAPANNEXTの新しいゲーミングモニターは、滑らかで高精細なゲーム体験を提供する。",
+        "title": "わずか8.5g！スマホに対応する超軽量Type-C USBメモリーでデータ管理はおまかせ",
+        "summary": "Verbatim Japanが新しいType-C USBメモリーを発表。",
         "published": "2025-06-13"
       },
       {
-        "title": "【1万円台】JAPANNEXTから高コスパな21.5インチIPSモニター登場。フルHD／100Hz対応の「JN-IPS215F2」",
-        "summary": "株式会社JAPANNEXTは、21.5インチのIPSパネル搭載フルHD液晶モニター「JN-IPS215F2」を税込13,980円で販売開始。",
+        "title": "ドスパラ、最大10万円分還元！GALLERIA PCの決算先取りセール",
+        "summary": "ドスパラが『決算先取り大還元祭』を開始した。",
         "published": "2025-06-13"
       },
       {
-        "title": "最大3画面＆PC給電も可能！JAPANNEXTの多機能デュアルモニター「JN-DMD-IPS238F-C4」が発売",
-        "summary": "JAPANNEXTが23.8インチIPSパネルを2つ搭載したデュアルモバイルモニターを、79,980円で6月13日に発売開始。",
+        "title": "「メタルギア」新作、対戦モード実装 ボンバーマンやシークレットシアター復活も",
+        "summary": "コナミデジタルエンタテインメントは公式情報番組「KONAMI PRESS START」にて、「METAL GEAR SOLID Δ: SNAKE EATER」の最新情報を公開。新たなオンライン対戦モード「FOX HUNT」などを紹介した。",
         "published": "2025-06-13"
       },
       {
-        "title": "“重い・開かない・壊れる” Excel運用はもう無理 ワンチームで成し遂げたkintone移行",
-        "summary": "2025年4月15日にZepp Nagoyaで開催された、kintoneユーザーの事例共有イベント「kintone hive nagoya」。ラスト6組目に登壇したアイシンの吉田琴絵氏と三宅彩菜氏は、仲間と共に成し遂げた、部署独自のExcel運用からのkintone移行について語った。",
+        "title": "美容・歯科クリニック特化のTikTok運用「TriVeeBeauty」提供開始",
+        "summary": "美容・歯科クリニック特化のTikTok運用「TriVeeBeauty」提供開始",
         "published": "2025-06-13"
       },
       {
-        "title": "“有料でも行きたい”が証明された日――チケット有料化でも大満足なシーホース三河ファンイベント",
-        "summary": "シーホース三河「ファンフェス2024-25 supported by AISIN」レポート",
+        "title": "株式会社Revreel × 株式会社EGG、クリエイティブライツ事業「PLAYERS」を正式ローンチ",
+        "summary": "株式会社Revreel × 株式会社EGG、クリエイティブライツ事業「PLAYERS」を正式ローンチ",
         "published": "2025-06-13"
       },
       {
-        "title": "任天堂、ネットワーク障害 「ニンテンドー3DS」にも影響",
-        "summary": "任天堂は公式サポートX（Twitter）にて、2025年6月13日 2時56分ごろよりネットワーク障害が発生中だと告知した。",
+        "title": "株式会社EGG × 株式会社Revreel、クリエイティブライツ事業「PLAYERS」を正式ローンチ",
+        "summary": "株式会社EGG × 株式会社Revreel、クリエイティブライツ事業「PLAYERS」を正式ローンチ",
         "published": "2025-06-13"
       },
       {
-        "title": "大間野みらいDXエデュラボ、DX研修サービスを提供開始",
-        "summary": "大間野みらいDXエデュラボ、DX研修サービスを提供開始",
+        "title": "Archesの「Expert Knowledge Bank」がブルームバーグ端末から閲覧可能に",
+        "summary": "Archesの「Expert Knowledge Bank」がブルームバーグ端末から閲覧可能に",
         "published": "2025-06-13"
       },
       {
-        "title": "あらゆる自然関連プロジェクトをリアルなデータで可視化し共有できるツール「mapryマップ」β版をリリース",
-        "summary": "あらゆる自然関連プロジェクトをリアルなデータで可視化し共有できるツール「mapryマップ」β版をリリース",
+        "title": "ASUS ROGから無線ヘッドセットPeltaとキーボード2種が登場",
+        "summary": "ASUS JAPANは、新たにゲーミングデバイス「ROG Pelta」ヘッドセットと2つのキーボードを発表。",
         "published": "2025-06-13"
       },
       {
-        "title": "【オンラインセミナー】「予備品が現場の“ブラックボックス”になっていませんか？ よくある悩みと解決のヒント」を 6/24（火）に開催",
-        "summary": "【オンラインセミナー】「予備品が現場の“ブラックボックス”になっていませんか？ よくある悩みと解決のヒント」を 6/24（火）に開催",
+        "title": "「幕張メッセ」の“メッセ”って何？ 意外と知らない意味と由来",
+        "summary": "幕張メッセの「メッセ」ってどういう意味なんだろう。",
         "published": "2025-06-13"
       },
       {
-        "title": "アセットテクノロジー、名古屋エリアのタワーマンション管理業務の再委託先として業務開始",
-        "summary": "アセットテクノロジー、名古屋エリアのタワーマンション管理業務の再委託先として業務開始",
+        "title": "Amazon限定！ASUSの軽量ゲーミングマウス「ROG Keris II Origin」が新登場",
+        "summary": "ASUS JAPANより、最新のゲーミングマウス「ROG Keris II Origin」が6月20日にAmazonで発売。",
         "published": "2025-06-13"
       },
       {
-        "title": "飼い主の緊急時に愛犬を救う、犬の母子手帳「いぬヘルプ手帳」Makuakeにて6月13日より先行支援販売を開始",
-        "summary": "飼い主の緊急時に愛犬を救う、犬の母子手帳「いぬヘルプ手帳」Makuakeにて6月13日より先行支援販売を開始",
+        "title": "『2025年ブダペスト世界柔道選手権大会』個人戦・団体戦・日本代表総合成績の結果予想をスポーツ予想アプリ「なんドラ」で今年も開催！",
+        "summary": "『2025年ブダペスト世界柔道選手権大会』個人戦・団体戦・日本代表総合成績の結果予想をスポーツ予想アプリ「なんドラ」で今年も開催！",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "グーグル「Pixel 6a」充電性能を低下させるアップデート バッテリー過熱問題で",
+        "summary": "グーグルが「Pixel 6a」に対して、充電性能を調整するアップデートの展開を予定していることがわかった。6月11日、海外メディア「9TO5Google」が報じている。",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "労災保険特別加入のウーバーオニオン、労災ホットラインの自動応答対応を開始",
+        "summary": "労災保険特別加入のウーバーオニオン、労災ホットラインの自動応答対応を開始",
         "published": "2025-06-13"
       },
       {
@@ -8978,7 +9153,54 @@
         "published": "2025-06-09"
       }
     ],
+    "The Next Web": [
+      {
+        "title": "European VCs just made a record bet on this fusion energy underdog",
+        "summary": "Two years ago, German startup Proxima Fusion emerged from stealth with big ambitions to make a little-known stellarator fusion machine a serious contender in the race for commercial fusion energy. Today, the Munich-based company secured Europe’s largest-ever private investment in fusion power — a €130mn Series A funding round from big-name investors including Balderton Capital, Cherry Ventures, and Plural. Daniel Waterhouse, partner at Balderton Capital, said he now thinks Proxima has taken its ",
+        "published": "2025-06-11"
+      },
+      {
+        "title": "Clearest views yet of Sun’s south pole may unlock its mysteries",
+        "summary": "A spacecraft developed by European scientists and companies has captured unprecedented new views of the Sun’s south pole. Built by Airbus in the UK, Solar Orbiter was developed as part of a joint mission between the European Space Agency (ESA) and NASA. The probe launched on a United Launch Alliance Atlas V 411 rocket from Cape Canaveral, Florida in 2020. A number of European tech firms also contributed to the mission. One of them is Dublin-based Enbio, which developed a protective coating for t",
+        "published": "2025-06-11"
+      },
+      {
+        "title": "TNW Backstage dives into the debate over sustainable motorsport",
+        "summary": "This week on TNW Backstage, we’re heading into the fast lane — and straight into the climate debate. In the final episode of the podcast, we revisit a divisive bet on sustainable motorsport: Extreme E, the all-electric racing series. The events sent SUVs hurtling through some of the planet’s most fragile ecosystems. Supporters said they raised awareness about environmental issues, while detractors called it a classic case of greenwashing. At last year’s TNW Conference, we were guided through the",
+        "published": "2025-06-11"
+      },
+      {
+        "title": "World’s biggest sand battery to heat Finnish town without fossil fuels",
+        "summary": "A small town in Finland is about to ditch fossil fuels in its heating network thanks to a sand-filled energy storage tank the size of a house. Finnish startup Polar Night Energy recently turned on the so-called sand battery in the municipality of Pornainen, an hour north of Helsinki. The machine, which uses dirt to store excess renewable energy as heat, will warm the homes and businesses in the town of 5,000 people. It is expected to replace natural gas and oil in Pornainen’s district heating ne",
+        "published": "2025-06-11"
+      },
+      {
+        "title": "Live selling: the next big hustle sweeping Europe",
+        "summary": "Tinny music plays in a dimly lit basement as we watch a teenager pull football shirts off a nearby clothing rack and hold them up to the camera. He describes each item monotonously — the team, season, colour, and condition — before sticking on a numbered label and transferring them to another rack. Each item gets less than a minute in the limelight. Bid rates and prices are listed at the bottom of the screen with eager buyers swiping a yellow bar to bid, while exchanging questions, comments, and",
+        "published": "2025-06-10"
+      },
+      {
+        "title": "Starmer tells UK to ‘push past’ AI job fears as tech leaders raise alarm",
+        "summary": "British Prime Minister Keir Starmer has said it is time to “push past” concerns that AI poses a threat to human jobs — contradicting the concerns of some of tech’s biggest players. Speaking at London Tech Week today, Starmer called for industry to embed AI throughout the UK economy, from healthcare to education. By taking on administrative tasks, Starmer argues that artificial intelligence tools can free up people to focus on the “human work.” For this reason, he said, “AI will make us more huma",
+        "published": "2025-06-09"
+      },
+      {
+        "title": "Why tech companies are snubbing the London Stock Exchange",
+        "summary": "British fintech Wise said this week it would shift its primary listing from London to New York, joining a growing list of firms snubbing the London Stock Exchange. UK chip designer Arm opted for a New York IPO in 2023, while food delivery giant Just Eat Takeaway quit the LSE for Amsterdam in November. Sweden’s Klarna has confirmed plans to go public in New York, following in the footsteps of fellow Stockholm-based tech darling Spotify, which listed on the NYSE in 2018. The draw? Bigger valuation",
+        "published": "2025-06-06"
+      }
+    ],
     "Gigazine": [
+      {
+        "title": "AIで台風・ハリケーン・サイクロンの進路を予測して警告する「ウェザーラボ」をGoogleが立ち上げ",
+        "summary": "Google DeepMindとGoogle Researchが、アメリカの国立ハリケーンセンターと協力して、台風予測を行う「Weather Lab(ウェザーラボ)」を立ち上げたと発表しました。続きを読む...",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "通知許可ボタンを「私はロボットではありません」のボタンだと偽ってクリックさせ詐欺通知を配信しまくる攻撃手法が発見される",
+        "summary": "インターネットで調べ物をしていると、「私はロボットではありません」といった「自分がBOTではないことを証明するためのボタン」が表示されることがあります。これらのBOT検閲システムは「CAPTCHA」と呼ばれているのですが、「通知を許可するボタン」をCAPTCHAのボタンだと偽ってユーザーに通知を受け入れさせ、詐欺広告を配信するという攻撃手法が発見されました。この攻撃はロシアによる偽情報拡散作戦「ドッペルゲンガー」に関連していると見られています。続きを読む...",
+        "published": "2025-06-13"
+      },
       {
         "title": "最大512GB/sの双方向転送速度でAIの帯域幅需要をサポートする「PCIe 7.0」の最終仕様がリリースされる",
         "summary": "2025年6月11日、PC周辺機器の接続規格であるPCI Express(PCIe)の仕様策定団体・PCI-SIGが、「PCI Express 7.0(PCIe 7.0)」の最終仕様をリリースしました。PCIe 7.0の最終仕様ではデータレート(ビットレート)が最大128GT/s、双方向転送速度が512GB/sとなっています。続きを読む...",
@@ -9579,6 +9801,16 @@
     ],
     "TechEU": [
       {
+        "title": "Can the BRYCK Alliance turn the Ruhr region into Germany’s deeptech launchpad?",
+        "summary": "The week sees further plans to advance the Ruhr region, a polycentric urban area in North Rhine-Westphalia, Germany, as a next-generation industrial powerhouse.The BRYCK Startup Alliance is a collabor...",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Knowunity raises €27M to scale its personalized AI tutor globally",
+        "summary": "The Berlin-based learning platform Knowunity, has raised €27 million in a Series B round to expand its personalised AI study companion globally. The new funding brings Knowunity’s total raised to €45 ...",
+        "published": "2025-06-13"
+      },
+      {
         "title": "Bought and Wolt bring ultra-fast delivery to the second-hand market — orders arrive in as little as an hour",
         "summary": "Today sees another advancement in the circular economy. With the new Finnish secondhand marketplace app Bought, users can now order secondhand items from people nearby directly to their doorstep with ...",
         "published": "2025-06-12"
@@ -9781,6 +10013,21 @@
     ],
     "TechRadar": [
       {
+        "title": "Capcom confirms Monster Hunter Wilds' second major title update will launch at the end of June",
+        "summary": "The second free title update for Monster Hunter Wilds will arrive at the end of June.",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Major data breach at popular hookup app leaks data on millions of users - see if you're safe",
+        "summary": "A dating site kept an open database on the internet, but claims it contained test data.",
+        "published": "2025-06-11"
+      },
+      {
+        "title": "Your AI is only as good as the knowledge base it ingested",
+        "summary": "The future lies in building smarter knowledge ecosystems, not just deploying more advanced AI technologies.",
+        "published": "2025-06-13"
+      },
+      {
         "title": "Spotify and parts of Google were down – here's everything we know about the outage that hit major services",
         "summary": "If you couldn't stream your favorite song or had issues accessing one of Google's services, you weren't alone",
         "published": "2025-06-12"
@@ -9854,26 +10101,6 @@
         "title": "Microsoft Copilot targeted in first “zero-click” attack on an AI agent - what you need to know",
         "summary": "Security researchers discovered a way to extract sensitive information from Microsoft 365 Copilot.",
         "published": "2025-06-12"
-      },
-      {
-        "title": "Figma unveils big new updates for design and dev - but I'm mostly excited about the rollout of this one tool",
-        "summary": "Design platform unveils new updates and finally rolls out Figma Make for Full Seat users.",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Got ChatGPT Plus? You can now get 3 months for 50% off with this simple trick",
-        "summary": "This easy trick can save you 50% off 3 months of ChatGPT Plus.",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "This cheap Hi-Res Audio music player is like a modern iPod mini, with the funky colors to match",
-        "summary": "This dual-DAC audio player mixes cute colors with serious specs for wired wired or wireless headphones",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Major data breach at popular hookup app leaks data on millions of users - see if you're safe",
-        "summary": "A dating site kept an open database on the internet, but claims it contained test data.",
-        "published": "2025-06-11"
       },
       {
         "title": "ChatGPT is down again – here's everything we know about its latest massive outage",
@@ -10088,6 +10315,11 @@
     ],
     "Tech Advisor": [
       {
+        "title": "Samsung Galaxy Watch Ultra 2: Everything we know so far",
+        "summary": "Samsung Galaxy Watch Ultra 2: In summary Samsung’s follow-up to its Apple Watch Ultra rival Set to arrive in July, possibly at a New York Unpacked event alongside new Galaxy Z Fold and Z Flip phones Rumoured to have a similar price, cheaper than the Apple Watch Ultra 2 Tipped for a similar design, while more storage could unlock offline maps It’s almost a year since Samsung unveiled the first Galaxy Watch Ultra smartwatch, giving us effectively the Google Wear OS answer to the Apple Watch Ultra ",
+        "published": "2025-06-13"
+      },
+      {
         "title": "Worried about scam calls? Here’s how to spot them and what to do in an emergency",
         "summary": "Telephone fraud is widespread, and even prudent users can fall for the tricks of experienced scammers. Whether it’s shock calls, the well-known but still successful grandchildren scam, or supposed calls from banks and authorities, the scams used by criminals are becoming increasingly sophisticated. They aim to exploit our fear, willingness to help or curiosity, combined with a lack of appropriate risk awareness. The consequences are often serious, ranging from financial loss to considerable emot",
         "published": "2025-06-12"
@@ -10183,13 +10415,13 @@
         "published": "2025-06-11"
       },
       {
-        "title": "June Pixel Drop is the biggest update yet: 7 new features, 1 new OS",
-        "summary": "The June Pixel Drop update is now rolling out to Pixel smartphone users, and it’s the biggest update to date yet for a very simple reason. We’re used to Google’s Pixel Drop updates bringing new features to the table (sometimes only one), but this one brings with it a whole new operating system. That’s right, Android 16 is here much earlier than Google usually releases it. You can download Android 16 now if you have a compatible device – a Pixel 6 or later. There is one big caveat, however. The u",
+        "title": "Race Across the World series 5 finale is tonight, but will the show return?",
+        "summary": "Race Across the World series 6 in summary: Applications for series 6 are open now Previous series follow a similar release window The Celebrity edition will return before series 6 BBC’s Race Across the World is an epic adventure that sees pairs make their way through foreign lands with no smartphone and limited resources – and tonight is the highly anticipated final episode of series 5. In 2025, the main series once again visited Asia, this time beginning in The Great Wall of China, and ending i",
         "published": "2025-06-11"
       },
       {
-        "title": "Race Across the World series 5 finale is tonight, but will the show return?",
-        "summary": "Race Across the World series 6 in summary: Applications for series 6 are open now Previous series follow a similar release window The Celebrity edition will return before series 6 BBC’s Race Across the World is an epic adventure that sees pairs make their way through foreign lands with no smartphone and limited resources – and tonight is the highly anticipated final episode of series 5. In 2025, the main series once again visited Asia, this time beginning in The Great Wall of China, and ending i",
+        "title": "June Pixel Drop is the biggest update yet: 7 new features, 1 new OS",
+        "summary": "The June Pixel Drop update is now rolling out to Pixel smartphone users, and it’s the biggest update to date yet for a very simple reason. We’re used to Google’s Pixel Drop updates bringing new features to the table (sometimes only one), but this one brings with it a whole new operating system. That’s right, Android 16 is here much earlier than Google usually releases it. You can download Android 16 now if you have a compatible device – a Pixel 6 or later. There is one big caveat, however. The u",
         "published": "2025-06-11"
       },
       {
@@ -10290,33 +10522,58 @@
     ],
     "HackerNews Frontpage": [
       {
+        "title": "Slow and steady, this poem will win your heart",
+        "summary": "Article URL: https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html Comments URL: https://news.ycombinator.com/item?id=44265869 Points: 25 # Comments: 14",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Show HN: I wrote a BitTorrent Client from scratch",
+        "summary": "I picked up programming in late 2023 and been enjoying it now. Wanted to challenge myself and set a stretch goal, so set out to build a bittorrent client. Comments URL: https://news.ycombinator.com/item?id=44265851 Points: 101 # Comments: 32",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Show HN: GetHooky – a language-agnostic Git hook manager",
+        "summary": "Article URL: https://ezpieco.github.io/GetHooky/ Comments URL: https://news.ycombinator.com/item?id=44265501 Points: 7 # Comments: 1",
+        "published": "2025-06-13"
+      },
+      {
         "title": "Rendering Crispy Text on the GPU",
-        "summary": "Article URL: https://osor.io/text Comments URL: https://news.ycombinator.com/item?id=44265233 Points: 17 # Comments: 1",
+        "summary": "Article URL: https://osor.io/text Comments URL: https://news.ycombinator.com/item?id=44265233 Points: 157 # Comments: 47",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Three Algorithms for YSH Syntax Highlighting",
+        "summary": "Article URL: https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md Comments URL: https://news.ycombinator.com/item?id=44265216 Points: 17 # Comments: 7",
         "published": "2025-06-13"
       },
       {
         "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
-        "summary": "Article URL: https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores Comments URL: https://news.ycombinator.com/item?id=44265105 Points: 8 # Comments: 1",
+        "summary": "Article URL: https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores Comments URL: https://news.ycombinator.com/item?id=44265105 Points: 25 # Comments: 5",
         "published": "2025-06-13"
       },
       {
         "title": "Jemalloc Postmortem",
-        "summary": "Article URL: https://jasone.github.io/2025/06/12/jemalloc-postmortem/ Comments URL: https://news.ycombinator.com/item?id=44264958 Points: 131 # Comments: 26",
+        "summary": "Article URL: https://jasone.github.io/2025/06/12/jemalloc-postmortem/ Comments URL: https://news.ycombinator.com/item?id=44264958 Points: 384 # Comments: 96",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Major sugar substitute found to impair brain blood vessel cell function",
+        "summary": "Article URL: https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html Comments URL: https://news.ycombinator.com/item?id=44264494 Points: 99 # Comments: 65",
         "published": "2025-06-13"
       },
       {
         "title": "The Case for Software Craftsmanship in the Era of Vibes",
-        "summary": "Article URL: https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes Comments URL: https://news.ycombinator.com/item?id=44264376 Points: 65 # Comments: 16",
+        "summary": "Article URL: https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes Comments URL: https://news.ycombinator.com/item?id=44264376 Points: 123 # Comments: 44",
         "published": "2025-06-12"
       },
       {
         "title": "A Dark Adtech Empire Fed by Fake CAPTCHAs",
-        "summary": "Article URL: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/ Comments URL: https://news.ycombinator.com/item?id=44263780 Points: 84 # Comments: 13",
+        "summary": "Article URL: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/ Comments URL: https://news.ycombinator.com/item?id=44263780 Points: 141 # Comments: 39",
         "published": "2025-06-12"
       },
       {
         "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
-        "summary": "Article URL: https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins Comments URL: https://news.ycombinator.com/item?id=44263562 Points: 37 # Comments: 11",
+        "summary": "Article URL: https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins Comments URL: https://news.ycombinator.com/item?id=44263562 Points: 49 # Comments: 17",
         "published": "2025-06-12"
       },
       {
@@ -10325,58 +10582,33 @@
         "published": "2025-06-12"
       },
       {
-        "title": "Humans have nasal respiratory fingerprints",
-        "summary": "Article URL: https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4 Comments URL: https://news.ycombinator.com/item?id=44262799 Points: 53 # Comments: 24",
-        "published": "2025-06-12"
-      },
-      {
         "title": "Worldwide power grid with glass insulated HVDC cables",
-        "summary": "Article URL: https://omattos.com/2025/06/12/glass-hvdc-cables.html Comments URL: https://news.ycombinator.com/item?id=44262537 Points: 40 # Comments: 25",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Being full of value‑added shit",
-        "summary": "Article URL: https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/ Comments URL: https://news.ycombinator.com/item?id=44262528 Points: 75 # Comments: 56",
+        "summary": "Article URL: https://omattos.com/2025/06/12/glass-hvdc-cables.html Comments URL: https://news.ycombinator.com/item?id=44262537 Points: 79 # Comments: 50",
         "published": "2025-06-12"
       },
       {
         "title": "Frequent reauth doesn't make you more secure",
-        "summary": "Article URL: https://tailscale.com/blog/frequent-reath-security Comments URL: https://news.ycombinator.com/item?id=44261777 Points: 657 # Comments: 296",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "GCP Outage",
-        "summary": "Article URL: https://status.cloud.google.com/ Comments URL: https://news.ycombinator.com/item?id=44260810 Points: 1342 # Comments: 473",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Sorcerer (YC S24) raises $3.9M to launch more weather balloons",
-        "summary": "Article URL: https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons Comments URL: https://news.ycombinator.com/item?id=44259844 Points: 38 # Comments: 56",
+        "summary": "Article URL: https://tailscale.com/blog/frequent-reath-security Comments URL: https://news.ycombinator.com/item?id=44261777 Points: 809 # Comments: 358",
         "published": "2025-06-12"
       },
       {
         "title": "Solving LinkedIn Queens with SMT",
-        "summary": "Article URL: https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/ Comments URL: https://news.ycombinator.com/item?id=44259476 Points: 89 # Comments: 32",
+        "summary": "Article URL: https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/ Comments URL: https://news.ycombinator.com/item?id=44259476 Points: 107 # Comments: 33",
         "published": "2025-06-12"
       },
       {
         "title": "US-backed Israeli company's spyware used to target European journalists",
-        "summary": "Article URL: https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb Comments URL: https://news.ycombinator.com/item?id=44259398 Points: 493 # Comments: 233",
+        "summary": "Article URL: https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb Comments URL: https://news.ycombinator.com/item?id=44259398 Points: 590 # Comments: 288",
         "published": "2025-06-12"
       },
       {
         "title": "iPhone 11 emulation done in QEMU",
-        "summary": "Article URL: https://github.com/ChefKissInc/QEMUAppleSilicon Comments URL: https://news.ycombinator.com/item?id=44258670 Points: 228 # Comments: 18",
+        "summary": "Article URL: https://github.com/ChefKissInc/QEMUAppleSilicon Comments URL: https://news.ycombinator.com/item?id=44258670 Points: 282 # Comments: 24",
         "published": "2025-06-12"
       },
       {
         "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
-        "summary": "Article URL: https://www.akpain.net/blog/inside-a-cd/ Comments URL: https://news.ycombinator.com/item?id=44258654 Points: 96 # Comments: 104",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Seedance 1.0",
-        "summary": "Article URL: https://seed.bytedance.com/en/seedance Comments URL: https://news.ycombinator.com/item?id=44258213 Points: 184 # Comments: 86",
+        "summary": "Article URL: https://www.akpain.net/blog/inside-a-cd/ Comments URL: https://news.ycombinator.com/item?id=44258654 Points: 126 # Comments: 118",
         "published": "2025-06-12"
       },
       {
@@ -10393,37 +10625,42 @@
     "HackerNews Best": [
       {
         "title": "Frequent reauth doesn't make you more secure",
-        "summary": "Article URL: https://tailscale.com/blog/frequent-reath-security Comments URL: https://news.ycombinator.com/item?id=44261777 Points: 652 # Comments: 295",
+        "summary": "Article URL: https://tailscale.com/blog/frequent-reath-security Comments URL: https://news.ycombinator.com/item?id=44261777 Points: 791 # Comments: 352",
         "published": "2025-06-12"
       },
       {
         "title": "GCP Outage",
-        "summary": "Article URL: https://status.cloud.google.com/ Comments URL: https://news.ycombinator.com/item?id=44260810 Points: 1341 # Comments: 473",
+        "summary": "Article URL: https://status.cloud.google.com/ Comments URL: https://news.ycombinator.com/item?id=44260810 Points: 1387 # Comments: 482",
         "published": "2025-06-12"
       },
       {
         "title": "US-backed Israeli company's spyware used to target European journalists",
-        "summary": "Article URL: https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb Comments URL: https://news.ycombinator.com/item?id=44259398 Points: 493 # Comments: 231",
+        "summary": "Article URL: https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb Comments URL: https://news.ycombinator.com/item?id=44259398 Points: 578 # Comments: 284",
         "published": "2025-06-12"
       },
       {
         "title": "A receipt printer cured my procrastination",
-        "summary": "Article URL: https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination Comments URL: https://news.ycombinator.com/item?id=44256499 Points: 795 # Comments: 444",
+        "summary": "Article URL: https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination Comments URL: https://news.ycombinator.com/item?id=44256499 Points: 873 # Comments: 462",
+        "published": "2025-06-12"
+      },
+      {
+        "title": "Air India flight to London crashes in Ahmedabad with more than 240 onboard",
+        "summary": "Article URL: https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates Comments URL: https://news.ycombinator.com/item?id=44255602 Points: 464 # Comments: 544",
         "published": "2025-06-12"
       },
       {
         "title": "Congratulations on creating the one billionth repository on GitHub",
-        "summary": "Article URL: https://github.com/AasishPokhrel/shit/issues/1 Comments URL: https://news.ycombinator.com/item?id=44252076 Points: 578 # Comments: 132",
+        "summary": "Article URL: https://github.com/AasishPokhrel/shit/issues/1 Comments URL: https://news.ycombinator.com/item?id=44252076 Points: 585 # Comments: 132",
         "published": "2025-06-11"
       },
       {
         "title": "Chatterbox TTS",
-        "summary": "Article URL: https://github.com/resemble-ai/chatterbox Comments URL: https://news.ycombinator.com/item?id=44251411 Points: 584 # Comments: 174",
+        "summary": "Article URL: https://github.com/resemble-ai/chatterbox Comments URL: https://news.ycombinator.com/item?id=44251411 Points: 603 # Comments: 177",
         "published": "2025-06-11"
       },
       {
         "title": "Research suggests Big Bang may have taken place inside a black hole",
-        "summary": "Article URL: https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole Comments URL: https://news.ycombinator.com/item?id=44251047 Points: 690 # Comments: 549",
+        "summary": "Article URL: https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole Comments URL: https://news.ycombinator.com/item?id=44251047 Points: 699 # Comments: 553",
         "published": "2025-06-11"
       },
       {
@@ -10433,37 +10670,37 @@
       },
       {
         "title": "OpenAI dropped the price of o3 by 80%",
-        "summary": "Article URL: https://twitter.com/sama/status/1932434606558462459 Comments URL: https://news.ycombinator.com/item?id=44239359 Points: 498 # Comments: 488",
+        "summary": "Article URL: https://twitter.com/sama/status/1932434606558462459 Comments URL: https://news.ycombinator.com/item?id=44239359 Points: 499 # Comments: 488",
         "published": "2025-06-10"
       },
       {
         "title": "Magistral — the first reasoning model by Mistral AI",
-        "summary": "Article URL: https://mistral.ai/news/magistral Comments URL: https://news.ycombinator.com/item?id=44236997 Points: 914 # Comments: 418",
+        "summary": "Article URL: https://mistral.ai/news/magistral Comments URL: https://news.ycombinator.com/item?id=44236997 Points: 917 # Comments: 418",
         "published": "2025-06-10"
       },
       {
         "title": "\"Localhost tracking\" explained. It could cost Meta €32B",
-        "summary": "Article URL: https://www.zeropartydata.es/p/localhost-tracking-explained-it-could Comments URL: https://news.ycombinator.com/item?id=44235467 Points: 558 # Comments: 268",
+        "summary": "Article URL: https://www.zeropartydata.es/p/localhost-tracking-explained-it-could Comments URL: https://news.ycombinator.com/item?id=44235467 Points: 559 # Comments: 268",
         "published": "2025-06-10"
       },
       {
         "title": "Marines being mobilized in response to LA protests",
-        "summary": "Article URL: https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests Comments URL: https://news.ycombinator.com/item?id=44230182 Points: 682 # Comments: 1659",
+        "summary": "Article URL: https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests Comments URL: https://news.ycombinator.com/item?id=44230182 Points: 685 # Comments: 1661",
         "published": "2025-06-09"
       },
       {
         "title": "Containerization is a Swift package for running Linux containers on macOS",
-        "summary": "Article URL: https://github.com/apple/containerization Comments URL: https://news.ycombinator.com/item?id=44229348 Points: 751 # Comments: 407",
+        "summary": "Article URL: https://github.com/apple/containerization Comments URL: https://news.ycombinator.com/item?id=44229348 Points: 751 # Comments: 409",
         "published": "2025-06-09"
       },
       {
         "title": "Apple announces Foundation Models and Containerization frameworks, etc",
-        "summary": "Article URL: https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/ Comments URL: https://news.ycombinator.com/item?id=44226978 Points: 840 # Comments: 486",
+        "summary": "Article URL: https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/ Comments URL: https://news.ycombinator.com/item?id=44226978 Points: 841 # Comments: 486",
         "published": "2025-06-09"
       },
       {
         "title": "Apple introduces a universal design across platforms",
-        "summary": "Article URL: https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/ Comments URL: https://news.ycombinator.com/item?id=44226612 Points: 725 # Comments: 1181",
+        "summary": "Article URL: https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/ Comments URL: https://news.ycombinator.com/item?id=44226612 Points: 726 # Comments: 1181",
         "published": "2025-06-09"
       },
       {
@@ -10473,12 +10710,12 @@
       },
       {
         "title": "Bruteforcing the phone number of any Google user",
-        "summary": "Article URL: https://brutecat.com/articles/leaking-google-phones Comments URL: https://news.ycombinator.com/item?id=44224684 Points: 598 # Comments: 189",
+        "summary": "Article URL: https://brutecat.com/articles/leaking-google-phones Comments URL: https://news.ycombinator.com/item?id=44224684 Points: 599 # Comments: 189",
         "published": "2025-06-09"
       },
       {
         "title": "How I Program with Agents",
-        "summary": "Article URL: https://crawshaw.io/blog/programming-with-agents Comments URL: https://news.ycombinator.com/item?id=44221655 Points: 501 # Comments: 280",
+        "summary": "Article URL: https://crawshaw.io/blog/programming-with-agents Comments URL: https://news.ycombinator.com/item?id=44221655 Points: 509 # Comments: 282",
         "published": "2025-06-09"
       },
       {
@@ -10493,12 +10730,12 @@
       },
       {
         "title": "Self-Host and Tech Independence: The Joy of Building Your Own",
-        "summary": "Article URL: https://www.ssp.sh/blog/self-host-self-independence/ Comments URL: https://news.ycombinator.com/item?id=44211273 Points: 489 # Comments: 241",
+        "summary": "Article URL: https://www.ssp.sh/blog/self-host-self-independence/ Comments URL: https://news.ycombinator.com/item?id=44211273 Points: 490 # Comments: 241",
         "published": "2025-06-07"
       },
       {
         "title": "The librarian immediately attempts to sell you a vuvuzela",
-        "summary": "Article URL: https://kaveland.no/posts/2025-06-06-library Comments URL: https://news.ycombinator.com/item?id=44210921 Points: 469 # Comments: 336",
+        "summary": "Article URL: https://kaveland.no/posts/2025-06-06-library Comments URL: https://news.ycombinator.com/item?id=44210921 Points: 469 # Comments: 337",
         "published": "2025-06-07"
       },
       {
@@ -10513,12 +10750,17 @@
       },
       {
         "title": "Bill Atkinson has died",
-        "summary": "https://facebook.com/story.php?story_fbid=10238073579963378&... Comments URL: https://news.ycombinator.com/item?id=44210606 Points: 1585 # Comments: 273",
+        "summary": "https://facebook.com/story.php?story_fbid=10238073579963378&... Comments URL: https://news.ycombinator.com/item?id=44210606 Points: 1586 # Comments: 273",
         "published": "2025-06-07"
       },
       {
+        "title": "Falsehoods programmers believe about aviation",
+        "summary": "Article URL: https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/ Comments URL: https://news.ycombinator.com/item?id=44205590 Points: 468 # Comments: 199",
+        "published": "2025-06-06"
+      },
+      {
         "title": "The Illusion of Thinking: Strengths and limitations of reasoning models [pdf]",
-        "summary": "Article URL: https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf Comments URL: https://news.ycombinator.com/item?id=44203562 Points: 471 # Comments: 269",
+        "summary": "Article URL: https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf Comments URL: https://news.ycombinator.com/item?id=44203562 Points: 473 # Comments: 269",
         "published": "2025-06-06"
       },
       {
@@ -10534,110 +10776,140 @@
     ],
     "HackerNews Newest": [
       {
-        "title": "SchoolHouse Rock – No More Kings[video]",
-        "summary": "Article URL: https://www.youtube.com/watch?v=WvOZs3g3qIo Comments URL: https://news.ycombinator.com/item?id=44265417 Points: 1 # Comments: 0",
+        "title": "The Hoodcat Chronicles",
+        "summary": "Article URL: https://Static.XtremeOwnage.com/blog/2025/the-hoodcat-chronicles/ Comments URL: https://news.ycombinator.com/item?id=44266733 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Let's Encrypt has dropped OCSP URLs from certificates",
-        "summary": "Article URL: https://letsencrypt.org/2024/12/05/ending-ocsp/ Comments URL: https://news.ycombinator.com/item?id=44265414 Points: 1 # Comments: 1",
+        "title": "VS Code 1.101",
+        "summary": "Article URL: https://code.visualstudio.com/updates/v1_101 Comments URL: https://news.ycombinator.com/item?id=44266722 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Show HN: I built a cleaner YouTube – no ads, sponsors, or doomscrolling",
-        "summary": "Hi HN!I built SkipCutit’s like an ad-free, distraction-free YouTube with useful extras: background play, SponsorBlock, dark mode, playlist support, local history, download/share buttons… and it works on any device. No install. No login.Here’s the best part: It works just by replacing \"youtube\" with \"skipcut\" in the video link. You skip all the boring stuff — ads, sponsors, intros, silence, filler and just watch what matters.Why it’s different: No comments. No suggested videos. No clickbait.I mad",
+        "title": "Ask HN: Stripe alternative for marketplace type business",
+        "summary": "HN, I’m struggling with Stripe’s fees for my vendor payout platform. Beyond 2.9% + $0.30/transaction, Stripe Connect charges 0.25% per payout and $2/month per active account. With many vendors, this eats lots of revenue, especially on small transactions.Alternatives like Wise, Trustap, and Lemonway don’t support multi-party payouts well.I need a provider for collecting customer payments and distributing to vendors, ideally with an escrow model for secure, milestone-based payouts.Any suggestions ",
         "published": "2025-06-13"
       },
       {
-        "title": "Python 3.13.5 is now available",
-        "summary": "Article URL: https://discuss.python.org/t/python-3-13-5-is-now-available-yes-really/95211 Comments URL: https://news.ycombinator.com/item?id=44265403 Points: 4 # Comments: 0",
+        "title": "ArisInfra Solutions IPO 2025 – Price Band, GMP, Allotment and How to Apply",
+        "summary": "ArisInfra Solutions Limited, a technology‑driven B2B platform backed by PharmEasy co‑founder Siddharth Shah, is raising ₹499.6 Cr through its Mainboard IPO. Here’s a detailed guide for IPOGyan readers. Comments URL: https://news.ycombinator.com/item?id=44266673 Points: 1 # Comments: 1",
         "published": "2025-06-13"
       },
       {
-        "title": "NASA indefinitely delays private astronaut mission for Russian module air leak",
-        "summary": "Article URL: https://spacenews.com/nasa-indefinitely-delays-private-astronaut-mission-citing-air-leak-in-russian-module/ Comments URL: https://news.ycombinator.com/item?id=44265402 Points: 1 # Comments: 1",
+        "title": "Bubblewrap: Low-level unprivileged sandboxing tool",
+        "summary": "Article URL: https://github.com/containers/bubblewrap Comments URL: https://news.ycombinator.com/item?id=44266658 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "AOSP isn't dead, but Google just landed a blow to custom ROM developers",
-        "summary": "Article URL: https://www.androidauthority.com/google-not-killing-aosp-3566882/ Comments URL: https://news.ycombinator.com/item?id=44265386 Points: 1 # Comments: 0",
+        "title": "Show HN: Radicle Desktop, a graphical user interface for Radicle",
+        "summary": "My colleague Sebastian and I have been working on a desktop client for Radicle, the p2p code forge for the past year. It's finally at a point where it's usable and I would like to share it for folks to try out. Comments URL: https://news.ycombinator.com/item?id=44266655 Points: 2 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Meta is paying $14B to catch up in the AI race",
-        "summary": "Article URL: https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang Comments URL: https://news.ycombinator.com/item?id=44265375 Points: 1 # Comments: 1",
+        "title": "Apple's Spin on the Personalized Siri Apple Intelligence Reset",
+        "summary": "Article URL: https://daringfireball.net/2025/06/apples_spin_on_the_personalized_siri_apple_intelligence_reset Comments URL: https://news.ycombinator.com/item?id=44266642 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "XTools –– A Free、Open-Source、and Data-Secure Toolbox",
-        "summary": "Article URL: https://www.xxoo.tools/ Comments URL: https://news.ycombinator.com/item?id=44265357 Points: 1 # Comments: 0",
+        "title": "Scientists rush to stop mirror microbes that could threaten life on Earth",
+        "summary": "Article URL: https://www.ft.com/content/3f948a86-90df-426d-a602-9421ee2e43a6 Comments URL: https://news.ycombinator.com/item?id=44266631 Points: 1 # Comments: 2",
         "published": "2025-06-13"
       },
       {
-        "title": "How to make task list less depressing?",
-        "summary": "Article URL: https://workplace.stackexchange.com/questions/202055/how-to-make-task-list-less-depressing Comments URL: https://news.ycombinator.com/item?id=44265350 Points: 1 # Comments: 0",
+        "title": "Quality Standards",
+        "summary": "Article URL: https://www.june.kim/quality-standards Comments URL: https://news.ycombinator.com/item?id=44266627 Points: 3 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "America's Housing Supply Problem: The Closing of the Suburban Frontier?",
-        "summary": "Article URL: https://www.nber.org/papers/w33876 Comments URL: https://news.ycombinator.com/item?id=44265342 Points: 2 # Comments: 0",
+        "title": "How to pronounce schedule in British English",
+        "summary": "Article URL: https://youglish.com/pronounce/schedule/english/uk Comments URL: https://news.ycombinator.com/item?id=44266615 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Israeli military strikes hit Iran nuclear targets",
-        "summary": "Article URL: https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live Comments URL: https://news.ycombinator.com/item?id=44265339 Points: 6 # Comments: 0",
+        "title": "If I Ran Mastodon",
+        "summary": "Article URL: https://werd.io/if-i-ran-mastodon/ Comments URL: https://news.ycombinator.com/item?id=44266613 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "(In)Security of Mandatory Security Software for Financial Services in S. Korea [pdf]",
-        "summary": "Article URL: https://syssec.kaist.ac.kr/pub/2025/Too_Much_Good.pdf Comments URL: https://news.ycombinator.com/item?id=44265323 Points: 2 # Comments: 0",
+        "title": "Opportunities for Digital Health in 2025",
+        "summary": "Article URL: https://www.ideo.com/journal/six-opportunities-for-digital-health-in-2025 Comments URL: https://news.ycombinator.com/item?id=44266605 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Gesture customization improvements coming to Plasma",
-        "summary": "Article URL: https://blogs.kde.org/2025/06/12/gesture-customization-mini-sprint/ Comments URL: https://news.ycombinator.com/item?id=44265315 Points: 1 # Comments: 0",
+        "title": "Barbie-maker Mattel partners with OpenAI to make AI child's play",
+        "summary": "Article URL: https://www.ft.com/content/7a9d0c47-5294-46b7-9d06-181654129d43 Comments URL: https://news.ycombinator.com/item?id=44266573 Points: 1 # Comments: 1",
         "published": "2025-06-13"
       },
       {
-        "title": "Counting vs. Sampling [pdf]",
-        "summary": "Article URL: https://www.math.cmu.edu/~af1p/Mixingbook.pdf Comments URL: https://news.ycombinator.com/item?id=44265294 Points: 2 # Comments: 0",
+        "title": "Claude Code: Settings",
+        "summary": "Article URL: https://docs.anthropic.com/en/docs/claude-code/settings Comments URL: https://news.ycombinator.com/item?id=44266562 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Introduction to Random Graphs [pdf]",
-        "summary": "Article URL: https://www.math.cmu.edu/~af1p/BOOK.pdf Comments URL: https://news.ycombinator.com/item?id=44265291 Points: 2 # Comments: 0",
+        "title": "Google to reduce Pixel 6A charging performance after fire reports",
+        "summary": "Article URL: https://www.notebookcheck.net/Google-to-nerf-Pixel-6a-battery-performance-after-reports-of-phones-catching-fire.1035241.0.html Comments URL: https://news.ycombinator.com/item?id=44266551 Points: 3 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "I made liquid glass with CSS:)",
-        "summary": "Article URL: https://liquid-glass.atlaspuplabs.com/ Comments URL: https://news.ycombinator.com/item?id=44265285 Points: 2 # Comments: 3",
+        "title": "Chinese AI Companies Dodge USA Chip Curbs with Flying Suitcases of Hard Drives",
+        "summary": "Article URL: https://www.wsj.com/tech/china-ai-chip-curb-suitcases-7c47dab1 Comments URL: https://news.ycombinator.com/item?id=44266512 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Cognitive function in response to a pecan-enriched meal",
-        "summary": "Article URL: https://www.tandfonline.com/doi/full/10.1080/1028415X.2025.2461018 Comments URL: https://news.ycombinator.com/item?id=44265272 Points: 1 # Comments: 0",
+        "title": "Tesla sues ex-Optimus engineer alleging theft of robotic trade secrets",
+        "summary": "Article URL: https://fortune.com/2025/06/12/tesla-sues-ex-optimus-engineer-robot-trade-secrets/ Comments URL: https://news.ycombinator.com/item?id=44266496 Points: 2 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": ".google",
-        "summary": "Article URL: https://en.wikipedia.org/wiki/.google Comments URL: https://news.ycombinator.com/item?id=44265262 Points: 1 # Comments: 0",
+        "title": "Thousands of Koreans were banned from Instagram this week. I was one of them",
+        "summary": "Article URL: https://koreajoongangdaily.joins.com/news/2025-06-11/business/tech/Thousands-of-Koreans-got-banned-from-Instagram-this-week-I-was-one-of-them/2327850 Comments URL: https://news.ycombinator.com/item?id=44266490 Points: 4 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Former Ubisoft bosses on trial in France",
-        "summary": "Article URL: https://www.lemonde.fr/en/police-and-justice/article/2025/03/10/former-ubisoft-bosses-on-trial-in-france-over-alleged-harassment_6738996_105.html Comments URL: https://news.ycombinator.com/item?id=44265246 Points: 3 # Comments: 0",
+        "title": "Xian: A Native Python Blockchain",
+        "summary": "Article URL: https://xian.org/ Comments URL: https://news.ycombinator.com/item?id=44266473 Points: 2 # Comments: 0",
         "published": "2025-06-13"
       },
       {
-        "title": "Israel strikes Iran nuclear facilities, missile factories",
-        "summary": "Article URL: https://www.reuters.com/world/middle-east/israel-says-it-strikes-iran-amid-nuclear-tensions-2025-06-13/ Comments URL: https://news.ycombinator.com/item?id=44265236 Points: 7 # Comments: 1",
+        "title": "Bad at math and great at physics, explain this paradox? /",
+        "summary": "Article URL: https://www.physicsforums.com/threads/bad-at-math-and-great-at-physics-explain-this-paradox.1062225/ Comments URL: https://news.ycombinator.com/item?id=44266471 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       }
     ],
     "HackerNews Ask": [
       {
+        "title": "Ask HN: Any PDF Benchmarks?",
+        "summary": "I am testing several PDF parsing libraries, and unfortunately, most of them have issues. For example, many struggle with non-English languages, while others can’t reliably handle tables. Having a standardized PDF benchmark would be incredibly helpful — at the very least, it would allow us to identify obvious shortcomings without needing to install and test each library individually.Is anyone building such a benchmark? Comments URL: https://news.ycombinator.com/item?id=44266410 Points: 1 # Commen",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Ask HN: Develop more intentional computer usage via physical unlocking device?",
+        "summary": "I get sucked into my laptop very easily. Games, news, online chores, even work.As soon as I tear my attention away from the abstract computer world -- getting up to pee, answering the door, running out of battery -- I'm back in my body, looking around at todos, noticing the time. I'm suddenly better equipped to be intentional about what I want to do.Maybe I don't make perfect decisions every time, but if I were regularly interrupted from the virtual mindspace, and forced to get up and, say, tap ",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "I compiled a list of open-source post-quantum tools and libraries",
+        "summary": "We recently had to review our cryptographic stack for long-term compliance. We’re not a bank or a government contractor, but we do handle sensitive data that needs to stay secure for 10+ years.I fell into a rabbit hole of post-quantum cryptography and ended up writing a fairly deep guide. It covers stuff like Kyber, Dilithium, liboqs, PQClean, and hybrid key exchange with OpenSSL.I tried to keep it practical includes working code examples, trade-offs, and where the standards are headed including",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Ask HN: How do you detect and work around candidate using ChatGPT in interviews?",
+        "summary": "In remote interviews, it's getting harder to tell if someone is answering questions themselves or relying on AI tools like ChatGPT. What are some smart ways to verify a candidate's actual ability, without making the process feel like a trap? Comments URL: https://news.ycombinator.com/item?id=44265759 Points: 2 # Comments: 3",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Ask HN: Finding meaningfull work after a decade in tech?",
+        "summary": "I’ve been in tech for over 12 years. Last year, I survived cancer — and that experience completely shifted my perspective on time and meaning.Life is too short to spend it chasing things that don’t matter.My current company isn’t doing well, and so I started looking at other jobs. It’s what I’ve been conditioned to do — optimize for a higher salary or a more “stable” brand name(The former more than the latter), even at the cost of my health or family time or interests or just in general life. I ",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Looking for technical co-founder with AI background Amotions AI",
+        "summary": "Hi! I am looking for a technical co-founder with AI background to partner with me to take Amotions AI to the next level, let me know if you know of any great candidates! Since the launch of our real-time AI sales coach live during calls, we are getting strong interest from sales and customer success leaders. We are looking to capture the market demand, fast! Also open to conversations with sales/customer success leaders and investors. Message or email me! You can also learn more here: https://ww",
+        "published": "2025-06-13"
+      },
+      {
         "title": "Ask HN: Seeking ways to improve my planning skills and follow-through",
-        "summary": "I’m good at routines and habits, so my baseline productivity is solid, but I often struggle to break down larger, abstract goals into clear, actionable steps. For example, goals like \"get a higher-paying job with more interesting coworkers\" can feel overwhelming unless I outline specific tasks like researching the job market, learning relevant skills, or setting clear milestones.I’d like to get better at this planning skill—turning broad goals into manageable steps—and am looking for recommendat",
+        "summary": "I’m good at routines and habits, so my baseline productivity is solid, but I often struggle to break down larger, abstract goals into clear, actionable steps. For example, goals like \"get a higher-paying job with more interesting coworkers\" can feel overwhelming unless I outline specific tasks like researching the job market, learning relevant skills, or setting clear milestones.I’d like to get better at this planning skill, turning broad goals into manageable steps, and am looking for recommend",
         "published": "2025-06-13"
       },
       {
@@ -10647,7 +10919,7 @@
       },
       {
         "title": "Ask HN: Is it possible to fine tune LLMs on data you want them to remember?",
-        "summary": "Basically I want to take large codebases and transfer train an LLM on them so that I don't have to have to insert the code into prompt and deal with context windows and token limits.Is this doable or is there a better way of handling large code bases in terms of being able to ask LLM questions about them? Comments URL: https://news.ycombinator.com/item?id=44264946 Points: 1 # Comments: 1",
+        "summary": "Basically I want to take large codebases and transfer train an LLM on them so that I don't have to have to insert the code into prompt and deal with context windows and token limits.Is this doable or is there a better way of handling large code bases in terms of being able to ask LLM questions about them? Comments URL: https://news.ycombinator.com/item?id=44264946 Points: 1 # Comments: 0",
         "published": "2025-06-13"
       },
       {
@@ -10657,13 +10929,8 @@
       },
       {
         "title": "Ask HN: Have you not accepted or left a job because it was immoral?",
-        "summary": "“A man has not everything to do, but something; and because he cannot do everything, it is not necessary that he should do something wrong.” [0]Not only is there no reward, nor can you ever expect a reward, for doing the right thing, it also often comes at a personal cost.[0] https://en.wikiquote.org/wiki/Civil_Disobedience_%28Thoreau%29 Comments URL: https://news.ycombinator.com/item?id=44264754 Points: 13 # Comments: 14",
+        "summary": "“A man has not everything to do, but something; and because he cannot do everything, it is not necessary that he should do something wrong.” [0]Not only is there no reward, nor can you ever expect a reward, for doing the right thing, it also often comes at a personal cost.[0] https://en.wikiquote.org/wiki/Civil_Disobedience_%28Thoreau%29 Comments URL: https://news.ycombinator.com/item?id=44264754 Points: 14 # Comments: 29",
         "published": "2025-06-13"
-      },
-      {
-        "title": "Ask HN: Is there an app that can crowdsource where ICE is?",
-        "summary": "On Blue Sky, Cake or Death wrote \"there needs to be a waze like app so users in real time can point out ICE, etc.\" https://bsky.app/profile/johngcole.bsky.social/post/3lrh3nhz2ck2cAll I know to do is ask HN. Can you help here or on Blue Sky? Comments URL: https://news.ycombinator.com/item?id=44264415 Points: 9 # Comments: 0",
-        "published": "2025-06-12"
       },
       {
         "title": "Ask HN: Who else is not using AI for coding?",
@@ -10709,34 +10976,39 @@
         "title": "Everything Is Down",
         "summary": "https://downdetector.com/GCP, AWS, Azure. Comments URL: https://news.ycombinator.com/item?id=44261618 Points: 71 # Comments: 44",
         "published": "2025-06-12"
-      },
-      {
-        "title": "Ask HN: Is Firebase Down?",
-        "summary": "Firebase appears to be down for production services. Firebase console shows errors for existing projects. Comments URL: https://news.ycombinator.com/item?id=44260669 Points: 43 # Comments: 36",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Ask HN: What morning ritual starts your day well?",
-        "summary": "Comments URL: https://news.ycombinator.com/item?id=44260572 Points: 1 # Comments: 3",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Ask HN: What is your monthly AI bill?",
-        "summary": "How much are you spending on AI services per month? Comments URL: https://news.ycombinator.com/item?id=44260268 Points: 4 # Comments: 4",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "The current state of vibe coding",
-        "summary": "Claude: 156/160 tests passedClaude: I see what's wrong, let me fix it!Claude: 156/156 tests passed Comments URL: https://news.ycombinator.com/item?id=44260094 Points: 3 # Comments: 1",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Standardize on OCSF to run your own detection rules?",
-        "summary": "Anyone adopted OCSF as their canonical logging schema?Hoping to cut parsing overhead and make detection rule writing easier. Currently mapping 20-odd sources.Any lessons/red flags you can share? Comments URL: https://news.ycombinator.com/item?id=44259812 Points: 1 # Comments: 0",
-        "published": "2025-06-12"
       }
     ],
     "HackerNews Show": [
+      {
+        "title": "Show HN: ExtinctAtlas – Explore extinct species",
+        "summary": "Article URL: https://github.com/0xSKAMI/extinctatlas Comments URL: https://news.ycombinator.com/item?id=44266219 Points: 1 # Comments: 0",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Show HN: View KTX (Khronos Texture) Files in Browser",
+        "summary": "After repeated attempts to find an easy/quick way to view KTX files across different platforms, I gave up and built my own. Currently only KTX1 supported for 2D textures and cubemaps. I'll probably add support for KTX2 and mipmaps soon. Everything is done locally so no data leaves your browser. Comments URL: https://news.ycombinator.com/item?id=44265967 Points: 1 # Comments: 0",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Show HN: Use Your Mac as a Bluetooth Keyboard for iPhone, iPad, Android and More",
+        "summary": "KeyPad is a small macos app (340K). It lets you use your Mac keyboard to control your devices like iPhone, iPad, Android phones, TVs. Its in the top 100 apps on the Mac App Store (Developer Tools). Do give it a try. Let me know what you think. Comments URL: https://news.ycombinator.com/item?id=44265875 Points: 1 # Comments: 0",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Show HN: I wrote a BitTorrent Client from scratch",
+        "summary": "I picked up programming in late 2023 and been enjoying it now. Wanted to challenge myself and set a stretch goal, so set out to build a bittorrent client. Comments URL: https://news.ycombinator.com/item?id=44265851 Points: 95 # Comments: 21",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Show HN: GetHooky – a language-agnostic Git hook manager",
+        "summary": "Article URL: https://ezpieco.github.io/GetHooky/ Comments URL: https://news.ycombinator.com/item?id=44265501 Points: 7 # Comments: 1",
+        "published": "2025-06-13"
+      },
+      {
+        "title": "Show HN: I made a tool to Turn your YT videos into AI-tutor less than a minute",
+        "summary": "Demo video: https://youtu.be/41RnN9dhnJI?feature=sharedmillions people use Youtube as a source of lessons, but 1-on-1 tutoring is still way more effective than passive learning.So how you turn billions of Youtube passive lessons into accessible 1-on-1 learning?the answer is, www.wiyomi.com!! Comments URL: https://news.ycombinator.com/item?id=44265446 Points: 2 # Comments: 0",
+        "published": "2025-06-13"
+      },
       {
         "title": "Show HN: I built a cleaner YouTube – no ads, sponsors, or doomscrolling",
         "summary": "Hi HN!I built SkipCutit’s like an ad-free, distraction-free YouTube with useful extras: background play, SponsorBlock, dark mode, playlist support, local history, download/share buttons… and it works on any device. No install. No login.Here’s the best part: It works just by replacing \"youtube\" with \"skipcut\" in the video link. You skip all the boring stuff — ads, sponsors, intros, silence, filler and just watch what matters.Why it’s different: No comments. No suggested videos. No clickbait.I mad",
@@ -10806,58 +11078,6 @@
         "title": "Show HN: Laser-Tracer, programmable virtual volumetric vector display",
         "summary": "This was an idea I had 7yrs ago that I recently decided to go ahead and build since by working with LLMs (mostly o3 and Gemini 2.5 pro) it seemed doable in reasonable time.The original motivation was partly aesthetic, but mostly that this was the ideal \"language\" for me to express arbitrary 3d forms through. I wanted something with zero boilerplate that would be a natural fit for algorithmic expression. For me, writing programs that say how to move a \"pen\" around in 3d space was more intuitive t",
         "published": "2025-06-12"
-      },
-      {
-        "title": "Show HN: Convert any technical document into a video presentation",
-        "summary": "Article URL: https://manatee.work/# Comments URL: https://news.ycombinator.com/item?id=44263299 Points: 2 # Comments: 1",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Show HN: We built a real-time leaderboard for Super Smash Bros using Gemini Pro",
-        "summary": "Article URL: https://twitter.com/subby_tech/status/1933250355187626340 Comments URL: https://news.ycombinator.com/item?id=44262874 Points: 1 # Comments: 0",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Show HN: App Use – Enable AI to control your mobile apps",
-        "summary": "Hey HN! I built an open-source Python library that lets AI agents control mobile apps.Its heavily inspired by browser-use Here's a quick demo https://x.com/itsericktorres/status/1932996729458110482From our experience testing mobile workflows or automate repetitive app tasks has always been a pain. You either write brittle UI automation scripts or do everything manually. And after testing out browser-use and seeing all the cool things people were building for web without the pains of normal autom",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Show HN: StrideDoc – SaaS for Instantly Capturing Interactive Software Demos",
-        "summary": "We built StrideDoc, a SaaS application, that lets you capture each step of a software workflow as you go and instantly generate an interactive demo guide.No more manual screenshots or writing out steps—just click through your process, annotate as needed, and share the result.We’d appreciate feedback from anyone who’s struggled with demo creation or documentation. Comments URL: https://news.ycombinator.com/item?id=44262406 Points: 1 # Comments: 0",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Show HN: Just Easy Minimal Point of Sale (POS)",
-        "summary": "Easy to use for users Comments URL: https://news.ycombinator.com/item?id=44262364 Points: 1 # Comments: 0",
-        "published": "2025-06-12"
-      },
-      {
-        "title": "Show HN: I rebuilt the recruitment process from the ground up",
-        "summary": "Hi HN Community,Recruitment software is everywhere. The market seems saturated. Every other day there’s a new ATS or “all-in-one” platform promising to fix hiring. But let’s be real — recruiting still sucks.Why? Because most tools are just reskinned versions of the same broken process: resume parsing, email campaigns, messy workflows, and outdated data. Some throw in a ChatGPT prompt here and there and call it “AI-powered.” But if we’re still stuck in the same flawed flow, it doesn't matter how ",
-        "published": "2025-06-12"
-      }
-    ],
-    "The Next Web": [
-      {
-        "title": "World’s biggest sand battery to heat Finnish town without fossil fuels",
-        "summary": "A small town in Finland is about to ditch fossil fuels in its heating network thanks to a sand-filled energy storage tank the size of a house. Finnish startup Polar Night Energy recently turned on the so-called sand battery in the municipality of Pornainen, an hour north of Helsinki. The machine, which uses dirt to store excess renewable energy as heat, will warm the homes and businesses in the town of 5,000 people. It is expected to replace natural gas and oil in Pornainen’s district heating ne",
-        "published": "2025-06-11"
-      },
-      {
-        "title": "Live selling: the next big hustle sweeping Europe",
-        "summary": "Tinny music plays in a dimly lit basement as we watch a teenager pull football shirts off a nearby clothing rack and hold them up to the camera. He describes each item monotonously — the team, season, colour, and condition — before sticking on a numbered label and transferring them to another rack. Each item gets less than a minute in the limelight. Bid rates and prices are listed at the bottom of the screen with eager buyers swiping a yellow bar to bid, while exchanging questions, comments, and",
-        "published": "2025-06-10"
-      },
-      {
-        "title": "Starmer tells UK to ‘push past’ AI job fears as tech leaders raise alarm",
-        "summary": "British Prime Minister Keir Starmer has said it is time to “push past” concerns that AI poses a threat to human jobs — contradicting the concerns of some of tech’s biggest players. Speaking at London Tech Week today, Starmer called for industry to embed AI throughout the UK economy, from healthcare to education. By taking on administrative tasks, Starmer argues that artificial intelligence tools can free up people to focus on the “human work.” For this reason, he said, “AI will make us more huma",
-        "published": "2025-06-09"
-      },
-      {
-        "title": "Why tech companies are snubbing the London Stock Exchange",
-        "summary": "British fintech Wise said this week it would shift its primary listing from London to New York, joining a growing list of firms snubbing the London Stock Exchange. UK chip designer Arm opted for a New York IPO in 2023, while food delivery giant Just Eat Takeaway quit the LSE for Amsterdam in November. Sweden’s Klarna has confirmed plans to go public in New York, following in the footsteps of fellow Stockholm-based tech darling Spotify, which listed on the NYSE in 2018. The draw? Bigger valuation",
-        "published": "2025-06-06"
       }
     ]
   }
