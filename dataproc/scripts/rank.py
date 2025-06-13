@@ -15,7 +15,7 @@ from collections import defaultdict
 import argparse
 
 # 設定
-DECAY_FACTOR = 0.0  # 前週スコア減衰係数
+DECAY_FACTOR = 0.3  # 前週スコア減衰係数
 
 def get_current_week():
     """現在の週番号取得 (ISO週番号)"""
