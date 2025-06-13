@@ -1,0 +1,1029 @@
+# AI Tools Dictionary - 統合・更新版
+# aggregate: true = ランキング集計対象
+# aggregate: false = 辞書登録のみ（集計対象外）
+
+# multi-ai (汎用AI、チャットボット、基盤モデル) - aggregate: true
+- canonical: chatgpt
+  variants: [
+    OpenAI ChatGPT, チャットGPT, Chat GPT, Chat-GPT, chatgpt,
+    ChatGPT-4o, GPT4o, GPT-4o, GPT-4 Omni, GPT-4, OpenAI GPT-4, GPT-4 Turbo,
+    ChatGPT Code Interpreter, Advanced Data Analysis,
+    ChatGPT Enterprise, ChatGPT for Business,
+    ChatGPT o1, OpenAI o1, OpenAI o3, o3-mini, o4-mini, o3-pro,
+    GPT-4.5, GPT-4.1, GPT-4.1 mini, GPT-4.1 nano,
+    OpenAI o3-mini, OpenAI o4-mini, OpenAI o3-pro
+  ]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: claude
+  variants: [
+    Anthropic Claude, クロード, Claude 2, Anthropic Claude 2, Claude Instant,
+    Claude 3, Claude-3, Claude 3 Opus, Claude 3 Sonnet, Claude 3 Haiku, Claude 3.5 Sonnet,
+    Anthropic Claude 3, Claude 4, Claude-4, Claude 4 Opus, Claude 4 Sonnet, Claude 4 Haiku,
+    Anthropic Claude 4, Claude Opus 4, Claude Sonnet 4
+  ]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: gemini
+  variants: [
+    Google Gemini, ジェミニ, Bard, Google Bard, バード,
+    Gemini Pro, Gemini Ultra, Gemini Advanced,
+    Gemini 2.0, Gemini 2.0 Flash, Gemini 2.0 Pro, Gemini 2.0 Flash-Lite,
+    Gemini 2.5, Gemini 2.5 Pro, Gemini 2.5 Flash, Gemini 2.5 Pro Deep Think,
+    Google Gemini 2.0, Google Gemini 2.5
+  ]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: llama
+  variants: [
+    Llama, LLaMA, Meta LLaMA, ラマ,
+    Llama 2, LLaMA 2, Meta Llama2, ラマ2,
+    Llama 3, LLaMA 3, Meta Llama 3, Llama 3.1, Llama 3.2
+  ]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: perplexity
+  variants: [Perplexity AI]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: characterai
+  variants: [Character.AI, Character AI, キャラクターAI]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: bingchat
+  variants: [Bing Chat, Bing AI]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: pi
+  variants: [Inflection Pi, Pi AI]
+  genre: multi-ai
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: youchat
+  variants: [YouChat, You.com Chat]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: grok
+  variants: [xAI Grok, Grok-2, xAI Grok-2, Grok 2]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: palm2
+  variants: [PaLM 2, Google PaLM 2]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: erniebot
+  variants: [Ernie Bot, 文心一言]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: tongyi
+  variants: [Tongyi Qianwen, 通義千問]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: spark
+  variants: [iFlyTek Spark, Spark Desk, 星火]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: huggingchat
+  variants: [HuggingChat]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: poe
+  variants: [Quora Poe]
+  genre: multi-ai
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: mistral
+  variants: [Mistral 7B, Mistral AI, Mistral Large]
+  genre: multi-ai
+  aggregate: true
+
+# image (画像生成・編集) - aggregate: true
+- canonical: midjourney
+  variants: [MJ, ミッドジャーニー, Midjourney v6, Midjourney v6.1]
+  genre: image
+  aggregate: true
+
+- canonical: dalle3
+  variants: [DALL-E 3, DALL·E 3, ダリ3, DALL-E, DALL·E]
+  genre: image
+  aggregate: true
+
+- canonical: firefly
+  variants: [Adobe Firefly, ファイアフライ, Firefly 2]
+  genre: image
+  aggregate: true
+
+- canonical: stablediffusion
+  variants: [Stable Diffusion, SD, ステーブルディフュージョン, Stable Diffusion XL, SDXL, ステーブルディフュージョンXL]
+  genre: image
+  aggregate: true
+
+- canonical: leonardo
+  variants: [Leonardo AI]
+  genre: image
+  aggregate: true
+
+- canonical: ideogram
+  variants: [Ideogram AI]
+  genre: image
+  aggregate: true
+
+- canonical: dreamstudio
+  variants: [DreamStudio]
+  genre: image
+  aggregate: true
+
+- canonical: artbreeder
+  variants: [Artbreeder]
+  genre: image
+  aggregate: true
+
+- canonical: deepdream
+  variants: [Deep Dream Generator]
+  genre: image
+  aggregate: true
+
+- canonical: deepartio
+  variants: [DeepArt, DeepArt.io]
+  genre: image
+  aggregate: true
+
+- canonical: photoshopai
+  variants: [Photoshop Generative Fill]
+  genre: image
+  aggregate: true
+
+- canonical: canvamagic
+  variants: [Canva Magic Studio]
+  genre: image
+  aggregate: true
+
+- canonical: lensaai
+  variants: [Lensa AI]
+  genre: image
+  aggregate: true
+
+- canonical: draggan
+  variants: [DragGAN]
+  genre: image
+  aggregate: true
+
+- canonical: deepfloyd
+  variants: [DeepFloyd IF]
+  genre: image
+  aggregate: true
+
+- canonical: bingimage
+  variants: [Bing Image Creator, Bing AI Image]
+  genre: image
+  aggregate: true
+
+- canonical: SAM
+  variants: [Segment Anything]
+  genre: image
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: flux
+  variants: [Flux, Black Forest Labs Flux, FLUX.1]
+  genre: image
+  aggregate: true
+
+# video (動画生成・編集) - aggregate: true
+- canonical: sora
+  variants: [OpenAI Sora, ソラ]
+  genre: video
+  aggregate: true
+
+- canonical: runway
+  variants: [Runway Gen-2, Runway AI, RunwayML Gen2]
+  genre: video
+  aggregate: true
+
+- canonical: veo
+  variants: [
+    Veo, Google Veo, Google DeepMind Veo,
+    Veo 2, Veo 3, VideoFX, Flow
+  ]
+  genre: video
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: pikalabs
+  variants: [Pika Labs]
+  genre: video
+  aggregate: true
+
+- canonical: heygen
+  variants: [HeyGen]
+  genre: video
+  aggregate: true
+
+- canonical: synthesia
+  variants: [Synthesia]
+  genre: video
+  aggregate: true
+
+- canonical: kaiber
+  variants: [Kaiber]
+  genre: video
+  aggregate: true
+
+- canonical: animatediff
+  variants: [AnimateDiff]
+  genre: video
+  aggregate: true
+
+- canonical: animoto
+  variants: [Animoto]
+  genre: video
+  aggregate: true
+
+- canonical: filmora
+  variants: [Filmora AI, Wondershare Filmora]
+  genre: video
+  aggregate: true
+
+- canonical: pictory
+  variants: [Pictory]
+  genre: video
+  aggregate: true
+
+- canonical: lumen5
+  variants: [Lumen5]
+  genre: video
+  aggregate: true
+
+- canonical: opusclip
+  variants: [OpusClip]
+  genre: video
+  aggregate: true
+
+- canonical: veedio
+  variants: [Veed.io]
+  genre: video
+  aggregate: true
+
+- canonical: wonderstudio
+  variants: [Wonder Studio]
+  genre: video
+  aggregate: true
+
+- canonical: D-ID
+  variants: []
+  genre: video
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: luma
+  variants: [Luma, Luma AI, Luma Dream Machine]
+  genre: video
+  aggregate: true
+
+# music (音楽・音声生成) - aggregate: true
+- canonical: elevenlabs
+  variants: [ElevenLabs, 11 Labs, イレブンラボ]
+  genre: music
+  aggregate: true
+
+- canonical: musiclm
+  variants: [MusicLM, Google MusicLM]
+  genre: music
+  aggregate: true
+
+- canonical: audiocraft
+  variants: [AudioCraft]
+  genre: music
+  aggregate: true
+
+- canonical: stableaudio
+  variants: [Stable Audio]
+  genre: music
+  aggregate: true
+
+- canonical: murf
+  variants: [Murf, Murf AI]
+  genre: music
+  aggregate: true
+
+- canonical: resemble
+  variants: [Resemble AI]
+  genre: music
+  aggregate: true
+
+- canonical: suno
+  variants: [Suno, Suno AI, Suno v3, Suno v4, Suno v3.5]
+  genre: music
+  aggregate: true
+
+- canonical: Udio
+  variants: [Udio AI]
+  genre: music
+  aggregate: true
+
+# voice (音声認識・合成・通話) - aggregate: true
+- canonical: whisper
+  variants: [Whisper, OpenAI Whisper]
+  genre: voice
+  aggregate: true
+
+- canonical: otter
+  variants: [Otter.ai, Otter AI]
+  genre: voice
+  aggregate: true
+
+- canonical: fireflies
+  variants: [Fireflies.ai, Fireflies AI]
+  genre: voice
+  aggregate: true
+
+- canonical: descript
+  variants: [Descript, Descript AI]
+  genre: voice
+  aggregate: true
+
+- canonical: adobepodcast
+  variants: [Adobe Enhance Speech, Adobe Podcast AI]
+  genre: voice
+  aggregate: true
+
+- canonical: fathom
+  variants: [Fathom]
+  genre: voice
+  aggregate: true
+
+- canonical: bark
+  variants: [Bark, Suno Bark]
+  genre: voice
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: voicemod
+  variants: [Voicemod AI]
+  genre: voice
+  aggregate: true
+
+# research (研究・分析・論文) - aggregate: true
+- canonical: elicit
+  variants: [Elicit]
+  genre: research
+  aggregate: true
+
+- canonical: scispace
+  variants: [SciSpace]
+  genre: research
+  aggregate: true
+
+- canonical: notebooklm
+  variants: [NotebookLM]
+  genre: research
+  aggregate: true
+
+- canonical: chatpdf
+  variants: [ChatPDF]
+  genre: research
+  aggregate: true
+
+- canonical: humata
+  variants: [Humata AI]
+  genre: research
+  aggregate: true
+
+- canonical: gptzero
+  variants: [GPTZero]
+  genre: research
+  aggregate: true
+
+# coding (プログラミング支援) - aggregate: true
+- canonical: copilot
+  variants: [GitHub Copilot, Copilot, GitHub Copilot X, ギットハブコパイロット]
+  genre: coding
+  aggregate: true
+
+- canonical: codellama
+  variants: [Code Llama, コードラマ]
+  genre: coding
+  aggregate: true
+
+- canonical: claude-code
+  variants: [Claude Code, Anthropic Claude Code]
+  genre: coding
+  aggregate: true
+
+- canonical: gemini-code-assist
+  variants: [
+    Gemini Code Assist, Google Gemini Code Assist,
+    Gemini Code Assist for individuals, Gemini Code Assist Standard,
+    Gemini Code Assist Enterprise, Gemini Code Assist for GitHub
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: codewhisperer
+  variants: [CodeWhisperer, Amazon CodeWhisperer]
+  genre: coding
+  aggregate: true
+
+- canonical: cursor
+  variants: [Cursor, Cursor AI]
+  genre: coding
+  aggregate: true
+
+- canonical: tabnine
+  variants: [Tabnine]
+  genre: coding
+  aggregate: true
+
+- canonical: ghostwriter
+  variants: [Replit Ghostwriter, Ghostwriter]
+  genre: coding
+  aggregate: true
+
+- canonical: starcoder
+  variants: [StarCoder]
+  genre: coding
+  aggregate: true
+
+- canonical: wizardcoder
+  variants: [WizardCoder]
+  genre: coding
+  aggregate: true
+
+- canonical: codey
+  variants: [Salesforce Codey, Codey]
+  genre: coding
+  aggregate: true
+
+# agent-workflow (自動化・エージェント・ワークフロー) - aggregate: true
+- canonical: autogpt
+  variants: [AutoGPT, Auto-GPT, オートGPT]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: babyagi
+  variants: [BabyAGI, ベイビーAGI]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: agentgpt
+  variants: [AgentGPT]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: langchain
+  variants: [LangChain, ラングチェーン]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: zapier
+  variants: [Zapier]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: ifttt
+  variants: [IFTTT]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: superagi
+  variants: [SuperAGI]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: devika
+  variants: [Devika, Devika AI, デヴィカ]
+  genre: agent-workflow
+  aggregate: true
+
+# ai-tools (AI補助ツール・制御技術) - aggregate: true
+- canonical: controlnet
+  variants: [ControlNet]
+  genre: ai-tools
+  aggregate: true
+
+# ビジネスツール - aggregate: false (辞書登録のみ)
+- canonical: notionai
+  variants: [Notion AI]
+  genre: business-tools
+  aggregate: false
+
+- canonical: copyai
+  variants: [Copy.ai, Copy AI]
+  genre: business-tools
+  aggregate: false
+
+- canonical: jasper
+  variants: [Jasper, Jarvis AI]
+  genre: business-tools
+  aggregate: false
+
+- canonical: office365copilot
+  variants: [Microsoft 365 Copilot, Office Copilot]
+  genre: business-tools
+  aggregate: false
+
+- canonical: slackgpt
+  variants: [Slack GPT]
+  genre: business-tools
+  aggregate: false
+
+- canonical: grammarly
+  variants: [GrammarlyGO]
+  genre: business-tools
+  aggregate: false
+
+- canonical: calendly
+  variants: [Calendly]
+  genre: business-tools
+  aggregate: false
+
+- canonical: coda
+  variants: [Coda AI]
+  genre: business-tools
+  aggregate: false
+
+- canonical: contentbot
+  variants: [ContentBot]
+  genre: business-tools
+  aggregate: false
+
+- canonical: einstein
+  variants: [Einstein GPT, Salesforce Einstein GPT]
+  genre: business-tools
+  aggregate: false
+
+- canonical: chatspot
+  variants: [HubSpot ChatSpot, ChatSpot]
+  genre: business-tools
+  aggregate: false
+
+- canonical: intercom
+  variants: [Intercom Fin]
+  genre: business-tools
+  aggregate: false
+
+- canonical: windowscopilot
+  variants: [Windows Copilot]
+  genre: business-tools
+  aggregate: false
+
+- canonical: webex
+  variants: [Webex Assistant, Cisco Webex AI]
+  genre: business-tools
+  aggregate: false
+
+- canonical: zendesk
+  variants: [Zendesk AI, Zendesk]
+  genre: business-tools
+  aggregate: false
+
+- canonical: zoomiq
+  variants: [Zoom IQ]
+  genre: business-tools
+  aggregate: false
+
+- canonical: writerai
+  variants: [Writer, Writer AI]
+  genre: business-tools
+  aggregate: false
+
+- canonical: writesonic
+  variants: [Writesonic]
+  genre: business-tools
+  aggregate: false
+
+- canonical: wordtune
+  variants: [Wordtune]
+  genre: business-tools
+  aggregate: false
+
+- canonical: rytr
+  variants: [Rytr]
+  genre: business-tools
+  aggregate: false
+
+- canonical: ink
+  variants: [INK, INK Editor]
+  genre: business-tools
+  aggregate: false
+  match_mode: exact_only
+
+- canonical: peppertype
+  variants: [Peppertype, Peppertype.ai]
+  genre: business-tools
+  aggregate: false
+
+- canonical: bloomberggpt
+  variants: [Bloomberg GPT]
+  genre: business-tools
+  aggregate: false
+
+- canonical: coral
+  variants: [Coral, Cohere Coral]
+  genre: business-tools
+  aggregate: false
+
+- canonical: harvey
+  variants: [Harvey, Harvey AI]
+  genre: business-tools
+  aggregate: false
+
+- canonical: narrativescience
+  variants: [Narrative Science]
+  genre: business-tools
+  aggregate: false
+
+- canonical: superhuman
+  variants: [Superhuman]
+  genre: business-tools
+  aggregate: false
+
+- canonical: guru
+  variants: [Guru]
+  genre: business-tools
+  aggregate: false
+
+# デザイン・クリエイティブツール - aggregate: false
+- canonical: framer
+  variants: [Framer AI]
+  genre: design-creative
+  aggregate: false
+
+- canonical: galileo
+  variants: [Galileo AI]
+  genre: design-creative
+  aggregate: false
+
+- canonical: gamma
+  variants: [Gamma, Presentations.ai]
+  genre: design-creative
+  aggregate: false
+
+- canonical: looka
+  variants: [Looka]
+  genre: design-creative
+  aggregate: false
+
+- canonical: designify
+  variants: [Designify]
+  genre: design-creative
+  aggregate: false
+
+- canonical: tome
+  variants: [Tome]
+  genre: design-creative
+  aggregate: false
+
+- canonical: kive
+  variants: [Kive.ai]
+  genre: design-creative
+  aggregate: false
+
+# 翻訳・言語学習 - aggregate: false
+- canonical: deepl
+  variants: [DeepL, DeepL翻訳]
+  genre: translation-language
+  aggregate: false
+
+- canonical: duolingo
+  variants: [Duolingo Max]
+  genre: translation-language
+  aggregate: false
+
+- canonical: seamlessm4t
+  variants: [SeamlessM4T]
+  genre: translation-language
+  aggregate: false
+
+# セキュリティ・分析 - aggregate: false
+- canonical: darktrace
+  variants: [Darktrace]
+  genre: security-analysis
+  aggregate: false
+
+- canonical: zestfinance
+  variants: [ZestFinance]
+  genre: security-analysis
+  aggregate: false
+
+- canonical: crimson
+  variants: [Crimson Hexagon]
+  genre: security-analysis
+  aggregate: false
+
+- canonical: hootsuite
+  variants: [Hootsuite Insights]
+  genre: security-analysis
+  aggregate: false
+
+- canonical: monkeylearn
+  variants: [MonkeyLearn]
+  genre: security-analysis
+  aggregate: false
+
+- canonical: hirevue
+  variants: [HireVue]
+  genre: security-analysis
+  aggregate: false
+
+- canonical: kira
+  variants: [Kira Systems]
+  genre: security-analysis
+  aggregate: false
+
+# 教育・学習支援 - aggregate: false
+- canonical: khanmigo
+  variants: [Khanmigo]
+  genre: education-support
+  aggregate: false
+
+- canonical: knewton
+  variants: [Knewton]
+  genre: education-support
+  aggregate: false
+
+# 機械学習プラットフォーム - aggregate: false
+- canonical: bedrock
+  variants: [Amazon Bedrock]
+  genre: ml-platform
+  aggregate: false
+
+- canonical: sagemaker
+  variants: [Amazon SageMaker]
+  genre: ml-platform
+  aggregate: false
+
+- canonical: azure
+  variants: [Azure Machine Learning]
+  genre: ml-platform
+  aggregate: false
+
+- canonical: automl
+  variants: [Google AutoML]
+  genre: ml-platform
+  aggregate: false
+
+- canonical: vertex
+  variants: [Vertex AI, Google Vertex AI]
+  genre: ml-platform
+  aggregate: false
+
+- canonical: watsonx
+  variants: [IBM watsonx, WatsonX]
+  genre: ml-platform
+  aggregate: false
+
+- canonical: huggingface
+  variants: [Hugging Face]
+  genre: ml-platform
+  aggregate: false
+
+# 日本製モデル - aggregate: false
+- canonical: elyza
+  variants: [ELYZA]
+  genre: japanese-models
+  aggregate: false
+
+- canonical: rinna
+  variants: [rinna]
+  genre: japanese-models
+  aggregate: false
+
+- canonical: opencalm
+  variants: [CyberAgent LM, OpenCALM]
+  genre: japanese-models
+  aggregate: false
+
+- canonical: aokarasu
+  variants: [ao-Karasu]
+  genre: japanese-models
+  aggregate: false
+
+# オープンソースモデル - aggregate: false
+- canonical: alpaca
+  variants: [Alpaca, Stanford Alpaca, アルパカ]
+  genre: open-models
+  aggregate: false
+
+- canonical: baichuan
+  variants: [Baichuan 13B, Baichuan-13B, Baichuan 2]
+  genre: open-models
+  aggregate: false
+
+- canonical: cerebras
+  variants: [Cerebras-GPT]
+  genre: open-models
+  aggregate: false
+
+- canonical: chatglm
+  variants: [ChatGLM2, ChatGLM-6B, 清華ChatGLM]
+  genre: open-models
+  aggregate: false
+
+- canonical: deepseek
+  variants: [DeepSeek]
+  genre: open-models
+  aggregate: false
+
+- canonical: dolly
+  variants: [Dolly 2.0, Databricks Dolly 2.0]
+  genre: open-models
+  aggregate: false
+
+- canonical: falcon
+  variants: [Falcon 180B, TII Falcon 180B, Falcon 40B, TII Falcon 40B]
+  genre: open-models
+  aggregate: false
+
+- canonical: gpt4all
+  variants: [GPT4All]
+  genre: open-models
+  aggregate: false
+
+- canonical: guanaco
+  variants: [Guanaco]
+  genre: open-models
+  aggregate: false
+
+- canonical: internlm
+  variants: [InternLM]
+  genre: open-models
+  aggregate: false
+
+- canonical: lhtmopt
+  variants: [LHTM-OPT]
+  genre: open-models
+  aggregate: false
+
+- canonical: llava
+  variants: [LLaVA]
+  genre: open-models
+  aggregate: false
+
+- canonical: moss
+  variants: [MOSS]
+  genre: open-models
+  aggregate: false
+
+- canonical: mpt
+  variants: [MPT-30B, MosaicML MPT-30B]
+  genre: open-models
+  aggregate: false
+
+- canonical: minigpt4
+  variants: [MiniGPT-4]
+  genre: open-models
+  aggregate: false
+
+- canonical: openassistant
+  variants: [OpenAssistant, LAION Open Assistant]
+  genre: open-models
+  aggregate: false
+
+- canonical: orca
+  variants: [Orca]
+  genre: open-models
+  aggregate: false
+
+- canonical: phoenix
+  variants: [Phoenix 40B]
+  genre: open-models
+  aggregate: false
+
+- canonical: qwen
+  variants: [Qwen-14B, Alibaba Qwen]
+  genre: open-models
+  aggregate: false
+
+- canonical: stablebeluga
+  variants: [Stable Beluga]
+  genre: open-models
+  aggregate: false
+
+- canonical: textgenwebui
+  variants: [Text Generation WebUI, oobabooga]
+  genre: open-models
+  aggregate: false
+
+- canonical: vicuna
+  variants: [Vicuna, ヴィクーナ]
+  genre: open-models
+  aggregate: false
+
+- canonical: wizardlm
+  variants: [WizardLM]
+  genre: open-models
+  aggregate: false
+
+- canonical: h2ogpt
+  variants: [h2oGPT]
+  genre: open-models
+  aggregate: false
+
+# 特殊機能・アドオン - aggregate: false
+- canonical: customgpts
+  variants: [Custom GPTs, GPTs (OpenAI)]
+  genre: specialized-features
+  aggregate: false
+
+- canonical: duetai
+  variants: [Google Duet AI, Duet AI]
+  genre: specialized-features
+  aggregate: false
+
+- canonical: sge
+  variants: [Google SGE, Search Generative Experience]
+  genre: specialized-features
+  aggregate: false
+
+- canonical: synthid
+  variants: [SynthID]
+  genre: specialized-features
+  aggregate: false
+
+- canonical: textblaze
+  variants: [Text Blaze]
+  genre: specialized-features
+  aggregate: false
+
+- canonical: glaze
+  variants: [Glaze]
+  genre: specialized-features
+  aggregate: false
+
+# 検索・発見 - aggregate: false
+- canonical: phind
+  variants: [Phind]
+  genre: search-discovery
+  aggregate: false
+
+- canonical: overflow
+  variants: [OverflowAI]
+  genre: search-discovery
+  aggregate: false
+
+# 特殊AI・エージェント - aggregate: false
+- canonical: act1
+  variants: [ACT-1, Adept ACT-1]
+  genre: agent-workflow
+  aggregate: false
+  match_mode: exact_only
+
+- canonical: cognosys
+  variants: [Cognosys, Cognosys AI]
+  genre: agent-workflow
+  aggregate: false
+
+- canonical: godmode
+  variants: [GodMode]
+  genre: agent-workflow
+  aggregate: false
+
+# クリエイティブ・ライティング - aggregate: false
+- canonical: novelai
+  variants: [NovelAI]
+  genre: creative-writing
+  aggregate: false
+
+- canonical: sudowrite
+  variants: [Sudowrite]
+  genre: creative-writing
+  aggregate: false
+
+# コンパニオンAI - aggregate: false
+- canonical: replika
+  variants: [Replika]
+  genre: companion-ai
+  aggregate: false
+
+# その他・不明 - aggregate: false
+- canonical: nyota
+  variants: [Nyota]
+  genre: other
+  aggregate: false
+
+- canonical: qarasu
+  variants: [Qarasu]
+  genre: other
+  aggregate: false
+
+- canonical: zyro
+  variants: [Zyro]
+  genre: other
+  aggregate: false

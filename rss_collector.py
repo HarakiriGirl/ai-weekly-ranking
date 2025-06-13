@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GitHub Actions対応RSS収集システム
-毎日自動実行で22サイトからRSS収集し、JSONファイルに保存
+毎日自動実行で27サイトからRSS収集し、JSONファイルに保存
 """
 
 import feedparser
@@ -9,11 +9,12 @@ import json
 import os
 import re
 from datetime import datetime, timedelta
+from pathlib import Path
 import time
 import hashlib
 
 def get_rss_feeds():
-    """22サイトのRSS URL一覧"""
+    """27サイトのRSS URL一覧"""
     return {
         # 超大手
         "TechCrunch": "https://techcrunch.com/feed/",
@@ -46,6 +47,13 @@ def get_rss_feeds():
         "TechEU": "https://tech.eu/feed/",
         "TechRadar": "https://www.techradar.com/rss",
         "Tech Advisor": "https://www.techadvisor.com/feed/",
+        
+         # HackerNews
+        "HackerNews Frontpage": "https://hnrss.org/frontpage",
+        "HackerNews Best": "https://hnrss.org/best",
+        "HackerNews Newest": "https://hnrss.org/newest",
+        "HackerNews Ask": "https://hnrss.org/ask", 
+        "HackerNews Show": "https://hnrss.org/show",
         
         # 追加サイト（必要に応じてコメントアウト解除）
         # "PC Watch": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
@@ -201,24 +209,26 @@ def collect_daily_rss():
 def save_daily_data(data):
     """当日のデータをJSONファイルに保存"""
     # データディレクトリ作成
-    data_dir = "data"
-    os.makedirs(data_dir, exist_ok=True)
+    data_dir = Path("data/rss/daily")
+    data_dir.mkdir(parents=True, exist_ok=True)
     
     # ファイル名生成（JST基準）
     jst_time = datetime.utcnow() + timedelta(hours=9)
     today = jst_time.strftime('%Y%m%d')
-    filename = f"{data_dir}/rss_{today}.json"
+    filename = data_dir / f"rss_{today}.json"
     
     # JSON保存
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     print(f"💾 ファイル保存: {filename}")
-    return filename
+    return str(filename)
 
 def create_weekly_summary():
     """過去7日分のデータを統合（週末実行用）"""
-    data_dir = "data"
+    daily_dir = Path("data/rss/daily")
+    weekly_dir = Path("data/rss/weekly")
+    weekly_dir.mkdir(parents=True, exist_ok=True)
     
     # 過去7日分のファイルを探す
     weekly_data = {
@@ -235,11 +245,11 @@ def create_weekly_summary():
     
     for i in range(7):
         date = datetime.now() - timedelta(days=i)
-        filename = f"{data_dir}/rss_{date.strftime('%Y%m%d')}.json"
+        filename = daily_dir / f"rss_{date.strftime('%Y%m%d')}.json"
         
-        if os.path.exists(filename):
+        if filename.exists():
             print(f"📁 読み込み: {filename}")
-            daily_files_list.append(filename)  # ログ用リストに追加
+            daily_files_list.append(str(filename))  # ログ用リストに追加
             
             try:
                 with open(filename, 'r', encoding='utf-8') as f:
@@ -348,7 +358,7 @@ def create_weekly_summary():
     
     # 週間サマリー保存（JST基準）
     jst_time = datetime.utcnow() + timedelta(hours=9)
-    week_filename = f"{data_dir}/weekly_summary_{jst_time.strftime('%Y%m%d')}.json"
+    week_filename = weekly_dir / f"weekly_summary_{jst_time.strftime('%Y%m%d')}.json"
     with open(week_filename, 'w', encoding='utf-8') as f:
         json.dump(weekly_data, f, ensure_ascii=False, indent=2)
     
@@ -357,7 +367,7 @@ def create_weekly_summary():
     print(f"🎯 保持率: {filter_ratio:.1f}%")
     print(f"🗂️  サイト別グループ: {len(sites_grouped)}サイト")
     
-    return week_filename
+    return str(week_filename)
 
 def main():
     """メイン実行関数"""

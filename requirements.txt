@@ -1,0 +1,5 @@
+pandas
+rapidfuzz
+fugashi
+unidic-lite
+pyyaml

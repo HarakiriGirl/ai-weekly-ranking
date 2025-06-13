@@ -10,6 +10,7 @@ import csv
 import os
 from datetime import datetime, timezone, timedelta
 from typing import Dict, List, Tuple
+from pathlib import Path
 import time
 
 def load_channel_list(csv_file: str) -> List[Tuple[str, str, str]]:
@@ -179,19 +180,19 @@ def process_youtube_channels(api_key: str, csv_file: str):
 def save_youtube_data(data):
     """YouTubeのデータを保存"""
     # データディレクトリ作成
-    data_dir = "data"
-    os.makedirs(data_dir, exist_ok=True)
+    data_dir = Path("data/youtube/weekly")
+    data_dir.mkdir(parents=True, exist_ok=True)
     
     # ファイル名生成（JST時刻）
     jst_timestamp = get_jst_timestamp()
-    filename = f"{data_dir}/youtube_weekly_{jst_timestamp}.json"
+    filename = data_dir / f"youtube_weekly_{jst_timestamp}.json"
     
     # JSON保存
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     print(f"💾 ファイル保存: {filename}")
-    return filename
+    return str(filename)
 
 def test_single_channel():
     """テスト用: 1チャンネルのみ収集"""

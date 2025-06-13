@@ -1,0 +1,34 @@
+# AI Tools Genres - ジャンル定義
+# ランキング表示用の日本語名と説明
+
+multi-ai:
+  name: "汎用AI・チャット"
+  description: "ChatGPT、Claude、Gemini等の対話型AI・基盤モデル"
+  
+image:
+  name: "画像生成・編集"
+  description: "Midjourney、DALL-E、Stable Diffusion等の画像AI"
+  
+video:
+  name: "動画生成・編集"
+  description: "Sora、Runway、Luma等の動画AI"
+  
+music:
+  name: "音楽・音声生成"
+  description: "Suno、ElevenLabs、Udio等の音楽・音声AI"
+  
+voice:
+  name: "音声認識・合成"
+  description: "Whisper、Otter、Fireflies等の音声処理AI"
+  
+research:
+  name: "研究・分析・論文"
+  description: "Elicit、SciSpace、NotebookLM等の研究支援AI"
+  
+coding:
+  name: "プログラミング支援"
+  description: "GitHub Copilot、Cursor、CodeWhisperer等のコーディングAI"
+  
+agent-workflow:
+  name: "自動化・エージェント"
+  description: "AutoGPT、LangChain、Zapier等のワークフロー自動化AI"

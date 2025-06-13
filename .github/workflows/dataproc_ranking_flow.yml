@@ -1,0 +1,121 @@
+# GitHub Actions ワークフロー: 完全自動週次ランキング生成
+# ファイルパス: .github/workflows/dataproc_ranking_flow.yml
+
+name: Weekly AI Tools Ranking (Auto)
+
+on:
+  # 毎週金曜 15:00 JST (06:00 UTC) に自動実行
+  # データ収集完了後（金曜13:00）の2時間後実行
+  schedule:
+    - cron: '0 6 * * 5'  
+  
+  # 手動実行も可能
+  workflow_dispatch:
+    inputs:
+      week:
+        description: '対象週 (YYYY-WXX形式, 空白で今週)'
+        required: false
+        type: string
+
+# 権限設定
+permissions:
+  contents: write  # ファイルをリポジトリにコミットするため
+
+jobs:
+  auto-ranking:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 リポジトリをチェックアウト
+      uses: actions/checkout@v4
+    
+    - name: 🐍 Python環境セットアップ
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 依存関係インストール
+      run: |
+        pip install -r requirements.txt
+        python -m unidic download
+    
+    - name: 🔍 データ前処理実行
+      run: |
+        echo "Starting preprocessing..."
+        python dataproc/scripts/preprocess.py
+        echo "Preprocessing completed"
+    
+    - name: 🏆 ランキング計算実行
+      run: |
+        echo "Starting ranking calculation..."
+        if [ -n "${{ github.event.inputs.week }}" ]; then
+          python dataproc/scripts/rank.py --week "${{ github.event.inputs.week }}"
+        else
+          python dataproc/scripts/rank.py
+        fi
+        echo "Ranking calculation completed"
+    
+    - name: 📄 レポート生成実行
+      run: |
+        echo "Starting report generation..."
+        if [ -n "${{ github.event.inputs.week }}" ]; then
+          python dataproc/scripts/render.py --week "${{ github.event.inputs.week }}"
+        else
+          python dataproc/scripts/render.py
+        fi
+        echo "Report generation completed"
+    
+    - name: 💾 結果をコミット
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # 変更ファイルを確認
+        git add dataproc/processed/ dataproc/aggregated/ dataproc/reports/
+        
+        if git diff --staged --quiet; then
+          echo "変更なし、コミットスキップ"
+        else
+          # 週番号取得（手動実行時は指定値、自動実行時は現在週）
+          if [ -n "${{ github.event.inputs.week }}" ]; then
+            WEEK="${{ github.event.inputs.week }}"
+          else
+            WEEK=$(date +%G)-W$(date +%V)
+          fi
+          
+          git commit -m "🏆 Auto-generated weekly ranking: ${WEEK}"
+          git push
+          
+          echo "✅ Weekly ranking committed: ${WEEK}"
+        fi
+    
+    - name: 🎉 完了通知
+      run: |
+        # 週番号取得
+        if [ -n "${{ github.event.inputs.week }}" ]; then
+          WEEK="${{ github.event.inputs.week }}"
+        else
+          WEEK=$(date +%G)-W$(date +%V)
+        fi
+        
+        echo "✅ 完全自動週次ランキング生成完了"
+        echo "📊 対象週: ${WEEK}"
+        echo "📁 生成ファイル:"
+        echo "   - dataproc/processed/$(date +'%Y-%m-%d').parquet"
+        echo "   - dataproc/aggregated/${WEEK}.parquet"
+        echo "   - dataproc/reports/${WEEK}.md"
+        echo ""
+        echo "🔗 レポート確認: dataproc/reports/${WEEK}.md"
+    
+    - name: 🔍 デバッグ情報
+      if: failure()
+      run: |
+        echo "❌ エラーが発生しました"
+        echo "📂 ディレクトリ構造:"
+        ls -la dataproc/
+        echo "📂 processed:"
+        ls -la dataproc/processed/ || echo "processed directory not found"
+        echo "📂 aggregated:"
+        ls -la dataproc/aggregated/ || echo "aggregated directory not found"
+        echo "📂 reports:"
+        ls -la dataproc/reports/ || echo "reports directory not found"

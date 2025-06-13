@@ -9,7 +9,8 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
+from pathlib import Path
 import time
 
 def get_aiweekly_rss():
@@ -181,20 +182,20 @@ def process_aiweekly_articles():
 def save_aiweekly_data(data):
     """AI-Weeklyのデータを保存"""
     # データディレクトリ作成
-    data_dir = "data"
-    os.makedirs(data_dir, exist_ok=True)
+    data_dir = Path("data/aiweekly/weekly")
+    data_dir.mkdir(parents=True, exist_ok=True)
     
     # ファイル名生成（JST基準）
     jst_time = datetime.utcnow() + timedelta(hours=9)
     today = jst_time.strftime('%Y%m%d')
-    filename = f"{data_dir}/aiweekly_{today}.json"
+    filename = data_dir / f"aiweekly_{today}.json"
     
     # JSON保存
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     print(f"💾 ファイル保存: {filename}")
-    return filename
+    return str(filename)
 
 def test_single_article():
     """テスト用: 1記事のみスクレイピング"""
