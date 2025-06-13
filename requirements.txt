@@ -4,3 +4,4 @@ fugashi
 unidic-lite
 pyyaml
 unidic
+pyarrow
