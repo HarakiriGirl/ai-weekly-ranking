@@ -522,10 +522,10 @@
   aggregate: true
 
 # 新AI IDE・エディタ系 - aggregate: true
-- canonical: openai-codex-2025
+- canonical: Codex
   variants: [
     OpenAI Codex, Codex, OpenAI Codex Agent, 
-    Codex-1, ChatGPT Codex
+    Codex-1, ChatGPT Codex, codex
   ]
   genre: coding
   aggregate: true
