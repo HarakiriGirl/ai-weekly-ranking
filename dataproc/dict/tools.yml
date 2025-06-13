@@ -1154,4 +1154,81 @@
   aggregate: false
 
 - canonical: glaze
+  variants: [Glaze]
+  genre: specialized-features
+  aggregate: false
+
+- canonical: samsung-now-bar
   variants: [
+    Samsung Now Bar, Galaxy Now Bar, One UI Now Bar, Samsung ナウバー
+  ]
+  genre: specialized-features
+  aggregate: false
+
+# 検索・発見 - aggregate: false
+- canonical: phind
+  variants: [Phind]
+  genre: search-discovery
+  aggregate: false
+
+- canonical: overflow
+  variants: [OverflowAI]
+  genre: search-discovery
+  aggregate: false
+
+- canonical: google-ai-mode
+  variants: [
+    Google AI Mode, AI Mode, Google Search AI Mode, Google検索AIモード
+  ]
+  genre: search-discovery
+  aggregate: false
+
+# 特殊AI・エージェント - aggregate: false
+- canonical: act1
+  variants: [ACT-1, Adept ACT-1]
+  genre: agent-workflow
+  aggregate: false
+  match_mode: exact_only
+
+- canonical: cognosys
+  variants: [Cognosys, Cognosys AI]
+  genre: agent-workflow
+  aggregate: false
+
+- canonical: godmode
+  variants: [GodMode]
+  genre: agent-workflow
+  aggregate: false
+
+# クリエイティブ・ライティング - aggregate: false
+- canonical: novelai
+  variants: [NovelAI]
+  genre: creative-writing
+  aggregate: false
+
+- canonical: sudowrite
+  variants: [Sudowrite]
+  genre: creative-writing
+  aggregate: false
+
+# コンパニオンAI - aggregate: false
+- canonical: replika
+  variants: [Replika]
+  genre: companion-ai
+  aggregate: false
+
+# その他・不明 - aggregate: false
+- canonical: nyota
+  variants: [Nyota]
+  genre: other
+  aggregate: false
+
+- canonical: qarasu
+  variants: [Qarasu]
+  genre: other
+  aggregate: false
+
+- canonical: zyro
+  variants: [Zyro]
+  genre: other
+  aggregate: false
