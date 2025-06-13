@@ -3,3 +3,4 @@ rapidfuzz
 fugashi
 unidic-lite
 pyyaml
+unidic
