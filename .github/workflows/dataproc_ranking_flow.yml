@@ -4,10 +4,10 @@
 name: Weekly AI Tools Ranking (Auto)
 
 on:
-  # 毎週金曜 15:00 JST (06:00 UTC) に自動実行
+  # 毎週金曜 16:00 JST (07:00 UTC) に自動実行
   # データ収集完了後（金曜13:00）の2時間後実行
   schedule:
-    - cron: '0 6 * * 5'  
+    - cron: '0 7 * * 5'  
   
   # 手動実行も可能
   workflow_dispatch:
