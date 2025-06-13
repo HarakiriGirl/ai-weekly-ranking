@@ -1,4 +1,4 @@
-# AI Tools Dictionary - 統合・更新版
+# AI Tools Dictionary - 統合・更新版（2025年新ツール追加）
 # aggregate: true = ランキング集計対象
 # aggregate: false = 辞書登録のみ（集計対象外）
 
@@ -32,7 +32,8 @@
     Gemini Pro, Gemini Ultra, Gemini Advanced,
     Gemini 2.0, Gemini 2.0 Flash, Gemini 2.0 Pro, Gemini 2.0 Flash-Lite,
     Gemini 2.5, Gemini 2.5 Pro, Gemini 2.5 Flash, Gemini 2.5 Pro Deep Think,
-    Google Gemini 2.0, Google Gemini 2.5
+    Google Gemini 2.0, Google Gemini 2.5,
+    Gemini Deep Think, Deep Think
   ]
   genre: multi-ai
   aggregate: true
@@ -42,6 +43,22 @@
     Llama, LLaMA, Meta LLaMA, ラマ,
     Llama 2, LLaMA 2, Meta Llama2, ラマ2,
     Llama 3, LLaMA 3, Meta Llama 3, Llama 3.1, Llama 3.2
+  ]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: deepseek-r1
+  variants: [
+    DeepSeek R1, DeepSeek-R1, DeepSeek R1-0528, DeepSeek-R1-0528,
+    DeepSeek reasoning model, DeepSeek推論モデル
+  ]
+  genre: multi-ai
+  aggregate: true
+
+- canonical: qwen25max
+  variants: [
+    Qwen2.5-Max, Qwen 2.5 Max, Alibaba Qwen2.5-Max,
+    Alibaba Qwen 2.5 Max, 通義千問2.5-Max
   ]
   genre: multi-ai
   aggregate: true
@@ -205,6 +222,21 @@
   genre: image
   aggregate: true
 
+- canonical: imagen4
+  variants: [
+    Google Imagen 4, Imagen 4, Google Imagen4, Imagen4
+  ]
+  genre: image
+  aggregate: true
+
+- canonical: samsung-drawing-assist
+  variants: [
+    Samsung AI Drawing Assist, Samsung Drawing Assist, Galaxy AI Drawing Assist,
+    Samsung Sketch to Image, Galaxy Sketch to Image, One UI Drawing Assist
+  ]
+  genre: image
+  aggregate: true
+
 # video (動画生成・編集) - aggregate: true
 - canonical: sora
   variants: [OpenAI Sora, ソラ]
@@ -219,11 +251,19 @@
 - canonical: veo
   variants: [
     Veo, Google Veo, Google DeepMind Veo,
-    Veo 2, Veo 3, VideoFX, Flow
+    Veo 2, Veo 3, VideoFX, Flow,
+    Veo 3 Fast, Google Veo 3
   ]
   genre: video
   aggregate: true
   match_mode: exact_only
+
+- canonical: google-flow
+  variants: [
+    Google Flow, Flow, Google AI filmmaking tool, Flow filmmaking tool
+  ]
+  genre: video
+  aggregate: true
 
 - canonical: pikalabs
   variants: [Pika Labs]
@@ -303,9 +343,20 @@
   aggregate: true
 
 - canonical: musiclm
-  variants: [MusicLM, Google MusicLM]
+  variants: [
+    MusicLM, Google MusicLM,
+    Lyria, Google Lyria, Lyria RealTime
+  ]
   genre: music
   aggregate: true
+
+- canonical: lyria2
+  variants: [
+    Google Lyria 2, Lyria 2, Google Lyria2, Lyria2
+  ]
+  genre: music
+  aggregate: true
+  match_mode: exact_only
 
 - canonical: audiocraft
   variants: [AudioCraft]
@@ -435,8 +486,8 @@
   genre: coding
   aggregate: true
 
-- canonical: codewhisperer
-  variants: [CodeWhisperer, Amazon CodeWhisperer]
+- canonical: amazon-codewhisperer
+  variants: [CodeWhisperer, Amazon CodeWhisperer, AWS CodeWhisperer]
   genre: coding
   aggregate: true
 
@@ -450,8 +501,8 @@
   genre: coding
   aggregate: true
 
-- canonical: ghostwriter
-  variants: [Replit Ghostwriter, Ghostwriter]
+- canonical: replit-ghostwriter
+  variants: [Replit Ghostwriter, Ghostwriter, Replit AI]
   genre: coding
   aggregate: true
 
@@ -467,6 +518,131 @@
 
 - canonical: codey
   variants: [Salesforce Codey, Codey]
+  genre: coding
+  aggregate: true
+
+# 新AI IDE・エディタ系 - aggregate: true
+- canonical: openai-codex-2025
+  variants: [
+    OpenAI Codex, Codex, OpenAI Codex Agent, 
+    Codex-1, ChatGPT Codex
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: windsurf
+  variants: [
+    Windsurf, Windsurf IDE, Codeium Windsurf, 
+    Windsurf Editor, Windsurf AI, Cascade
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: cline
+  variants: [
+    Cline, cline, Cline AI, Claude Dev, VS Code Cline,
+    Roo Cline
+  ]
+  genre: coding
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: continue
+  variants: [
+    Continue, Continue AI, Continue VSCode
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: aider
+  variants: [
+    Aider, aider, Aider AI, AI pair programming
+  ]
+  genre: coding
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: bolt
+  variants: [
+    Bolt.new, StackBlitz Bolt, Bolt AI
+  ]
+  genre: coding
+  aggregate: true
+
+# 企業系AIコーディング - aggregate: true
+- canonical: qodo
+  variants: [
+    Qodo, qodo, CodiumAI, Qodo Gen, Qodo Merge,
+    Codium, PR-Agent
+  ]
+  genre: coding
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: devin
+  variants: [
+    Devin, devin, Cognition Devin, Devin AI
+  ]
+  genre: coding
+  aggregate: true
+  match_mode: exact_only
+
+- canonical: replit-agent
+  variants: [
+    Replit Agent, Replit AI Agent, Replit Assistant
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: amazon-q-developer
+  variants: [
+    Amazon Q Developer, Amazon Q, AWS Q Developer,
+    CodeWhisperer Q
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: intellicode
+  variants: [
+    Microsoft IntelliCode, Visual Studio IntelliCode,
+    VS Code IntelliCode
+  ]
+  genre: coding
+  aggregate: true
+
+# 特殊機能・オープンソース系 - aggregate: true  
+- canonical: goose
+  variants: [
+    Goose, Block Goose, Square Goose
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: codet5
+  variants: [
+    CodeT5, Code T5
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: askcodi
+  variants: [
+    AskCodi, Ask Codi
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: figstack
+  variants: [
+    Figstack
+  ]
+  genre: coding
+  aggregate: true
+
+- canonical: mutableai
+  variants: [
+    MutableAI, Mutable AI
+  ]
   genre: coding
   aggregate: true
 
@@ -508,6 +684,13 @@
 
 - canonical: devika
   variants: [Devika, Devika AI, デヴィカ]
+  genre: agent-workflow
+  aggregate: true
+
+- canonical: openai-operator
+  variants: [
+    OpenAI Operator, Operator, ChatGPT Operator, OpenAI AIエージェント
+  ]
   genre: agent-workflow
   aggregate: true
 
@@ -656,6 +839,14 @@
 
 - canonical: guru
   variants: [Guru]
+  genre: business-tools
+  aggregate: false
+
+- canonical: amperity-agent
+  variants: [
+    Amperity AI Identity Resolution Agent, Amperity AI Agent,
+    Amperity Identity Resolution
+  ]
   genre: business-tools
   aggregate: false
 
@@ -963,67 +1154,4 @@
   aggregate: false
 
 - canonical: glaze
-  variants: [Glaze]
-  genre: specialized-features
-  aggregate: false
-
-# 検索・発見 - aggregate: false
-- canonical: phind
-  variants: [Phind]
-  genre: search-discovery
-  aggregate: false
-
-- canonical: overflow
-  variants: [OverflowAI]
-  genre: search-discovery
-  aggregate: false
-
-# 特殊AI・エージェント - aggregate: false
-- canonical: act1
-  variants: [ACT-1, Adept ACT-1]
-  genre: agent-workflow
-  aggregate: false
-  match_mode: exact_only
-
-- canonical: cognosys
-  variants: [Cognosys, Cognosys AI]
-  genre: agent-workflow
-  aggregate: false
-
-- canonical: godmode
-  variants: [GodMode]
-  genre: agent-workflow
-  aggregate: false
-
-# クリエイティブ・ライティング - aggregate: false
-- canonical: novelai
-  variants: [NovelAI]
-  genre: creative-writing
-  aggregate: false
-
-- canonical: sudowrite
-  variants: [Sudowrite]
-  genre: creative-writing
-  aggregate: false
-
-# コンパニオンAI - aggregate: false
-- canonical: replika
-  variants: [Replika]
-  genre: companion-ai
-  aggregate: false
-
-# その他・不明 - aggregate: false
-- canonical: nyota
-  variants: [Nyota]
-  genre: other
-  aggregate: false
-
-- canonical: qarasu
-  variants: [Qarasu]
-  genre: other
-  aggregate: false
-
-- canonical: zyro
-  variants: [Zyro]
-  genre: other
-  aggregate: false
+  variants: [
