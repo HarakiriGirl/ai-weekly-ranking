@@ -12,6 +12,7 @@ from datetime import datetime, timezone, timedelta
 from typing import Dict, List, Tuple
 from pathlib import Path
 import time
+import re
 
 def load_channel_list(csv_file: str) -> List[Tuple[str, str, str]]:
     """
@@ -34,6 +35,21 @@ def load_channel_list(csv_file: str) -> List[Tuple[str, str, str]]:
     except Exception as e:
         print(f"❌ CSVファイル読み込みエラー: {e}")
         return []
+
+def sanitize_error_message(error_msg: str, api_key: str) -> str:
+    """
+    エラーメッセージからAPIキーを除去して安全にする
+    """
+    if api_key and api_key in error_msg:
+        # APIキーを***で置換
+        sanitized = error_msg.replace(api_key, "***API_KEY***")
+    else:
+        sanitized = error_msg
+    
+    # URLパラメータのkeyも除去（念のため）
+    sanitized = re.sub(r'[&?]key=[^&\s]+', '&key=***API_KEY***', sanitized)
+    
+    return sanitized
 
 def fetch_weekly_videos(api_key: str, channel_id: str, channel_name: str) -> Dict:
     """
@@ -63,12 +79,13 @@ def fetch_weekly_videos(api_key: str, channel_id: str, channel_name: str) -> Dic
         
         # エラー応答チェック
         if 'error' in data:
-            print(f"  ❌ API エラー: {data['error']['message']}")
+            error_msg = data['error']['message']
+            print(f"  ❌ API エラー: {error_msg}")
             return {
                 "channel_id": channel_id,
                 "videos": [],
                 "status": "api_error",
-                "error": data['error']['message']
+                "error": sanitize_error_message(error_msg, api_key)
             }
         
         videos = []
@@ -89,13 +106,43 @@ def fetch_weekly_videos(api_key: str, channel_id: str, channel_name: str) -> Dic
         
     except requests.exceptions.Timeout:
         print(f"  ❌ タイムアウト")
-        return {"channel_id": channel_id, "videos": [], "status": "timeout"}
+        return {
+            "channel_id": channel_id, 
+            "videos": [], 
+            "status": "timeout",
+            "error": "Request timeout"
+        }
+    except requests.exceptions.HTTPError as e:
+        # HTTPエラーの場合、ステータスコードのみ記録
+        status_code = getattr(e.response, 'status_code', 'unknown')
+        error_msg = f"HTTP {status_code} error"
+        print(f"  ❌ HTTPエラー: {error_msg}")
+        return {
+            "channel_id": channel_id, 
+            "videos": [], 
+            "status": "http_error", 
+            "error": error_msg
+        }
     except requests.exceptions.RequestException as e:
-        print(f"  ❌ ネットワークエラー: {e}")
-        return {"channel_id": channel_id, "videos": [], "status": "network_error", "error": str(e)}
+        # その他のネットワークエラー - APIキーを除去
+        error_msg = sanitize_error_message(str(e), api_key)
+        print(f"  ❌ ネットワークエラー: ネットワーク接続に失敗")
+        return {
+            "channel_id": channel_id, 
+            "videos": [], 
+            "status": "network_error", 
+            "error": "Network connection failed"
+        }
     except Exception as e:
-        print(f"  ❌ 予期しないエラー: {e}")
-        return {"channel_id": channel_id, "videos": [], "status": "unexpected_error", "error": str(e)}
+        # 予期しないエラー - APIキーを除去
+        error_msg = sanitize_error_message(str(e), api_key)
+        print(f"  ❌ 予期しないエラー: 処理中にエラーが発生")
+        return {
+            "channel_id": channel_id, 
+            "videos": [], 
+            "status": "unexpected_error", 
+            "error": "Unexpected error occurred"
+        }
 
 def get_jst_timestamp() -> str:
     """日本時間でのタイムスタンプを生成（pytz不使用）"""
