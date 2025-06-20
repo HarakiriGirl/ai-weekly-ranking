@@ -7,8 +7,9 @@ on:
   # 毎日午前9時（日本時間）に実行
   schedule:
     - cron: '0 21 * * *'  # UTC 21:00 → JST 6:00（デイリー）
-    - cron: '0 3 * * 5'  # UTC 03:00 → JST 12:00（金曜RSS週間サマリー）
-    - cron: '0 4 * * 5'  # UTC 04:00 → JST 13:00（金曜AI-Weekly + YouTube）
+    - cron: '0 3 * * 5'   # UTC 03:00 → JST 12:00（金曜RSS週間サマリー）
+    - cron: '0 4 * * 5'   # UTC 04:00 → JST 13:00（金曜AI-Weekly）
+    - cron: '30 4 * * 5'  # UTC 04:30 → JST 13:30（金曜YouTube）
   
   # 手動実行も可能
   workflow_dispatch:
@@ -111,7 +112,6 @@ jobs:
       with:
         python-version: '3.11'
     
-    - name: 📦 依存関係インストール（AI-Weekly用）
       run: |
         pip install feedparser requests beautifulsoup4
     
@@ -133,7 +133,7 @@ jobs:
 
   # YouTube週間収集ジョブ
   youtube-collection:
-    if: github.event.schedule == '0 4 * * 5' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'youtube')
+    if: github.event.schedule == '30 4 * * 5' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'youtube')
     runs-on: ubuntu-latest
     
     steps:
