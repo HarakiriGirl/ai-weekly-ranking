@@ -1,0 +1,1575 @@
+{
+  "collection_date": "2025-10-10",
+  "collection_date_jst": "2025-10-10T13:40:46.215537+09:00",
+  "source": "YouTube Data API v3",
+  "total_channels": 58,
+  "successful_channels": 58,
+  "failed_channels": 0,
+  "total_videos": 221,
+  "channels": {
+    "ウェブ職TV": {
+      "channel_id": "UClNZUVnSFRKKUfJYarEUqdA",
+      "handle": "webshokutv",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "OpenAI DevDay 2025の感想と注目の発表まとめ",
+          "tags": [],
+          "published_at": "2025-10-09T11:00:08Z"
+        },
+        {
+          "title": "OpenAI最強の動画生成AI「Sora2」がヤバい！　#shorts #sora2 #動画生成ai 動画生成AI",
+          "tags": [],
+          "published_at": "2025-10-03T10:30:17Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "NI-WORK": {
+      "channel_id": "UChD63R31attT5w8WOZeuXyg",
+      "handle": "NI-WORK",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【爆速魔改造】1クリックでGeminiの定型出力を即実行！無料Geminiでも実装可能なドキュメント・スライド機能追加【Google Workspace/生成AI/グーグル/GAS】",
+          "tags": [],
+          "published_at": "2025-10-08T20:30:07Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "まさおAIじっくり解説ch": {
+      "channel_id": "UCvHpETRVi1tXeRJoYiXHJqw",
+      "handle": "ai_masaou",
+      "video_count": 8,
+      "videos": [
+        {
+          "title": "Googleの新ワークフローAI「Opal」が遂に公開されたので徹底解説！実際に使ってみると最高でした",
+          "tags": [],
+          "published_at": "2025-10-09T10:00:58Z"
+        },
+        {
+          "title": "AI動画編集ならコレ！Veo3やnanobananなどAI活用できる「Filmora」が最高！徹底解説",
+          "tags": [],
+          "published_at": "2025-10-08T10:10:01Z"
+        },
+        {
+          "title": "【全員必見】無料ユーザーにも解放されたAIブラウザ『Comet』が最高すぎたので解説します",
+          "tags": [],
+          "published_at": "2025-10-07T23:45:00Z"
+        },
+        {
+          "title": "OpenAIの新自動化ツール『Agent Builder』を解説！AIエージェントを視覚的に作成できるノーコードツール",
+          "tags": [],
+          "published_at": "2025-10-07T10:10:02Z"
+        },
+        {
+          "title": "【速報】OpenAIのDevDay2025で大量リリース！AgentKitやAppsSDK、SoraAPIなど、本当にすごい機能が連続登場したので解説します",
+          "tags": [],
+          "published_at": "2025-10-07T00:30:28Z"
+        },
+        {
+          "title": "【必見】CodexとClaudeCodeの最新アプデ解説！特にクラウド連携&amp;プロンプト機能強化など最高です",
+          "tags": [],
+          "published_at": "2025-10-05T09:05:01Z"
+        },
+        {
+          "title": "【コレ最高】最近登場した『Claude Agent SDK』を解説！ClaudeCodeの便利機能を簡単導入",
+          "tags": [],
+          "published_at": "2025-10-04T09:10:02Z"
+        },
+        {
+          "title": "【全員必見】Anthropicの「AIエージェントのコンテキストエンジニアリング」が参考になりすぎたので徹底解説します",
+          "tags": [],
+          "published_at": "2025-10-03T09:45:01Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いけともch_旧リモ研": {
+      "channel_id": "UCpUQnk6MaY4o3NdgJmv10cw",
+      "handle": "iketomo-ch",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【初期設定は絶対危険】個人情報が流出する可能性があるAI10選～知らないと怖いAIサービスのデフォルト設定。ほとんどのメジャーツールがこうなってます",
+          "tags": [],
+          "published_at": "2025-10-08T11:00:36Z"
+        },
+        {
+          "title": "注目AIニュース25選～Sora、Claude4.5、Copilot Agentモード、ChatGPT共有プロジェクト、Canva AI、Tinkerなど",
+          "tags": [],
+          "published_at": "2025-10-05T06:00:15Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いっしゅ / AIクリエイター": {
+      "channel_id": "UCgyzX-fA6gy2lLM3bX4E0Hg",
+      "handle": "ishcreative",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "#sora2 #生成ai #ai動画",
+          "tags": [],
+          "published_at": "2025-10-05T06:41:05Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "チャエン【AI研究所】〜仕事で使える最新のAI情報を発信〜 Byデジライズ": {
+      "channel_id": "UC9buL3Iph_f7AZxdzmiBL8Q",
+      "handle": "chaen-ai-lab",
+      "video_count": 12,
+      "videos": [
+        {
+          "title": "「投稿するな」と言ったのに…AIが勝手にXを操作して投稿する神ブラウザがヤバすぎた。#AI #Perplexity #Comet #AIエージェント #自動化 #SNS運用 #神ツール #最新AI",
+          "tags": [],
+          "published_at": "2025-10-09T07:00:03Z"
+        },
+        {
+          "title": "【衝撃の時短術】YouTube動画を30秒で全自動要約してくれる神ブラウザがヤバい…#comet#AI#仕事術#業務効率化#時短#Perplexity#YouTube#便利アプリ#情報収集#AIツール",
+          "tags": [],
+          "published_at": "2025-10-08T08:00:27Z"
+        },
+        {
+          "title": "創業2年で社員40名超え、デジライズ 2025年第4期目全社総会🔥2年半後の新興AI企業での最短最速上場目指します！ #チャエン #openai #業務効率化 #ai #ビジネス",
+          "tags": [],
+          "published_at": "2025-10-08T00:57:41Z"
+        },
+        {
+          "title": "【ChatGPT無双】OpenAIがDify的ワークフローツール「Agent Builder」を公開。さらにChatGPT内で外部アプリ操作も可能に。《最新機能の実演＋仕事・事業への影響を徹底解説》",
+          "tags": [],
+          "published_at": "2025-10-07T09:25:28Z"
+        },
+        {
+          "title": "【仕事が変わる】PerplexityのAIブラウザ「Comet」が遂に無料で一般公開。メール、フォーム入力など常にAIが伴奏して業務を自動化。《他AIブラウザ比較＋活用事例７選付き》週間AIニュース",
+          "tags": [],
+          "published_at": "2025-10-06T10:49:39Z"
+        },
+        {
+          "title": "資料作成AIツール徹底比較。プロが本音で選ぶNo.1とは？#AI #資料作成 #業務効率化 #パワポ  #Claude #Manus #GenSpark #gamma #skywork",
+          "tags": [],
+          "published_at": "2025-10-05T12:50:49Z"
+        },
+        {
+          "title": "【完全版】資料生成AIどれを使うべきか？初級から応用編まで徹底網羅。Manus,Genspark,Skywork,Gamma,Claudeを徹底比較　《一撃でコンサルレベルの資料が作れるプロンプトも》",
+          "tags": [],
+          "published_at": "2025-10-05T11:08:27Z"
+        },
+        {
+          "title": "【ChatGPT超えか】Google AI Studioが多機能過ぎてこれだけ完結。 #ai #チャエン#gemini #googleaistudio #chatgpt",
+          "tags": [],
+          "published_at": "2025-10-05T00:00:59Z"
+        },
+        {
+          "title": "【衝撃】ついに公開されたOpenAI「Sora 2」が現実を越えるレベルでヤバい…#Sora2#OpenAI#動画生成AI#AI#最新AI#チャエン#Sora#人工知能",
+          "tags": [],
+          "published_at": "2025-10-04T09:01:00Z"
+        },
+        {
+          "title": "【EC業界に激震】ChatGPTと会話するだけで買い物ができる時代に#ChatGPT#InstantCheckout#OpenAI#AI#ECサイト#Stripe#最新AI#チャエン",
+          "tags": [],
+          "published_at": "2025-10-04T01:00:09Z"
+        },
+        {
+          "title": "【新感覚デザインツール】Googleが公開した「Mixboard」#Mixboard#GoogleAI#画像生成AI#デザインツール#AI#最新AI#チャエン#クリエイティブツール",
+          "tags": [],
+          "published_at": "2025-10-03T11:48:06Z"
+        },
+        {
+          "title": "最強の動画生成AI TOP3#動画生成AI#AI#Sora#Runway#GoogleVeo#チャエン#AIツール#最新AI",
+          "tags": [],
+          "published_at": "2025-10-03T08:00:44Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "にゃんたのAIチャンネル": {
+      "channel_id": "UCZQVTC3uLCyuJUOcRlguazA",
+      "handle": "aivtuber2866",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "OpenAI最新！DevDay 2025での発表内容(Agent Builder, Apps SDK等)を解説してみた",
+          "tags": [],
+          "published_at": "2025-10-07T09:20:05Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "KEITO【AI&WEB ch】": {
+      "channel_id": "UCfapRkagDtoQEkGeyD3uERQ",
+      "handle": "keitoaiweb",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "ChatGPTの&quot;画面上&quot;に図解や資料を作成するAI活用が便利すぎる！",
+          "tags": [],
+          "published_at": "2025-10-09T10:04:50Z"
+        },
+        {
+          "title": "OpenAIのAIエージェントビルダー『AgentKit（Agent Builder &amp; Chatkit）』を実演解説",
+          "tags": [],
+          "published_at": "2025-10-08T10:01:07Z"
+        },
+        {
+          "title": "Sora 2の透かしを削除して商用利用する方法（公式の方法です）",
+          "tags": [],
+          "published_at": "2025-10-07T10:13:44Z"
+        },
+        {
+          "title": "AI副業のプロとAI活用のプロが『AI副業推進は賛成 or 反対』を徹底討論",
+          "tags": [],
+          "published_at": "2025-10-06T10:00:10Z"
+        },
+        {
+          "title": "LARK MAX 2 （高性能ワイヤレスマイク）が最高すぎたんで、これでAI活用についてを語ってみます",
+          "tags": [],
+          "published_at": "2025-10-04T11:00:39Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI FREAK - 最新のAIツールをご紹介": {
+      "channel_id": "UCLapF_KiSMKFWcVdXytOLgA",
+      "handle": "aifreak_ch",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "おすすめのリップシンクAIツールはどれ？",
+          "tags": [],
+          "published_at": "2025-10-09T08:15:42Z"
+        },
+        {
+          "title": "【AIでMVを作る方法】リップシンクにおすすめの『DomoAI』の使い方や、他動画生成AIツールとの比較など。",
+          "tags": [],
+          "published_at": "2025-10-09T05:12:14Z"
+        },
+        {
+          "title": "AI動画って、見抜くの簡単じゃね？ #sora2 #ai動画",
+          "tags": [],
+          "published_at": "2025-10-07T06:15:45Z"
+        },
+        {
+          "title": "AIがヤバすぎて、そろそろ怖い #sora2",
+          "tags": [],
+          "published_at": "2025-10-04T23:47:34Z"
+        },
+        {
+          "title": "普通のおっさんもAIで作れる時代。#sora2",
+          "tags": [],
+          "published_at": "2025-10-03T06:39:13Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI様の下僕": {
+      "channel_id": "UCNBWx9JET3iRoCXliY2G4rQ",
+      "handle": "AI-geboku",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "【王者交代か】Sora 2 vs Veo 3.1 ついに開戦。Googleの次世代モデルがAI動画の勢力図を塗り替える。",
+          "tags": [],
+          "published_at": "2025-10-09T13:18:32Z"
+        },
+        {
+          "title": "sora2の話しとリスナー参加型の配信イベントやります！参加者にはプレゼントも！",
+          "tags": [],
+          "published_at": "2025-10-06T11:36:54Z"
+        },
+        {
+          "title": "【生配信】AI大忘年会！2025年もリスナーさんのおかげでした！",
+          "tags": [],
+          "published_at": "2025-10-04T13:36:34Z"
+        },
+        {
+          "title": "【課金地獄から脱出】絵が描けなくてもOK！AI動画の設計図が作れる無料ソフトが革命的すぎる",
+          "tags": [],
+          "published_at": "2025-10-04T09:08:10Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIでサボろうチャンネル": {
+      "channel_id": "UC9AuyS7U4PxeDSNMJ2srarA",
+      "handle": "ai-saborou",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【実際どう？】Agent Builderの使い方やn8nとの比較を解説【正直レビュー】",
+          "tags": [],
+          "published_at": "2025-10-08T08:45:01Z"
+        },
+        {
+          "title": "【AI活用に大活躍】非エンジニアのためのGit+GitHub入門【コマンド暗記不要です/GitHub Desktop】",
+          "tags": [],
+          "published_at": "2025-10-03T10:06:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "RKJ VIDEO 【イケている動画を作りたいなら】": {
+      "channel_id": "UCVARwuMmqP4tqQFUQm57oQQ",
+      "handle": "RKJVideoforyou",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Kling AIが神アップデート！他のの動画生成AIツールと比較：Veo3 vs Kling vs Hailuo vs Seedance vs Runway",
+          "tags": [],
+          "published_at": "2025-10-09T11:00:34Z"
+        },
+        {
+          "title": "AI時代に必要な「センスの磨き方」。センスは才能ではなく〇〇",
+          "tags": [],
+          "published_at": "2025-10-07T11:00:53Z"
+        },
+        {
+          "title": "動画クリエイターのための「Nano Banana活用術-カメラアングル】",
+          "tags": [],
+          "published_at": "2025-10-04T11:01:17Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ダルトワ★TV": {
+      "channel_id": "UChk3jyTp7BaOWnvUEQOLN5A",
+      "handle": "dartois_tv",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "ここなの AI 研究所": {
+      "channel_id": "UCb18vBcozRjkD1PtB4pohWQ",
+      "handle": "AI-Laboratory-in-Cocona",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【AIアート】人間には到達不可能な領域へ…AIが生成した『NARUTO』が美しすぎる",
+          "tags": [],
+          "published_at": "2025-10-05T21:30:06Z"
+        },
+        {
+          "title": "【リゼロ】もしも実写化したら…？AIが描く撮影現場のオフショットが神クオリティすぎる【AI実写】",
+          "tags": [],
+          "published_at": "2025-10-03T11:01:11Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "はむ先生のAI教室【AIツールを体系的に解説】": {
+      "channel_id": "UCgwv7JsLDvGTtRdFI4TVRQw",
+      "handle": "ham_ai_skill",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【衝撃】最新AI動画ツール「Sora2」の使い方/始め方/動画の作り方を徹底解説（カメオ/著作権/アニメ/スマホ）",
+          "tags": [],
+          "published_at": "2025-10-05T12:32:59Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI大学【AI&ChatGPT最新情報】": {
+      "channel_id": "UCXo1SsIDZ_dke2Nr1r3qk6w",
+      "handle": "AIAIChatGPT-cj4sh",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "【2025年秋最新】効果音や日本語ボイスを付与できる無料の人気動画生成AIツール5選！～Sora 2、Veo 3、Kling AI 2.5 Turboなど～",
+          "tags": [],
+          "published_at": "2025-10-09T09:05:42Z"
+        },
+        {
+          "title": "年に一度の開発イベント「OpenAI DevDay 2025」まとめ！ ～ChatGPTの新機能、AIエージェント構築ツール、Sora 2・GPT-5 ProのAPI～",
+          "tags": [],
+          "published_at": "2025-10-07T09:05:06Z"
+        },
+        {
+          "title": "無料の動画生成AI「Sora 2」の完全ガイド! ～日本でのSora 2の使い方から、Sora 2を使って作れる動画まで徹底解説～",
+          "tags": [],
+          "published_at": "2025-10-06T09:05:50Z"
+        },
+        {
+          "title": "【週刊AIツール&amp;ニュースベスト20】OpenAIの最新動画生成AIモデル「Sora 2」/コーディング性能がさらに向上した「Claude Sonnet 4.5」",
+          "tags": [],
+          "published_at": "2025-10-05T09:05:46Z"
+        },
+        {
+          "title": "【最新無料AIツール15選】Nano Bananaを使って音声で画像編集「Genspark」/高品質画像生成AIモデル「HunyuanImage 3.0」",
+          "tags": [],
+          "published_at": "2025-10-03T09:06:35Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIで創作効率化とマネタイズby嗚呼蛙": {
+      "channel_id": "UCjEa-tDIQIJ-rLslyEGLZdA",
+      "handle": "AICreative_and_Monetization",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【速報】Sora2が透かしなしで無制限生成できる限定キャンペーン！Pro高すぎ問題はHiggsfieldで解決！",
+          "tags": [],
+          "published_at": "2025-10-07T09:47:16Z"
+        },
+        {
+          "title": "【無料】映像＋声＋BGMが一発&amp;5分で完成！OpenAI最新「Sora2」のヤバさと生成のコツと招待コード入手法",
+          "tags": [],
+          "published_at": "2025-10-04T06:13:09Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIキャンプ / 中村俊也": {
+      "channel_id": "UCJRUWZsQXvLlBOUeZdtIcYQ",
+      "handle": "aicampll",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【必見】OpenAIが大公開！ChatGPT７億ユーザーの最新活用法とビジネス成功のヒント",
+          "tags": [],
+          "published_at": "2025-10-09T09:01:00Z"
+        },
+        {
+          "title": "【速報】OpenAIから待望の新機能「エージェントビルダー」で自分専用のAIワークフローを作ってみた！（ChatGPT、Agent Builder、DevDey 2025より）",
+          "tags": [],
+          "published_at": "2025-10-06T22:43:19Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "サファはユーチューバー【AIイラスト】": {
+      "channel_id": "UCjSy2qn-nx6D57BS7WVqowg",
+      "handle": "safa-dayo",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【イヤホン推奨】脳が喜ぶ、氷が砕けるAI ASMR動画 #aivideo #aiasmr #asmr",
+          "tags": [],
+          "published_at": "2025-10-08T10:00:00Z"
+        },
+        {
+          "title": "【閲覧注意】ゾワゾワしてくる気持ち悪い AI ASMR動画 #aivideo #aiasmr #asmr",
+          "tags": [],
+          "published_at": "2025-10-07T10:00:57Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "mikimiki web スクール": {
+      "channel_id": "UChxtIA33ty53Hh4MmkXNASg",
+      "handle": "mikimikiweb",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【全部無料！】凄すぎるGoogle AIで業務効率化するアイデアを徹底解説（Gemini/NotebookLM/AIMode/NanoBanana/Opal/Google AI Studio）",
+          "tags": [],
+          "published_at": "2025-10-09T10:24:13Z"
+        },
+        {
+          "title": "【最強動画生成AI‼️】OpenAIから「Sora2.0」爆誕！遂に日本語生成もできるように！徹底解説します",
+          "tags": [],
+          "published_at": "2025-10-03T10:31:49Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "かいちのAI大学": {
+      "channel_id": "UCWMrA-2fEycFnOwqzzdwWuQ",
+      "handle": "kaichi_gpt",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "Claude Codeを活用したバイブコーディング活用事例5選",
+          "tags": [],
+          "published_at": "2025-10-09T09:00:42Z"
+        },
+        {
+          "title": "【知らないと損】生成AI時代に必須の「3つの能力」とは？",
+          "tags": [],
+          "published_at": "2025-10-07T09:00:23Z"
+        },
+        {
+          "title": "【9月編】生成AI最新ニュース12選【Sora2、ChatGPT Pulse、AIモード、Claude Sonnet 4.5など】",
+          "tags": [],
+          "published_at": "2025-10-05T10:30:25Z"
+        },
+        {
+          "title": "【Sora 2大丈夫？】使い方や注意点を徹底解説！【OpenAI最新アプデ情報】",
+          "tags": [],
+          "published_at": "2025-10-05T04:00:24Z"
+        },
+        {
+          "title": "GeminiのGemsって何？オリジナルのbotが作れる機能を徹底解説！",
+          "tags": [],
+          "published_at": "2025-10-03T09:01:28Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ITとAIのルーティンラボ": {
+      "channel_id": "UCmbdU1d-_oKJHE7ZtPv1vpg",
+      "handle": "it-skill_routinelabo",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "【緊急速報】Sora 2 / Sora 2 Proのウォーターマーク問題を解決！無制限に動画生成できる「Higgsfield AI」がヤバすぎた…",
+          "tags": [],
+          "published_at": "2025-10-07T22:55:25Z"
+        },
+        {
+          "title": "🎬 OpenAI Sora 2がついに登場！日本語音声生成が完全対応！動画制作が革命的に進化",
+          "tags": [],
+          "published_at": "2025-10-06T12:49:09Z"
+        },
+        {
+          "title": "もう実写と見分けがつかない？OpenAI「Sora 2」を最速レビュー！使い方と注意点を解説",
+          "tags": [],
+          "published_at": "2025-10-04T11:21:54Z"
+        },
+        {
+          "title": "【業務効率化】PDFelement V12登場！AI要約・自動墨消し・バッチ処理でPDF作業が激変",
+          "tags": [],
+          "published_at": "2025-10-03T09:01:25Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI整体師": {
+      "channel_id": "UCVAkt5l6kD4igMdVoEGTGIg",
+      "handle": "ai.seitai",
+      "video_count": 10,
+      "videos": [
+        {
+          "title": "【AIニュース】Gemini 3.0来なかった😢今回は企業向けの全社導入提案っぽい！Gensparkで「GPT-5 Pro」が使える！Claude Codeプラグインが登場！",
+          "tags": [],
+          "published_at": "2025-10-10T00:52:18Z"
+        },
+        {
+          "title": "【AIニュース】GensparkでSora2が使えるように！今日Feloが「slide 3.0」をリリース予定！？Googleがデザイン関連チームから100人以上をレイオフ！？",
+          "tags": [],
+          "published_at": "2025-10-09T00:25:27Z"
+        },
+        {
+          "title": "【AIニュース】10月9日にGemini3.0を発表か！？Googleのワークフロー構築「Opal」が日本に展開！Claude Codeのスマホアプリが出る！？",
+          "tags": [],
+          "published_at": "2025-10-08T01:01:18Z"
+        },
+        {
+          "title": "【ライブ配信#41】OpenAIの発表内容をみんなで考察＆雑談を楽しむ！※今週は土曜にライブできないのでぜひ！",
+          "tags": [],
+          "published_at": "2025-10-07T16:04:04Z"
+        },
+        {
+          "title": "【AI試してみた】ChatGPT内でアプリが使える「Apps Inside ChatGPT」試してみた！Canvaはまだ日本地域に対応してないらしい！Courseraはいける！",
+          "tags": [],
+          "published_at": "2025-10-07T08:00:14Z"
+        },
+        {
+          "title": "【AIニュース】OpenAIから大型発表多数！ChatGPTでアプリ開発ができる！？ワークフローエージェント構築機能がリリース！Codex正式版がリリース！GPT 5 ProのAPIも！",
+          "tags": [],
+          "published_at": "2025-10-07T00:53:59Z"
+        },
+        {
+          "title": "【AIニュース】明日OpenAIからヤバい新製品が発表か！！？「新しい画像生成モデル」「Agent Builder」をリリースの噂！Sora2の利用上限は24時間で30回！など",
+          "tags": [],
+          "published_at": "2025-10-06T00:37:34Z"
+        },
+        {
+          "title": "【GPTラジオ #26】Sora2のオプトアウト問題をジピちゃんに解説してもらう！※音量注意！",
+          "tags": [],
+          "published_at": "2025-10-05T01:00:27Z"
+        },
+        {
+          "title": "【ライブ配信#40】ガチで完全ノープランなので、ゆるーくみんなと雑談を楽しむ！",
+          "tags": [],
+          "published_at": "2025-10-04T13:20:54Z"
+        },
+        {
+          "title": "【AIニュース】ChatGPT Proプランユーザー向けに「Sora 2 Pro」が登場！GPT-5 Instantにアップデート！ OpenAIが日本のデジタル庁と提携？！",
+          "tags": [],
+          "published_at": "2025-10-04T00:37:51Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Norihiko[AI × 動画制作]": {
+      "channel_id": "UCotwNXfqRFO6dC5aKYzxNjA",
+      "handle": "norihikoCH",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "[動画生成AI] 始め方_How To チャンネル": {
+      "channel_id": "UCEH0dwKUzjCGNfkbCGpoZCg",
+      "handle": "HARUTA-channel-4s",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "無制限作り放題プラン！Wan2.5を徹底解説(HiggsField Wan2.5)",
+          "tags": [],
+          "published_at": "2025-10-04T23:32:17Z"
+        },
+        {
+          "title": "【速報】OpenAI「Sora 2」ついに解禁！動画生成AIがここまで進化した…",
+          "tags": [],
+          "published_at": "2025-10-03T08:00:44Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matt Wolfe": {
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "handle": "mreflow",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "Inside ChatGPT&#39;s New &quot;Agent Kit&quot;",
+          "tags": [],
+          "published_at": "2025-10-09T12:15:20Z"
+        },
+        {
+          "title": "All Of These Apps INSIDE ChatGPT?!",
+          "tags": [],
+          "published_at": "2025-10-08T14:25:46Z"
+        },
+        {
+          "title": "Demystifying Open-Weight Models",
+          "tags": [],
+          "published_at": "2025-10-07T22:04:17Z"
+        },
+        {
+          "title": "Did ChatGPT Just Kill Zapier?",
+          "tags": [],
+          "published_at": "2025-10-07T02:30:09Z"
+        },
+        {
+          "title": "Making A Million $$ Ad For Under $100",
+          "tags": [],
+          "published_at": "2025-10-06T21:13:32Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Two Minute Papers": {
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "handle": "TwoMinutePapers",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI Explaine": {
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "handle": "aiexplained-official",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "DeepLearning.AI": {
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "handle": "Deeplearningai",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Learn to build effective Agentic AI systems",
+          "tags": [],
+          "published_at": "2025-10-07T16:09:56Z"
+        },
+        {
+          "title": "Learn to build effective Agentic AI systems with Andrew Ng",
+          "tags": [],
+          "published_at": "2025-10-07T15:26:48Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "The AI Advantage": {
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "handle": "aiadvantage",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "The Secret to Getting 10x More Relevant Results in ChatGPT",
+          "tags": [],
+          "published_at": "2025-10-09T14:08:30Z"
+        },
+        {
+          "title": "By Far the Fastest Way to Build Apps with AI",
+          "tags": [],
+          "published_at": "2025-10-08T14:42:56Z"
+        },
+        {
+          "title": "Have You Been the Victim of AI Workslop? 🤔",
+          "tags": [],
+          "published_at": "2025-10-04T23:49:37Z"
+        },
+        {
+          "title": "These OpenAI Releases Are INSANE &amp; More AI Use Cases",
+          "tags": [],
+          "published_at": "2025-10-03T17:35:50Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "MattVidPro AI": {
+      "channel_id": "UC5Wz4fFacYuON6IKbhSa7Zw",
+      "handle": "MattVidPro",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Siraj Raval": {
+      "channel_id": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "handle": "SirajRaval",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AITrepreneur": {
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "handle": "Aitrepreneur",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "FIRST Open Source SORA 2 Is HERE!",
+          "tags": [],
+          "published_at": "2025-10-04T18:18:06Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Olivio Sarikas": {
+      "channel_id": "UCCKx8mAHiFus-XYQLy_WnaA",
+      "handle": "OlivioSarikas",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "AI DREAMS  - Join me &amp; Have Fun",
+          "tags": [],
+          "published_at": "2025-10-06T08:25:54Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Liam Ottley": {
+      "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
+      "handle": "LiamOttley",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Building AI Automations Just Changed Forever",
+          "tags": [],
+          "published_at": "2025-10-09T10:11:36Z"
+        },
+        {
+          "title": "OpenAI Just NUKED the AI Automation Industry… (DevDay Reaction)",
+          "tags": [],
+          "published_at": "2025-10-08T10:57:33Z"
+        },
+        {
+          "title": "How to Become IRREPLACEABLE With AI in 90 Days",
+          "tags": [],
+          "published_at": "2025-10-05T09:29:46Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Futurepedia": {
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "handle": "futurepedia_io",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI Revolution": {
+      "channel_id": "UC5l7RouTQ60oUjLjt1Nh-UQ",
+      "handle": "airevolutionx",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "Google Gemini 3 Shocks The Internet: Absolutely Mind Blown",
+          "tags": [],
+          "published_at": "2025-10-09T22:47:53Z"
+        },
+        {
+          "title": "Google Just Dropped AI That Fixes The Internet",
+          "tags": [],
+          "published_at": "2025-10-08T22:30:00Z"
+        },
+        {
+          "title": "OpenAI Just Dropped ChatGPT Apps SDK: Massive Upgrade!",
+          "tags": [],
+          "published_at": "2025-10-07T22:41:34Z"
+        },
+        {
+          "title": "AI Robot World War Begins: New Optimus Gen 3 VS Upgraded Unitree G1",
+          "tags": [],
+          "published_at": "2025-10-05T21:20:28Z"
+        },
+        {
+          "title": "DeepSeek is BACK! New AI Model That Might Shake the Industry",
+          "tags": [],
+          "published_at": "2025-10-04T23:00:21Z"
+        },
+        {
+          "title": "New SHAPE SHIFTING AI Robot Is Freaking People Out",
+          "tags": [],
+          "published_at": "2025-10-03T22:32:31Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Wes Roth": {
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "handle": "WesRoth",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "State of AI 2025: GPT-5 can&#39;t beat o3, robots coming into your house and fake Veo 3.1 rumors",
+          "tags": [],
+          "published_at": "2025-10-10T03:08:57Z"
+        },
+        {
+          "title": "OpenAI, Google and xAI are about to blow",
+          "tags": [],
+          "published_at": "2025-10-08T23:55:50Z"
+        },
+        {
+          "title": "DAVID ONDREJ - Vibe Coding a Startup, Working with Alex Hormozi and Evolving in the AI Age.",
+          "tags": [],
+          "published_at": "2025-10-07T01:16:57Z"
+        },
+        {
+          "title": "LIVESTREAM: OpenAI Dev Day Stream",
+          "tags": [],
+          "published_at": "2025-10-06T18:41:25Z"
+        },
+        {
+          "title": "AI video is getting INSANE (Sora 2)",
+          "tags": [],
+          "published_at": "2025-10-05T11:18:47Z"
+        },
+        {
+          "title": "Wes Roth stars in the new trilogy &quot;The Roth Identity&quot; | Sora 2",
+          "tags": [],
+          "published_at": "2025-10-04T22:45:13Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Black Mixture": {
+      "channel_id": "UCOwFX-YFktXxEIX7-IPjlKQ",
+      "handle": "BlackMixture",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Skill Leap AI": {
+      "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
+      "handle": "SkillLeapAI",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "Are you using AI agents yet? #aiagents",
+          "tags": [],
+          "published_at": "2025-10-08T19:03:09Z"
+        },
+        {
+          "title": "ChatGPT Just Became an App Platform (Apps in ChatGPT)",
+          "tags": [],
+          "published_at": "2025-10-08T18:30:20Z"
+        },
+        {
+          "title": "ChatGPT &quot;Projects&quot; Deep Dive: The Hidden Power of ChatGPT",
+          "tags": [],
+          "published_at": "2025-10-07T16:48:04Z"
+        },
+        {
+          "title": "Sora 2 Is Not What You Think…",
+          "tags": [],
+          "published_at": "2025-10-03T21:50:50Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "All About AI": {
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "handle": "AllAboutAI",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "Gemini 2.5 Computer Use MCP | On The Edge #7",
+          "tags": [],
+          "published_at": "2025-10-09T14:01:26Z"
+        },
+        {
+          "title": "Sora 2 API Deep Dive | On The Edge #6",
+          "tags": [],
+          "published_at": "2025-10-07T08:35:09Z"
+        },
+        {
+          "title": "Imagine with Claude | On The Edge #5",
+          "tags": [],
+          "published_at": "2025-10-06T11:01:02Z"
+        },
+        {
+          "title": "Long Running AI Agents | On The Edge #4",
+          "tags": [],
+          "published_at": "2025-10-04T12:00:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Corbin Brown": {
+      "channel_id": "UCJFMlSxcvlZg5yZUYJT0Pug",
+      "handle": "Corbin_Brown",
+      "video_count": 50,
+      "videos": [
+        {
+          "title": "corbin &amp; leet anime coming soon?",
+          "tags": [],
+          "published_at": "2025-10-10T03:39:21Z"
+        },
+        {
+          "title": "Leet will be coming onto stream",
+          "tags": [],
+          "published_at": "2025-10-10T03:34:44Z"
+        },
+        {
+          "title": "Stream Day 10 Dice Trick",
+          "tags": [],
+          "published_at": "2025-10-10T03:30:16Z"
+        },
+        {
+          "title": "Sora 3 For Live Streaming Announced",
+          "tags": [],
+          "published_at": "2025-10-10T03:27:30Z"
+        },
+        {
+          "title": "Stream day 10 reacts to Stream day 9",
+          "tags": [],
+          "published_at": "2025-10-10T03:25:10Z"
+        },
+        {
+          "title": "When OpenAI was the AI monopoly",
+          "tags": [],
+          "published_at": "2025-10-10T03:20:15Z"
+        },
+        {
+          "title": "Has AI made us worse writers?",
+          "tags": [],
+          "published_at": "2025-10-10T03:15:54Z"
+        },
+        {
+          "title": "Did DeepSeek Just Kill ChatGPT?",
+          "tags": [],
+          "published_at": "2025-10-10T01:46:21Z"
+        },
+        {
+          "title": "How To Use OpenAI Agent MCPs For Beginners",
+          "tags": [],
+          "published_at": "2025-10-09T17:00:42Z"
+        },
+        {
+          "title": "Grab Your Free Sora AI Code",
+          "tags": [],
+          "published_at": "2025-10-09T15:15:44Z"
+        },
+        {
+          "title": "W Leet Llama",
+          "tags": [],
+          "published_at": "2025-10-09T03:53:38Z"
+        },
+        {
+          "title": "Which AI Model has NO Guard Rails",
+          "tags": [],
+          "published_at": "2025-10-09T03:50:47Z"
+        },
+        {
+          "title": "Buc-ee Beaver vs Leet Llama Sora Round 2",
+          "tags": [],
+          "published_at": "2025-10-09T03:45:44Z"
+        },
+        {
+          "title": "Buc-ee Beaver vs Leet Llama Sora",
+          "tags": [],
+          "published_at": "2025-10-09T03:42:35Z"
+        },
+        {
+          "title": "Lil Leet and Google Veo 3.1",
+          "tags": [],
+          "published_at": "2025-10-09T03:33:33Z"
+        },
+        {
+          "title": "Google Veo 3.1 Beats Sora 2?",
+          "tags": [],
+          "published_at": "2025-10-09T03:29:45Z"
+        },
+        {
+          "title": "How To Use OpenAI Agent Builder For Beginners",
+          "tags": [],
+          "published_at": "2025-10-08T17:01:15Z"
+        },
+        {
+          "title": "I Couldn&#39;t Stop Watching Sora AI",
+          "tags": [],
+          "published_at": "2025-10-08T14:52:47Z"
+        },
+        {
+          "title": "corbin vs Stripe Invoice rap battle",
+          "tags": [],
+          "published_at": "2025-10-08T03:19:37Z"
+        },
+        {
+          "title": "Would not knowing how to code suck in the AI era?",
+          "tags": [],
+          "published_at": "2025-10-08T03:15:53Z"
+        },
+        {
+          "title": "Meet Leet the Llama",
+          "tags": [],
+          "published_at": "2025-10-08T03:11:08Z"
+        },
+        {
+          "title": "How Hard It Is To Monetize an API Call",
+          "tags": [],
+          "published_at": "2025-10-08T03:07:46Z"
+        },
+        {
+          "title": "I will be making the best OpenAI Agent Builders Tutorials",
+          "tags": [],
+          "published_at": "2025-10-08T03:03:18Z"
+        },
+        {
+          "title": "Join my free AI community, let&#39;s build something cool together",
+          "tags": [],
+          "published_at": "2025-10-08T00:09:30Z"
+        },
+        {
+          "title": "How To Automate Perplexity AI Web Search",
+          "tags": [],
+          "published_at": "2025-10-07T17:00:37Z"
+        },
+        {
+          "title": "OpenAI DevDay 2025 Recap",
+          "tags": [],
+          "published_at": "2025-10-07T14:18:47Z"
+        },
+        {
+          "title": "Listen if you wanna create content, because soon it will be too late.",
+          "tags": [],
+          "published_at": "2025-10-07T03:13:15Z"
+        },
+        {
+          "title": "Don&#39;t Put ADS on ChatGPT!",
+          "tags": [],
+          "published_at": "2025-10-07T03:04:43Z"
+        },
+        {
+          "title": "What Does Sora AI Do Longterm For Content Creation",
+          "tags": [],
+          "published_at": "2025-10-07T03:02:52Z"
+        },
+        {
+          "title": "Sora 2 Prompt, really interesting what OpenAI did",
+          "tags": [],
+          "published_at": "2025-10-07T02:51:44Z"
+        },
+        {
+          "title": "College Business Classes Can Be a Scam",
+          "tags": [],
+          "published_at": "2025-10-07T02:46:58Z"
+        },
+        {
+          "title": "What Sora 2 API Means To Me",
+          "tags": [],
+          "published_at": "2025-10-07T02:42:49Z"
+        },
+        {
+          "title": "What Should Non-Developers Care about from OpenAI DevDay 2025",
+          "tags": [],
+          "published_at": "2025-10-07T02:39:35Z"
+        },
+        {
+          "title": "How ChatGPT Apps Work",
+          "tags": [],
+          "published_at": "2025-10-07T02:34:44Z"
+        },
+        {
+          "title": "Are GPTs Now Worthless cause of ChatGPT Apps?",
+          "tags": [],
+          "published_at": "2025-10-07T02:32:49Z"
+        },
+        {
+          "title": "ChatGPT Now Has Apps!",
+          "tags": [],
+          "published_at": "2025-10-07T02:26:34Z"
+        },
+        {
+          "title": "Sora AI Just Killed TikTok",
+          "tags": [],
+          "published_at": "2025-10-06T17:00:48Z"
+        },
+        {
+          "title": "Stuck in a Sora AI TikTok Loop",
+          "tags": [],
+          "published_at": "2025-10-06T14:23:06Z"
+        },
+        {
+          "title": "Sora is too real xQc...",
+          "tags": [],
+          "published_at": "2025-10-06T02:56:25Z"
+        },
+        {
+          "title": "The rebrand to corbin",
+          "tags": [],
+          "published_at": "2025-10-06T02:52:24Z"
+        },
+        {
+          "title": "Sora AI Bob Ross Crashes Out",
+          "tags": [],
+          "published_at": "2025-10-06T02:45:38Z"
+        },
+        {
+          "title": "Sora AI is Crashing Out",
+          "tags": [],
+          "published_at": "2025-10-06T02:42:33Z"
+        },
+        {
+          "title": "Sora Halloween Costumes out of Control",
+          "tags": [],
+          "published_at": "2025-10-06T02:38:15Z"
+        },
+        {
+          "title": "Basically",
+          "tags": [],
+          "published_at": "2025-10-06T02:34:15Z"
+        },
+        {
+          "title": "Free Sora AI Code",
+          "tags": [],
+          "published_at": "2025-10-06T02:32:37Z"
+        },
+        {
+          "title": "The stream day 6 rabbit hole",
+          "tags": [],
+          "published_at": "2025-10-06T02:32:23Z"
+        },
+        {
+          "title": "How long did it take me to get to 100K subs on YouTube",
+          "tags": [],
+          "published_at": "2025-10-06T02:25:40Z"
+        },
+        {
+          "title": "Breaking the sound barrier with my voice",
+          "tags": [],
+          "published_at": "2025-10-06T02:21:39Z"
+        },
+        {
+          "title": "How To Use Sora App For Beginners",
+          "tags": [],
+          "published_at": "2025-10-05T17:00:01Z"
+        },
+        {
+          "title": "We are doing Collabs with Sora AI!",
+          "tags": [],
+          "published_at": "2025-10-05T14:54:11Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Jordan Harrod": {
+      "channel_id": "UC1H1NWNTG2Xi3pt85ykVSHA",
+      "handle": "JordanHarrod",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Cyberjungle": {
+      "channel_id": "UCsilEv_20FmmBr5CDzmTMgg",
+      "handle": "cyberjungle",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Kling AI 2.5 Turbo is HERE: The BEST AI Video Generator of 2025? (Prompt Battle)",
+          "tags": [],
+          "published_at": "2025-10-07T15:14:32Z"
+        },
+        {
+          "title": "OpenAI’s SORA 2 Pro is HERE: 15 seconds HD Cinematic Meme-Worthy AI Videos",
+          "tags": [],
+          "published_at": "2025-10-05T20:38:53Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Developer's Digest": {
+      "channel_id": "UCuE6iwZKgGz8s6kznBRI9LQ",
+      "handle": "DevelopersDigest",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Build a Full Stack AI SaaS Application in 60 Minutes",
+          "tags": [],
+          "published_at": "2025-10-08T07:00:50Z"
+        },
+        {
+          "title": "OpenAI Dev Day in 4 Minutes",
+          "tags": [],
+          "published_at": "2025-10-06T22:44:19Z"
+        },
+        {
+          "title": "Anthropic Sonnet 4.5 in Claude Code in 10 Minutes",
+          "tags": [],
+          "published_at": "2025-10-03T13:06:45Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Search": {
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "handle": "theAIsearch",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "FINALLY! Open-source AI video with audio!",
+          "tags": [],
+          "published_at": "2025-10-09T02:08:57Z"
+        },
+        {
+          "title": "Open-source Sora 2, realtime AI video, new DeepSeek, Nanobanana upgrades, Claude 4.5, realtime TTS",
+          "tags": [],
+          "published_at": "2025-10-05T02:24:37Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matthew Berman": {
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "handle": "matthew_berman",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Greg Brockman: AGI, Sora 2, Bottlenecks, White Collar, Proactive AI, and more!",
+          "tags": [],
+          "published_at": "2025-10-08T18:48:03Z"
+        },
+        {
+          "title": "Forward Future Live | 10/3/25",
+          "tags": [],
+          "published_at": "2025-10-04T07:11:41Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "What's AI by Louis-François Bouchard": {
+      "channel_id": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "handle": "WhatsAI",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "ChatKit + Agent Builder = Instant AI Apps (No Coding Needed)",
+          "tags": [],
+          "published_at": "2025-10-08T13:02:28Z"
+        },
+        {
+          "title": "GPT vs Claude vs Gemini… you’re asking the wrong question",
+          "tags": [],
+          "published_at": "2025-10-07T13:01:43Z"
+        },
+        {
+          "title": "Why Writing a Book Is Harder Than You Think",
+          "tags": [],
+          "published_at": "2025-10-04T13:02:05Z"
+        },
+        {
+          "title": "Listen to Sam!",
+          "tags": [],
+          "published_at": "2025-10-04T12:42:48Z"
+        },
+        {
+          "title": "Sora 2 update — by Sora 2",
+          "tags": [],
+          "published_at": "2025-10-03T20:57:58Z"
+        },
+        {
+          "title": "Fine-tuning just got 10x easier with Tinker 👀",
+          "tags": [],
+          "published_at": "2025-10-03T11:07:51Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Artificial Intelligence News Daily": {
+      "channel_id": "UCItylrp-EOkBwsUT7c_Xkxg",
+      "handle": "artificialintelligencenews1373",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Elon Musk Fell For This SEDUCTIVE AI Female Robot",
+          "tags": [],
+          "published_at": "2025-10-09T17:15:02Z"
+        },
+        {
+          "title": "Top 10 MOST DANGEROUS Yet SEXY Female Robots In 2025",
+          "tags": [],
+          "published_at": "2025-10-04T17:15:04Z"
+        },
+        {
+          "title": "CHINA Will REPLACE TESLA With This FLYING HUMANOID",
+          "tags": [],
+          "published_at": "2025-10-03T17:15:03Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "James Briggs": {
+      "channel_id": "UCv83tO5cePwHMt1952IVVHw",
+      "handle": "jamesbriggs",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AssemblyAI": {
+      "channel_id": "UCtatfZMf-8EkIwASXM4ts0A",
+      "handle": "AssemblyAI",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Dot CSV Lab": {
+      "channel_id": "UCOTko-zmnQTcOxSRdg5_uOQ",
+      "handle": "DotCSVLab",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "🔴 DIRECTO OPENAI DEVDAY 2025 - ¡Nuevas herramientas, agentes y mucho más!",
+          "tags": [],
+          "published_at": "2025-10-06T18:26:58Z"
+        },
+        {
+          "title": "Probamos SORA 2, el nuevo modelo para GENERAR VÍDEO y RED SOCIAL #dotcsv #openai #sora2",
+          "tags": [],
+          "published_at": "2025-10-06T17:20:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "💀 SALVAJE 💀": {
+      "channel_id": "UCHSOfqMtzD0_3i7_593NGGw",
+      "handle": "SDESALVAJE",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Xavier Mitjana": {
+      "channel_id": "UCp2Zmdh40GJJJ2T5vWsMZDA",
+      "handle": "XavierMitjana",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "🍌 Truco NanoBanana",
+          "tags": [],
+          "published_at": "2025-10-08T17:07:53Z"
+        },
+        {
+          "title": "Así funcionan las aplicaciones en ChatGPT",
+          "tags": [],
+          "published_at": "2025-10-07T14:09:11Z"
+        },
+        {
+          "title": "¡La MAYOR ACTUALIZACIÓN de ChatGPT! 🤯 Multiplica los casos de uso",
+          "tags": [],
+          "published_at": "2025-10-06T20:27:09Z"
+        },
+        {
+          "title": "NanoBanana se actualiza! 🍌",
+          "tags": [],
+          "published_at": "2025-10-06T14:22:30Z"
+        },
+        {
+          "title": "GEMINI 3 Pro va a ser BRUTAL 🤯 ¡Primeros tests!",
+          "tags": [],
+          "published_at": "2025-10-05T17:06:37Z"
+        },
+        {
+          "title": "🤯 ¡No te creas nada!",
+          "tags": [],
+          "published_at": "2025-10-04T15:17:07Z"
+        },
+        {
+          "title": "Primera actriz IA en Hollywood",
+          "tags": [],
+          "published_at": "2025-10-03T13:19:39Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Alejavi Rivera": {
+      "channel_id": "UCxcDzs-4quJV4QsairlFYNg",
+      "handle": "alejavirivera",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "💣 Perplexity acaba de Romper internet GRATIS: Estos 11 Casos de uso lo de muestran",
+          "tags": [],
+          "published_at": "2025-10-09T17:00:20Z"
+        },
+        {
+          "title": "SORA 2 GRATIS: GUÍA DEFINITIVA con 15 Casos de uso y Trucos",
+          "tags": [],
+          "published_at": "2025-10-05T17:00:04Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Inteligencia Artificial": {
+      "channel_id": "UCl5-lvQyfILb-l2abPk4Ntg",
+      "handle": "la_inteligencia_artificial",
+      "video_count": 18,
+      "videos": [
+        {
+          "title": "Los Secretos de la Inteligencia Artificial 🤖 | 🎙️ Senén Barro - Podcast IA 🟣",
+          "tags": [],
+          "published_at": "2025-10-09T18:00:02Z"
+        },
+        {
+          "title": "🤖 Un estudio determina que los vendedores que usan IA venden un 30% más | 🤖 #ia #chatgpt #ventas",
+          "tags": [],
+          "published_at": "2025-10-09T12:39:35Z"
+        },
+        {
+          "title": "La Burbuja de la IA: Lo que nadie te cuenta",
+          "tags": [],
+          "published_at": "2025-10-08T18:00:48Z"
+        },
+        {
+          "title": "🤖 Sora 2 incluye una red social para subir los vídeos | 🤖 #ia #chatgpt #sora",
+          "tags": [],
+          "published_at": "2025-10-08T16:31:57Z"
+        },
+        {
+          "title": "🤖 Lanzamiento del nuevo modelo de vídeo de OpenAI | 🤖 #ia #chatgpt #sora",
+          "tags": [],
+          "published_at": "2025-10-08T13:48:50Z"
+        },
+        {
+          "title": "🤖 Accenture planea echar a los empleados que no aprendan a usar IA | 🤖 #ia #chatgpt #accenture",
+          "tags": [],
+          "published_at": "2025-10-08T10:21:02Z"
+        },
+        {
+          "title": "🤖 Muchos expertos afirman que la crisis de empleo por IA ya ha empezado | 🤖 #ia #chatgpt #empleo",
+          "tags": [],
+          "published_at": "2025-10-07T16:20:42Z"
+        },
+        {
+          "title": "🤖 Nuevos entrenamientos para que la IA haga tareas de oficina | 🤖 #ia #chatgpt #oficina",
+          "tags": [],
+          "published_at": "2025-10-07T14:24:44Z"
+        },
+        {
+          "title": "🚨🤯 ¡ÚLTIMA HORA!: Novedades de OpenAI en el DevDay 🤖🔥",
+          "tags": [],
+          "published_at": "2025-10-07T12:08:36Z"
+        },
+        {
+          "title": "🤖 Se presenta en Naciones Unidas una iniciativa para limitar el desarrollo de IA | 🤖 #ia #chatgpt",
+          "tags": [],
+          "published_at": "2025-10-07T10:18:02Z"
+        },
+        {
+          "title": "🚨 NOTICIAS IA 🚨: Esta IA te paga 900€/MES por usarla 🤑💰",
+          "tags": [],
+          "published_at": "2025-10-06T18:00:42Z"
+        },
+        {
+          "title": "🤖 Sam Altman habla de su vision sobre el futuro | 🤖 #ia #chatgpt #openai",
+          "tags": [],
+          "published_at": "2025-10-06T16:29:27Z"
+        },
+        {
+          "title": "🤖 OpenAI y NVIDIA se alían para desplegar 10 gigavatios de sistemas para IA | 🤖 #ia #chatgpt",
+          "tags": [],
+          "published_at": "2025-10-06T14:45:41Z"
+        },
+        {
+          "title": "🤖 El concepto de alucinación en la IA | 🤖 #ia #chatgpt #alucinacion",
+          "tags": [],
+          "published_at": "2025-10-06T10:16:24Z"
+        },
+        {
+          "title": "🤖 El concepto de contexto en la IA | 🤖 #ia #chatgpt #contexton",
+          "tags": [],
+          "published_at": "2025-10-03T15:47:47Z"
+        },
+        {
+          "title": "¡WTF! ¡Ahora Lanzan Sora 2 PRO! 🤯💥",
+          "tags": [],
+          "published_at": "2025-10-03T12:53:15Z"
+        },
+        {
+          "title": "🤖 El concepto de alineamiento en IA | 🤖 #ia #chatgpt #alineamiento",
+          "tags": [],
+          "published_at": "2025-10-03T10:37:32Z"
+        },
+        {
+          "title": "🤖 El concepto de LLM en IA | 🤖 #ia #chatgpt #llm",
+          "tags": [],
+          "published_at": "2025-10-03T10:38:38Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Migue Baena IA": {
+      "channel_id": "UCX_dT6nVtCIHRo_GFOsWK2A",
+      "handle": "MigueBaenaIA",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Cómo convertir una idea en una aplicación con IA (paso a paso)",
+          "tags": [],
+          "published_at": "2025-10-09T17:00:04Z"
+        },
+        {
+          "title": "ChatGPT 5 vs Gemini 2.5 Pro: elige bien y gana tiempo y resultados",
+          "tags": [],
+          "published_at": "2025-10-05T17:00:33Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Video School": {
+      "channel_id": "UCUb7KwmlVSSCnPu5KEhym8A",
+      "handle": "aivideoschool",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Pitfall: The AI Movie! — Made with Sora 2 by OpenAI (starring me!)",
+          "tags": [],
+          "published_at": "2025-10-06T14:00:19Z"
+        },
+        {
+          "title": "My dog Sora loves cake! #sora2 #sora #dogs #aivideo #isitcake",
+          "tags": [],
+          "published_at": "2025-10-04T21:09:20Z"
+        },
+        {
+          "title": "One prompt with Sora 2 cameo!!! #sora2 #sora #openai",
+          "tags": [],
+          "published_at": "2025-10-04T04:31:22Z"
+        }
+      ],
+      "collection_status": "success"
+    }
+  },
+  "summary": {
+    "total_channels": 58,
+    "successful_channels": 58,
+    "failed_channels": 0,
+    "total_videos": 221,
+    "success_rate": "100.0%"
+  }
+}
