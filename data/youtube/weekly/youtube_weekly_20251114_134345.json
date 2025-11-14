@@ -1,0 +1,1260 @@
+{
+  "collection_date": "2025-11-14",
+  "collection_date_jst": "2025-11-14T13:42:35.867335+09:00",
+  "source": "YouTube Data API v3",
+  "total_channels": 58,
+  "successful_channels": 58,
+  "failed_channels": 0,
+  "total_videos": 158,
+  "channels": {
+    "ウェブ職TV": {
+      "channel_id": "UClNZUVnSFRKKUfJYarEUqdA",
+      "handle": "webshokutv",
+      "video_count": 9,
+      "videos": [
+        {
+          "title": "AI×SEO対策！サイト・ブログ運営は新時代に突入しています",
+          "tags": [],
+          "published_at": "2025-11-13T11:01:32Z"
+        },
+        {
+          "title": "AIプログラミングツールCursorとGitHub Copilotの違いを解説　#shorts",
+          "tags": [],
+          "published_at": "2025-11-13T10:30:25Z"
+        },
+        {
+          "title": "Cursor2.0がすごい！同時に8つのAIを動かせる並列処理を実演解説！#shorts",
+          "tags": [],
+          "published_at": "2025-11-12T10:30:15Z"
+        },
+        {
+          "title": "AIエージェント「Manus」のLINE連携が神すぎた！！",
+          "tags": [],
+          "published_at": "2025-11-11T11:01:21Z"
+        },
+        {
+          "title": "【Google Workspace Flows活用事例】重要なメールだけ通知させる#shorts",
+          "tags": [],
+          "published_at": "2025-11-11T10:30:35Z"
+        },
+        {
+          "title": "Google Workspace Flowsがすごすぎる！！",
+          "tags": [],
+          "published_at": "2025-11-10T11:01:48Z"
+        },
+        {
+          "title": "おすすめのAI画像生成ツール5選　#shorts #ai #nanobaba #Midjourney #Stable Diffusion #DALL-E3 #Firefly",
+          "tags": [],
+          "published_at": "2025-11-09T11:00:23Z"
+        },
+        {
+          "title": "GeminiのGoogleスライド活用事例3選　#shorts #ai #Gemini #Google",
+          "tags": [],
+          "published_at": "2025-11-08T11:01:26Z"
+        },
+        {
+          "title": "ビジネスが限界を迎えています。",
+          "tags": [],
+          "published_at": "2025-11-07T11:01:47Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "NI-WORK": {
+      "channel_id": "UChD63R31attT5w8WOZeuXyg",
+      "handle": "NI-WORK",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【脱フォルダが最強】Googleドライブならではのファイル管理は「検索」と「リンク」！くGoogle ならではの最適なアクセス管理術を解説【共有/Google Workspace/Gemini】",
+          "tags": [],
+          "published_at": "2025-11-12T20:30:24Z"
+        },
+        {
+          "title": "【神機能】「Gemの共有」で組織でGeminiフル活用！プロンプトを共有しAIスキル格差を解消【Gemini/Google Workspace/生成AI】",
+          "tags": [],
+          "published_at": "2025-11-09T20:30:08Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "まさおAIじっくり解説ch": {
+      "channel_id": "UCvHpETRVi1tXeRJoYiXHJqw",
+      "handle": "ai_masaou",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "【待ってました】新しく『GPT-5.1』が公開されたので解説します！指示に忠実で人間らしく、クリエイティブな性能が特徴",
+          "tags": [],
+          "published_at": "2025-11-13T02:30:30Z"
+        },
+        {
+          "title": "【必見】CursorのCloud Agents APIを活用すれば更に開発自動化できるのでは？ということで解説します",
+          "tags": [],
+          "published_at": "2025-11-12T10:20:03Z"
+        },
+        {
+          "title": "【神機能登場】Geminiの新機能『File Search』がガチ便利だったので解説します！これで誰でも高性能RAGを気軽に",
+          "tags": [],
+          "published_at": "2025-11-10T09:45:02Z"
+        },
+        {
+          "title": "実力派で噂の開発AIエージェント『Factory AIとDroid CLI』を使ってみた！欲しい要素がわかってる良いサービスでした",
+          "tags": [],
+          "published_at": "2025-11-09T09:05:01Z"
+        },
+        {
+          "title": "【最高でした】GPT-5 Codex miniが登場！コスパ最強のコーディングモデルを解説します",
+          "tags": [],
+          "published_at": "2025-11-08T09:05:00Z"
+        },
+        {
+          "title": "【遂に本気】Googe最新AIツール「Workspace Flows」で簡単に自動化が量産！基本的な使い方や実践例4つ共有！",
+          "tags": [],
+          "published_at": "2025-11-07T23:05:00Z"
+        },
+        {
+          "title": "【期待できそう】GPT5.1と噂のステルスモデル「Polaris Alpha」を使ってみた！不思議な魅力に溢れるモデルでした",
+          "tags": [],
+          "published_at": "2025-11-07T10:05:03Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いけともch_旧リモ研": {
+      "channel_id": "UCpUQnk6MaY4o3NdgJmv10cw",
+      "handle": "iketomo-ch",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "注目AIニュース37選～NotebookLM神進化、AI Studioバイブコーディング、OpenAI1兆ドル上場、AIがアナリスト業務を代替、ブルーワーカービリオネアなど、",
+          "tags": [],
+          "published_at": "2025-11-09T06:00:03Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いっしゅ / AIクリエイター": {
+      "channel_id": "UCgyzX-fA6gy2lLM3bX4E0Hg",
+      "handle": "ishcreative",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "チャエン【AI研究所】〜仕事で使える最新のAI情報を発信〜 Byデジライズ": {
+      "channel_id": "UC9buL3Iph_f7AZxdzmiBL8Q",
+      "handle": "chaen-ai-lab",
+      "video_count": 8,
+      "videos": [
+        {
+          "title": "【より人間に近づく】ChatGPTから新AIモデル「GPT-5.1」が公開。多すぎるAIモデルどれを使えば良いのか？AI専門家が徹底解説。",
+          "tags": [],
+          "published_at": "2025-11-13T09:46:10Z"
+        },
+        {
+          "title": "【業務自動化】Googleから革新的AIツールが登場。ノーコードでアプリを接続し、業務を自動化「Workspace Flows」の使い方と活用事例を徹底解説",
+          "tags": [],
+          "published_at": "2025-11-12T11:40:52Z"
+        },
+        {
+          "title": "【仕事が5倍速くなる魔法】タイピングはもう古い？音声入力AI「Aqua Voice」で生産性を爆上げ。#生産性向上 #AI #仕事術 #AquaVoice #音声入力 #時短 #ビジネス",
+          "tags": [],
+          "published_at": "2025-11-11T11:00:05Z"
+        },
+        {
+          "title": "文章から一撃で資料作成。オールインワンAI「Skywork」の実力とは #AI #Skywork #資料作成 #業務効率化 #時短術 #ビジネス",
+          "tags": [],
+          "published_at": "2025-11-10T11:01:25Z"
+        },
+        {
+          "title": "【Geminiで資料作成】資料作成これで良い。GeminiからGoogle Slidesを直接生成できる機能が公開。使い方と秘伝のプロンプトを紹介。",
+          "tags": [],
+          "published_at": "2025-11-10T10:30:14Z"
+        },
+        {
+          "title": "極めると稼げるAIツール#AI #AIツール #おすすめAI #最新AI #AI活用 #AI活用術 #生成AI #ChatGPT  #起業",
+          "tags": [],
+          "published_at": "2025-11-09T09:30:17Z"
+        },
+        {
+          "title": "【必見】生産性が5倍向上する魔法のスキル。AI時代の音声入力の教科書。《おすすめのAI音声ツール、インストール、使い方などを徹底解説》",
+          "tags": [],
+          "published_at": "2025-11-08T11:00:35Z"
+        },
+        {
+          "title": "エンジニアがなくなるってホント？#AI #AIランキング  #AIツール #おすすめAI #最新AI #AI活用 #AI活用術 #生成AI #ChatGPT  #バイブコーディング #エンジニア",
+          "tags": [],
+          "published_at": "2025-11-07T09:28:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "にゃんたのAIチャンネル": {
+      "channel_id": "UCZQVTC3uLCyuJUOcRlguazA",
+      "handle": "aivtuber2866",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "OpenAI最新！GPT-5.1がリリースされたので解説してみた",
+          "tags": [],
+          "published_at": "2025-11-13T10:25:51Z"
+        },
+        {
+          "title": "【RAG編】ゼロからわかるDify×RAGの教科書！DifyにおけるRAGの設定や仕組みを解説してみた",
+          "tags": [],
+          "published_at": "2025-11-09T09:00:47Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "KEITO【AI&WEB ch】": {
+      "channel_id": "UCfapRkagDtoQEkGeyD3uERQ",
+      "handle": "keitoaiweb",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "【無料AI】Google Mixboardが凄く良い！画像生成ツールの理想形！",
+          "tags": [],
+          "published_at": "2025-11-13T11:01:34Z"
+        },
+        {
+          "title": "【AI活用】今、最もオススメな無料AIツール「NotebookLM」が進化してたので改めて解説【Geminiとの組み合わせ方も】",
+          "tags": [],
+          "published_at": "2025-11-11T11:01:03Z"
+        },
+        {
+          "title": "Google Workspace FlowsというGemini × 自動化ツールが便利だったので解説",
+          "tags": [],
+          "published_at": "2025-11-09T09:31:09Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI FREAK - 最新のAIツールをご紹介": {
+      "channel_id": "UCLapF_KiSMKFWcVdXytOLgA",
+      "handle": "aifreak_ch",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI様の下僕": {
+      "channel_id": "UCNBWx9JET3iRoCXliY2G4rQ",
+      "handle": "AI-geboku",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【無料】次はAI監督です。Sora2、Midjourney、Suno全部入りのFlovaが好きすぎる。",
+          "tags": [],
+          "published_at": "2025-11-12T13:43:39Z"
+        },
+        {
+          "title": "３年後に専業で独立するといいましたが…/新しい企画はじめます！",
+          "tags": [],
+          "published_at": "2025-11-08T14:22:02Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIでサボろうチャンネル": {
+      "channel_id": "UC9AuyS7U4PxeDSNMJ2srarA",
+      "handle": "ai-saborou",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "RKJ VIDEO 【イケている動画を作りたいなら】": {
+      "channel_id": "UCVARwuMmqP4tqQFUQm57oQQ",
+      "handle": "RKJVideoforyou",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【衝撃】アニメや映画のキャラになれる最新技術！（Higgsfield Face Swap)",
+          "tags": [],
+          "published_at": "2025-11-08T11:01:22Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ダルトワ★TV": {
+      "channel_id": "UChk3jyTp7BaOWnvUEQOLN5A",
+      "handle": "dartois_tv",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "ここなの AI 研究所": {
+      "channel_id": "UCb18vBcozRjkD1PtB4pohWQ",
+      "handle": "AI-Laboratory-in-Cocona",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "【AI放置でOK】YouTubeサムネイル&amp;SEO自動生成！爆速で投稿できる神ツール",
+          "tags": [],
+          "published_at": "2025-11-13T08:00:06Z"
+        },
+        {
+          "title": "もうLP制作に困らない！AIが画像生成・SEO設定まで全て完結する驚愕ツール",
+          "tags": [],
+          "published_at": "2025-11-12T13:30:57Z"
+        },
+        {
+          "title": "もうLP作成に時間かけない！AIプロンプトで高品質サンプルを量産→WordPressに一瞬投稿する裏技",
+          "tags": [],
+          "published_at": "2025-11-11T11:30:06Z"
+        },
+        {
+          "title": "知らないと損！最新AIツールと専用WPプラグインで「売れるLP」を爆速量産する秘密大公開",
+          "tags": [],
+          "published_at": "2025-11-11T08:00:06Z"
+        },
+        {
+          "title": "AI画像文字入れ最強ツール爆誕！YouTubeサムネが爆速でプロ級に【知らないと損】",
+          "tags": [],
+          "published_at": "2025-11-08T12:00:23Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "はむ先生のAI教室【AIツールを体系的に解説】": {
+      "channel_id": "UCgwv7JsLDvGTtRdFI4TVRQw",
+      "handle": "ham_ai_skill",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI大学【AI&ChatGPT最新情報】": {
+      "channel_id": "UCXo1SsIDZ_dke2Nr1r3qk6w",
+      "handle": "AIAIChatGPT-cj4sh",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "【GPT-5.1最速解説】冷たいAIがフレンドリーで賢いAIに進化したGPT-5.1の概要と使い方！ ～ChatGPTの新機能も～",
+          "tags": [],
+          "published_at": "2025-11-13T09:06:34Z"
+        },
+        {
+          "title": "【最新無料画像生成AI】2025年秋、本当に使える無料の画像生成AIトップ5！～Nano Banana(ナノバナナ)、Seedream 4.0など～",
+          "tags": [],
+          "published_at": "2025-11-12T09:05:47Z"
+        },
+        {
+          "title": "【GPT-5クラス】オープンソースの最高性能AIモデル「Kimi K2 Thinking」完全ガイド！ ～アプリやwebサイト、高品質レポートも作れる～",
+          "tags": [],
+          "published_at": "2025-11-11T09:05:47Z"
+        },
+        {
+          "title": "【週刊最新AIツール&amp;ニュース】無料で使えるGeminiのプレゼン資料生成機能とdeep research新機能/GPT-5クラスのAIモデル「Kimi K2 Thinking」",
+          "tags": [],
+          "published_at": "2025-11-09T09:06:19Z"
+        },
+        {
+          "title": "【AIでアイデア量産】Nano Bananaを使って頭の中のアイデアを一瞬でカタチにする無料のAIコンセプトボード「Mixboard」徹底解説！",
+          "tags": [],
+          "published_at": "2025-11-08T09:05:51Z"
+        },
+        {
+          "title": "【無料で自分の声を複製】日本語テキストから人間味のある音声を生成するAIモデル「MiniMax Speech 2.6」登場！",
+          "tags": [],
+          "published_at": "2025-11-07T09:05:24Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIで創作効率化とマネタイズby嗚呼蛙": {
+      "channel_id": "UCjEa-tDIQIJ-rLslyEGLZdA",
+      "handle": "AICreative_and_Monetization",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "AIマンガ制作が超ラクになるAI技術【ComfyUI×Anytest】",
+          "tags": [],
+          "published_at": "2025-11-08T04:55:41Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIキャンプ / 中村俊也": {
+      "channel_id": "UCJRUWZsQXvLlBOUeZdtIcYQ",
+      "handle": "aicampll",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【新登場】Google Workspace Flows入門｜GeminiやGmailなどGoogleツールを簡単連携（実演2本）",
+          "tags": [],
+          "published_at": "2025-11-11T09:01:19Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "サファはユーチューバー【AIイラスト】": {
+      "channel_id": "UCjSy2qn-nx6D57BS7WVqowg",
+      "handle": "safa-dayo",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "【ブチギレAI】舞妓はんダンスをAIに踊らせ続けた末路 #aiの反乱 #aidance #sora2",
+          "tags": [],
+          "published_at": "2025-11-13T10:00:03Z"
+        },
+        {
+          "title": "無料で動画生成可能なSeaArtのKiiraがヤバイ！（動画生成AI / SeaArtの裏機能！？）",
+          "tags": [],
+          "published_at": "2025-11-09T10:00:53Z"
+        },
+        {
+          "title": "【AIの反乱】ドローンダンスをSora 2で生成していたら途中で放棄し始めた瞬間 #aivideo #dronedance #aidance",
+          "tags": [],
+          "published_at": "2025-11-07T10:01:02Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "mikimiki web スクール": {
+      "channel_id": "UChxtIA33ty53Hh4MmkXNASg",
+      "handle": "mikimikiweb",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【待望アプデ‼️】Google最強AI「NotebookLM」でスプシ&amp;データ分析機能が神！使えるワークフローも解説",
+          "tags": [],
+          "published_at": "2025-11-13T10:21:40Z"
+        },
+        {
+          "title": "【2025最新】超時短‼️Canva×ChatGPTを使ってInstagram投稿・リールを一瞬で自動生成する方法",
+          "tags": [],
+          "published_at": "2025-11-11T10:34:22Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "かいちのAI大学": {
+      "channel_id": "UCWMrA-2fEycFnOwqzzdwWuQ",
+      "handle": "kaichi_gpt",
+      "video_count": 9,
+      "videos": [
+        {
+          "title": "【この動画1本で全てわかる】企業で使えるCursorの教科書【使い方、活用方法を徹底解説！】",
+          "tags": [],
+          "published_at": "2025-11-12T09:00:47Z"
+        },
+        {
+          "title": "【無料ウェビナー】生成AI×開発の最前線！自動化、RAG、LINEBot 開発事例3選",
+          "tags": [],
+          "published_at": "2025-11-11T01:23:13Z"
+        },
+        {
+          "title": "【最新】ChatGPT全モデルの使い方を徹底解説！【GPT-5モデルの違い、活用方法を紹介】",
+          "tags": [],
+          "published_at": "2025-11-10T09:01:21Z"
+        },
+        {
+          "title": "#perplexity  #itツール  #かいちのai大学  #仕事効率化 #aiニュース",
+          "tags": [],
+          "published_at": "2025-11-09T09:15:03Z"
+        },
+        {
+          "title": "#cursor #itツール  #かいちのai大学  #仕事効率化 #aiニュース",
+          "tags": [],
+          "published_at": "2025-11-08T12:01:01Z"
+        },
+        {
+          "title": "【生産性10倍】Cursor + Obsidianで作るナレッジグラフ作成術を徹底解説！",
+          "tags": [],
+          "published_at": "2025-11-08T09:00:57Z"
+        },
+        {
+          "title": "#openai   #ai活用 #かいちのai大学  #仕事効率化 #aiニュース #chatgpt #チャットGPT",
+          "tags": [],
+          "published_at": "2025-11-08T02:15:09Z"
+        },
+        {
+          "title": "#openai  #ai活用 #かいちのai大学  #仕事効率化 #aiニュース #sora2",
+          "tags": [],
+          "published_at": "2025-11-07T13:01:34Z"
+        },
+        {
+          "title": "#openai  #ai活用 #かいちのai大学  #仕事効率化 #aiニュース",
+          "tags": [],
+          "published_at": "2025-11-07T09:15:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ITとAIのルーティンラボ": {
+      "channel_id": "UCmbdU1d-_oKJHE7ZtPv1vpg",
+      "handle": "it-skill_routinelabo",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "MeshyAIで3Dモデル制作がこんなに簡単に!",
+          "tags": [],
+          "published_at": "2025-11-12T12:59:17Z"
+        },
+        {
+          "title": "Domo AIの最新機能「AIアバター」がすごい！ハイクオリティなミュージックビデオの動画制作方法を解説！",
+          "tags": [],
+          "published_at": "2025-11-10T10:30:08Z"
+        },
+        {
+          "title": "Genspark Developer 2.0でプログラミングなしでスマホアプリ開発！",
+          "tags": [],
+          "published_at": "2025-11-07T12:42:40Z"
+        },
+        {
+          "title": "モデリングの常識が変わる！画像1枚でアニメーションも作れる「Meshy AI」がすごい",
+          "tags": [],
+          "published_at": "2025-11-07T11:31:24Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI整体師": {
+      "channel_id": "UCVAkt5l6kD4igMdVoEGTGIg",
+      "handle": "ai.seitai",
+      "video_count": 12,
+      "videos": [
+        {
+          "title": "【#AIニュース No 209】GPT-5.1-Codexリリース！Cursorが「Composer 2」を開発中！？Notebook LMにDeep Researchが実装！",
+          "tags": [],
+          "published_at": "2025-11-14T01:06:35Z"
+        },
+        {
+          "title": "【ライブ配信#50】ChatGPT-5.1が来たので、みんなと所感を共有しながら雑談を楽しむ！",
+          "tags": [],
+          "published_at": "2025-11-13T13:19:54Z"
+        },
+        {
+          "title": "【#AI試してみた】ChatGPT-5.1を初見で試してみる！GPT-5と比較！個人的には結構変わってる！共感力高め！ストテリ上手い！",
+          "tags": [],
+          "published_at": "2025-11-13T05:30:05Z"
+        },
+        {
+          "title": "【#AIニュース No.208】ChatGPT-5.1リリース！突然きた！Cursorが開発者が好むモデルランキングを出してる！OpenAIが裁判に敗訴した！？",
+          "tags": [],
+          "published_at": "2025-11-13T00:43:34Z"
+        },
+        {
+          "title": "【#AIニュース No.207】Cursorに新モデル登場！「Codex FAST」「Codex High FAST」Grok Code CLIエージェントが登場！？Feloも新機能を発表！",
+          "tags": [],
+          "published_at": "2025-11-12T01:00:59Z"
+        },
+        {
+          "title": "【ライブ配信#49】CursorのComposer 1まだ無料で使えるし、ぎっくり腰患者さんの施術で疲れたのでバグ取り作業回！",
+          "tags": [],
+          "published_at": "2025-11-11T13:17:38Z"
+        },
+        {
+          "title": "【#AIニュース No.206】CursorのComposer 1の無料期間終了！今日の17時まで！Replitが300以上のモデルを使える「AI インテグレーション」を発表！",
+          "tags": [],
+          "published_at": "2025-11-11T00:34:42Z"
+        },
+        {
+          "title": "【#AIニュース No.205】Grok 4 Fastが200万コンテキストウィンドウに拡張！？ChatGPTの企業顧客が100万社を突破！DeepLが同時通訳ソフトを近く公開か！？",
+          "tags": [],
+          "published_at": "2025-11-10T00:36:56Z"
+        },
+        {
+          "title": "【GPTラジオ #31】個人開発のアイデア出しってどうやってる？作りたいものってなかなか思い浮かばないよね。",
+          "tags": [],
+          "published_at": "2025-11-09T01:01:17Z"
+        },
+        {
+          "title": "【ライブ配信#48】Codex-mini出たし、CursorのComposer 1無料だし、色々試しながらみんなで色々雑談を楽しむ！",
+          "tags": [],
+          "published_at": "2025-11-08T13:15:05Z"
+        },
+        {
+          "title": "【#AIニュース No.204】GPT-5-Codex-miniが登場！通常Codexより4倍多く使える！？GPT 5.1のリリース日は11月24日に決定！？脳の活動を「文」に変換するAIを開発！？",
+          "tags": [],
+          "published_at": "2025-11-08T00:45:44Z"
+        },
+        {
+          "title": "【AIと個人開発】GitHubのリポジトリ管理を楽にするWEBアプリ！『DevBoard』が完成しました！使い方と開発裏話を共有します！",
+          "tags": [],
+          "published_at": "2025-11-07T10:01:23Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Norihiko[AI × 動画制作]": {
+      "channel_id": "UCotwNXfqRFO6dC5aKYzxNjA",
+      "handle": "norihikoCH",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "[動画生成AI] 始め方_How To チャンネル": {
+      "channel_id": "UCEH0dwKUzjCGNfkbCGpoZCg",
+      "handle": "HARUTA-channel-4s",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "【悪用禁止!!】動画生成AI Higgsfield の新機能 Recast Studio解禁！！",
+          "tags": [],
+          "published_at": "2025-11-13T23:03:25Z"
+        },
+        {
+          "title": "Meshy AI 50％OFFで使える！Blenderとの連携術を解説！",
+          "tags": [],
+          "published_at": "2025-11-12T08:44:15Z"
+        },
+        {
+          "title": "【完全無料】SeaArtの裏ページ「SeaGen」でSora2やNanoBananaが使える!? 登録不要の神ポータル！",
+          "tags": [],
+          "published_at": "2025-11-07T08:01:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matt Wolfe": {
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "handle": "mreflow",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "What Successful AI Startups Have In Common",
+          "tags": [],
+          "published_at": "2025-11-13T17:34:24Z"
+        },
+        {
+          "title": "50+ INSANE Ways To Use Perplexity AI Browser",
+          "tags": [],
+          "published_at": "2025-11-08T14:00:59Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Two Minute Papers": {
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "handle": "TwoMinutePapers",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "The Physics Glitch Everyone Gave Up On… Finally Fixed",
+          "tags": [],
+          "published_at": "2025-11-11T18:29:48Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Explaine": {
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "handle": "aiexplained-official",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Bubble or No Bubble, AI Keeps Progressing (ft. Relentless Learning + Introspection)",
+          "tags": [],
+          "published_at": "2025-11-10T15:54:14Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "DeepLearning.AI": {
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "handle": "Deeplearningai",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "The PyTorch for Deep Learning Professional Certificate is live",
+          "tags": [],
+          "published_at": "2025-11-13T18:20:30Z"
+        },
+        {
+          "title": "Design, Develop, and Deploy Multi-Agent Systems with CrewAI",
+          "tags": [],
+          "published_at": "2025-11-11T14:24:46Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "The AI Advantage": {
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "handle": "aiadvantage",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Coke&#39;s New AI Ads Are Actually Impressive!",
+          "tags": [],
+          "published_at": "2025-11-08T20:43:54Z"
+        },
+        {
+          "title": "Use This AI for Your Next Presentation &amp; More AI Use Cases",
+          "tags": [],
+          "published_at": "2025-11-07T19:22:51Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "MattVidPro AI": {
+      "channel_id": "UC5Wz4fFacYuON6IKbhSa7Zw",
+      "handle": "MattVidPro",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "AI Weather Warning: Gemini 3, K2 Thinking, TTS, &amp; more!",
+          "tags": [],
+          "published_at": "2025-11-07T20:43:21Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Siraj Raval": {
+      "channel_id": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "handle": "SirajRaval",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AITrepreneur": {
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "handle": "Aitrepreneur",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "INSTALL UNCENSORED TextGen Ai WebUI 2025 LOCALLY in 1 CLICK!",
+          "tags": [],
+          "published_at": "2025-11-08T19:08:32Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Olivio Sarikas": {
+      "channel_id": "UCCKx8mAHiFus-XYQLy_WnaA",
+      "handle": "OlivioSarikas",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Liam Ottley": {
+      "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
+      "handle": "LiamOttley",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "MIT Says 95% of AI Fails, Wharton Says 75% Succeeds... Which One Is It?",
+          "tags": [],
+          "published_at": "2025-11-13T05:44:13Z"
+        },
+        {
+          "title": "Top 3 Ways to Get Rich with AI Video in 2026 (Sora 2 vs Veo 3)",
+          "tags": [],
+          "published_at": "2025-11-09T06:17:41Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Futurepedia": {
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "handle": "futurepedia_io",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "33 Google AI Features You Won&#39;t Believe are Free",
+          "tags": [],
+          "published_at": "2025-11-11T16:58:26Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Revolution": {
+      "channel_id": "UC5l7RouTQ60oUjLjt1Nh-UQ",
+      "handle": "airevolutionx",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "RIFTRUNNER: The Secret New AI Everyone Thinks Is Gemini 3",
+          "tags": [],
+          "published_at": "2025-11-13T21:58:54Z"
+        },
+        {
+          "title": "OpenAI Just Leaked ChatGPT Group Chats and a New Health App",
+          "tags": [],
+          "published_at": "2025-11-12T23:24:43Z"
+        },
+        {
+          "title": "New AI Robot Acts Shockingly Human in Public",
+          "tags": [],
+          "published_at": "2025-11-10T23:16:49Z"
+        },
+        {
+          "title": "GPT-5.1 and Gemini 3 Leak Together and Break the Internet",
+          "tags": [],
+          "published_at": "2025-11-09T23:13:12Z"
+        },
+        {
+          "title": "Microsoft Just Dropped KOSMOS: AI With 80% Human-Level Performance",
+          "tags": [],
+          "published_at": "2025-11-07T22:19:21Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Wes Roth": {
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "handle": "WesRoth",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "GEMINI 3.0 stealth release is blowing up (FULLY TESTED)",
+          "tags": [],
+          "published_at": "2025-11-13T21:18:33Z"
+        },
+        {
+          "title": "the BIG SHORT against the AI BUBBLE (Nov 25th is the day)",
+          "tags": [],
+          "published_at": "2025-11-13T02:47:27Z"
+        },
+        {
+          "title": "ok WTF is going on? we need to discuss this...",
+          "tags": [],
+          "published_at": "2025-11-11T20:03:34Z"
+        },
+        {
+          "title": "no one sees it coming (except Google)",
+          "tags": [],
+          "published_at": "2025-11-11T05:41:50Z"
+        },
+        {
+          "title": "KIMI K2 just broke the AI Industry... here&#39;s it&#39;s &quot;secret&quot;",
+          "tags": [],
+          "published_at": "2025-11-10T06:16:31Z"
+        },
+        {
+          "title": "&quot;No One is Prepared&quot; the next 1,000 days are CRUCIAL | Emad Mostaque",
+          "tags": [],
+          "published_at": "2025-11-08T09:20:48Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Black Mixture": {
+      "channel_id": "UCOwFX-YFktXxEIX7-IPjlKQ",
+      "handle": "BlackMixture",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "This AI Storyboard Generator Just Changed Filmmaking Forever! (Higgsfield Popcorn)",
+          "tags": [],
+          "published_at": "2025-11-07T13:15:03Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Skill Leap AI": {
+      "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
+      "handle": "SkillLeapAI",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "A Major ChatGPT Update No One is Talking About",
+          "tags": [],
+          "published_at": "2025-11-12T19:58:42Z"
+        },
+        {
+          "title": "ChatGPT is now on every website!",
+          "tags": [],
+          "published_at": "2025-11-11T21:03:56Z"
+        },
+        {
+          "title": "Frustrated with ChatGPT? Use the CTR method! #chatgpt #chatgpthack",
+          "tags": [],
+          "published_at": "2025-11-09T18:07:01Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "All About AI": {
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "handle": "AllAboutAI",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Local AI Surveillance Is Getting SCARY Good (Qwen3-VL)",
+          "tags": [],
+          "published_at": "2025-11-13T14:30:14Z"
+        },
+        {
+          "title": "Building and Testing an AI Swarm Drone: This is scary...and cool",
+          "tags": [],
+          "published_at": "2025-11-09T14:00:49Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Corbin Brown": {
+      "channel_id": "UCJFMlSxcvlZg5yZUYJT0Pug",
+      "handle": "Corbin_Brown",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "The Secret To Getting AI To Code Like Experts",
+          "tags": [],
+          "published_at": "2025-11-13T15:15:08Z"
+        },
+        {
+          "title": "3 Steps To Build ANY App with AI (ask, plan, agent)",
+          "tags": [],
+          "published_at": "2025-11-11T15:15:04Z"
+        },
+        {
+          "title": "How To Build AI Apps with No Experience",
+          "tags": [],
+          "published_at": "2025-11-10T15:15:00Z"
+        },
+        {
+          "title": "How To Use OpenAI Agent Builder with PDFs",
+          "tags": [],
+          "published_at": "2025-11-09T15:30:15Z"
+        },
+        {
+          "title": "Cursor AI Full Guide To Vibe Coding Apps",
+          "tags": [],
+          "published_at": "2025-11-08T15:15:04Z"
+        },
+        {
+          "title": "Let&#39;s Build a Sora AI Influencer with Zapier",
+          "tags": [],
+          "published_at": "2025-11-07T15:30:09Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Jordan Harrod": {
+      "channel_id": "UC1H1NWNTG2Xi3pt85ykVSHA",
+      "handle": "JordanHarrod",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Cyberjungle": {
+      "channel_id": "UCsilEv_20FmmBr5CDzmTMgg",
+      "handle": "cyberjungle",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "VEO 3.1 Camera Controls, Nano Banana 2 Leaks, Open-Source QWEN Image Edit &amp; Sora 2 Update",
+          "tags": [],
+          "published_at": "2025-11-10T12:57:46Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Developer's Digest": {
+      "channel_id": "UCuE6iwZKgGz8s6kznBRI9LQ",
+      "handle": "DevelopersDigest",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Streamline Your Git Workflow with GitKraken and Claude Code",
+          "tags": [],
+          "published_at": "2025-11-10T17:30:15Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Search": {
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "handle": "theAIsearch",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Kimi K2 Thinking is a freak",
+          "tags": [],
+          "published_at": "2025-11-11T03:20:00Z"
+        },
+        {
+          "title": "Realtime AI videos, AI reads minds, space GPUs, Kimi K2 Thinking, gynoids - AI NEWS",
+          "tags": [],
+          "published_at": "2025-11-09T03:27:44Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matthew Berman": {
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "handle": "matthew_berman",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "OpenAI Unveils GPT-5.1 (UPDATE)",
+          "tags": [],
+          "published_at": "2025-11-13T23:01:05Z"
+        },
+        {
+          "title": "Controllable World Models are HERE",
+          "tags": [],
+          "published_at": "2025-11-13T15:42:41Z"
+        },
+        {
+          "title": "Is this the End? (AI Bubble)",
+          "tags": [],
+          "published_at": "2025-11-12T18:58:58Z"
+        },
+        {
+          "title": "Is AI Alive?!?!",
+          "tags": [],
+          "published_at": "2025-11-10T22:37:12Z"
+        },
+        {
+          "title": "Forward Future Live | 11/7/25",
+          "tags": [],
+          "published_at": "2025-11-08T08:12:39Z"
+        },
+        {
+          "title": "Kimi K2 Thinking is CRAZY... (HUGE UPDATE)",
+          "tags": [],
+          "published_at": "2025-11-07T21:36:47Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "What's AI by Louis-François Bouchard": {
+      "channel_id": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "handle": "WhatsAI",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "How a 7M Model Outsmarted DeepSeek-R1 😳",
+          "tags": [],
+          "published_at": "2025-11-13T14:01:59Z"
+        },
+        {
+          "title": "Kimi K2 vs GPT-5: the new DeepSeek moment?",
+          "tags": [],
+          "published_at": "2025-11-12T12:43:22Z"
+        },
+        {
+          "title": "When less thinking makes AI smarter 🤯",
+          "tags": [],
+          "published_at": "2025-11-07T14:02:22Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Artificial Intelligence News Daily": {
+      "channel_id": "UCItylrp-EOkBwsUT7c_Xkxg",
+      "handle": "artificialintelligencenews1373",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Elon Musk Finally Puts BEAUTIFUL Humanoid Robot Into AUCTION",
+          "tags": [],
+          "published_at": "2025-11-13T17:15:04Z"
+        },
+        {
+          "title": "China Shows Off SEXY Robots In Recent Exhibit",
+          "tags": [],
+          "published_at": "2025-11-08T17:15:05Z"
+        },
+        {
+          "title": "TOP 15 MOST EXPENSIVE Female Humanoid Robots In 2024",
+          "tags": [],
+          "published_at": "2025-11-07T19:30:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "James Briggs": {
+      "channel_id": "UCv83tO5cePwHMt1952IVVHw",
+      "handle": "jamesbriggs",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AssemblyAI": {
+      "channel_id": "UCtatfZMf-8EkIwASXM4ts0A",
+      "handle": "AssemblyAI",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Introducing Multilingual Universal-Streaming",
+          "tags": [],
+          "published_at": "2025-11-12T19:02:33Z"
+        },
+        {
+          "title": "4 Expert Tips for Building an Accurate AI Meeting Notetaker",
+          "tags": [],
+          "published_at": "2025-11-07T15:09:05Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Dot CSV Lab": {
+      "channel_id": "UCOTko-zmnQTcOxSRdg5_uOQ",
+      "handle": "DotCSVLab",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "💀 SALVAJE 💀": {
+      "channel_id": "UCHSOfqMtzD0_3i7_593NGGw",
+      "handle": "SDESALVAJE",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Xavier Mitjana": {
+      "channel_id": "UCp2Zmdh40GJJJ2T5vWsMZDA",
+      "handle": "XavierMitjana",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "GPT 5.1... ¡Nuevo CEREBRO para CHATGPT! 🤯 Escoge su PERSONALIDAD",
+          "tags": [],
+          "published_at": "2025-11-13T13:57:32Z"
+        },
+        {
+          "title": "Google actualiza GEMINI y NOTEBOOKLM con FUNCIONES ALUCINANTES 🤯 Y muchas más NOVEDADES",
+          "tags": [],
+          "published_at": "2025-11-09T14:41:38Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Alejavi Rivera": {
+      "channel_id": "UCxcDzs-4quJV4QsairlFYNg",
+      "handle": "alejavirivera",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "¿Y esto es GRATIS? Crea Vídeos largos con Audio, Calidad y SIN Censura",
+          "tags": [],
+          "published_at": "2025-11-13T18:00:56Z"
+        },
+        {
+          "title": "Creo animaciones 3D Virales monetizables por IA GRATIS (Guía completa Fácil)",
+          "tags": [],
+          "published_at": "2025-11-09T18:00:37Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Inteligencia Artificial": {
+      "channel_id": "UCl5-lvQyfILb-l2abPk4Ntg",
+      "handle": "la_inteligencia_artificial",
+      "video_count": 9,
+      "videos": [
+        {
+          "title": "Qué sabe el Gobierno de España sobre la IA 🤖 | 🎙️ María González, Sec. Estado de Digitalización e IA",
+          "tags": [],
+          "published_at": "2025-11-13T19:01:03Z"
+        },
+        {
+          "title": "🤖 Nuevo modelo de IA enfocado al upscaling de videos de alta calidad | 🤖 #ia #chatgpt #bytedance",
+          "tags": [],
+          "published_at": "2025-11-13T15:50:49Z"
+        },
+        {
+          "title": "🤖 GPT-5 Introduce la era del prompting continuo | 🤖 #ia #chatgpt #openai",
+          "tags": [],
+          "published_at": "2025-11-13T13:40:40Z"
+        },
+        {
+          "title": "¿Quién es XPENG y por qué todo el mundo habla de ellos? 🤖🔥",
+          "tags": [],
+          "published_at": "2025-11-12T19:01:03Z"
+        },
+        {
+          "title": "🤖 Anthropic encuentra capacidad introspectiva en sus modelos de IA| 🤖 #ia #chatgpt #anthropic",
+          "tags": [],
+          "published_at": "2025-11-12T16:25:28Z"
+        },
+        {
+          "title": "🤖 KIMI K2 Thinking es el nuevo modelo de IA que adelanta a la competencia | 🤖 #ia #chatgpt #kimik2",
+          "tags": [],
+          "published_at": "2025-11-12T13:32:37Z"
+        },
+        {
+          "title": "🤖 Iron es el nuevo robot humanoide que lanza XPENG | 🤖 #ia #chatgpt #xpeng",
+          "tags": [],
+          "published_at": "2025-11-12T10:36:10Z"
+        },
+        {
+          "title": "🚨 NOTICIAS IA 🚨: Kimi K2 Thinking, el modelo Chino es el mejor del Mundo, ¡Open Source y GRATIS! 🔥🤯",
+          "tags": [],
+          "published_at": "2025-11-10T19:00:01Z"
+        },
+        {
+          "title": "🤖 Un 75% de las empresas reportan retorno positivo tras implementarla la IA | 🤖 #ia #chatgpt",
+          "tags": [],
+          "published_at": "2025-11-07T12:15:24Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Migue Baena IA": {
+      "channel_id": "UCX_dT6nVtCIHRo_GFOsWK2A",
+      "handle": "MigueBaenaIA",
+      "video_count": 8,
+      "videos": [
+        {
+          "title": "Todo el mundo habla de ChatGPT… pero Gemini puede hacer ESTO ⚡",
+          "tags": [],
+          "published_at": "2025-11-13T18:00:04Z"
+        },
+        {
+          "title": "🤫 Te cuento como publico a diario SIN escribir un solo guion 😱",
+          "tags": [],
+          "published_at": "2025-11-12T13:04:17Z"
+        },
+        {
+          "title": "🚀 La IA que construye proyectos COMPLETOS sola (Manus 1.5) 🤯",
+          "tags": [],
+          "published_at": "2025-11-11T14:09:20Z"
+        },
+        {
+          "title": "¡El FIN del código ya está aquí! 😱💻",
+          "tags": [],
+          "published_at": "2025-11-10T11:02:56Z"
+        },
+        {
+          "title": "Domina el 80% de n8n en 50 Minutos",
+          "tags": [],
+          "published_at": "2025-11-09T18:00:17Z"
+        },
+        {
+          "title": "Esta IA te crea una App completa en 20 MINUTOS 😱",
+          "tags": [],
+          "published_at": "2025-11-09T16:03:03Z"
+        },
+        {
+          "title": "🤖 Esta IA compite con VEO 3 y es GRATIS 😱 (Nivel CINE🎬)",
+          "tags": [],
+          "published_at": "2025-11-08T15:04:16Z"
+        },
+        {
+          "title": "Crea tu propia APP con IA (¡sin programar nada!) 🤯📱",
+          "tags": [],
+          "published_at": "2025-11-07T14:03:14Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Video School": {
+      "channel_id": "UCUb7KwmlVSSCnPu5KEhym8A",
+      "handle": "aivideoschool",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "How to Match ANY Movie’s Cinematic Look Using AI",
+          "tags": [],
+          "published_at": "2025-11-11T15:00:24Z"
+        },
+        {
+          "title": "Behind the scenes shots of my latest #aitutorial about consistent color in #aivideo #veo #sora #ltx2",
+          "tags": [],
+          "published_at": "2025-11-08T15:23:01Z"
+        }
+      ],
+      "collection_status": "success"
+    }
+  },
+  "summary": {
+    "total_channels": 58,
+    "successful_channels": 58,
+    "failed_channels": 0,
+    "total_videos": 158,
+    "success_rate": "100.0%"
+  }
+}
