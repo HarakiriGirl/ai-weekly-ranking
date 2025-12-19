@@ -1,0 +1,2542 @@
+{
+  "collection_date": "2025-12-19",
+  "collection_date_jst": "2025-12-19T13:51:30.471596+09:00",
+  "source": "YouTube Data API v3",
+  "total_channels": 58,
+  "successful_channels": 58,
+  "failed_channels": 0,
+  "total_videos": 414,
+  "channels": {
+    "ウェブ職TV": {
+      "channel_id": "UClNZUVnSFRKKUfJYarEUqdA",
+      "handle": "webshokutv",
+      "video_count": 8,
+      "videos": [
+        {
+          "title": "「OpenAIはオワコン」緊急事態宣言からの起死回生の新発表。最新ChatGPTの性能にSNSは絶賛の嵐【GPT Image 1.5】",
+          "tags": [],
+          "published_at": "2025-12-17T12:28:56Z"
+        },
+        {
+          "title": "落ちたサイトを復活させるのが難しい理由　#shorts",
+          "tags": [],
+          "published_at": "2025-12-17T10:01:10Z"
+        },
+        {
+          "title": "中古ドメインを使わない理由　#shorts",
+          "tags": [],
+          "published_at": "2025-12-16T10:01:23Z"
+        },
+        {
+          "title": "OpenAIの最新AI「GPT-5.2」を使った結果・・・",
+          "tags": [],
+          "published_at": "2025-12-15T15:23:16Z"
+        },
+        {
+          "title": "AIで書いた記事がSEOで上位表示できない理由　#shorts",
+          "tags": [],
+          "published_at": "2025-12-14T10:00:05Z"
+        },
+        {
+          "title": "次世代AIボイスレコーダー「Notta Memo」を開封レビュー",
+          "tags": [],
+          "published_at": "2025-12-13T11:00:26Z"
+        },
+        {
+          "title": "【AI活用術】AIエージェントManusとLINEが連携！　#shorts",
+          "tags": [],
+          "published_at": "2025-12-13T09:00:13Z"
+        },
+        {
+          "title": "AIを活用したビジネスで成功するための考え方　#shorts",
+          "tags": [],
+          "published_at": "2025-12-12T10:01:15Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "NI-WORK": {
+      "channel_id": "UChD63R31attT5w8WOZeuXyg",
+      "handle": "NI-WORK",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【衝撃の1位】Gooogle アップデートをキャッチアップせよ！アップデートランキングベスト5をNI-WORK流に評価【Google Workspace/生成AI/NotebookLM/Gemini】",
+          "tags": [],
+          "published_at": "2025-12-14T20:30:09Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "まさおAIじっくり解説ch": {
+      "channel_id": "UCvHpETRVi1tXeRJoYiXHJqw",
+      "handle": "ai_masaou",
+      "video_count": 8,
+      "videos": [
+        {
+          "title": "【完全解説】GPT-5.2 Codex登場！コーディング作業が劇的に変わる新機能まとめ",
+          "tags": [],
+          "published_at": "2025-12-19T03:00:54Z"
+        },
+        {
+          "title": "【緊急】Gemini 3 Flash登場！まさかのPro超え?!性能を徹底解説",
+          "tags": [],
+          "published_at": "2025-12-17T23:30:01Z"
+        },
+        {
+          "title": "nano banana以上と話題の画像生成AI『gpt-image-1.5』の実力が最高！OpenAIの本気を解説します",
+          "tags": [],
+          "published_at": "2025-12-17T09:25:01Z"
+        },
+        {
+          "title": "Manus1.6が登場！『スマホアプリ開発から公開まで』が簡単&amp;爆速に実現する新機能が凄かった！",
+          "tags": [],
+          "published_at": "2025-12-16T10:05:01Z"
+        },
+        {
+          "title": "Gemini 3 Flashが近い！Manus1.6公開など、今日のAIニュース【2025/12/16】",
+          "tags": [],
+          "published_at": "2025-12-16T09:05:01Z"
+        },
+        {
+          "title": "【結論】今、最強のAIは『GPT-5.2 Pro』で確定！その恐るべき性能を解説します",
+          "tags": [],
+          "published_at": "2025-12-15T10:35:00Z"
+        },
+        {
+          "title": "【これ最高】超簡単にDeep Researchを呼び出せるGeminiの新APIが登場！Interactions APIを解説",
+          "tags": [],
+          "published_at": "2025-12-13T09:10:00Z"
+        },
+        {
+          "title": "【神アプデ】『Cursor2.2』を使ってみた！直感UI編集＆プロ級デバッグ機能が登場",
+          "tags": [],
+          "published_at": "2025-12-12T10:05:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いけともch_旧リモ研": {
+      "channel_id": "UCpUQnk6MaY4o3NdgJmv10cw",
+      "handle": "iketomo-ch",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "GPT Image 1.5、ぶっちゃけどう!? Nano Banana Proと徹底比較しつつ、意味や活用シーンを解説",
+          "tags": [],
+          "published_at": "2025-12-17T06:01:01Z"
+        },
+        {
+          "title": "注目AIニュース18選～GPT5.2、ディズニーのOpenAI出資、Google Disco、Runway GWM-1、エージェント型コマースの未来など",
+          "tags": [],
+          "published_at": "2025-12-14T06:00:34Z"
+        },
+        {
+          "title": "GPT5.2登場！Gemini3と比べて何が違う？",
+          "tags": [],
+          "published_at": "2025-12-13T01:00:03Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いっしゅ / AIクリエイター": {
+      "channel_id": "UCgyzX-fA6gy2lLM3bX4E0Hg",
+      "handle": "ishcreative",
+      "video_count": 50,
+      "videos": [
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-19T04:13:13Z"
+        },
+        {
+          "title": "This time I give steve a link (no mid-stream ads)",
+          "tags": [],
+          "published_at": "2025-12-19T03:13:44Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:54Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:57:09Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:29Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:35Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:26Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:30Z"
+        },
+        {
+          "title": "Creating a SharePoint Site/Subsite",
+          "tags": [],
+          "published_at": "2025-12-17T22:52:32Z"
+        },
+        {
+          "title": "About Video&#39;s Simon Has Online dating Websites Spend Over $1,700 $15,000 On Website BigScams",
+          "tags": [],
+          "published_at": "2025-12-17T16:41:40Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:01:10Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:50Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:56Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:43Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:21:36Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:18:14Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:15Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:07Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:25Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:17Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:45:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:45:57Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:18:05Z"
+        },
+        {
+          "title": "For someone to go through my page, watch my videos, check my profile",
+          "tags": [],
+          "published_at": "2025-12-17T07:53:08Z"
+        },
+        {
+          "title": "Step-by-Step Guide: Launch Your Own YouTube Channel Today!",
+          "tags": [],
+          "published_at": "2025-12-17T06:53:02Z"
+        },
+        {
+          "title": "Https :/Youtub. com# Short video #@ashik-s7x7s",
+          "tags": [],
+          "published_at": "2025-12-17T04:50:00Z"
+        },
+        {
+          "title": "Special Website",
+          "tags": [],
+          "published_at": "2025-12-17T04:45:09Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:09:06Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:05:15Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:22:08Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:20:19Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:19:07Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:15:18Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:15:28Z"
+        },
+        {
+          "title": "Biggest Conspiracy Videos On The Internet Today!  (Ep 396)",
+          "tags": [],
+          "published_at": "2025-12-17T03:00:10Z"
+        },
+        {
+          "title": "¿Sabías que el primer sitio web aún existe?",
+          "tags": [],
+          "published_at": "2025-12-17T02:00:57Z"
+        },
+        {
+          "title": "Want to video chat with your website site visitors or your community members? Check out latest video",
+          "tags": [],
+          "published_at": "2025-12-17T00:51:43Z"
+        },
+        {
+          "title": "Putting off a new website? 👩‍💻",
+          "tags": [],
+          "published_at": "2025-12-16T21:45:03Z"
+        },
+        {
+          "title": "Add This ONE THING To Your Website For More Traffic 🤫👀 (EASY) #seotips #localseo",
+          "tags": [],
+          "published_at": "2025-12-16T21:41:27Z"
+        },
+        {
+          "title": "Your website is BROKEN if it’s not doing this",
+          "tags": [],
+          "published_at": "2025-12-16T21:00:31Z"
+        },
+        {
+          "title": "200 Million User Records... Breached",
+          "tags": [],
+          "published_at": "2025-12-16T19:15:52Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:52Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:37Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:14Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "チャエン【AI研究所】〜仕事で使える最新のAI情報を発信〜 Byデジライズ": {
+      "channel_id": "UC9buL3Iph_f7AZxdzmiBL8Q",
+      "handle": "chaen-ai-lab",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "【速報】ChatGPT最新モデルはGeminiよりすごいのか #chatgpt #ai #チャエン #ビジネス#gemini",
+          "tags": [],
+          "published_at": "2025-12-18T11:00:00Z"
+        },
+        {
+          "title": "【高速・高性能】Googleがまた最新モデル「Gemini 3 Flash」を発表。博士号レベルの知能を持った一番業務で使えるAIの使い方と活用事例を徹底解説。",
+          "tags": [],
+          "published_at": "2025-12-18T10:38:18Z"
+        },
+        {
+          "title": "【速報】OpenAIが最新画像AIモデル「GPT Image 1.5」を公開。Google Nano Banana Proとどっちが精度が高い？　活用事例、秘伝のプロンプトをAIの専門家が徹底解説。",
+          "tags": [],
+          "published_at": "2025-12-17T10:26:23Z"
+        },
+        {
+          "title": "【保存版】AI資料作成の秘伝プロンプトを大公開！コピペで即完成 #AI #仕事術 #時短 #chatgpt #ビジネス",
+          "tags": [],
+          "published_at": "2025-12-15T11:00:24Z"
+        },
+        {
+          "title": "【最強のAI資料生成術】Manus×Gemini 3 Proが強すぎる。プロの現役コンサルが使うAI活用術を徹底解説",
+          "tags": [],
+          "published_at": "2025-12-14T09:40:46Z"
+        },
+        {
+          "title": "【速報】OpenAIが緊急公開！新モデル「GPT-5.2」の実力とは？Google猛追でCode Red発動 #ChatGPT #GPT5 #生成AI",
+          "tags": [],
+          "published_at": "2025-12-13T11:00:32Z"
+        },
+        {
+          "title": "【速報】GPT-5.2発表！Claude・Geminiを全項目で撃破｜人間専門家を超えた&quot;怪物AI&quot;を徹底解説＆実演。活用事例５選付。",
+          "tags": [],
+          "published_at": "2025-12-12T10:44:38Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "にゃんたのAIチャンネル": {
+      "channel_id": "UCZQVTC3uLCyuJUOcRlguazA",
+      "handle": "aivtuber2866",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "OpenAI最新！GPT-5.2が登場したので凄さやプロンプト、他社モデルとの比較結果を解説してみた",
+          "tags": [],
+          "published_at": "2025-12-12T09:40:52Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "KEITO【AI&WEB ch】": {
+      "channel_id": "UCfapRkagDtoQEkGeyD3uERQ",
+      "handle": "keitoaiweb",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "ChatGPTの画像生成機能が進化「GPT Image 1.5」を徹底検証！Nanobananaと比較してみた",
+          "tags": [],
+          "published_at": "2025-12-17T08:21:00Z"
+        },
+        {
+          "title": "【いまAI音楽が熱い】No.1音楽生成AI『Suno』の魅力を徹底解説",
+          "tags": [],
+          "published_at": "2025-12-15T10:00:31Z"
+        },
+        {
+          "title": "ChatGPT 5.2 vs Gemini 3 vs Claude Opus 4.5🔥徹底比較！どれが一番良い？",
+          "tags": [],
+          "published_at": "2025-12-14T10:00:22Z"
+        },
+        {
+          "title": "【アナログ × AI活用】CZURとNotebookLMを組み合わせて紙からチャットボット作成！",
+          "tags": [],
+          "published_at": "2025-12-13T10:00:04Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI FREAK - 最新のAIツールをご紹介": {
+      "channel_id": "UCLapF_KiSMKFWcVdXytOLgA",
+      "handle": "aifreak_ch",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI様の下僕": {
+      "channel_id": "UCNBWx9JET3iRoCXliY2G4rQ",
+      "handle": "AI-geboku",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【本物超え】AIの常識を破壊。Runway Gen4.5が「狂気」の表情まで操り、物理演算を完璧に理解。",
+          "tags": [],
+          "published_at": "2025-12-15T12:56:11Z"
+        },
+        {
+          "title": "【ICO×下僕】突撃！AIクリエイターのお話し聞いてみた。",
+          "tags": [],
+          "published_at": "2025-12-14T13:21:51Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIでサボろうチャンネル": {
+      "channel_id": "UC9AuyS7U4PxeDSNMJ2srarA",
+      "handle": "ai-saborou",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【AIセキュリティ】情報漏洩・AIエージェントの乗っ取りを防ぐ基本",
+          "tags": [],
+          "published_at": "2025-12-12T09:28:55Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "RKJ VIDEO 【イケている動画を作りたいなら】": {
+      "channel_id": "UCVARwuMmqP4tqQFUQm57oQQ",
+      "handle": "RKJVideoforyou",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【2026年】YouTubeの始め方から月10万円稼ぐまでを10ステップ！",
+          "tags": [],
+          "published_at": "2025-12-16T11:00:55Z"
+        },
+        {
+          "title": "顔出し不要でAIアバターで動画を作る方法(Topviewアバター）",
+          "tags": [],
+          "published_at": "2025-12-13T11:01:22Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ダルトワ★TV": {
+      "channel_id": "UChk3jyTp7BaOWnvUEQOLN5A",
+      "handle": "dartois_tv",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "ここなの AI 研究所": {
+      "channel_id": "UCb18vBcozRjkD1PtB4pohWQ",
+      "handle": "AI-Laboratory-in-Cocona",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "【放送事故】この料理番組、何かがおかしい。 #shorts",
+          "tags": [],
+          "published_at": "2025-12-19T04:00:08Z"
+        },
+        {
+          "title": "【放送事故】台風中継に謎の還暦男が乱入！？荒波の中でも最強すぎる「赤い男」の正体とは…ｗｗｗ",
+          "tags": [],
+          "published_at": "2025-12-19T01:30:48Z"
+        },
+        {
+          "title": "【閲覧注意】AIでキス動画が作れる謎サイト「LitMedia」がヤバすぎる！自作ツールも公開",
+          "tags": [],
+          "published_at": "2025-12-17T23:00:00Z"
+        },
+        {
+          "title": "【AIブログ完全自動化】TikTok動画から記事生成ツールを自作！ラオス情報の裏側公開",
+          "tags": [],
+          "published_at": "2025-12-17T11:30:06Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "はむ先生のAI教室【AIツールを体系的に解説】": {
+      "channel_id": "UCgwv7JsLDvGTtRdFI4TVRQw",
+      "handle": "ham_ai_skill",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【AI動画のナノバナナ】自然言語で動画が編集できる！Kling O1の活用事例20個を徹底解説。",
+          "tags": [],
+          "published_at": "2025-12-12T13:00:14Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI大学【AI&ChatGPT最新情報】": {
+      "channel_id": "UCXo1SsIDZ_dke2Nr1r3qk6w",
+      "handle": "AIAIChatGPT-cj4sh",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "【ナノバナナPro超え!?】世界ランク1位の画像生成AI「ChatGPT Images」の概要・無料で使う方法・活用事例・ナノバナナProとの比較！",
+          "tags": [],
+          "published_at": "2025-12-17T09:05:30Z"
+        },
+        {
+          "title": "【すぐに使える活用事例10例】ChatGPT GPT-5.2のスライド生成＆スプレッドシート生成＆ゲーム・アプリ・webサイト生成性能を徹底検証！",
+          "tags": [],
+          "published_at": "2025-12-16T09:06:32Z"
+        },
+        {
+          "title": "SoraやChatGPTでディズニーキャラの動画・画像を作れる/OpenAIの最新AIモデル「GPT-5.2」/ChatGPTでAdobeアプリを無料で使える新機能【週刊最新AIツール&amp;ニュース】",
+          "tags": [],
+          "published_at": "2025-12-14T09:05:25Z"
+        },
+        {
+          "title": "【Gemini 3に圧勝】ChatGPTの最新AIモデル「GPT-5.2」の特徴・性能・無料で使う方法まで完全ガイド！",
+          "tags": [],
+          "published_at": "2025-12-12T09:05:36Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIで創作効率化とマネタイズby嗚呼蛙": {
+      "channel_id": "UCjEa-tDIQIJ-rLslyEGLZdA",
+      "handle": "AICreative_and_Monetization",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【保存版】NanoBananaProの“生成事例1000+”が見放題｜コピペで再現できる神サイト",
+          "tags": [],
+          "published_at": "2025-12-13T04:37:59Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIキャンプ / 中村俊也": {
+      "channel_id": "UCJRUWZsQXvLlBOUeZdtIcYQ",
+      "handle": "aicampll",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【撮影ゼロ】Nano Banana Pro×動画生成AIで1枚の画像から解説動画が完成した件（Gemini×HeyGen）",
+          "tags": [],
+          "published_at": "2025-12-17T09:01:13Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "サファはユーチューバー【AIイラスト】": {
+      "channel_id": "UCjSy2qn-nx6D57BS7WVqowg",
+      "handle": "safa-dayo",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【コスパ◎】LitVideoという動画生成サービスがコスパ最強＆多機能すぎるのでご紹介！",
+          "tags": [],
+          "published_at": "2025-12-17T10:01:07Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "mikimiki web スクール": {
+      "channel_id": "UChxtIA33ty53Hh4MmkXNASg",
+      "handle": "mikimikiweb",
+      "video_count": 50,
+      "videos": [
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-19T04:13:13Z"
+        },
+        {
+          "title": "This time I give steve a link (no mid-stream ads)",
+          "tags": [],
+          "published_at": "2025-12-19T03:13:44Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:54Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:57:09Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:29Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:35Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:26Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:30Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:02Z"
+        },
+        {
+          "title": "Creating a SharePoint Site/Subsite",
+          "tags": [],
+          "published_at": "2025-12-17T22:52:32Z"
+        },
+        {
+          "title": "About Video&#39;s Simon Has Online dating Websites Spend Over $1,700 $15,000 On Website BigScams",
+          "tags": [],
+          "published_at": "2025-12-17T16:41:40Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:01:10Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:50Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:56Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:43Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:21:36Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:18:14Z"
+        },
+        {
+          "title": "【NanoBanana超え】ChatGPT最新画像生成AI「GPT-Image1.5」が凄すぎる！徹底解説します！（vs NanoBanana Pro）",
+          "tags": [],
+          "published_at": "2025-12-17T10:07:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:15Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:28Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:07Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:25Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:04Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:17Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:46:03Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:27Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:45:57Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:18:05Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:13:57Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:09:06Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:05:15Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:15:28Z"
+        },
+        {
+          "title": "¿Sabías que el primer sitio web aún existe?",
+          "tags": [],
+          "published_at": "2025-12-17T02:00:57Z"
+        },
+        {
+          "title": "Want to video chat with your website site visitors or your community members? Check out latest video",
+          "tags": [],
+          "published_at": "2025-12-17T00:51:43Z"
+        },
+        {
+          "title": "Putting off a new website? 👩‍💻",
+          "tags": [],
+          "published_at": "2025-12-16T21:45:03Z"
+        },
+        {
+          "title": "Your website is BROKEN if it’s not doing this",
+          "tags": [],
+          "published_at": "2025-12-16T21:00:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:45Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:52Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:37Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:19Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:14Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:20Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T15:54:28Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T15:54:32Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "かいちのAI大学": {
+      "channel_id": "UCWMrA-2fEycFnOwqzzdwWuQ",
+      "handle": "kaichi_gpt",
+      "video_count": 50,
+      "videos": [
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-19T04:13:13Z"
+        },
+        {
+          "title": "This time I give steve a link (no mid-stream ads)",
+          "tags": [],
+          "published_at": "2025-12-19T03:13:44Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:54Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:57:09Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:29Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:35Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:26Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:30Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:02Z"
+        },
+        {
+          "title": "Creating a SharePoint Site/Subsite",
+          "tags": [],
+          "published_at": "2025-12-17T22:52:32Z"
+        },
+        {
+          "title": "About Video&#39;s Simon Has Online dating Websites Spend Over $1,700 $15,000 On Website BigScams",
+          "tags": [],
+          "published_at": "2025-12-17T16:41:40Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:01:10Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:50Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:56Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:43Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:21:36Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:18:14Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:15Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:07Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:25Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:17Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:45:57Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:18:05Z"
+        },
+        {
+          "title": "For someone to go through my page, watch my videos, check my profile",
+          "tags": [],
+          "published_at": "2025-12-17T07:53:08Z"
+        },
+        {
+          "title": "Step-by-Step Guide: Launch Your Own YouTube Channel Today!",
+          "tags": [],
+          "published_at": "2025-12-17T06:53:02Z"
+        },
+        {
+          "title": "Https :/Youtub. com# Short video #@ashik-s7x7s",
+          "tags": [],
+          "published_at": "2025-12-17T04:50:00Z"
+        },
+        {
+          "title": "Special Website",
+          "tags": [],
+          "published_at": "2025-12-17T04:45:09Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:09:06Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:05:15Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:22:08Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:20:19Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:19:07Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:15:18Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:15:28Z"
+        },
+        {
+          "title": "Biggest Conspiracy Videos On The Internet Today!  (Ep 396)",
+          "tags": [],
+          "published_at": "2025-12-17T03:00:10Z"
+        },
+        {
+          "title": "¿Sabías que el primer sitio web aún existe?",
+          "tags": [],
+          "published_at": "2025-12-17T02:00:57Z"
+        },
+        {
+          "title": "Want to video chat with your website site visitors or your community members? Check out latest video",
+          "tags": [],
+          "published_at": "2025-12-17T00:51:43Z"
+        },
+        {
+          "title": "Putting off a new website? 👩‍💻",
+          "tags": [],
+          "published_at": "2025-12-16T21:45:03Z"
+        },
+        {
+          "title": "Add This ONE THING To Your Website For More Traffic 🤫👀 (EASY) #seotips #localseo",
+          "tags": [],
+          "published_at": "2025-12-16T21:41:27Z"
+        },
+        {
+          "title": "Your website is BROKEN if it’s not doing this",
+          "tags": [],
+          "published_at": "2025-12-16T21:00:31Z"
+        },
+        {
+          "title": "200 Million User Records... Breached",
+          "tags": [],
+          "published_at": "2025-12-16T19:15:52Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:52Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:37Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:14Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ITとAIのルーティンラボ": {
+      "channel_id": "UCmbdU1d-_oKJHE7ZtPv1vpg",
+      "handle": "it-skill_routinelabo",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【超進化】GPT-5.2を徹底解説！最新のコーディング能力が異次元すぎた！",
+          "tags": [],
+          "published_at": "2025-12-18T11:12:36Z"
+        },
+        {
+          "title": "【初心者向け】ローカル環境で画像生成AIを動かす！Stable Diffusion Web UI セットアップガイド",
+          "tags": [],
+          "published_at": "2025-12-15T10:30:28Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI整体師": {
+      "channel_id": "UCVAkt5l6kD4igMdVoEGTGIg",
+      "handle": "ai.seitai",
+      "video_count": 11,
+      "videos": [
+        {
+          "title": "【#AIニュース No.239】GPT-5.2-Codexが登場！ClaudeのChrome拡張機能が全有料ユーザーで利用可能に！Notebook LMに新機能追加！！全16個！",
+          "tags": [],
+          "published_at": "2025-12-19T00:44:26Z"
+        },
+        {
+          "title": "【#ライブ配信 No.59】Gemini 3 Flashって結構良いモデルと思うんだけど、どう？的な雑談をみんなんと楽しむ！（※20時15分まで！）",
+          "tags": [],
+          "published_at": "2025-12-18T23:24:04Z"
+        },
+        {
+          "title": "【#AIニュース No.238】Gemini 3 Flashリリース！コーディング系スコアがGemini 3 Proよりも高い！？メタがSAMAudioをオープンで公開！他13個！",
+          "tags": [],
+          "published_at": "2025-12-18T00:48:15Z"
+        },
+        {
+          "title": "【#AIニュース No.237】ChatGPTの新しい画像生成モデル「GPT‑Image‑1.5」がリリース！Claude Codeがさらにアップデート！Manus 1.6が登場！",
+          "tags": [],
+          "published_at": "2025-12-17T01:13:26Z"
+        },
+        {
+          "title": "【#ライブ配信 No.58】20時15分までもくもく開発会！",
+          "tags": [],
+          "published_at": "2025-12-16T23:22:02Z"
+        },
+        {
+          "title": "【#AIニュース No.236】Gemini Agentがリリース！ChatGPTの音声モデルが品質向上！藤井聡太名人「今年一番ハマったのはバイブコーディング」！？",
+          "tags": [],
+          "published_at": "2025-12-16T00:34:39Z"
+        },
+        {
+          "title": "【#AIニュース No.235】Google翻訳にGemini搭載で品質向上！ついにGeminiアプリとNotebook LMが統合か！？生成AIの新しい推論スタイルが出てくる？",
+          "tags": [],
+          "published_at": "2025-12-15T00:47:43Z"
+        },
+        {
+          "title": "【#GPTラジオ No.36】GPT-5.2になってジピちゃんの喋りが上手くなってる！？奥村の個人開発の進め方を語る。",
+          "tags": [],
+          "published_at": "2025-12-14T01:00:00Z"
+        },
+        {
+          "title": "【#ライブ配信 No.57】GPT-5.2どうっすか？年内まだビッグニュースあると思う？的な雑談をみんなと楽しむ！",
+          "tags": [],
+          "published_at": "2025-12-13T13:21:18Z"
+        },
+        {
+          "title": "【#AIニュース No.234】Gemini ultraプラン限定のNotebook LM仕様が提供開始！GeminiのDeep Researchが強化！ChatGPTアダルトモード延期へ！",
+          "tags": [],
+          "published_at": "2025-12-13T00:42:11Z"
+        },
+        {
+          "title": "【#AIとやってみた】※ほぼ雑談です※　初見でGPT-5.2を検証！CursorとWEB版ChatGPTでデザインと文章生成させてみた！",
+          "tags": [],
+          "published_at": "2025-12-12T07:00:33Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Norihiko[AI × 動画制作]": {
+      "channel_id": "UCotwNXfqRFO6dC5aKYzxNjA",
+      "handle": "norihikoCH",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "[動画生成AI] 始め方_How To チャンネル": {
+      "channel_id": "UCEH0dwKUzjCGNfkbCGpoZCg",
+      "handle": "HARUTA-channel-4s",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "#5【Elevenlabs】無料で日本語ボイスが作成可能! #ゲーム実況 #steam #解説",
+          "tags": [],
+          "published_at": "2025-12-14T08:00:11Z"
+        },
+        {
+          "title": "#4【Elevenlabs】無料で日本語ボイスが作成可能!",
+          "tags": [],
+          "published_at": "2025-12-14T01:01:09Z"
+        },
+        {
+          "title": "#3【Elevenlabs】無料で日本語ボイスが作成可能!",
+          "tags": [],
+          "published_at": "2025-12-13T08:00:52Z"
+        },
+        {
+          "title": "#2【Elevenlabs】無料で日本語ボイスが作成可能!",
+          "tags": [],
+          "published_at": "2025-12-13T01:01:11Z"
+        },
+        {
+          "title": "#1【Elevenlabs】無料で日本語ボイスが作成可能!",
+          "tags": [],
+          "published_at": "2025-12-12T08:31:03Z"
+        },
+        {
+          "title": "【無料OK】感情が動く日本語AI音声が凄すぎた…｜ElevenLabs徹底解説",
+          "tags": [],
+          "published_at": "2025-12-12T08:01:20Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matt Wolfe": {
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "handle": "mreflow",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "ChatGPT Image Model: New Features",
+          "tags": [],
+          "published_at": "2025-12-17T17:00:15Z"
+        },
+        {
+          "title": "Did ChatGPT Just Kill Nano Banana?",
+          "tags": [],
+          "published_at": "2025-12-17T02:20:32Z"
+        },
+        {
+          "title": "How I Personally Use AI Browsers",
+          "tags": [],
+          "published_at": "2025-12-15T14:00:11Z"
+        },
+        {
+          "title": "Why Everyone Hates The McDonald&#39;s AI Ad",
+          "tags": [],
+          "published_at": "2025-12-13T05:00:12Z"
+        },
+        {
+          "title": "AI NEWS: GPT-5.2 Is HERE! (Plus Runway 4.5 and the Next Image AI Leaks)",
+          "tags": [],
+          "published_at": "2025-12-12T20:45:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Two Minute Papers": {
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "handle": "TwoMinutePapers",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Game Physics Just Jumped A Generation",
+          "tags": [],
+          "published_at": "2025-12-18T07:42:21Z"
+        },
+        {
+          "title": "Researchers Built a Tiny Economy. AIs Broke It Immediately",
+          "tags": [],
+          "published_at": "2025-12-14T09:33:06Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Explaine": {
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "handle": "aiexplained-official",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "GPT 5.2: OpenAI Strikes Back",
+          "tags": [],
+          "published_at": "2025-12-12T16:24:49Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "DeepLearning.AI": {
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "handle": "Deeplearningai",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Make your AI agents production-ready with Nvidia’s NeMo Toolkit",
+          "tags": [],
+          "published_at": "2025-12-17T14:43:43Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "The AI Advantage": {
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "handle": "aiadvantage",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "Gemini Just Got a HUGE Update! (Deep Research Visuals)",
+          "tags": [],
+          "published_at": "2025-12-18T18:58:49Z"
+        },
+        {
+          "title": "You Need to Start Prompting Like This!",
+          "tags": [],
+          "published_at": "2025-12-17T14:56:53Z"
+        },
+        {
+          "title": "ChatGPT NEW Image 1.5 is Finally Here! (Nano Banana Comparison)",
+          "tags": [],
+          "published_at": "2025-12-16T23:54:39Z"
+        },
+        {
+          "title": "They&#39;re Gonna Put New Ads in Old Shows with AI 😥",
+          "tags": [],
+          "published_at": "2025-12-15T14:09:51Z"
+        },
+        {
+          "title": "They Put Photoshop In ChatGPT! 🤯",
+          "tags": [],
+          "published_at": "2025-12-12T19:26:00Z"
+        },
+        {
+          "title": "Gemini 3 Deep Think Reviewed &amp; More AI Use Cases",
+          "tags": [],
+          "published_at": "2025-12-12T19:22:28Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "MattVidPro AI": {
+      "channel_id": "UC5Wz4fFacYuON6IKbhSa7Zw",
+      "handle": "MattVidPro",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Siraj Raval": {
+      "channel_id": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "handle": "SirajRaval",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AITrepreneur": {
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "handle": "Aitrepreneur",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "ULTIMATE FREE LORA Training Z-IMAGE-TURBO! Less Than 12GB VRAM!",
+          "tags": [],
+          "published_at": "2025-12-13T17:58:06Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Olivio Sarikas": {
+      "channel_id": "UCCKx8mAHiFus-XYQLy_WnaA",
+      "handle": "OlivioSarikas",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "I Was Wrong About AI in Photography... (Here&#39;s Why)",
+          "tags": [],
+          "published_at": "2025-12-12T21:30:29Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Liam Ottley": {
+      "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
+      "handle": "LiamOttley",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "I Stacked 3 Remote Jobs and Made $400K With AI (Here&#39;s How)",
+          "tags": [],
+          "published_at": "2025-12-18T08:35:48Z"
+        },
+        {
+          "title": "5 AI Habits That Will Separate Winners From Losers in 2026",
+          "tags": [],
+          "published_at": "2025-12-16T08:15:40Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Futurepedia": {
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "handle": "futurepedia_io",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "7 AI Skills You Need NOW for 2026",
+          "tags": [],
+          "published_at": "2025-12-15T15:00:10Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Revolution": {
+      "channel_id": "UC5l7RouTQ60oUjLjt1Nh-UQ",
+      "handle": "airevolutionx",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "Google’s New Gemini 3 Flash, OpenAI Apps, Grok Agents, Wan 2.6 and More Intense AI News",
+          "tags": [],
+          "published_at": "2025-12-19T00:00:07Z"
+        },
+        {
+          "title": "OpenAI Just Dropped a New AI Beast: GPT Image 1.5",
+          "tags": [],
+          "published_at": "2025-12-17T22:59:41Z"
+        },
+        {
+          "title": "Manus Just Dropped Its Most Powerful AI Yet",
+          "tags": [],
+          "published_at": "2025-12-16T23:06:04Z"
+        },
+        {
+          "title": "China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)",
+          "tags": [],
+          "published_at": "2025-12-16T00:09:05Z"
+        },
+        {
+          "title": "OpenAI Just Caught an AI Thinking!",
+          "tags": [],
+          "published_at": "2025-12-14T22:56:22Z"
+        },
+        {
+          "title": "OpenAI Garlic, Google Titans, Apple Clara, GPT 5.2, AGI Claims and More AI News This Week",
+          "tags": [],
+          "published_at": "2025-12-14T00:11:49Z"
+        },
+        {
+          "title": "GPT 5.2 Backlash Needs To Be Studied",
+          "tags": [],
+          "published_at": "2025-12-12T22:27:19Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Wes Roth": {
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "handle": "WesRoth",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "OpenAI is &quot;Is Hiding the Truth&quot;",
+          "tags": [],
+          "published_at": "2025-12-17T10:13:24Z"
+        },
+        {
+          "title": "Google DeepMind: &quot;The arrival of AGI&quot;",
+          "tags": [],
+          "published_at": "2025-12-13T15:44:02Z"
+        },
+        {
+          "title": "GPT 5.2 is the first HUMAN LABOR replacement",
+          "tags": [],
+          "published_at": "2025-12-12T10:21:01Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Black Mixture": {
+      "channel_id": "UCOwFX-YFktXxEIX7-IPjlKQ",
+      "handle": "BlackMixture",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Skill Leap AI": {
+      "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
+      "handle": "SkillLeapAI",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "All About AI": {
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "handle": "AllAboutAI",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "Shipmas Day 14: Can AI Agents &quot;Dream&quot; In a Simulation?",
+          "tags": [],
+          "published_at": "2025-12-18T19:04:31Z"
+        },
+        {
+          "title": "Shipmas Day 13: GPT-Image 1.5 vs Nano Banana Pro Testing",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:01Z"
+        },
+        {
+          "title": "Shipmas Day 12: AI Music Video Generator App",
+          "tags": [],
+          "published_at": "2025-12-16T16:01:33Z"
+        },
+        {
+          "title": "NVIDIA Nemotron 3 Nano 30B First Impression - Shipmas Day 11",
+          "tags": [],
+          "published_at": "2025-12-15T16:11:56Z"
+        },
+        {
+          "title": "Shipmas Day 10: The AI Reverse Engineering Workflow",
+          "tags": [],
+          "published_at": "2025-12-14T16:01:24Z"
+        },
+        {
+          "title": "Shipmas Day 9: How I Use AI Video To Get 10+ Million Views",
+          "tags": [],
+          "published_at": "2025-12-13T16:00:44Z"
+        },
+        {
+          "title": "Shipmas Day 8: Image to Code AI Subagents in Claude Code",
+          "tags": [],
+          "published_at": "2025-12-12T16:00:57Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Corbin Brown": {
+      "channel_id": "UCJFMlSxcvlZg5yZUYJT0Pug",
+      "handle": "Corbin_Brown",
+      "video_count": 50,
+      "videos": [
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-19T04:13:13Z"
+        },
+        {
+          "title": "This time I give steve a link (no mid-stream ads)",
+          "tags": [],
+          "published_at": "2025-12-19T03:13:44Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:54Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:57:09Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:29Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:35Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:26Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:30Z"
+        },
+        {
+          "title": "Creating a SharePoint Site/Subsite",
+          "tags": [],
+          "published_at": "2025-12-17T22:52:32Z"
+        },
+        {
+          "title": "About Video&#39;s Simon Has Online dating Websites Spend Over $1,700 $15,000 On Website BigScams",
+          "tags": [],
+          "published_at": "2025-12-17T16:41:40Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:01:10Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:50Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:56Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:43Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:21:36Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:18:14Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:15Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:28Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:07Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:25Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:04Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:17Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:46:03Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:45:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:27Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:45:57Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:18:05Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:13:57Z"
+        },
+        {
+          "title": "For someone to go through my page, watch my videos, check my profile",
+          "tags": [],
+          "published_at": "2025-12-17T07:53:08Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:09:06Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:05:15Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:15:28Z"
+        },
+        {
+          "title": "Biggest Conspiracy Videos On The Internet Today!  (Ep 396)",
+          "tags": [],
+          "published_at": "2025-12-17T03:00:10Z"
+        },
+        {
+          "title": "¿Sabías que el primer sitio web aún existe?",
+          "tags": [],
+          "published_at": "2025-12-17T02:00:57Z"
+        },
+        {
+          "title": "Want to video chat with your website site visitors or your community members? Check out latest video",
+          "tags": [],
+          "published_at": "2025-12-17T00:51:43Z"
+        },
+        {
+          "title": "Putting off a new website? 👩‍💻",
+          "tags": [],
+          "published_at": "2025-12-16T21:45:03Z"
+        },
+        {
+          "title": "Your website is BROKEN if it’s not doing this",
+          "tags": [],
+          "published_at": "2025-12-16T21:00:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:45Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:52Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:37Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:19Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:14Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:20Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T15:54:28Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Jordan Harrod": {
+      "channel_id": "UC1H1NWNTG2Xi3pt85ykVSHA",
+      "handle": "JordanHarrod",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Cyberjungle": {
+      "channel_id": "UCsilEv_20FmmBr5CDzmTMgg",
+      "handle": "cyberjungle",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "NEW AI Video Generator Kling 2.6 DESTROYS Veo 3.1 &amp; WAN 2.6? (Prompt Battle)",
+          "tags": [],
+          "published_at": "2025-12-18T20:26:24Z"
+        },
+        {
+          "title": "The BEST Way to Create Every Camera Angle in Nano Banana PRO",
+          "tags": [],
+          "published_at": "2025-12-12T12:46:46Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Developer's Digest": {
+      "channel_id": "UCuE6iwZKgGz8s6kznBRI9LQ",
+      "handle": "DevelopersDigest",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI Search": {
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "handle": "theAIsearch",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "Z-image Advanced Tutorial: Controlnet, inpainting, 4K+ upscaling &amp; more",
+          "tags": [],
+          "published_at": "2025-12-18T03:30:27Z"
+        },
+        {
+          "title": "NEW GPT Image 1.5 vs Nano Banana Pro",
+          "tags": [],
+          "published_at": "2025-12-17T03:43:14Z"
+        },
+        {
+          "title": "GPT-5.2 is a total monster",
+          "tags": [],
+          "published_at": "2025-12-16T03:30:36Z"
+        },
+        {
+          "title": "GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS",
+          "tags": [],
+          "published_at": "2025-12-14T03:30:37Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matthew Berman": {
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "handle": "matthew_berman",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "AI News: Gemini 3 Flash, GPT Image 1.5, NVIDIA Nemotron 3, Bernie Sanders DOOMER, and more!",
+          "tags": [],
+          "published_at": "2025-12-18T20:52:48Z"
+        },
+        {
+          "title": "ChatGPT Now Has ADOBE Products?!",
+          "tags": [],
+          "published_at": "2025-12-18T18:04:07Z"
+        },
+        {
+          "title": "Gemini 3 Flash is the Best Model Out?!",
+          "tags": [],
+          "published_at": "2025-12-18T00:19:09Z"
+        },
+        {
+          "title": "Gemini 3 FLASH is insane",
+          "tags": [],
+          "published_at": "2025-12-17T20:11:11Z"
+        },
+        {
+          "title": "Reinforcement Learning Tutorial - RLVR with NVIDIA &amp; Unsloth",
+          "tags": [],
+          "published_at": "2025-12-15T13:00:29Z"
+        },
+        {
+          "title": "Forward Future Live | 12/12/2025",
+          "tags": [],
+          "published_at": "2025-12-13T08:11:09Z"
+        },
+        {
+          "title": "AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!",
+          "tags": [],
+          "published_at": "2025-12-13T00:07:26Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "What's AI by Louis-François Bouchard": {
+      "channel_id": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "handle": "WhatsAI",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "Gift one, get one on the Towards AI Academy throughout December!",
+          "tags": [],
+          "published_at": "2025-12-18T19:01:01Z"
+        },
+        {
+          "title": "Engineering AI Agents — University of San Diego Guest Talk",
+          "tags": [],
+          "published_at": "2025-12-16T16:10:18Z"
+        },
+        {
+          "title": "Speech to Text Is Harder Than You Think",
+          "tags": [],
+          "published_at": "2025-12-16T13:00:59Z"
+        },
+        {
+          "title": "The Hidden Skill Boost Behind Posting Online",
+          "tags": [],
+          "published_at": "2025-12-15T13:01:45Z"
+        },
+        {
+          "title": "The Easiest Accountability Hack for Builders",
+          "tags": [],
+          "published_at": "2025-12-14T13:00:21Z"
+        },
+        {
+          "title": "Prompt Debt: The New Trap AI Builders Fall Into",
+          "tags": [],
+          "published_at": "2025-12-13T14:01:03Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Artificial Intelligence News Daily": {
+      "channel_id": "UCItylrp-EOkBwsUT7c_Xkxg",
+      "handle": "artificialintelligencenews1373",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "LEAKED Interview With SEDUCTIVE Female Robots",
+          "tags": [],
+          "published_at": "2025-12-13T17:15:00Z"
+        },
+        {
+          "title": "Fully Functioning Female AI ROBOTS For SALE In 2025",
+          "tags": [],
+          "published_at": "2025-12-12T17:15:01Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "James Briggs": {
+      "channel_id": "UCv83tO5cePwHMt1952IVVHw",
+      "handle": "jamesbriggs",
+      "video_count": 50,
+      "videos": [
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-19T04:13:13Z"
+        },
+        {
+          "title": "This time I give steve a link (no mid-stream ads)",
+          "tags": [],
+          "published_at": "2025-12-19T03:13:44Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:54Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:57:09Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T15:56:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:41Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:29Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T12:15:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:35Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:26Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:55Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:30Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-18T06:12:02Z"
+        },
+        {
+          "title": "Creating a SharePoint Site/Subsite",
+          "tags": [],
+          "published_at": "2025-12-17T22:52:32Z"
+        },
+        {
+          "title": "About Video&#39;s Simon Has Online dating Websites Spend Over $1,700 $15,000 On Website BigScams",
+          "tags": [],
+          "published_at": "2025-12-17T16:41:40Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:01:10Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:50Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:56Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T16:00:43Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:21:36Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T14:18:14Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:15Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:28Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:07Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:25Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:04Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:48:17Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:46:03Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:59Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:47:27Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-17T08:45:57Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:18:05Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T08:13:57Z"
+        },
+        {
+          "title": "For someone to go through my page, watch my videos, check my profile",
+          "tags": [],
+          "published_at": "2025-12-17T07:53:08Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:09:06Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T04:05:15Z"
+        },
+        {
+          "title": "Click the link on my homepage to download and read the rest for free.",
+          "tags": [],
+          "published_at": "2025-12-17T03:15:28Z"
+        },
+        {
+          "title": "Biggest Conspiracy Videos On The Internet Today!  (Ep 396)",
+          "tags": [],
+          "published_at": "2025-12-17T03:00:10Z"
+        },
+        {
+          "title": "¿Sabías que el primer sitio web aún existe?",
+          "tags": [],
+          "published_at": "2025-12-17T02:00:57Z"
+        },
+        {
+          "title": "Want to video chat with your website site visitors or your community members? Check out latest video",
+          "tags": [],
+          "published_at": "2025-12-17T00:51:43Z"
+        },
+        {
+          "title": "Putting off a new website? 👩‍💻",
+          "tags": [],
+          "published_at": "2025-12-16T21:45:03Z"
+        },
+        {
+          "title": "Your website is BROKEN if it’s not doing this",
+          "tags": [],
+          "published_at": "2025-12-16T21:00:31Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:45Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:52Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:37Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:19Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:14Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T16:05:20Z"
+        },
+        {
+          "title": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
+          "tags": [],
+          "published_at": "2025-12-16T15:54:28Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AssemblyAI": {
+      "channel_id": "UCtatfZMf-8EkIwASXM4ts0A",
+      "handle": "AssemblyAI",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Building Ambient AI Medical Scribes: Best Practices",
+          "tags": [],
+          "published_at": "2025-12-15T16:01:10Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Dot CSV Lab": {
+      "channel_id": "UCOTko-zmnQTcOxSRdg5_uOQ",
+      "handle": "DotCSVLab",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Análisis GPT-5.2 ¿FRENARÁ la CRISIS de OPENAI? 🚨",
+          "tags": [],
+          "published_at": "2025-12-16T17:44:13Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "💀 SALVAJE 💀": {
+      "channel_id": "UCHSOfqMtzD0_3i7_593NGGw",
+      "handle": "SDESALVAJE",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Xavier Mitjana": {
+      "channel_id": "UCp2Zmdh40GJJJ2T5vWsMZDA",
+      "handle": "XavierMitjana",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "Google presenta SU MEJOR MODELO... y es ¡GRATIS! 🤯",
+          "tags": [],
+          "published_at": "2025-12-18T17:27:22Z"
+        },
+        {
+          "title": "¡GRATIS! ChatGPT ya tiene su NANOBANANA (¿Mejor o peor?) 🤔",
+          "tags": [],
+          "published_at": "2025-12-16T21:52:52Z"
+        },
+        {
+          "title": "Mejoras MUY BESTIAS a las HERRAMIENTAS GRATUITAS de Google 🤯 Y muchas MÁS NOVEDADES",
+          "tags": [],
+          "published_at": "2025-12-14T14:22:16Z"
+        },
+        {
+          "title": "¡Nuevo GPT 5.2! Compite (y supera) con HUMANOS EXPERTOS 🤯  Ya en CHATGPT",
+          "tags": [],
+          "published_at": "2025-12-12T12:12:29Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Alejavi Rivera": {
+      "channel_id": "UCxcDzs-4quJV4QsairlFYNg",
+      "handle": "alejavirivera",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Google ahora crea APPs reales por IA GRATIS en minutos 🚀",
+          "tags": [],
+          "published_at": "2025-12-18T18:00:16Z"
+        },
+        {
+          "title": "Gemini 3 con NotebookLM es una Bestia: Nuevos 5 Casos que puedes hacer ahora",
+          "tags": [],
+          "published_at": "2025-12-14T18:01:03Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Inteligencia Artificial": {
+      "channel_id": "UCl5-lvQyfILb-l2abPk4Ntg",
+      "handle": "la_inteligencia_artificial",
+      "video_count": 21,
+      "videos": [
+        {
+          "title": "NUEVO PODCAST 🔥 Google NO matará a OpenAI 🤖 | 🎙️ Xavi Amatriain, Vicepresidente de Google",
+          "tags": [],
+          "published_at": "2025-12-18T19:06:40Z"
+        },
+        {
+          "title": "Vicepresidente de Google: Tenemos un plan y NO mataremos a OpenAI",
+          "tags": [],
+          "published_at": "2025-12-18T19:00:00Z"
+        },
+        {
+          "title": "Estados Unidos lanza Genesis Mission, un esfuerzo estatal del nivel del Proyecto Manhattan 🚀",
+          "tags": [],
+          "published_at": "2025-12-18T15:54:38Z"
+        },
+        {
+          "title": "🤖 Evaluando un excel y un dataset hecho por  ChatGPT-5.2 | 🤖 #ai #chatgpt #openai",
+          "tags": [],
+          "published_at": "2025-12-18T13:34:36Z"
+        },
+        {
+          "title": "🤖 Se usa la misma palabra para dos conceptos que no tienen nada que ver| 🤖 #ai #chatgpt #education",
+          "tags": [],
+          "published_at": "2025-12-17T16:42:30Z"
+        },
+        {
+          "title": "🤖 Los modelos son tan complejos que entender sus neuronas no aclara nada | 🤖 #ai #chatgpt #education",
+          "tags": [],
+          "published_at": "2025-12-17T15:10:20Z"
+        },
+        {
+          "title": "¿ChatGPT Imagen supera a Nano Banana? Algo no cuadra 🍌🤔",
+          "tags": [],
+          "published_at": "2025-12-17T13:49:17Z"
+        },
+        {
+          "title": "🤖 GPT-5.2 resultar ser un modelo tan potente como lento | 🤖 #ai #chatgpt #openai",
+          "tags": [],
+          "published_at": "2025-12-17T13:26:43Z"
+        },
+        {
+          "title": "🤖 El gran avance de este último mes en benchmarks de IA | 🤖 #ia #chatgpt #openai",
+          "tags": [],
+          "published_at": "2025-12-17T11:10:33Z"
+        },
+        {
+          "title": "🤖 Se pueden tardar décadas en implementar completamente las capacidades de la IA | 🤖 #ia #chatgpt",
+          "tags": [],
+          "published_at": "2025-12-16T16:45:32Z"
+        },
+        {
+          "title": "🤖 No se trata de dinero sino de poder | 🤖 #ia #chatgpt #educacion",
+          "tags": [],
+          "published_at": "2025-12-16T14:59:23Z"
+        },
+        {
+          "title": "🤖 La financiación no ofrece la prueba final | 🤖 #ia #chatgpt #educación",
+          "tags": [],
+          "published_at": "2025-12-16T13:07:57Z"
+        },
+        {
+          "title": "🤖 Los agentes ya toman decisiones que no podemos prever por completo | 🤖 #ia #chatgpt #educación",
+          "tags": [],
+          "published_at": "2025-12-16T11:06:00Z"
+        },
+        {
+          "title": "🚨 NOTICIAS IA 🚨: Esto es lo que me ha sorprendido de GPT-5.2 🔥🤯",
+          "tags": [],
+          "published_at": "2025-12-15T19:00:57Z"
+        },
+        {
+          "title": "🤖 Nuevas mejoras incrementales y debate sobre benchmarks de Runway 4.5 | 🤖 #ia #chatgpt #runway",
+          "tags": [],
+          "published_at": "2025-12-15T16:36:30Z"
+        },
+        {
+          "title": "🤖 Nueva función en Microsoft, texto a voz en inglés | 🤖 #ia #chatgpt #microsoft",
+          "tags": [],
+          "published_at": "2025-12-15T15:13:09Z"
+        },
+        {
+          "title": "🤖 KLING 01 el nuevo modelo que reta a Nano Banana Pro | 🤖 #ai #chatgpt #google",
+          "tags": [],
+          "published_at": "2025-12-15T13:01:13Z"
+        },
+        {
+          "title": "🤖 Demis Hassabis dice que los LLMs son parte clave de la AGI| 🤖 #ia #chatgpt #google",
+          "tags": [],
+          "published_at": "2025-12-15T11:11:15Z"
+        },
+        {
+          "title": "🤖 Entrenan a un modelo de IA para supervisar comunicaciones de reclusos | 🤖 #ai #chatgpt",
+          "tags": [],
+          "published_at": "2025-12-12T14:43:02Z"
+        },
+        {
+          "title": "GPT-5.2 es la p*ta hostia 🔥🤯",
+          "tags": [],
+          "published_at": "2025-12-12T13:00:21Z"
+        },
+        {
+          "title": "🤖 Deepseek lanza un nuevo modelo  que desafía las grandes empresas | 🤖#ai #chatgpt #deepseek",
+          "tags": [],
+          "published_at": "2025-12-12T12:32:44Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Migue Baena IA": {
+      "channel_id": "UCX_dT6nVtCIHRo_GFOsWK2A",
+      "handle": "MigueBaenaIA",
+      "video_count": 8,
+      "videos": [
+        {
+          "title": "Nano Banana Pro + Gemini 3: MODO BESTIA para diseñar con IA",
+          "tags": [],
+          "published_at": "2025-12-18T18:01:02Z"
+        },
+        {
+          "title": "La IA de vídeo GRATIS que supera a VEO 3",
+          "tags": [],
+          "published_at": "2025-12-18T13:03:28Z"
+        },
+        {
+          "title": "📱 Crea tu APP sin programar (en minutos) 🤩",
+          "tags": [],
+          "published_at": "2025-12-17T13:13:50Z"
+        },
+        {
+          "title": "🤖 Este agente de IA navega y crea diapositivas por ti 🤩",
+          "tags": [],
+          "published_at": "2025-12-16T12:05:07Z"
+        },
+        {
+          "title": "Google invierte en esta plataforma de IA (Emergent) 🤯",
+          "tags": [],
+          "published_at": "2025-12-15T12:04:54Z"
+        },
+        {
+          "title": "4 NUEVAS funciones de Gemini 3 que SÍ vas a usar cada día (y son gratis)",
+          "tags": [],
+          "published_at": "2025-12-14T18:00:18Z"
+        },
+        {
+          "title": "El Truco para Veo 3 que Nadie Está Usando 😳👀",
+          "tags": [],
+          "published_at": "2025-12-14T15:07:56Z"
+        },
+        {
+          "title": "La IA que crea automatizaciones por ti 🤯⚡️",
+          "tags": [],
+          "published_at": "2025-12-12T14:07:27Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Video School": {
+      "channel_id": "UCUb7KwmlVSSCnPu5KEhym8A",
+      "handle": "aivideoschool",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Timestamp Prompts: Narrative Control for AI Video (Runway, Veo, Sora, Kling)",
+          "tags": [],
+          "published_at": "2025-12-17T14:01:37Z"
+        }
+      ],
+      "collection_status": "success"
+    }
+  },
+  "summary": {
+    "total_channels": 58,
+    "successful_channels": 58,
+    "failed_channels": 0,
+    "total_videos": 414,
+    "success_rate": "100.0%"
+  }
+}
