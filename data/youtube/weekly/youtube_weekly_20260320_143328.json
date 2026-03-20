@@ -1,0 +1,1250 @@
+{
+  "collection_date": "2026-03-20",
+  "collection_date_jst": "2026-03-20T14:32:18.290077+09:00",
+  "source": "YouTube Data API v3",
+  "total_channels": 58,
+  "successful_channels": 58,
+  "failed_channels": 0,
+  "total_videos": 157,
+  "channels": {
+    "ウェブ職TV": {
+      "channel_id": "UClNZUVnSFRKKUfJYarEUqdA",
+      "handle": "webshokutv",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "Anthropicが発表した神機能「Claude Dispatch」で、OpenClawが駆逐されるか。",
+          "tags": [],
+          "published_at": "2026-03-19T10:40:31Z"
+        },
+        {
+          "title": "【記事執筆】これが最新AI、最強の組み合わせ",
+          "tags": [],
+          "published_at": "2026-03-18T11:01:40Z"
+        },
+        {
+          "title": "SEOで上位表示するためのプロの打ち手",
+          "tags": [],
+          "published_at": "2026-03-16T11:59:22Z"
+        },
+        {
+          "title": "【Claude Code vs Codex】初心者におすすめなAI開発支援ツールはこれ！",
+          "tags": [],
+          "published_at": "2026-03-14T10:59:18Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "NI-WORK": {
+      "channel_id": "UChD63R31attT5w8WOZeuXyg",
+      "handle": "NI-WORK",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "まさおAIじっくり解説ch": {
+      "channel_id": "UCvHpETRVi1tXeRJoYiXHJqw",
+      "handle": "ai_masaou",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "【これは希望】Cursorから新モデル『Composer 2』登場！爆速モデル&amp;低コスト化で鍵になりそうなので解説します",
+          "tags": [],
+          "published_at": "2026-03-19T23:00:21Z"
+        },
+        {
+          "title": "【もっと最高に】Google Stitch に大型アプデ！無限キャンバス×ボイス操作の5つのアプデ全機能を解説",
+          "tags": [],
+          "published_at": "2026-03-19T10:05:33Z"
+        },
+        {
+          "title": "【激アツ】GPT-5.4 miniとnanoが登場！高速&amp;コスト1/3以下でトップ級？！徹底解説します",
+          "tags": [],
+          "published_at": "2026-03-17T22:00:13Z"
+        },
+        {
+          "title": "【世界が大絶賛】Claude Code等で使える『Superpowers』で開発効率&amp;品質が爆上がり！本質的な7つの流れを解説",
+          "tags": [],
+          "published_at": "2026-03-17T11:15:00Z"
+        },
+        {
+          "title": "Antigravityの実質値上げは誰が悲しい？本質的なパラダイムシフトから見る考えるClaudeCode Codexの自律時代解説",
+          "tags": [],
+          "published_at": "2026-03-15T11:46:40Z"
+        },
+        {
+          "title": "【全員必見】Claude Code、過去1ヶ月の神アップデート完全まとめ！自動化・並列開発の新時代！",
+          "tags": [],
+          "published_at": "2026-03-14T09:05:00Z"
+        },
+        {
+          "title": "【注目の新作?】進化したDeepSeek V4では？と噂される新作モデルを使ってみた",
+          "tags": [],
+          "published_at": "2026-03-13T11:20:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いけともch_旧リモ研": {
+      "channel_id": "UCpUQnk6MaY4o3NdgJmv10cw",
+      "handle": "iketomo-ch",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "課金上等！仕事で本当に使ってる最強AIツール9選～AIガチ勢のいけともが実際の業務でどう使ってるかも画面つきで全公開",
+          "tags": [],
+          "published_at": "2026-03-18T11:01:49Z"
+        },
+        {
+          "title": "注目AIニュース22選～ゴールドマンサックスの仕事をするAI、Claude会話で図解、Geminiサイドパネルが進化など",
+          "tags": [],
+          "published_at": "2026-03-15T06:00:06Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "いっしゅ / AIクリエイター": {
+      "channel_id": "UCgyzX-fA6gy2lLM3bX4E0Hg",
+      "handle": "ishcreative",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "チャエン【AI研究所】〜仕事で使える最新のAI情報を発信〜 Byデジライズ": {
+      "channel_id": "UC9buL3Iph_f7AZxdzmiBL8Q",
+      "handle": "chaen-ai-lab",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "【必見】業務で本当に使えるClaude Code活用事例10選｜非エンジニアでも業務が10倍速になった秘伝の方法を徹底公開。《議事録、ブログ作成、SNS投稿、エクセル・パワポ作成、確定申告 ,etc》",
+          "tags": [],
+          "published_at": "2026-03-19T10:30:00Z"
+        },
+        {
+          "title": "【Claude Code vs ChatGPT】結局何が違うの？最大の特徴は「PCファイルの直接操作」！ #claudecode  #chatgpt  #ai  #業務効率化",
+          "tags": [],
+          "published_at": "2026-03-18T11:00:00Z"
+        },
+        {
+          "title": "【Claude Code完全版】業務自動化の第一歩！初心者向けセットアップマニュアル #claudecode  #AI #業務自動化 #cursor",
+          "tags": [],
+          "published_at": "2026-03-16T11:00:00Z"
+        },
+        {
+          "title": "世界で1番性能がいいAI「Claude Code」の始め方・使い方を徹底解説！ #ClaudeCode #AIツール #業務効率化",
+          "tags": [],
+          "published_at": "2026-03-15T10:00:00Z"
+        },
+        {
+          "title": "【保存版】初心者向けClaudeCode入門講座。世界で一番性能が高いAIエージェントを徹底解剖。《初期設定方法、Claude・Coworkとの使い分け。Cursor連携、Skill・MCPなど》",
+          "tags": [],
+          "published_at": "2026-03-13T10:30:07Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "にゃんたのAIチャンネル": {
+      "channel_id": "UCZQVTC3uLCyuJUOcRlguazA",
+      "handle": "aivtuber2866",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Claude Codeで使える！Agent Skillsの仕組みと自律型ワークフローの作り方を解説してみた",
+          "tags": [],
+          "published_at": "2026-03-14T09:00:58Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "KEITO【AI&WEB ch】": {
+      "channel_id": "UCfapRkagDtoQEkGeyD3uERQ",
+      "handle": "keitoaiweb",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "Google Stitchが“バイブデザインAI”に進化。いい感じでデザイン完成します（実演）",
+          "tags": [],
+          "published_at": "2026-03-19T10:01:04Z"
+        },
+        {
+          "title": "スマホでPC動くってマジ？Claudeの新機能『Dispatch』が革命的に便利だった",
+          "tags": [],
+          "published_at": "2026-03-18T07:12:19Z"
+        },
+        {
+          "title": "Geminiに『スキル』風の考えを取り入れたAI活用フロー",
+          "tags": [],
+          "published_at": "2026-03-16T10:01:26Z"
+        },
+        {
+          "title": "【革命的】Claude in ExcelとPowerPointがClaudeで繋がっていく！",
+          "tags": [],
+          "published_at": "2026-03-13T11:01:49Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI FREAK - 最新のAIツールをご紹介": {
+      "channel_id": "UCLapF_KiSMKFWcVdXytOLgA",
+      "handle": "aifreak_ch",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "あなたはどっちの時代が好きですか？",
+          "tags": [],
+          "published_at": "2026-03-18T06:49:54Z"
+        },
+        {
+          "title": "「ありがとう」を言えばお金が稼げる世界",
+          "tags": [],
+          "published_at": "2026-03-13T12:35:14Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI様の下僕": {
+      "channel_id": "UCNBWx9JET3iRoCXliY2G4rQ",
+      "handle": "AI-geboku",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "【ガチ結論】Kling AI、もうこれで良くないか？｜今できること総まとめ",
+          "tags": [],
+          "published_at": "2026-03-17T13:00:07Z"
+        },
+        {
+          "title": "【企画】非エンジニアがAIだけで開発〜公開まで挑戦してみた！無料なので使ってみてくれぃ。",
+          "tags": [],
+          "published_at": "2026-03-15T13:33:42Z"
+        },
+        {
+          "title": "【コラボ配信】リスナー参加型！「数の暴力でAI作品を作ってみたらどうなるの？」目指せ１００人リアルタイム生成。",
+          "tags": [],
+          "published_at": "2026-03-15T04:24:02Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIでサボろうチャンネル": {
+      "channel_id": "UC9AuyS7U4PxeDSNMJ2srarA",
+      "handle": "ai-saborou",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "RKJ VIDEO 【イケている動画を作りたいなら】": {
+      "channel_id": "UCVARwuMmqP4tqQFUQm57oQQ",
+      "handle": "RKJVideoforyou",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "全自動で動画を作ってくれるPollo Agent誕生。（Pollo AIの最新アップデート）",
+          "tags": [],
+          "published_at": "2026-03-17T09:00:31Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ダルトワ★TV": {
+      "channel_id": "UChk3jyTp7BaOWnvUEQOLN5A",
+      "handle": "dartois_tv",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "ここなの AI 研究所": {
+      "channel_id": "UCb18vBcozRjkD1PtB4pohWQ",
+      "handle": "AI-Laboratory-in-Cocona",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "【2026年最新】Antigravity × Remotion｜AIテロップ制作の全工程を公開（Gemini 3 Flash実践）",
+          "tags": [],
+          "published_at": "2026-03-18T23:00:06Z"
+        },
+        {
+          "title": "Antigravity運用の極意：Gemini 3.1 Pro / Claude Opus 4.6時代の「Gemini 3 Flash」を選ぶ最強AI活用術",
+          "tags": [],
+          "published_at": "2026-03-17T23:00:06Z"
+        },
+        {
+          "title": "月40ドルの黄金ループ！Antigravity × Claude Code で200ドル級のAI開発環境を構築する方法",
+          "tags": [],
+          "published_at": "2026-03-16T23:00:06Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "はむ先生のAI教室【AIツールを体系的に解説】": {
+      "channel_id": "UCgwv7JsLDvGTtRdFI4TVRQw",
+      "handle": "ham_ai_skill",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI大学【AI&ChatGPT最新情報】": {
+      "channel_id": "UCXo1SsIDZ_dke2Nr1r3qk6w",
+      "handle": "AIAIChatGPT-cj4sh",
+      "video_count": 4,
+      "videos": [
+        {
+          "title": "【2026年春最新】Claude Code(クロードコード)スキル機能完全ガイド｜Agent Skills(スキル)の使い方・作り方・おすすめ活用法までまとめて解説！",
+          "tags": [],
+          "published_at": "2026-03-19T09:05:35Z"
+        },
+        {
+          "title": "【2026年春最新】Googleの無料でも使えるAI映像制作ツール「Flow」が大幅リニューアル｜Veo 3.1・Nano Banana 2/Proで、動画と画像生成・編集がこれ1つで完結！",
+          "tags": [],
+          "published_at": "2026-03-17T09:06:10Z"
+        },
+        {
+          "title": "【今週のAIトレンド丸わかり】Claudeに動く図解生成機能など実装/Mac miniを常時操作できる「Personal Computer」/Google Workspaceの新Gemini機能",
+          "tags": [],
+          "published_at": "2026-03-15T09:05:29Z"
+        },
+        {
+          "title": "【2026年春最新版】今年再注目のAI「Claudeシリーズ」完全ガイド｜人気の理由とClaude Code・Cowork・Opus 4.6…全ツールをまとめて解説！",
+          "tags": [],
+          "published_at": "2026-03-13T09:06:54Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIで創作効率化とマネタイズby嗚呼蛙": {
+      "channel_id": "UCjEa-tDIQIJ-rLslyEGLZdA",
+      "handle": "AICreative_and_Monetization",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【無料】イラスト特化の最新画像生成モデル「Anima」の性能チェックとComfyUIへの導入方法とプロンプトの入れ方",
+          "tags": [],
+          "published_at": "2026-03-14T10:00:22Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AIキャンプ / 中村俊也": {
+      "channel_id": "UCJRUWZsQXvLlBOUeZdtIcYQ",
+      "handle": "aicampll",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【実演】AI用語クイズゲームをAIで作ってみた！Gemini×Cursorでバイブコーディング！",
+          "tags": [],
+          "published_at": "2026-03-18T09:01:14Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "サファはユーチューバー【AIイラスト】": {
+      "channel_id": "UCjSy2qn-nx6D57BS7WVqowg",
+      "handle": "safa-dayo",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "【AIドラマ作成】Novi AIのSeedance 2.0を使って、撮影ゼロで青春ラブコメを作っていく",
+          "tags": [],
+          "published_at": "2026-03-16T10:00:32Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "mikimiki web スクール": {
+      "channel_id": "UChxtIA33ty53Hh4MmkXNASg",
+      "handle": "mikimikiweb",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "【超便利‼️】Google最強AI「Gemini」の㊙️神プロンプト術6選！めちゃくちゃ便利なので徹底解説",
+          "tags": [],
+          "published_at": "2026-03-18T10:37:41Z"
+        },
+        {
+          "title": "【初心者OK🔰】アンソロピック「Claude Cowork」使い方基礎講座！活用法まで分かりやすく解説！",
+          "tags": [],
+          "published_at": "2026-03-14T10:15:05Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "かいちのAI大学": {
+      "channel_id": "UCWMrA-2fEycFnOwqzzdwWuQ",
+      "handle": "kaichi_gpt",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Google AI Studioってなに？初心者の使い方5つを徹底解説！",
+          "tags": [],
+          "published_at": "2026-03-15T09:00:00Z"
+        },
+        {
+          "title": "【知らないと損】Agentic Context Engineeringとは？AIに最強の業務マニュアルを育てさせる方法",
+          "tags": [],
+          "published_at": "2026-03-13T09:00:00Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "ITとAIのルーティンラボ": {
+      "channel_id": "UCmbdU1d-_oKJHE7ZtPv1vpg",
+      "handle": "it-skill_routinelabo",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Manusで動画編集を自動化！テロップ・サムネ・概要欄をAIが全部やってくれる方法を徹底解説",
+          "tags": [],
+          "published_at": "2026-03-19T13:19:40Z"
+        },
+        {
+          "title": "【スマホでPC操作】今流行りの自律型AI「Openclaw」とLINEを連携させる方法を徹底解説！",
+          "tags": [],
+          "published_at": "2026-03-16T10:25:30Z"
+        },
+        {
+          "title": "* 【動画編集者 必見】もう全部AI任せ！Manusでテロップ・サムネイル作成を自動化する裏ワザ",
+          "tags": [],
+          "published_at": "2026-03-14T11:36:35Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI整体師": {
+      "channel_id": "UCVAkt5l6kD4igMdVoEGTGIg",
+      "handle": "ai.seitai",
+      "video_count": 13,
+      "videos": [
+        {
+          "title": "【#AIニュース No.313】Google AI Studioが大幅アップデート！CursorにComposer 2が登場！OpenAIがAstralを買収！？",
+          "tags": [],
+          "published_at": "2026-03-20T00:35:27Z"
+        },
+        {
+          "title": "【#AIとやってみた】Suno AIにチャット機能が実装されてたので試してみた！割と壁打ちできるし、歌詞やスタイルが自動挿入されるけど、反映が甘い印象。",
+          "tags": [],
+          "published_at": "2026-03-19T10:00:14Z"
+        },
+        {
+          "title": "【#AIニュース No.312】ManusでGoogle Workspaceで細かい編集作業が可能に！GoogleのデザインツールStitchがアップデート！ChatGPT料金改定！？",
+          "tags": [],
+          "published_at": "2026-03-19T00:48:58Z"
+        },
+        {
+          "title": "【#AIとやってみた】GPT-5.4-miniとCodexのサブエージェントを初見で試す！ローカル電子カルテ開発の実装をさせてみたが、30分以上自走して形にしてくれた！",
+          "tags": [],
+          "published_at": "2026-03-18T10:00:15Z"
+        },
+        {
+          "title": "【#AIニュース No.311】GPT-5.4-mini &amp; GPT-5.4-nano登場！Claude Cowokがスマホから操作可能に！Rakuten AI 3.0提供開始！",
+          "tags": [],
+          "published_at": "2026-03-18T00:37:34Z"
+        },
+        {
+          "title": "【#AIとやってみた】みなさんのおかげでZ ai MAXプランにアップグレードできたんで、GLM-5 Turboを使った感想を共有させていただきます！！ありがとうございます！！",
+          "tags": [],
+          "published_at": "2026-03-17T10:00:43Z"
+        },
+        {
+          "title": "【#AIニュース No.310】Manusデスクトップアプリ登場！OpenClaw的な機能も！Codexにサブエージェント実装！Claudeに10％消費税を課税！？",
+          "tags": [],
+          "published_at": "2026-03-17T00:33:28Z"
+        },
+        {
+          "title": "【#AIニュース No.309】期間限定Claude利用上限2倍に！GLM-5 Turboが登場！Microsoftが医療助言を行うCopilot Healthを発表！",
+          "tags": [],
+          "published_at": "2026-03-16T00:29:59Z"
+        },
+        {
+          "title": "【#GPTラジオ No.48】続けるための仕組み化ってどうやるの？そもそもAIは必要？",
+          "tags": [],
+          "published_at": "2026-03-15T01:00:13Z"
+        },
+        {
+          "title": "【#ライブ配信 No.84】Claude CoworkとCodexデスクトップアプリ、どっちが好き？",
+          "tags": [],
+          "published_at": "2026-03-14T13:10:57Z"
+        },
+        {
+          "title": "【#親子AI No.1】奥村家の生成AI事情〜子供たちに触らせる前に決めた3つのこと〜",
+          "tags": [],
+          "published_at": "2026-03-14T10:01:32Z"
+        },
+        {
+          "title": "【#AIニュース No.308】Codexテアプリがアプデ！個人アカClaude Opus4.6も100万コンテキストに対応！Genspark AI Workspace 3.0登場！",
+          "tags": [],
+          "published_at": "2026-03-14T00:33:49Z"
+        },
+        {
+          "title": "【#AIとやってみた】Genspark Workspace3.0がリリースしたので初見で試す！目玉のGenspark Claawは別課金が必要で断念。。なのでワークフロー機能を試す！",
+          "tags": [],
+          "published_at": "2026-03-13T09:30:22Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Norihiko[AI × 動画制作]": {
+      "channel_id": "UCotwNXfqRFO6dC5aKYzxNjA",
+      "handle": "norihikoCH",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "AI様の下僕コラボ配信！",
+          "tags": [],
+          "published_at": "2026-03-20T02:52:44Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "[動画生成AI] 始め方_How To チャンネル": {
+      "channel_id": "UCEH0dwKUzjCGNfkbCGpoZCg",
+      "handle": "HARUTA-channel-4s",
+      "video_count": 13,
+      "videos": [
+        {
+          "title": "Vol4_【徹底解説】HiggsfieldでAIドラマ作ってみた!!",
+          "tags": [],
+          "published_at": "2026-03-20T03:00:38Z"
+        },
+        {
+          "title": "Vol3_【徹底解説】HiggsfieldでAIドラマ作ってみた!!",
+          "tags": [],
+          "published_at": "2026-03-20T00:00:00Z"
+        },
+        {
+          "title": "Vol2_【徹底解説】HiggsfieldでAIドラマ作ってみた!!",
+          "tags": [],
+          "published_at": "2026-03-19T12:00:18Z"
+        },
+        {
+          "title": "Vol1_【徹底解説】HiggsfieldでAIドラマ作ってみた!!",
+          "tags": [],
+          "published_at": "2026-03-19T08:05:08Z"
+        },
+        {
+          "title": "【衝撃】HiggsfieldでAIドラマ作ったらプロレベルに…",
+          "tags": [],
+          "published_at": "2026-03-19T08:00:50Z"
+        },
+        {
+          "title": "Vol.6【無料】Google Geminiで音楽生成AIが解禁！Sunoを超えた！？",
+          "tags": [],
+          "published_at": "2026-03-18T12:00:39Z"
+        },
+        {
+          "title": "Vol.5【無料】Google Geminiで音楽生成AIが解禁！Sunoを超えた！？",
+          "tags": [],
+          "published_at": "2026-03-18T09:00:04Z"
+        },
+        {
+          "title": "Vol.4【無料】Google Geminiで音楽生成AIが解禁！Sunoを超えた！？",
+          "tags": [],
+          "published_at": "2026-03-18T03:00:38Z"
+        },
+        {
+          "title": "【無料】GoogleのAI作曲が解禁…Sunoを超えた！？",
+          "tags": [],
+          "published_at": "2026-03-17T11:19:39Z"
+        },
+        {
+          "title": "Vol.9【AIアニメ革命】1行のプロンプトで50分アニメ完成…MagicLightがヤバい",
+          "tags": [],
+          "published_at": "2026-03-14T09:00:43Z"
+        },
+        {
+          "title": "Vol.4 DomoAI超え！？Higgsfield AudioのAIリップシンクが凄すぎる",
+          "tags": [],
+          "published_at": "2026-03-13T23:01:07Z"
+        },
+        {
+          "title": "Vol.8【AIアニメ革命】1行のプロンプトで50分アニメ完成…MagicLightがヤバい",
+          "tags": [],
+          "published_at": "2026-03-13T12:00:07Z"
+        },
+        {
+          "title": "Vol.7【AIアニメ革命】1行のプロンプトで50分アニメ完成…MagicLightがヤバい",
+          "tags": [],
+          "published_at": "2026-03-13T09:01:20Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matt Wolfe": {
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "handle": "mreflow",
+      "video_count": 7,
+      "videos": [
+        {
+          "title": "OpenClaw Just Got WAY Easier to Install",
+          "tags": [],
+          "published_at": "2026-03-18T14:31:57Z"
+        },
+        {
+          "title": "Perplexity “Computer” is Kind of Insane",
+          "tags": [],
+          "published_at": "2026-03-17T14:50:08Z"
+        },
+        {
+          "title": "The REAL Story from NVIDIA GTC This Week!",
+          "tags": [],
+          "published_at": "2026-03-17T06:27:28Z"
+        },
+        {
+          "title": "Claude Just Dropped A Huge New Feature",
+          "tags": [],
+          "published_at": "2026-03-16T13:05:30Z"
+        },
+        {
+          "title": "This New Feature Is A Big Deal For Creatives",
+          "tags": [],
+          "published_at": "2026-03-15T12:59:24Z"
+        },
+        {
+          "title": "Claude Just Rolled Out 2 Big New Features",
+          "tags": [],
+          "published_at": "2026-03-13T20:04:18Z"
+        },
+        {
+          "title": "AI News: They All Launched the Same Thing!",
+          "tags": [],
+          "published_at": "2026-03-13T16:14:48Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Two Minute Papers": {
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "handle": "TwoMinutePapers",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI Explaine": {
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "handle": "aiexplained-official",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "DeepLearning.AI": {
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "handle": "Deeplearningai",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "🎧 LoFi Beats for Coding &amp; Focus: Calm Beats to Study, Build, and Think",
+          "tags": [],
+          "published_at": "2026-03-19T16:22:14Z"
+        },
+        {
+          "title": "Build Memory-Aware Agents",
+          "tags": [],
+          "published_at": "2026-03-18T14:46:57Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "The AI Advantage": {
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "handle": "aiadvantage",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "New Claude Visuals Explained in 4 Minutes",
+          "tags": [],
+          "published_at": "2026-03-19T16:31:27Z"
+        },
+        {
+          "title": "How to Switch from ChatGPT to Gemini (Without Losing Anything!)",
+          "tags": [],
+          "published_at": "2026-03-17T16:15:37Z"
+        },
+        {
+          "title": "GPT-5.4 Full Breakdown &amp; AI News You Can Use",
+          "tags": [],
+          "published_at": "2026-03-13T20:36:10Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "MattVidPro AI": {
+      "channel_id": "UC5Wz4fFacYuON6IKbhSa7Zw",
+      "handle": "MattVidPro",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Google Quietly Made AI Building Way Easier",
+          "tags": [],
+          "published_at": "2026-03-19T20:33:39Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Siraj Raval": {
+      "channel_id": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "handle": "SirajRaval",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AITrepreneur": {
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "handle": "Aitrepreneur",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Olivio Sarikas": {
+      "channel_id": "UCCKx8mAHiFus-XYQLy_WnaA",
+      "handle": "OlivioSarikas",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Liam Ottley": {
+      "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
+      "handle": "LiamOttley",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "I Set Up a Claude Code Operating System for 6 Founders in 8 Hours",
+          "tags": [],
+          "published_at": "2026-03-18T08:34:13Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Futurepedia": {
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "handle": "futurepedia_io",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Top 7 AI Agent Tools That Actually Work",
+          "tags": [],
+          "published_at": "2026-03-19T18:47:39Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Revolution": {
+      "channel_id": "UC5l7RouTQ60oUjLjt1Nh-UQ",
+      "handle": "airevolutionx",
+      "video_count": 6,
+      "videos": [
+        {
+          "title": "This New AI Just Made OpenClaw Fully Autonomous (Way More Powerful)",
+          "tags": [],
+          "published_at": "2026-03-18T21:43:44Z"
+        },
+        {
+          "title": "Sam Altman Just Declared the Death of Transformers (ChatGPT Getting Replaced)",
+          "tags": [],
+          "published_at": "2026-03-17T23:16:35Z"
+        },
+        {
+          "title": "Google’s New AI Just Broke Math… (Invented Its Own Algorithms)",
+          "tags": [],
+          "published_at": "2026-03-16T22:18:52Z"
+        },
+        {
+          "title": "AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)",
+          "tags": [],
+          "published_at": "2026-03-16T00:28:07Z"
+        },
+        {
+          "title": "China’s New DuClaw AI Just Made OpenClaw Instant and Unstoppable",
+          "tags": [],
+          "published_at": "2026-03-14T23:21:03Z"
+        },
+        {
+          "title": "China’s New CENTAUR AI ROBOT Gives Humans Super Strength",
+          "tags": [],
+          "published_at": "2026-03-13T23:30:59Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Wes Roth": {
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "handle": "WesRoth",
+      "video_count": 5,
+      "videos": [
+        {
+          "title": "M2.7 broke the industry | NemoClaw | Grok 4.20 | Jensen calls out Anthropic | Wes &amp; Dylan Pod",
+          "tags": [],
+          "published_at": "2026-03-19T22:15:56Z"
+        },
+        {
+          "title": "M2.7 just BROKE the Entire Industry...",
+          "tags": [],
+          "published_at": "2026-03-19T04:39:16Z"
+        },
+        {
+          "title": "Grok 5 Could be xAI&#39;s Biggest Breakthrough Yet...",
+          "tags": [],
+          "published_at": "2026-03-18T04:29:51Z"
+        },
+        {
+          "title": "NEMOCLAW... NVIDIA is going ALL IN on OpenClaw",
+          "tags": [],
+          "published_at": "2026-03-17T03:37:12Z"
+        },
+        {
+          "title": "this is the ONLY AI skill you need to have (seriously)",
+          "tags": [],
+          "published_at": "2026-03-14T05:37:40Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Black Mixture": {
+      "channel_id": "UCOwFX-YFktXxEIX7-IPjlKQ",
+      "handle": "BlackMixture",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Skill Leap AI": {
+      "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
+      "handle": "SkillLeapAI",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Master 80% of Claude Code in 26 Minutes",
+          "tags": [],
+          "published_at": "2026-03-19T19:07:45Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "All About AI": {
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "handle": "AllAboutAI",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Parallel AI Agent Browser Automation With Claude Code Is WILD",
+          "tags": [],
+          "published_at": "2026-03-20T00:27:30Z"
+        },
+        {
+          "title": "Can Claude Code Learn To Draw In MS PAINT?",
+          "tags": [],
+          "published_at": "2026-03-16T18:01:01Z"
+        },
+        {
+          "title": "I am giving away a Nvidia DXG Spark this week",
+          "tags": [],
+          "published_at": "2026-03-15T14:00:09Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Corbin Brown": {
+      "channel_id": "UCJFMlSxcvlZg5yZUYJT0Pug",
+      "handle": "Corbin_Brown",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "How To Market Your App From Zero (Full Guide)",
+          "tags": [],
+          "published_at": "2026-03-19T14:00:27Z"
+        },
+        {
+          "title": "This app is my new 24/7 assistant.",
+          "tags": [],
+          "published_at": "2026-03-17T14:01:13Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Jordan Harrod": {
+      "channel_id": "UC1H1NWNTG2Xi3pt85ykVSHA",
+      "handle": "JordanHarrod",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Cyberjungle": {
+      "channel_id": "UCsilEv_20FmmBr5CDzmTMgg",
+      "handle": "cyberjungle",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "NEW Open-Source AI Video Generator Creates Every Camera Movement (Free + Local)",
+          "tags": [],
+          "published_at": "2026-03-13T16:15:08Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Developer's Digest": {
+      "channel_id": "UCuE6iwZKgGz8s6kznBRI9LQ",
+      "handle": "DevelopersDigest",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AI Search": {
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "handle": "theAIsearch",
+      "video_count": 3,
+      "videos": [
+        {
+          "title": "Finally, AI for music production! Free &amp; open source",
+          "tags": [],
+          "published_at": "2026-03-20T03:26:10Z"
+        },
+        {
+          "title": "AI has cracked the code of life",
+          "tags": [],
+          "published_at": "2026-03-18T03:25:36Z"
+        },
+        {
+          "title": "AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS",
+          "tags": [],
+          "published_at": "2026-03-15T03:45:12Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Matthew Berman": {
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "handle": "matthew_berman",
+      "video_count": 11,
+      "videos": [
+        {
+          "title": "OpenClaw memory SOLVE",
+          "tags": [],
+          "published_at": "2026-03-20T00:13:35Z"
+        },
+        {
+          "title": "Do THIS with OpenClaw so you don&#39;t fall behind... (14 Use Cases)",
+          "tags": [],
+          "published_at": "2026-03-18T21:48:16Z"
+        },
+        {
+          "title": "the secret GOATed AI",
+          "tags": [],
+          "published_at": "2026-03-18T18:51:27Z"
+        },
+        {
+          "title": "What ChatGPT charges",
+          "tags": [],
+          "published_at": "2026-03-18T17:17:26Z"
+        },
+        {
+          "title": "Every model that matters",
+          "tags": [],
+          "published_at": "2026-03-17T19:30:49Z"
+        },
+        {
+          "title": "Nvidia showed up at my house",
+          "tags": [],
+          "published_at": "2026-03-16T22:01:17Z"
+        },
+        {
+          "title": "Every AI Model Explained in 20 Minutes",
+          "tags": [],
+          "published_at": "2026-03-16T01:05:23Z"
+        },
+        {
+          "title": "New Speedreading Method (Harder)",
+          "tags": [],
+          "published_at": "2026-03-14T19:30:30Z"
+        },
+        {
+          "title": "The Future Live | 03.13.26 | Guests from Slack, Giga, Letta, and Microsoft AI!",
+          "tags": [],
+          "published_at": "2026-03-14T07:08:06Z"
+        },
+        {
+          "title": "Why Rivian Uses BOTH Cameras and LiDAR",
+          "tags": [],
+          "published_at": "2026-03-13T17:10:30Z"
+        },
+        {
+          "title": "DGX Spark Giveaway from Nvidia!",
+          "tags": [],
+          "published_at": "2026-03-13T15:05:27Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "What's AI by Louis-François Bouchard": {
+      "channel_id": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "handle": "WhatsAI",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Stop Preparing for AI Interviews the Wrong Way",
+          "tags": [],
+          "published_at": "2026-03-19T12:02:06Z"
+        },
+        {
+          "title": "No, Pasting Data Into ChatGPT Does Not Train It",
+          "tags": [],
+          "published_at": "2026-03-16T19:17:16Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Artificial Intelligence News Daily": {
+      "channel_id": "UCItylrp-EOkBwsUT7c_Xkxg",
+      "handle": "artificialintelligencenews1373",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "James Briggs": {
+      "channel_id": "UCv83tO5cePwHMt1952IVVHw",
+      "handle": "jamesbriggs",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "AssemblyAI": {
+      "channel_id": "UCtatfZMf-8EkIwASXM4ts0A",
+      "handle": "AssemblyAI",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "Universal-3 Pro Streaming Speaker Labels demo",
+          "tags": [],
+          "published_at": "2026-03-16T19:00:36Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Dot CSV Lab": {
+      "channel_id": "UCOTko-zmnQTcOxSRdg5_uOQ",
+      "handle": "DotCSVLab",
+      "video_count": 1,
+      "videos": [
+        {
+          "title": "¿Han DESARROLLADO con IA una VACUNA contra un CÁNCER? No exáctamente...",
+          "tags": [],
+          "published_at": "2026-03-16T17:57:52Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "💀 SALVAJE 💀": {
+      "channel_id": "UCHSOfqMtzD0_3i7_593NGGw",
+      "handle": "SDESALVAJE",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    },
+    "Xavier Mitjana": {
+      "channel_id": "UCp2Zmdh40GJJJ2T5vWsMZDA",
+      "handle": "XavierMitjana",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Anthropic: &quot;La escalera se ha roto&quot;. ¿La IA destruirá tu trabajo?",
+          "tags": [],
+          "published_at": "2026-03-19T20:36:31Z"
+        },
+        {
+          "title": "Toda la IA que necesitas 100% GRATIS e ILIMITADA 🤯",
+          "tags": [],
+          "published_at": "2026-03-17T19:38:24Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Alejavi Rivera": {
+      "channel_id": "UCxcDzs-4quJV4QsairlFYNg",
+      "handle": "alejavirivera",
+      "video_count": 2,
+      "videos": [
+        {
+          "title": "Chao Antigravity! Claude Code ahora es GRATIS y SIN Límites (Ollama) 💣",
+          "tags": [],
+          "published_at": "2026-03-19T18:01:01Z"
+        },
+        {
+          "title": "Adiós Suscripciones... ComfyUI ahora crea TODO GRATIS y SIN Límites 💣",
+          "tags": [],
+          "published_at": "2026-03-15T18:00:06Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Inteligencia Artificial": {
+      "channel_id": "UCl5-lvQyfILb-l2abPk4Ntg",
+      "handle": "la_inteligencia_artificial",
+      "video_count": 20,
+      "videos": [
+        {
+          "title": "NUEVO PODCAST 🔥China ha ganado la carrera y no podemos hacer nada🎙️ Dani Sánchez-Crespo",
+          "tags": [],
+          "published_at": "2026-03-19T19:05:50Z"
+        },
+        {
+          "title": "China ha ganado la carrera y no podemos hacer nada",
+          "tags": [],
+          "published_at": "2026-03-19T19:00:00Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-19T16:59:37Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-19T15:55:47Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-19T13:24:35Z"
+        },
+        {
+          "title": "🤖 Ignorar a la IA dificultará la futura reentrada al mercado laboral 🤖 #ia #chatgpt #educación",
+          "tags": [],
+          "published_at": "2026-03-19T11:37:16Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-18T18:33:51Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-18T16:02:28Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-18T13:53:47Z"
+        },
+        {
+          "title": "🤖 La rapidez de las startups está generando una competencia sin precendentes 🤖 #ia #chatgpt",
+          "tags": [],
+          "published_at": "2026-03-18T12:26:50Z"
+        },
+        {
+          "title": "👉 Te dejo el link para apunarte al EVENTO fijado en los comentarios de este vídeo.",
+          "tags": [],
+          "published_at": "2026-03-17T17:40:24Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-17T16:47:30Z"
+        },
+        {
+          "title": "👉🏻 Te dejo la Guía Pro de ChatGPT fijada en los comentarios de este video.",
+          "tags": [],
+          "published_at": "2026-03-17T15:06:06Z"
+        },
+        {
+          "title": "🤖 El riesgo de despido persiste en la adopción de la IA 🤖 | #ia #chatgpt #educación",
+          "tags": [],
+          "published_at": "2026-03-17T12:50:04Z"
+        },
+        {
+          "title": "🤖 Fin de la seguridad laboral en las grandes tecnológicas 🤖 | #ia #chatgpt #educación",
+          "tags": [],
+          "published_at": "2026-03-17T10:53:42Z"
+        },
+        {
+          "title": "🚨 NOTICIAS IA 🚨: La adopción tecnológica más brutal de la historia",
+          "tags": [],
+          "published_at": "2026-03-16T19:00:00Z"
+        },
+        {
+          "title": "🤖 El futuro laboral de los desarrolladores 🤖 | #ia #chatgpt #educación",
+          "tags": [],
+          "published_at": "2026-03-16T15:31:29Z"
+        },
+        {
+          "title": "🤖 Interactuar con herramientas inteligentes te hará crecer más que los estudios tradicionales 🤖 |#ia",
+          "tags": [],
+          "published_at": "2026-03-16T14:04:42Z"
+        },
+        {
+          "title": "🤖 Nuevas generaciones integraran los avances técnico como algo totalmente cotidiano 🤖 |#ia #chatgpt",
+          "tags": [],
+          "published_at": "2026-03-13T14:36:37Z"
+        },
+        {
+          "title": "🤖 Tras el rechazo de Google, cumplió su meta en Microsoft 🤖 | #ia #chatgpt #microsoft",
+          "tags": [],
+          "published_at": "2026-03-13T13:01:39Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "Migue Baena IA": {
+      "channel_id": "UCX_dT6nVtCIHRo_GFOsWK2A",
+      "handle": "MigueBaenaIA",
+      "video_count": 9,
+      "videos": [
+        {
+          "title": "Google acaba de lanzar estas novedades en Gemini",
+          "tags": [],
+          "published_at": "2026-03-19T18:00:45Z"
+        },
+        {
+          "title": "Habla cualquier idioma con IA 📚",
+          "tags": [],
+          "published_at": "2026-03-19T14:03:48Z"
+        },
+        {
+          "title": "💥 Por esto fallan las agencias de IA 🤯",
+          "tags": [],
+          "published_at": "2026-03-18T13:04:13Z"
+        },
+        {
+          "title": "+3,000 cursos de IA 🧠🤯",
+          "tags": [],
+          "published_at": "2026-03-17T12:03:26Z"
+        },
+        {
+          "title": "La IA que edita tus videos sola",
+          "tags": [],
+          "published_at": "2026-03-16T15:33:29Z"
+        },
+        {
+          "title": "7 cosas BRUTALES que puedes crear con Gemini Canvas",
+          "tags": [],
+          "published_at": "2026-03-15T18:01:00Z"
+        },
+        {
+          "title": "Así &quot;piensa&quot; la IA más avanzada 🧠💡",
+          "tags": [],
+          "published_at": "2026-03-15T13:06:28Z"
+        },
+        {
+          "title": "🎥 Comienza tu canal de YouTube, MIRA ESTO 👀",
+          "tags": [],
+          "published_at": "2026-03-14T16:05:39Z"
+        },
+        {
+          "title": "🤨 ¿Adiós a ElevenLabs? 🎙️",
+          "tags": [],
+          "published_at": "2026-03-13T15:09:50Z"
+        }
+      ],
+      "collection_status": "success"
+    },
+    "AI Video School": {
+      "channel_id": "UCUb7KwmlVSSCnPu5KEhym8A",
+      "handle": "aivideoschool",
+      "video_count": 0,
+      "videos": [],
+      "collection_status": "success"
+    }
+  },
+  "summary": {
+    "total_channels": 58,
+    "successful_channels": 58,
+    "failed_channels": 0,
+    "total_videos": 157,
+    "success_rate": "100.0%"
+  }
+}
